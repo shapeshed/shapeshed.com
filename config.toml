@@ -1,4 +1,4 @@
-baseurl = "http://hugo.shapeshed.com/"
+baseurl = "http://shapeshed.com/"
 languageCode = "en-gb"
 theme = "shapeshed-minimal"
 title = "Shape Shed"
