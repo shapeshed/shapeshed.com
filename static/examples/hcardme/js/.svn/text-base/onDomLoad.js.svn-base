@@ -1,0 +1,140 @@
+$(document).ready(function() {
+
+	// If JS is enabled start the fun..
+	$("#picker-menu").append('<ul><li><a href="#" id="picker-energy">Energy</a></li><li><a href="#" id="picker-waste">Waste</a></li><li><a href="#" id="picker-water">Water</a></li><li><a href="#" id="picker-transport">Transport</a></li><li><a href="#" id="picker-green">Green Infrastructure</a></li><li><a href="#" id="picker-public">Public Spaces</a></li></ul>');
+
+
+	$("#picker-menu ul li a#picker-energy").click(function () { 
+		$("body").attr('id', 'energy');
+		$("#navigation li:first").removeClass().addClass('energy');
+		$.ajax({
+			type: "GET",
+			url: "/private/ajax/picker/energy/",
+			dataType: "json",
+			success: function(json){
+					var img = new Image(); 
+					img.onload = function(){								
+						$('#home-picker img').fadeOut("fast",function() { 
+							$('#home-picker img').attr({ src: json.picker.image}).fadeIn("fast") 
+						});
+					};				
+				img.src = json.picker.image;
+				$("#home-picker h3").text(json.picker.title);
+				$("#home-picker p").text(json.picker.caption);
+		   }
+		});	
+		return false;
+	});
+	
+
+	$("#picker-menu ul li a#picker-waste").click(function () { 
+		$("body").attr('id', 'waste');
+		$("#navigation li:first").removeClass().addClass('waste');
+		$.ajax({
+			type: "GET",
+			url: "/private/ajax/picker/waste/",
+			dataType: "json",
+			success: function(json){				
+				var img = new Image(); 
+				img.onload = function(){								
+					$('#home-picker img').fadeOut("fast",function() { 
+						$('#home-picker img').attr({ src: json.picker.image}).fadeIn("fast") 
+					});
+				};				
+			img.src = json.picker.image; 
+			$("#home-picker h3").text(json.picker.title);
+			$("#home-picker p").text(json.picker.caption);
+		   }
+		});
+		return false;
+	});	
+	
+	$("#picker-menu ul li a#picker-water").click(function () { 
+		$("body").attr('id', 'water');
+		$("#navigation li:first").removeClass().addClass('water');
+		$.ajax({
+			type: "GET",
+			url: "/private/ajax/picker/water/",
+			dataType: "json",
+			success: function(json){
+					var img = new Image(); 
+					img.onload = function(){								
+						$('#home-picker img').fadeOut("fast",function() { 
+							$('#home-picker img').attr({ src: json.picker.image}).fadeIn("fast") 
+						});
+					};				
+				img.src = json.picker.image;
+				$("#home-picker h3").text(json.picker.title);
+				$("#home-picker p").text(json.picker.caption);
+		   }
+		});
+		return false;
+	});
+	
+	$("#picker-menu ul li a#picker-transport").click(function () { 
+		$("body").attr('id', 'transport');	
+		$("#navigation li:first").removeClass().addClass('transport');
+		$.ajax({
+			type: "GET",
+			url: "/private/ajax/picker/transport/",
+			dataType: "json",
+			success: function(json){
+					var img = new Image(); 
+					img.onload = function(){								
+						$('#home-picker img').fadeOut("fast",function() { 
+							$('#home-picker img').attr({ src: json.picker.image}).fadeIn("fast") 
+						});
+					};				
+				img.src = json.picker.image;
+				$("#home-picker h3").text(json.picker.title);
+				$("#home-picker p").text(json.picker.caption);
+		   }
+		});		
+		return false;
+	});
+	
+	$("#picker-menu ul li a#picker-green").click(function () { 
+		$("body").attr('id', 'green-infrastructure');
+		$("#navigation li:first").removeClass().addClass('green-infrastructure');
+		$.ajax({
+			type: "GET",
+			url: "/private/ajax/picker/green_infrastructure/",
+			dataType: "json",
+			success: function(json){
+					var img = new Image(); 
+					img.onload = function(){								
+						$('#home-picker img').fadeOut("fast",function() { 
+							$('#home-picker img').attr({ src: json.picker.image}).fadeIn("fast") 
+						});
+					};				
+				img.src = json.picker.image;
+				$("#home-picker h3").text(json.picker.title);
+				$("#home-picker p").text(json.picker.caption);
+		   }
+		});
+		return false;
+	});
+	
+	$("#picker-menu ul li a#picker-public").click(function () { 
+		$("body").attr('id', 'public-space');
+		$("#navigation li:first").removeClass().addClass('public-space');
+		$.ajax({
+			type: "GET",
+			url: "/private/ajax/picker/public_space/",
+			dataType: "json",
+			success: function(json){
+					var img = new Image(); 
+					img.onload = function(){								
+						$('#home-picker img').fadeOut("fast",function() { 
+							$('#home-picker img').attr({ src: json.picker.image}).fadeIn("fast") 
+						});
+					};				
+				img.src = json.picker.image;
+				$("#home-picker h3").text(json.picker.title);
+				$("#home-picker p").text(json.picker.caption);
+		   }
+		});
+		return false;
+	});
+	
+});

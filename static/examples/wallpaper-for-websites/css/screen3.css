@@ -1,0 +1,73 @@
+/*-----------------------------------------------------------------------------
+CSS - Background gradients
+
+version:   1.0
+date:      19/01/07
+author:    george ornbo
+email:     george at shapeshed dot com
+website:   http://www.shapeshed.com
+-----------------------------------------------------------------------------*/
+
+/* Rebase all elements to 0 margin and padding
+-----------------------------------------------------------------------------*/
+
+*
+	{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+/* Define font and set default document font size to 10pt for browsers with
+default font setting. 
+-----------------------------------------------------------------------------*/
+
+body
+	{
+	font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+	background: url(../images/dot.gif) repeat;
+	color: #333366;	
+	text-align:center;
+}
+
+#wrapper
+	{ 
+	width:1000px; 
+	text-align:left;  
+	margin-left:auto; 
+	margin-right:auto; 
+	background-color: #FFFFFF;
+	padding-bottom: 10px;
+	}
+	
+/* Define typography sizing for HTML elements
+-----------------------------------------------------------------------------*/	
+
+h1
+	{
+	padding: 10px;	
+	font-size: 2.2em;
+	font-family: georgia, verdana, serif;
+}
+	
+	
+p
+	{
+	margin: 10px;
+	font-size: 1.2em;	
+}
+
+/* Give images a little padding
+-----------------------------------------------------------------------------*/	
+
+img
+	{
+	padding: 5px;
+}
+
+
+	
+
+
+
+

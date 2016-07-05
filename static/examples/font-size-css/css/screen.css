@@ -1,0 +1,66 @@
+/*-----------------------------------------------------------------------------
+CSS - Controlling font size with CSS
+
+version:   1.0
+date:      11/01/07
+author:    george ornbo
+email:     george at shapeshed dot com
+website:   http://www.shapeshed.com
+-----------------------------------------------------------------------------*/
+
+/* Rebase all elements to 0 margin and padding
+-----------------------------------------------------------------------------*/
+
+*
+	{
+	margin: 0px;
+	padding: 0px;
+}
+
+/* Define font and set default document font size to 10pt for browsers with
+default font setting. 
+-----------------------------------------------------------------------------*/
+
+body
+	{
+	font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", "Trebuchet MS", Tahoma, Verdana, sans-serif;
+	color: #333366;	
+}
+	
+/* Define typography sizing for HTML elements
+-----------------------------------------------------------------------------*/	
+	
+h1
+	{
+	font-size: 2.2em;
+}
+	
+h2
+	{
+	font-size: 2.0em;	
+}
+	
+h3
+	{
+	font-size: 1.8em;	
+}
+	
+h4
+	{
+	font-size: 1.6em;	
+}
+	
+h5
+	{
+	font-size: 1.4em;	
+}
+	
+p
+	{
+	font-size: 1.2em;	
+}
+	
+	
+
+
+

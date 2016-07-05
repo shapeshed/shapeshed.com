@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<title>HTML5 Video Demo</title>
+	<style type="text/css" media="screen">@import "css/screen.css";</style>
+</head>
+<body>
+	<div id="wrapper">
+			<h1>HTML 5 - Video Demo</h1>
+		<div id="content">
+			<p>You need either Firefox 3.5, Safari 3, 4, Opera, Webkit Nightly to view this page.</p>
+			<div id="firefox">
+				<h3>Firefox 3.5 - ogg codec</h3>
+				<p>The loop and poster attributes are not implemented yet in Firefox.</p>
+				<h2>With controls</h2>
+				<video src="video/320x240.ogg" controls="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+				<h2>Autobuffer &amp; Controls</h2>
+				<video src="video/320x240.ogg" autobuffer="true" controls="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+				<h2>Autoplay</h2>
+				<video src="video/320x240.ogg" autoplay="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+				<h2>Width and height</h2>
+				<p>I thought video might be resized here but it isn't.</p>
+				<video src="video/320x240.ogg" width="360" height="240" controls="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+			</div>
+			<div id="safari">
+				<h3>Safari - h.264 codec</h3>
+				<h2>With controls</h2>
+				<video src="video/320x240.m4v" controls="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+				<h2>Autobuffer &amp; Controls</h2>
+				<video src="video/320x240.m4v" autobuffer="true" controls="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+				<h2>Poster</h2>
+				<p>Fails Safari 3.2.3 and Webkit Nightly on OSX 10.5.7. Brief flash then disappears.</p>
+				<video src="video/320x240.m4v" poster="images/posters/les.jpg" controls="true" width="320" height="240">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+				<h2>Autoplay</h2>
+				<video src="video/320x240.m4v" autoplay="true" controls="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+				<h2>Width and height</h2>
+				<p>I thought video might be resized here but it isn't.</p>
+				<video src="video/320x240.m4v" width="360" height="240" controls="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+				<h2>Loop</h2>
+				<p>Fails for me in Safari 3.2.3 on OSX 10.5.7 but fine in Webkit Nightly.</p>
+				<video src="video/320x240.m4v" loop="true" controls="true">
+					Your browser doesn't support the video tag. You can <a href="/video/your_video.ogg">download the video here.</a>
+				</video>
+			</div>
+
+
+		</div>
+	    <div id="footer">
+	      <p class="twitter"><a href="http://twitter.com/shapeshed">Follow me on Twitter</a></p>
+	      <p>Created by <a href="http://twitter.com/shapeshed">George Ornbo.</a> | <a href="http://github.com/shapeshed/HTML-5/tree/master">Get the source from Github</a> | Licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons 3.0</a> License</p>
+	      <p>The accompanying blog post for this demonstration <a href="http://shapeshed.com/journal/HTML5-video-element/">can be found here.</a></p>
+	    </div>			
+
+	</div>
+</body>
+</html>

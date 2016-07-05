@@ -1,0 +1,25 @@
+/*-----------------------------------------------------------------------------
+CSS - DOM example stylesheet
+
+version:   1.0
+date:      21/09/06
+author:    george ornbo
+email:     george at shapeshed dot com
+website:   http://www.shapeshed.com
+-----------------------------------------------------------------------------*/
+
+
+
+body
+	{
+	font: 76%/150%  "Lucida Grande", "Lucida Sans", "Trebuchet MS", Tahoma, Verdana, sans-serif;
+	color: #333366;
+	}
+
+/* This demonstrates accessing and manipulating using the DOM (Document Object Model) */
+
+	
+#front-door #kitchen #fridge p 
+	{
+	font-weight: bold;
+	}

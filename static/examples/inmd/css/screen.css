@@ -1,0 +1,52 @@
+/* -------------------------------------------------------------- 
+  
+   Blueprint CSS Framework Screen Styles
+   * Version:   0.6 (21.9.2007)
+   * Website:   http://code.google.com/p/blueprintcss/
+   See Readme file in this directory for further instructions.
+   
+-------------------------------------------------------------- */
+
+@import 'lib/reset.css';
+@import 'lib/typography.css';
+@import 'lib/grid.css';
+@import 'lib/forms.css';
+
+/* Plugins:
+   Additional functionality can be found in the plugins directory.
+   See the readme files for each plugin. Example:
+   @import 'plugins/buttons/buttons.css'; */
+   
+/* See the grid:
+   Uncomment the line below to see the grid and baseline.
+   .container { background: url(lib/grid.png); } */
+
+#content div
+	{
+	float:left;
+	margin-top: 1em;
+	background: black;
+	border: 1px solid #666;
+	padding: 5px;
+	margin-right: 1em;
+	-moz-border-radius:10px;
+	height: 320px;
+}
+
+#content h2
+	{
+	color: yellow;
+	text-align: center;
+}
+
+
+#content div img
+	{
+	float:left;
+	background: white;
+	border: 1px solid #666;
+	padding: 5px;
+	text-align: center;
+}
+
+

@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>
+	Shape Shed - Examples - Curved Edges in CSS
+	</title>  
+
+	<style type="text/css" media="screen">@import "css/screen.css";</style>
+
+</head>
+<body>
+
+	<div id="wrapper">
+
+		<h1>Curved Edges - CSS 2.1</h1>
+
+		<div class="curved-box">
+		
+			<h2>This is a curved box</h2>
+			
+			<p>This text will resize and not break the box.</p>
+		
+		</div>
+		
+		<h2>XHTML</h2>
+		
+		<code>
+		
+			<span style="color: rgb(0, 119, 0);">&lt;</span><span style="color: rgb(0, 0, 187);">div </span><span style="color: rgb(0, 119, 0);">class=</span><span style="color: rgb(221, 0, 0);">"curved-box"</span><span style="color: rgb(0, 119, 0);">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: rgb(0, 0, 187);">h2</span><span style="color: rgb(0, 119, 0);">&gt;</span><span style="color: rgb(0, 0, 187);">This is a curved box</span><span style="color: rgb(0, 119, 0);">&lt;/</span><span style="color: rgb(0, 0, 187);">h2</span><span style="color: rgb(0, 119, 0);">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: rgb(0, 0, 187);">p</span><span style="color: rgb(0, 119, 0);">&gt;</span><span style="color: rgb(0, 0, 187);">This text will resize </span><span style="color: rgb(0, 119, 0);">and </span><span style="color: rgb(0, 0, 187);">not </span><span style="color: rgb(0, 119, 0);">break </span><span style="color: rgb(0, 0, 187);">the box</span><span style="color: rgb(0, 119, 0);">.&lt;/</span><span style="color: rgb(0, 0, 187);">p</span><span style="color: rgb(0, 119, 0);">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&lt;/</span><span style="color: rgb(0, 0, 187);">div</span><span style="color: rgb(0, 119, 0);">&gt;</span>
+		
+		</code>
+
+		
+		
+		<h2>CSS</h2>
+		
+		<code>
+		
+			<span style="color: rgb(0, 119, 0);">.</span><span style="color: rgb(0, 0, 187);">curved</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">box<br />&nbsp;&nbsp;&nbsp;&nbsp;{<br />&nbsp;&nbsp;&nbsp;&nbsp;margin</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">10px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">width</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">298px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">background</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">color</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(255, 128, 0);">#c3d0d4;<br /></span><span style="color: rgb(0, 0, 187);">}<br /><br /></span><span style="color: rgb(0, 119, 0);">.</span><span style="color: rgb(0, 0, 187);">curved</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">box h2<br />&nbsp;&nbsp;&nbsp;&nbsp;{<br />&nbsp;&nbsp;&nbsp;&nbsp;background</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(255, 128, 0);">#c3d0d4 url(../images/curve_top.png) no-repeat left top;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">color</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(255, 128, 0);">#f4fbfd;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">padding</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">10px 15px 5px 15px</span><span style="color: rgb(0, 119, 0);">;<br /></span><span style="color: rgb(0, 0, 187);">}<br /><br /></span><span style="color: rgb(0, 119, 0);">.</span><span style="color: rgb(0, 0, 187);">curved</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">box p<br />&nbsp;&nbsp;&nbsp;&nbsp;{<br />&nbsp;&nbsp;&nbsp;&nbsp;background</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(255, 128, 0);">#c3d0d4 url(../images/curve_bottom.png) no-repeat left bottom;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">margin</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">0px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">padding</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">5px 15px 10px 15px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">text</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">align</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">left</span><span style="color: rgb(0, 119, 0);">;<br /></span><span style="color: rgb(0, 0, 187);">}</span>
+
+		</code>
+
+		<a name="css3"></a><h1>Curved Edges - CSS 3</h1>
+
+		<div class="curved-box-css3">
+		
+			<h2>This is a curved box</h2>
+			
+			<p>This text will resize and not break the box.</p>
+		
+		</div>
+		
+		<h2>XHTML</h2>
+		
+		<code>
+		
+			<span style="color: rgb(0, 0, 187);">div </span><span style="color: rgb(0, 119, 0);">class=</span><span style="color: rgb(221, 0, 0);">"curved-box-css3"</span><span style="color: rgb(0, 119, 0);">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: rgb(0, 0, 187);">h2</span><span style="color: rgb(0, 119, 0);">&gt;</span><span style="color: rgb(0, 0, 187);">This is a curved box</span><span style="color: rgb(0, 119, 0);">&lt;/</span><span style="color: rgb(0, 0, 187);">h2</span><span style="color: rgb(0, 119, 0);">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: rgb(0, 0, 187);">p</span><span style="color: rgb(0, 119, 0);">&gt;</span><span style="color: rgb(0, 0, 187);">This text will resize </span><span style="color: rgb(0, 119, 0);">and </span><span style="color: rgb(0, 0, 187);">not </span><span style="color: rgb(0, 119, 0);">break </span><span style="color: rgb(0, 0, 187);">the box</span><span style="color: rgb(0, 119, 0);">.&lt;/</span><span style="color: rgb(0, 0, 187);">p</span><span style="color: rgb(0, 119, 0);">&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&lt;/</span><span style="color: rgb(0, 0, 187);">div</span><span style="color: rgb(0, 119, 0);">&gt;</span>
+
+		</code>
+		
+		<h2>CSS</h2>
+		
+		<code>
+		
+			<span style="color: rgb(0, 119, 0);">.</span><span style="color: rgb(0, 0, 187);">curved</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">box</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">css3<br />&nbsp;&nbsp;&nbsp;&nbsp;{<br />&nbsp;&nbsp;&nbsp;&nbsp;width</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">298px</span><span style="color: rgb(0, 119, 0);">;&nbsp;&nbsp;&nbsp;&nbsp;<br /> &nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">margin</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">10px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="color: rgb(0, 0, 187);">webkit</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">border</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">radius</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">10px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;-</span><span style="color: rgb(0, 0, 187);">moz</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">border</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">radius</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">10px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">border</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">radius</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">10px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">background</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">color</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(255, 128, 0);">#c3d0d4;<br /></span><span style="color: rgb(0, 0, 187);">}<br /><br /></span><span style="color: rgb(0, 119, 0);">.</span><span style="color: rgb(0, 0, 187);">curved</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">box</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">css3 h2<br />&nbsp;&nbsp;&nbsp;&nbsp;{<br />&nbsp;&nbsp;&nbsp;&nbsp;padding</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">10px 15px 5px 15px</span><span style="color: rgb(0, 119, 0);">;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">color</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(255, 128, 0);">#f4fbfd;<br /></span><span style="color: rgb(0, 0, 187);">}<br /><br /></span><span style="color: rgb(0, 119, 0);">.</span><span style="color: rgb(0, 0, 187);">curved</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">box</span><span style="color: rgb(0, 119, 0);">-</span><span style="color: rgb(0, 0, 187);">css3 p<br />&nbsp;&nbsp;&nbsp;&nbsp;{<br />&nbsp;&nbsp;&nbsp;&nbsp;margin</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">0px</span><span style="color: rgb(0, 119, 0);">;<br />&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(0, 0, 187);">padding</span><span style="color: rgb(0, 119, 0);">: </span><span style="color: rgb(0, 0, 187);">5px 15px 10px 15px</span><span style="color: rgb(0, 119, 0);">;&nbsp;&nbsp;&nbsp;&nbsp;<br /></span><span style="color: rgb(0, 0, 187);">}</span>
+		
+		</code>
+
+
+
+	</div>
+
+
+</body>
+
+</html>

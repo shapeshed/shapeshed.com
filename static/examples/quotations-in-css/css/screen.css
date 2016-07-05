@@ -1,0 +1,97 @@
+/*-----------------------------------------------------------------------------
+Quotations in CSS Screen Stylesheet
+
+version:   1.1
+date:      09/03/07
+author:    George Ornbo
+email:     george at shapeshed dot com
+website:   http://www.shapeshed.com
+license:   http://creativecommons.org/licenses/by-sa/2.5/
+
+Thanks to Andrew at http://www.rickmann-design.co.uk/ for pointing out no additional
+div was required. 
+
+-----------------------------------------------------------------------------*/
+
+
+/* Remove margin, padding and border from everything
+-----------------------------------------------------------------------------*/
+
+* 
+	{
+	margin: 0;
+	padding: 0;
+	
+	border: 0;
+}
+
+
+/* Set up the document
+-----------------------------------------------------------------------------*/
+
+body
+	{
+	font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+	background: url(/images/background.png) repeat;
+	color: #000000;	
+	text-align:center;
+}
+
+
+
+#wrapper
+	{ 
+	width: 250px; /* Set page width here - you can also use percentage */
+	text-align:left;  
+	margin-left:auto; 
+	margin-right:auto; 
+	background-color: #FFFFFF;
+}
+
+
+/* Typography
+-----------------------------------------------------------------------------*/
+p
+	{
+	margin-bottom: 10px 0px 20px 0px;	
+	font-size: 1.2em;
+}
+
+blockquote p
+	{
+	padding: 0px 15px 0px 0px;
+	font-size: 1.2em;	
+	float: left;
+	background: url(../images/quote_down.png) bottom right no-repeat;
+}
+
+blockquote
+	{
+	padding: 20px;
+	font-size: 1.8em;	
+	background: url(../images/quote_up.png) top left no-repeat;
+}
+
+cite
+	{
+	font-size: 1.2em;
+	float: right;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

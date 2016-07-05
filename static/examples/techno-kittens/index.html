@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<title>Techno Kittens Love HTML5</title>
+	<style type="text/css" media="screen">@import "css/screen.css";</style>
+</head>
+<body>
+	<div id="wrapper">
+			<h1>HTML 5 - Canvas Demo</h1>
+		<div id="content">
+
+		  <canvas width="940" height="450">Your browser is too pants to see the kittens. Try downloading <a href="http://www.mozilla.com/firefox/ ">Firefox</a> or <a href="http://www.apple.com/safari/">Safari</a></canvas>
+
+		 <script>
+		   var context = document.getElementsByTagName('canvas')[0].getContext('2d');
+		   var lastX = context.canvas.width * Math.random();
+		   var lastY = context.canvas.height * Math.random();
+		   var hue = 0;
+		
+		   function line() {
+		     context.save();
+		     context.translate(context.canvas.width/2, context.canvas.height/2);
+		     context.scale(1, 1);
+		     context.translate(-context.canvas.width/2, -context.canvas.height/2);
+		     context.beginPath();
+		     context.lineWidth = 5 + Math.random() * 10;
+		     context.moveTo(lastX, lastY);
+		     lastX = context.canvas.width * Math.random();
+		     lastY = context.canvas.height * Math.random();
+		     context.bezierCurveTo(context.canvas.width * Math.random(),
+		                           context.canvas.height * Math.random(),
+		                           context.canvas.width * Math.random(),
+		                           context.canvas.height * Math.random(),
+		                           lastX, lastY);
+
+		     hue = hue + 20 * Math.random();
+		     context.strokeStyle = 'hsl(' + hue + ', 50%, 50%)';
+		     context.shadowColor = 'white';
+		     context.shadowBlur = 10;
+
+		     context.stroke();
+		     context.restore();
+		   }
+		   setInterval(line, 100);
+
+		   function blank() {
+		     context.fillStyle = 'rgba(0,0,0,0.1)';
+		     context.fillRect(0, 0, context.canvas.width, context.canvas.height);
+			context.globalAlpha = 0.9;
+		   }
+		   setInterval(blank, 40);
+		
+		
+			function image() {
+				var img = new Image();  
+				img.onload = function(){  
+					context.drawImage(img,context.canvas.width * Math.random(),context.canvas.width * Math.random(), 90 + Math.random() * 40, 185 + Math.random() * 40);  
+				}  
+				img.src = 'images/kitten.png'; 
+			}		
+		   setInterval(image, 30);
+		
+		
+			function textImage() {
+				var img = new Image();  
+				img.onload = function(){  
+					context.drawImage(img,context.canvas.width * Math.random(),context.canvas.width * Math.random(), 120 + Math.random() * 40, 80 + Math.random() * 40);  
+				}  
+				img.src = 'images/techno-kittens.png'; // Set source path
+			}
+		   setInterval(textImage, 100);
+
+		  </script>
+			<h2>Kittens love HTML 5</h2>
+			<p>This is a demo of the HTML5 Canvas element</p>
+			<p>The design is pants but the technology is good because:</p>
+			<ul>
+				<li>There are no third-party plugins like <a href="http://get.adobe.com/flashplayer/">Flash</a> or <a href="http://silverlight.net/">Silverlight</a> needed.</li>
+				<li>It is made using open standards</li>
+				<li>You can view the source</li>
+				<li>It uses open standards so machines and people will be able to easily read and understand it.</li>
+			</ul>
+			<p>If you are interested in learning more about HTML5 I recommend that you watch <a href="http://www.youtube.com/watch?v=xIxDJof7xxQ">Ian Hickson's talk</a>. The code for this example was largely based on the example Ian gives in the video.</p>
+
+		</div>
+	    <div id="footer">
+	      <p class="twitter"><a href="http://twitter.com/shapeshed">Follow me on Twitter</a></p>
+	      <p>Created by <a href="http://twitter.com/shapeshed">George Ornbo.</a> | <a href="http://github.com/shapeshed/HTML-5/tree/master">Get the source from Github</a> | Licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons 3.0</a> License</p>
+	      <p>The accompanying blog post for this demonstration <a href="http://shapeshed.com/journal/techno_kittens_love_HTML5/">can be found here.</a></p>
+	    </div>			
+
+	</div>
+</body>
+</html>

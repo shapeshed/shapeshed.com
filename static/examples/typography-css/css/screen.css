@@ -1,0 +1,129 @@
+/*-----------------------------------------------------------------------------
+CSS - Exploring typography in CSS
+
+version:   1.0
+date:      15/01/07
+author:    george ornbo
+email:     george at shapeshed dot com
+website:   http://www.shapeshed.com
+-----------------------------------------------------------------------------*/
+
+/* Rebase all elements to 0 margin and padding
+-----------------------------------------------------------------------------*/
+
+*
+	{
+	margin: 0px;
+	padding: 0px;
+}
+
+/* Define font and set default document font size to 10pt for browsers with
+default font setting. 
+-----------------------------------------------------------------------------*/
+
+body
+	{
+	font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+	color: #333366;	
+	text-align:center;
+}
+
+#wrapper
+	{ 
+	width: 1000px;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	}
+	
+/* Define typography sizing for HTML elements
+-----------------------------------------------------------------------------*/	
+
+h1
+	{
+	font-size: 2.2em;
+}
+	
+h2
+	{
+	font-size: 2.0em;	
+}
+	
+h3
+	{
+	margin: 20px 0px 10px 0px;
+	font: 1.8em Georgia, "Trebuchet MS", serif;
+	color: #000;
+}
+	
+h4
+	{
+	font-size: 1.6em;	
+}
+	
+h5
+	{
+	font-size: 1.4em;	
+}
+	
+p
+	{
+	font-size: 1.2em;	
+}
+
+
+code
+	{
+	 font-size: 1.2em
+	 background: #fff;
+	 border-left: 4px solid #ff9900;
+	 border-top: 1px solid #cccccc;
+	 border-bottom: 1px solid #cccccc;
+	 border-right: 1px solid #cccccc;
+	 margin: 0px 0px 5px 0px;
+	 padding: 10px 10px 10px 6px;
+	 display: block;
+}
+	
+blockquote 
+	{ 
+	letter-spacing: 0.1em;
+	font-size: 1.2em
+}
+
+p.text-indent 
+	{ 
+	text-indent: 3em 
+} 
+
+p.center 
+	{ 
+	text-align: center 
+}
+
+.word-spacing 
+	{ 
+	word-spacing: 1em 
+} 
+
+p.first-letter:first-letter
+	{
+	font-size: 3em;
+	float: left;
+	padding: 0em 0.1em 0.1em 0.1em
+}
+
+p.uppercase:first-line 
+	{ 
+	text-transform: uppercase 
+}
+	
+p.line-height
+	{
+	line-height: 2em	
+}	
+
+
+
+

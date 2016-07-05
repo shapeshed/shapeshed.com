@@ -1,0 +1,125 @@
+/*-----------------------------------------------------------------------------
+Learning Javascript - Creating Content Stylesheet
+
+version:   1.0
+date:      26/03/07
+author:    George Ornbo
+email:     george at shapeshed dot com
+website:   http://www.shapeshed.com
+
+-----------------------------------------------------------------------------*/
+
+
+/* Remove margin, padding and border from everything
+-----------------------------------------------------------------------------*/
+
+* 
+	{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+/* Set up the document
+-----------------------------------------------------------------------------*/
+
+body
+	{
+	font: 62.5%/1.5  "Myriad Pro", "Myriad",  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+	background-color: #bfeefb;
+	color: #000000;	
+	text-align:center;
+}
+
+
+
+#wrapper
+	{ 
+	width: 980px; 
+	text-align:left;  
+	margin-left:auto; 
+	margin-right:auto; 
+	background-color: #FFFFFF;
+}
+
+
+/* Typography
+-----------------------------------------------------------------------------*/
+
+h1
+	{
+	font: 2.2em "Constantia", "Georgia", "Myriad Pro", "Myriad", serif;
+	padding: 20px 0px 10px 20px;
+}
+	
+h2
+	{
+	font: 2.0em "Myriad Pro", "Myriad", "Lucida Grande", "Lucida Sans", sans-serif;
+	padding: 5px 5px 0px 20px;
+}
+	
+	
+p
+	{
+	font-size: 1.2em; 
+	padding: 10px 0px 10px 20px;
+}
+
+pre
+	{
+	font-size: 1.2em; 
+}
+
+code
+	{
+	display: block;
+	padding: 5px;
+	width: 800px;
+	font-size: 1.2em; 
+	border: 1px solid #cccccc;
+}
+
+ul
+	{
+	list-style: none;
+	font-size: 1.2em; 
+}
+
+li
+	{
+	font-size: 1.2em; 
+	padding: 0px 0px 20px 20px;
+}
+
+a
+	{
+	color: #cc0099;
+	text-decoration: underline;
+}
+
+a:hover
+	{
+	color: #ff00cc;
+	text-decoration: none;
+}
+
+#updateDiv
+	{
+	margin:10px 0px 0px 20px;
+	border: 1px solid #ff00cc;
+	width: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

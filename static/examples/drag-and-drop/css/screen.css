@@ -1,0 +1,278 @@
+/*-----------------------------------------------------------------------------
+[client] Screen Stylesheet
+ 
+version: 1.0
+date: 01/03/07
+author: [your name]
+email: [you at domain dot com]
+ 
+website: [your domain]
+ 
+-----------------------------------------------------------------------------*/
+ 
+/* Reset
+Eric Meyer's Reset - http://meyerweb.com/eric/thoughts/2008/01/15/resetting-again/
+-----------------------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+/* Set up the document
+-----------------------------------------------------------------------------*/
+@font-face {
+  font-family: "Junction";
+  src: url("../fonts/junction.otf");
+}
+
+
+body
+  {
+  font: 75%/1.5 "Junction", Helvetica, Arial, "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+  background: #ccc;
+  color: #000;  
+  text-align:center;
+  background: url(../images/backgrounds/Leopard-aurora_wallpapers_7212_1920x1200.jpg);
+}
+#wrapper
+  {
+  width: 960px; /* Set page width here - you can also use percentage */
+  text-align:left;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: .75em;
+  margin-bottom: 1.5em;
+  padding: 10px;
+}
+/* Typography
+-----------------------------------------------------------------------------*/
+/*
+This sets up a vertical rhythm for the page typography
+Image replacement technique for the logo
+Change the dimensions on the H1 to the dimensions of your logo
+*/
+h1
+  {
+  font-size: 2em;
+  line-height: 0.75em;
+  margin-bottom: 0.75em; /* margin-bottom = 18pt */
+}
+h2 {
+  font-size: 1.6666666666666667em; /* 20 pt */
+  line-height: 0.9em; /* 20 * line-height = 18pt */
+  margin-bottom: 0.9em; /* 20 * margin-bottom = 18pt */
+}
+h3 {
+  clear: left;
+  font-size: 1.5em; /* 18 pt */
+  line-height: 1em; /* 18 * line-height = 18pt */
+  margin-bottom: 1em; /* 18 * margin-bottom = 18pt */
+}
+h4 {
+  font-size: 1.3333333333333333em; /* 16 pt */
+  line-height: 1.125em; /* 18 * line-height = 18pt */
+  margin-bottom: 1.125em; /* 18 * margin-bottom = 18pt */
+}
+h5 {
+  font-size: 1.1666666666666667em; /* 14 pt */
+  line-height: 1.2857142857142858em; /* 18 * line-height = 18pt */
+  margin-bottom: 1.2857142857142858em; /* 18 * margin-bottom = 18pt */
+}
+h6 {
+  font-size:1em; /* 12 pt */
+  line-height: 1.5em; /* 18 * line-height = 18pt */
+  margin-bottom: 1.5em; /* 18 * margin-bottom = 18pt */
+}  
+p, q, cite, address
+  {
+  font-size:1em; /* 12 pt */
+  line-height: 1.5em; /* 18 * line-height = 18pt */
+  margin-bottom: 1.5em; /* 18 * margin-bottom = 18pt */
+}
+ul, ol, dl
+  {
+  font-size: 1em; /* Equivalent to 12pt */
+  margin-bottom: 1.5em; /* margin-bottom = 18pt */
+}
+li, dd, dt
+  {
+  font-size: 1em; /* Equivalent to 12pt */  
+}
+a
+  {
+  border-bottom: 1px dotted #3333cc;
+  text-decoration: none;
+  color: #3333cc;
+  outline:none;
+}
+a:hover
+  {
+  border-bottom: none;
+  color: #3333cc;  
+}
+code, samp, dfn, kbd, var, acronym, ins, del
+  {
+ 
+}
+abbr {
+  speak: spell-out;
+}
+ 
+acronym {
+  speak: normal;
+}
+
+
+/* Icons
+-----------------------------------------------------------------------------*/
+.usage
+	{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	background:rgb(204,204,204);
+	-moz-border-radius-bottomleft: 5px; 
+	-moz-border-radius-bottomright: 5px; 
+	-webkit-border-bottom-left-radius: 5px; 
+	-webkit-border-bottom-right-radius: 5px;
+	border-radius:5px;
+	text-shadow:  1px 1px 1px rgb(255,255,255);	
+	-moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.5);
+	box-shadow: 0px 3px 5px rgba(0,0,0,0.5);
+}
+
+#trash
+	{
+	position: absolute;
+	right: 5%;
+	bottom: 5%;
+	width:75px;
+	height:75px;
+  	background: url(../images/icons/trashempty.png);		
+}
+.trashfull
+	{
+  	background: url(../images/icons/trashfull.png) !important;		
+}
+
+#trash li
+	{
+	display: none;	
+}
+
+#files
+	{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	list-style: none;	
+}
+#files li
+	{
+	float: left;
+	width: 151px;
+	padding-top: 85px;
+	height: 35px;
+	text-align: center;
+	background: url(../images/icons/text.png) center top no-repeat;	
+	-webkit-user-drag: element;
+}
+#files li:hover
+	{
+	background: url(../images/icons/text_selected.png) center top no-repeat;		
+}
+
+
+#files li span
+	{
+	color:rgb(255,255,255);
+	padding: 0 5px 0 5px;
+	margin-top: 20px;
+	border: 3px solid rgba(0,0,0,0);
+	line-height: 1em;
+	text-shadow:  2px 2px 2px rgb(0,0,0);
+}
+
+#files li:hover span
+	{
+	background-color: rgb(51,102,204);
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+	border-radius:5px;	
+	-moz-box-shadow: 0px 1px 0 rgb(0,51,153);
+	-webkit-box-shadow: 0px 1px 0 rgb(0,51,153);
+	text-shadow: none;
+}
+/*#menu 
+	{
+	background: #ccc;
+	width: 200px;
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+	border-radius:5px;
+	-moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.5);
+	box-shadow: 0px 1px 0 rgb(0,51,153);
+	text-shadow:  1px 1px 1px rgb(255,255,255);		
+}*/
+
+/* Footer
+-----------------------------------------------------------------------------*/
+#footer{
+  clear:both;
+  -moz-border-radius: 5px; 
+  -webkit-border-radius: 5px; 
+  border-radius:5px;
+  background: #a4deec;
+  padding: 1em;
+}
+.twitter a
+  {
+  padding-left: 40px;
+  margin-top: 1.5em;
+  min-height: 32px;
+  background:transparent url(../images/backgrounds/twitter-32x32.png) no-repeat left center;  
+  border-bottom: 0;
+  float: right;
+}
+#footer p
+  {
+  text-align: left;  
+}
+ 
+
+ 
+/* video
+-----------------------------------------------------------------------------*/
+#firefox
+	{
+	width: 45%;
+	float: left;	
+}
+#safari
+	{
+	width: 45%;
+	float: right;	
+}
+video
+	{
+	margin-bottom: 1.5em;	
+}
+ 
+
+
+ 

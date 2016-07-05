@@ -1,0 +1,191 @@
+/*-----------------------------------------------------------------------------
+[client] Screen Stylesheet
+
+version:   1.0
+date:      01/03/07
+author:    [your name]
+email:     [you at domain dot com]
+
+website:   [your domain]
+
+version history: [location of file]
+-----------------------------------------------------------------------------*/
+
+
+/* Import other stylesheets
+-----------------------------------------------------------------------------*/
+
+/* @import url("otherstylesheet.css"); */
+
+
+/* Remove margin, padding and border from everything
+-----------------------------------------------------------------------------*/
+
+* 
+	{
+	margin: 0;
+	padding: 0;
+	
+	border: 0;
+}
+
+/* Styles for layout
+-----------------------------------------------------------------------------*/
+
+.clear
+	{
+	clear:both;
+}
+
+
+
+.right
+	{
+	float: right;
+}
+
+
+
+.left
+	{
+	float: left;
+}
+
+/* Set up the document
+-----------------------------------------------------------------------------*/
+
+body
+	{
+	font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+	background: url(/images/background.png) repeat;
+	color: #000000;	
+	text-align:center;
+}
+
+
+
+#wrapper
+	{ 
+	width: 760px; /* Set page width here - you can also use percentage */
+	text-align:left;  
+	margin-left:auto; 
+	margin-right:auto; 
+	background-color: #FFFFFF;
+}
+
+
+/* Typography
+-----------------------------------------------------------------------------*/
+
+h1
+	{
+	font-size: 2.2em; /* Equivalent to 22pt */
+}
+	
+h2
+	{
+	font-size: 2.0em; /* Equivalent to 20pt */
+}
+	
+h3
+	{
+	font-size: 1.8em; /* Equivalent to 18pt */
+}
+	
+h4
+	{
+	font-size: 1.6em; /* Equivalent to 18pt */
+}
+	
+h5
+	{
+	font-size: 1.4em; /* Equivalent to 14pt */
+}
+	
+p, q, cite
+	{
+	font-size: 1.2em; /* Equivalent to 12pt */
+}
+
+ul, ol, dl
+	{
+	list-style: none;
+	font-size: 1.2em; /* Equivalent to 12pt */
+}
+
+li, dd, dt
+	{
+	font-size: 1.2em; /* Equivalent to 12pt */	
+}
+
+
+
+
+/* Your template
+-----------------------------------------------------------------------------*/
+#right-box
+	{
+	float: left;
+	width: 500px;	
+	margin: 20px 0px 0px 100px;
+	padding: 5px;
+}
+
+#right-box h3
+	{
+	margin-left: -100px;
+	margin-top: 1.285em;
+	clear: left;
+	float: left;
+	position: relative;	
+}
+
+#right-box p
+	{
+	margin-top: 2em;
+	float: left;
+}
+
+/* Forms
+-----------------------------------------------------------------------------*/
+
+
+
+input.text
+	{
+	padding: 3px;
+	border: 1px solid #999999;	
+}
+
+
+/* Tables 
+-----------------------------------------------------------------------------*/
+
+
+
+table
+ 	
+	{ 
+  	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+td 
+	
+	{
+  	text-align: left;
+	font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

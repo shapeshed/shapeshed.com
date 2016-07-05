@@ -1,0 +1,139 @@
+/*-----------------------------------------------------------------------------
+Site Navigation in CSS and XHTML Screen Stylesheet
+
+version:   1.0
+date:      30/05/07
+author:    george ornbo
+email:     george at shapeshed dot com
+website:   http://www.shapeshed.com
+-----------------------------------------------------------------------------*/
+
+/* Remove margin, padding and border from everything
+-----------------------------------------------------------------------------*/
+* 
+	{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+/* Set up the document
+-----------------------------------------------------------------------------*/
+body
+	{
+	font: 62.5%/1.5  "Lucida Sans", "Lucida Grande", Arial, Tahoma, Verdana, sans-serif;
+	background: #ccc url(/images/background.png) repeat;
+	color: #000;	
+	text-align:center;
+}
+#wrapper
+	{ 
+	width: 760px; 
+	text-align:left;  
+	margin-left:auto; 
+	margin-right:auto; 
+	background-color: #FFF;
+}
+/* Header and Navigation
+-----------------------------------------------------------------------------*/
+#header
+	{
+	width: 760px; 
+	float: left;
+	background-color:  #000;
+}
+#header h1
+	{
+	float: left;
+	font-size: 1em;
+	text-indent:-9999px;
+}
+#header h1 a
+	{
+	width:150px; 
+	height: 75px;
+	background: #000 url(../images/logo.png) top left no-repeat;
+	float:left;
+	text-decoration:none;
+}
+#header h1 a
+	{
+	border-bottom: none;	
+}
+#header ul
+	{
+	float: right;
+	list-style: none;
+}
+#header li 
+	{
+	margin-right: 0.1875em;
+	display: inline;
+	float: left;
+	text-align: center;
+	font-size: 1.6em;
+}
+#header li a
+	{
+	display: block;
+	padding: 0em 0.625em 0.3125em 0.625em;
+	color: #000;
+	background-color: #ccc;	
+	text-decoration: none;
+	border-bottom: none;
+}
+#header li a:hover
+	{
+	background-color: #fff;	
+	color: #000;
+}
+/* Content
+-----------------------------------------------------------------------------*/
+#content
+	{
+	width: 760px; 
+	clear: both;
+	float: left;
+	margin-bottom: 1.5em;
+}
+/* Footer
+-----------------------------------------------------------------------------*/
+#footer
+	{
+	width: 760px; 
+	clear: both;
+	padding: 1em 0em 1em 0em;
+	border-top:1px solid #ccc;
+	background-color: #ffffcc;
+}
+#footer p 
+	{
+	background:transparent url(../images/rss.gif) no-repeat scroll left top;
+	padding-left:20px;
+}
+/* Typography
+-----------------------------------------------------------------------------*/
+h2
+	{
+	margin-left: 10px;
+	margin-bottom: 0.625em;
+	margin-top: 0.625em;
+	font-size: 1.6em;	
+}
+p
+	{
+	margin-left: 10px;
+	margin-bottom: 0.41666666667em;
+	font-size: 1.2em;
+}
+a
+	{
+	color: #333;
+	border-bottom: 1px dotted #333;	
+	text-decoration: none;
+}
+a:hover
+	{
+	color: #333;
+	border-bottom: none;	
+	text-decoration: none;
+}

@@ -1,0 +1,61 @@
+/*-----------------------------------------------------------------------------
+Overlapping CSS Navigation - IE6 & Below
+version:   1.0
+date:      09/12/06
+author:    george ornbo
+email:     george at shapeshed dot com
+
+Licensed under a 2.0 Creative Commons License
+
+-----------------------------------------------------------------------------*/
+
+#nav li
+	{
+	list-style:none;
+	display:inline;
+	float:left;
+}
+
+
+/*-----------------------------------------------------------------------------
+
+Because IE6 doesn't interpret negative margins well we need to fix it. To do 
+that we position the hover state absolutely and then use negative margins. To fix 
+ordering we use z-index. 
+
+-----------------------------------------------------------------------------*/	
+
+body#about-page li#home a:hover,body#about-page li#home a:focus
+	{
+	position:absolute;
+	margin-left:-134px;
+	width:150px;
+	z-index:1;
+}
+
+body#services-page li#about a:hover,body#services-page li#about a:focus
+	{
+	position:absolute;
+	margin-left:-150px;
+	width:150px;
+	z-index:1;
+}
+
+body#contact-page li#services a:hover,body#contact-page li#services a:focus
+	{
+	position:absolute;
+	margin-left:-149px;
+	width:150px;
+	z-index:1;
+}
+
+li#home a:hover,li#about a:hover,li#services a:hover,li#contact a:hover,body#about-page li#about a:link,body#about-page li#about a:visited,body#services-page li#services a:link,body#services-page li#services a:visited,body#contact-page li#contact a:link,body#contact-page li#contact a:visited
+	{
+	position:relative;
+}
+
+
+	
+	
+	
+	

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>Shape Shed - Examples - Creating usable forms</title>
+		<style type="text/css" media="screen">@import "css/screen.css";</style>
+
+
+	</head>
+
+	<body>
+	<p>This is a demonstration of a usable form using CSS. You can read <a href="http://www.shapeshed.com/journal/creating_usable_forms/">the full article here</a>.</p>
+	<form action="post">
+		<fieldset>
+			<legend>Your form</legend>
+			<p>* You must fill in these fields</p>
+			<div class="form-row">
+				<label for="textFieldOne">* Text field one</label>
+				<input type="text" class="text" name="textFieldOne" id="textFieldOne" />
+			</div>
+			<div class="form-row">
+				<label for="radioButton">&nbsp;&nbsp;&nbsp;Radio button</label>
+				<input type="radio" name="radioButton" class="input-radio" id="radioButton" />	
+			</div>
+			<div class="form-row">
+				<label for="checkBox">&nbsp;&nbsp;&nbsp;Check Box</label>
+				<input type="checkbox" name="checkBox" class="input-checkbox" id="checkBox" />	
+			</div>
+			<div class="form-row">
+				<label for="selectBox">&nbsp;&nbsp;&nbsp;Select box</label>
+				<select id="selectBox">
+					<option value="option1">Option 1</option>
+					<option value="option2">Option 2</option>
+					<option value="option3">Option 3</option>
+				</select>	
+			</div>
+			<div class="form-row">
+				<label for="textarea">* Text area</label>
+				<textarea id="textarea" rows="10" cols="50"></textarea>
+			</div>
+	
+		</fieldset>
+	</form>
+	
+	<form action="post">
+		<fieldset>
+			<legend>Your form with errors</legend>
+			<div class="error">
+				<ul>
+					<li>Please complete the field <strong>Text field one</strong></li>
+					<li>Please complete the field <strong>Text area</strong></li>
+				</ul>
+			</div>
+			<p>* You must fill in these fields</p>
+			<div class="form-row">
+				<label for="textFieldOne">* Text field one</label>
+				<img src="images/small_warning.gif" title="Warning icon" alt="Warning icon" class="warning" />
+				<input type="text" class="text-error" name="textFieldOne" id="textFieldOne" />
+
+			</div>
+			<div class="form-row">
+				<label for="radioButton">&nbsp;&nbsp;&nbsp;Radio button</label>
+				<input type="radio" name="radioButton" class="input-radio" id="radioButton" />	
+			</div>
+			<div class="form-row">
+				<label for="checkBox">&nbsp;&nbsp;&nbsp;Check Box</label>
+				<input type="checkbox" name="checkBox" class="input-checkbox" id="checkBox" />	
+			</div>
+			<div class="form-row">
+				<label for="selectBox">&nbsp;&nbsp;&nbsp;Select box</label>
+				<select id="selectBox">
+					<option value="option1">Option 1</option>
+					<option value="option2">Option 2</option>
+					<option value="option3">Option 3</option>
+				</select>	
+			</div>
+			<div class="form-row">
+				<label for="textarea">* Text area</label>
+				<img src="images/small_warning.gif" title="Warning icon" alt="Warning icon" class="warning" />
+				<textarea id="textarea" rows="10" cols="50" class="textarea-error"></textarea>
+			</div>
+	
+		</fieldset>
+	</form>
+	
+	</body>
+
+</html>

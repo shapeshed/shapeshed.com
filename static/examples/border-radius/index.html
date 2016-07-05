@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<title>CSS3 Tour - Border Radius</title>
+	<style type="text/css" media="screen">@import "css/screen.css";</style>
+	<meta name="DC.title" content="CSS3 Tour - Border Radius" />
+	<meta name="DC.subject" content="CSS3 Tour - Border Radius" />
+	<meta name="DC.description" content="CSS3 Tour - Border Radius" />
+	<meta name="DC.format" content="text/html" />
+	<meta name="DC.publisher" content="George Ornbo" />
+	<meta name="DC.language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+</head>
+<body>
+	<div id="wrapper">
+		<h1>CSS3 Border Radius Demo</h1>
+		<div id="all-corners">
+			<p>If you are using Firefox or Safari you will see that all four corners of this div are rounded with a radius of 5px</p>
+			<p>For the same effect use:</p>
+			<pre>
+<code>-moz-border-radius: 5px; 
+-webkit-border-radius: 5px; 
+border-radius:10px;	
+</code></pre>
+		</div>
+		<div id="selected-corners">
+			<p>If you are using Firefox or Safari you will see that selected corners are rounded with a radius of 20px</p>
+			<p>For the same effect use:</p>
+			<pre>
+<code>-moz-border-radius-topleft: 20px;
+-moz-border-radius-topright: 0;
+-moz-border-radius-bottomleft: 0px;
+-moz-border-radius-bottomright: 20px;
+-webkit-border-top-left-radius: 20px;
+-webkit-border-top-right-radius: 0;
+-webkit-border-bottom-left-radius: 0px;
+-webkit-border-bottom-right-radius: 20px;
+border-top-left-radius: 20px;
+border-top-right-radius: 0;
+border-bottom-right-radius: 0px;
+border-bottom-left-radius:  20px;</code></pre>
+		</div>
+		<div id="solid-coloured-corners">
+			<p>Border colours are also possible</p>
+			<p>For the same effect use:</p>
+			<pre>
+<code>border-top: 10px solid #ff0066;
+border-left: 10px solid #0066ff;
+border-right: 10px solid #0066ff;
+border-bottom: 10px solid #ff0066;
+-moz-border-radius: 10px; 
+-webkit-border-radius: 10px; 
+border-radius:10px;</code></pre>
+		</div>
+		<div id="dotted-coloured-corners">
+		<p>Dotted border colours are possible. (The display of this varies between Firefox and Safari).</p>
+		<p>For the same effect use:</p>
+<pre><code>border-top: 10px dotted #ff0066;
+border-left: 10px dotted #0066ff;
+border-right: 10px dotted #0066ff;
+border-bottom: 10px dotted #ff0066;
+-moz-border-radius: 10px; 
+-webkit-border-radius: 10px; 
+border-radius:10px;</code></pre>
+		</div>
+		<div id="inset-coloured-corners">
+		<p>Inset border colours are possible</p>
+		<p>For the same effect use:</p>
+<pre><code>border-top: 10px inset #ff0066;
+border-left: 10px inset #0066ff;
+border-right: 10px inset #0066ff;
+border-bottom: 10px inset #ff0066;
+-moz-border-radius: 10px; 
+-webkit-border-radius: 10px; 
+border-radius:10px;</code></pre>
+		</div>
+		<div id="footer">
+			<p class="twitter"><a href="http://twitter.com/shapeshed">Follow me on Twitter</a></p>
+			<p>Created by <a href="http://twitter.com/shapeshed">George Ornbo.</a> | <a href="http://github.com/shapeshed/border-radius-demo/tree/master">Get the source from Github</a> | Licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons 3.0</a> License</p>
+			<p>The accompanying blog post for this demonstration <a href="http://shapeshed.com/journal/css3_tour_border-radius/">can be found here.</a></p>
+		</div>
+	</div>
+</body>
+</html>

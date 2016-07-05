@@ -1,0 +1,246 @@
+/*-----------------------------------------------------------------------------
+Overlapping CSS Navigation
+version:   1.0
+date:      09/12/06
+author:    george ornbo
+email:     george at shapeshed dot com
+
+Licensed under a 2.0 Creative Commons License
+
+-----------------------------------------------------------------------------*/
+
+*
+	{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+body
+	{
+	margin: 10px 0px 0px 10px;
+	width:490px;
+	font: 76%/150%  "Lucida Grande", "Trebuchet MS", Tahoma, Verdana, sans-serif;
+	color:#000;
+	text-align:left;
+}
+
+/*-----------------------------------------------------------------------------
+
+Define the width of the nav div
+
+-----------------------------------------------------------------------------*/
+
+#nav
+	{ 
+	width:485px; 
+	height: 38px;
+	}
+
+	
+#nav ul 
+	{
+	list-style:none;
+	width: 485px;
+	height: 38px;
+	}
+
+#nav li 
+	{
+
+    list-style: none;
+	display: inline;
+	text-align: center;
+	}
+
+#nav li a 
+	{
+	text-decoration: none;
+	display:block;
+	float:left;	
+	background: url(../images/all_states.png) no-repeat;
+	text-indent:-9999px;
+	}	
+	
+/*-----------------------------------------------------------------------------
+
+Define the width of each li item. This is used as a letter box to show the 
+correct part of the background image
+
+-----------------------------------------------------------------------------*/	
+	
+	
+li#home a {
+	width:134px;
+	height:38px;
+	 }
+li#about a {
+	width:118px;
+	height:38px;
+	 }
+li#services a {
+	width:115px;
+	height:38px;
+	 }
+li#contact a {
+	width:118px;
+	height:38px;
+	 }
+	
+/*-----------------------------------------------------------------------------
+
+Position the background image within the left boxes we have created. Use hover states
+to show the correct background position for hover states.
+
+A negative margin is used to show the whole tab. As this doesn't work in IE a 
+separate stylesheet is used for IE6 and below.
+
+-----------------------------------------------------------------------------*/	
+
+
+li#home a:link, li#home a:visited {	
+	background-position: -0px -0px;
+	}
+	
+li#home a:hover, li#home a:focus {	
+	background-position: -1px -38px;
+	}
+	
+li#about a:link, li#about a:visited {	
+	background-position: -134px 0px;
+	}
+	
+li#about a:hover, li#about a:focus {	
+	background-position: -102px -114px;
+	width: 150px;
+	margin-left: -32px;
+	}	
+	
+li#services a:link, li#services a:visited {	
+	background-position: -252px 0px;
+	}
+	
+li#services a:hover, li#services a:focus {	
+	background-position: -218px -228px;
+	width: 149px;
+	margin-left: -34px;
+	}	
+	
+li#contact a:link, li#contact a:visited {	
+	background-position: -367px 0px;
+	}
+	
+li#contact a:hover, li#contact a:focus {	
+	background-position: -335px -342px;
+	width: 150px;
+	margin-left: -32px;
+	}
+
+/*-----------------------------------------------------------------------------
+
+Set the on states using the body id.
+
+-----------------------------------------------------------------------------*/	
+
+body#home-page li#home a:link, body#home-page li#home a:visited {	
+	background-position: -1px -38px;
+	}
+
+body#home-page li#about a:hover, body#home-page li#about a:focus {	
+	background-position: -102px -76px;
+	width: 150px;
+	margin-left: -32px;
+	}
+
+body#about-page li#about a:link, body#about-page li#about a:visited {	
+	background-position: -102px -114px;
+	width: 150px;
+	margin-left: -32px;
+	}
+
+body#about-page li#home a:hover, body#about-page li#home a:focus {	
+	background-position: -0px -152px;
+	overflow: auto;
+	position: relative;
+
+	}
+
+body#about-page li#services a:hover, body#about-page li#services a:focus {	
+	background-position: -218px -190px;
+	width: 149px;
+	margin-left: -34px;
+
+	}
+	
+body#services-page li#services a:link, body#services-page li#services a:visited {	
+	background-position: -218px -228px;
+	width: 149px;
+	margin-left: -34px;
+	}
+
+
+body#services-page li#about a:hover, body#services-page li#about a:focus {	
+	background-position: -102px -266px;
+	width: 150px;
+	margin-left: -32px;
+	overflow: auto;
+	position: relative;
+	}
+	
+body#services-page li#contact a:hover, body#services-page li#contact a:focus {	
+	background-position: -335px -304px;
+	width: 150px;
+	margin-left: -32px;
+	position: relative;
+	}
+	
+body#contact-page li#contact a:link, body#contact-page li#contact a:visited {	
+	background-position: -335px -342px;
+	width: 150px;
+	margin-left: -32px;
+	}
+
+body#contact-page li#services a:hover, body#contact-page li#services a:focus {	
+	background-position: -218px -380px;
+	width: 149px;
+	margin-left: -34px;
+	overflow: auto;
+ 	position: relative;
+	}
+
+body#contact-page li#blogs a:hover, body#contact-page li#blogs a:focus {	
+	background-position: -457px -380px;
+	width: 147px;
+	margin-left: -29px;
+	overflow: auto;
+	position: relative;
+	}
+	
+/*-----------------------------------------------------------------------------
+
+Styles for the demo page
+
+-----------------------------------------------------------------------------*/
+
+h1
+	{
+	margin: 30px 0px 10px 5px;
+	}
+
+p
+	{
+	margin: 10px 0px 10px 5px;
+	}
+
+.browser-list
+	{
+	margin-left: 20px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	

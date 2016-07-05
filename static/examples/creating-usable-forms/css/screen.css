@@ -1,0 +1,130 @@
+/*-----------------------------------------------------------------------------
+Creating usable forms
+
+version:   1.0
+date:      19/12/06
+author:    george ornbo
+email:     george at shapeshed dot com
+
+Licensed under a 2.0 Creative Commons License
+
+-----------------------------------------------------------------------------*/
+
+*
+	{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+body
+	{
+	margin: 10px 0px 0px 10px;
+	width:600px;
+	font: 76%/150%  "Lucida Grande", "Trebuchet MS", Tahoma, Verdana, sans-serif;
+	color:#000;
+	text-align:left;
+}
+
+form
+	{
+	margin-bottom: 30px;
+	}
+
+p	
+	{
+	padding: 0px 5px 5px 11px;
+	}
+
+.error
+	{
+	margin: 0px 0px 5px 0px;
+	padding: 10px;
+	width: 600px;
+	border: 1px solid #ffe400;	
+	background: #ffff99 url(../images/warning.gif) 10px 2px no-repeat;
+	}
+	
+.error ul
+	{
+	margin-left: 50px;
+	list-style: none;
+	}
+
+.form-row
+	{
+	padding: 10px;
+	width: 600px;
+	border-top: 1px dotted #CCCCCC;	
+	border-bottom: none;
+	border-right: 1px solid #CCCCCC;	
+	border-left: 1px solid #CCCCCC;
+	background: url(../images/gradiant.gif) bottom left repeat-x;
+	}
+
+.warning
+	{
+	float: right;
+	}
+
+
+fieldset
+	{
+	border: 0px;
+	}
+
+legend
+	{
+	padding: 0px 5px 5px 11px;
+	font-size: 150%;
+	}
+	
+label
+	{
+	width: 275px;
+	float: left;
+	}
+
+input.text
+	{
+	padding: 3px 6px 3px 3px;
+	width: 275px;
+	border: 1px solid #999999;	
+	}
+	
+input.text-error
+	{
+	padding: 3px;
+	margin-right: 6px;
+	width: 275px;
+	background: #ffff99;
+	border: 1px solid #ffe400;
+	}
+	
+select
+	{
+	padding: 3px;
+	width: 282px;
+	border: 1px solid #999999;	
+	}
+	
+textarea
+	{
+	padding: 3px;
+	font: 110%  "Lucida Grande", "Trebuchet MS", Tahoma, Verdana, sans-serif;
+	width: 275px;
+	height: 100px;
+	border: 1px solid #999999;	
+	}
+	
+.textarea-error
+	{
+	padding: 3px;
+	font: 110%  "Lucida Grande", "Trebuchet MS", Tahoma, Verdana, sans-serif;
+	width: 275px;
+	height: 100px;
+	background: #ffff99;
+	border: 1px solid #ffe400;
+	}
+	
+

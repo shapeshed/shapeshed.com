@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<title>Populating forms with YQL, jQuery and Microformats</title>
+	<style type="text/css" media="screen">@import "css/screen.css";</style>
+	<meta name="DC.title" content="Populating forms with YQL, jQuery and Microformats" />
+	<meta name="DC.subject" content="Microformats, jQuery, YQL, Portable Data" />
+	<meta name="DC.description" content="Populate forms with YQL, jQuery and Microformats" />
+	<meta name="DC.format" content="text/html" />
+	<meta name="DC.publisher" content="George Ornbo" />
+	<meta name="DC.language" content="en" />
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+</head>
+<body>
+	<div id="wrapper">
+		<h1>Microformats / jQuery / YQL Contact Details Demo</h1>
+		<p>This is a demonstration of populating forms using a Microformats hCard enabled URL. Try it using some of the good citizens of a microformats enabled world or your own URLs. There's also <a href="http://shapeshed.com/journal/populating_forms_with_yql_jquery_and_microformats/">a blog post</a> for this example where you can find out more and comment.</p>
+		<ul class="links">
+			<li><a href="http://hicksdesign.co.uk">Jon Hicks</a></li>
+			<li><a href="http://thebeanmachine.nl/">The Bean Machine</a></li>
+			<li><a href="http://adactio.com">Jeremy Keith</a></li>
+			<li><a href="http://wait-till-i.com">Christian Heilmann</a></li>
+			<li><a href="http://loadaveragezero.com/hnav/contact.php">Douglas Clifton</a></li>		
+		</ul>
+		<form action="#" id="mf-url-form" method="get">
+			<fieldset>
+			<legend>Let's try and fetch your details from a Microformats enabled URL</legend>
+			<label for="mf-url">Microformats URL</label>
+			<input type="text" id="mf-url" value="" class="text" />	
+			<input type="submit" class="submit" value="Submit" />
+			</fieldset>
+		</form>
+		<form action="#" id="vcard" method="get">	
+			<fieldset>	
+				<legend>Contact details</legend>
+				<label for="vcard-fn">Name</label>
+				<input type="text" id="vcard-fn" value="" class="text" />
+				<label for="vcard-tel">Tel</label>
+				<input type="text" id="vcard-tel" value="" class="text" />
+				<label for="vcard-email">Email</label>
+				<input type="text" id="vcard-email" value="" class="text" />
+				<label for="vcard-title">Title</label>
+				<input type="text" id="vcard-title" value="" class="text" />
+				<label for="vcard-org">Organisation</label>
+				<input type="text" id="vcard-org" value="" class="text" />
+				<label for="vcard-street-address">Street Address</label>
+				<input type="text" id="vcard-street-address" value="" class="text" />
+				<label for="vcard-street-address">Postal Code</label>
+				<input type="text" id="vcard-postal-code" value="" class="text" />
+				<label for="vcard-locality">Locality</label>
+				<input type="text" id="vcard-locality" value="" class="text" />
+				<label for="vcard-region">Region</label>
+				<input type="text" id="vcard-region" value="" class="text" />
+				<label for="vcard-country-name">Country</label>
+				<input type="text" id="vcard-country-name" value="" class="text" />
+			</fieldset>
+		</form>
+		<div id="footer">
+			<p class="twitter"><a href="http://twitter.com/shapeshed">Follow me on Twitter</a></p>
+			<p>Created by <a href="http://twitter.com/shapeshed">George Ornbo.</a> | <a href="http://github.com/shapeshed/hcardme/tree/master">Fork this project from Github</a> | Licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons 3.0</a> License</p>
+		</div>
+	</div>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/onDomLoad.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+baseurl = "http://hugo.shapeshed.com/"
+languageCode = "en-gb"
+theme = "shapeshed-minimal"
+title = "Shape Shed"
+RSSUri = "atom.xml"
+copyright = "Shape Shed"
+metaDataFormat = "json"
+paginate = "5"
+[permalinks]
+  post= "/:slug/"
+[params]
+  author = "George Ornbo"
+sitemap = "sitemap.xml"
+GoogleAnalytics= "UA-324369-3"
