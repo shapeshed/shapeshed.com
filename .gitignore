@@ -1,2 +1,4 @@
 themes
 public
+*.sw?
+.DS_Store
