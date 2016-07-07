@@ -1,5 +1,5 @@
 {
-  "slug": "html5-video-for-all-well-almost"
+  "slug": "html5-video-for-all-well-almost",
   "title": "HTML5 video for all (well almost)",
   "date": "2009-11-09T00:00:00+00:00",
   "description": "How to use HTML5 video and make it work for Internet Explorer",
