@@ -5,7 +5,7 @@ title = "Shape Shed"
 RSSUri = "atom.xml"
 copyright = "Shape Shed"
 metaDataFormat = "json"
-paginate = "5"
+paginate = "3"
 [permalinks]
   post= "/:slug/"
 [params]
