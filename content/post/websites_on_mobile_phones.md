@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Websites on mobile phones",
   "date": "2006-05-16T00:00:00+01:00",
   "description": "With mobile access to the web becoming more prolific it may well be the time for businesses to ensure that their online presence covers delivery over mobile platforms. The good news is that if the site is build using modern methods it is relatively easy and cheap to do.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "The void of undefined in JavaScript",
   "date": "2013-03-28T08:16:55+00:00",
   "description": "You can't trust undefined in JavaScript even after ES5 made it immutable",

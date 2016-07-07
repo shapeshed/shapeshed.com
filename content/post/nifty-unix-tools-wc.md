@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "nifty-unix-tools-wc",
   "title": "Nifty Unix Tools - wc",
   "date": "2011-03-19T00:00:00+00:00",

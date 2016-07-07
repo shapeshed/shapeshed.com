@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-marquee-tool",
   "title": "Photoshop 101 - The Marquee Tool",
   "date": "2006-09-26T00:00:00+01:00",

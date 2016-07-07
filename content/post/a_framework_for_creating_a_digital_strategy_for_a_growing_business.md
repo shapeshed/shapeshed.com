@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "a-framework-for-creating-a-digital-strategy-for-a-growing-business",
   "title": "Creating A Digital Strategy For A Growing Business",
   "date": "2006-04-11T00:00:00+01:00",

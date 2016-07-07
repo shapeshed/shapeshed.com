@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using the Rails bundle in TextMate",
   "date": "2010-02-25T00:00:00+00:00",
   "description": "I've been exploring the Rails bundle in TextMate. It is really useful but I had a few issues getting it up and running so if it helps anyone else I'm documenting them here.",

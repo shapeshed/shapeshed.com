@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "vienna-a-great-free-mac-newsreader",
   "title": "Vienna - A Great Free Mac Newsreader",
   "date": "2006-06-14T00:00:00+01:00",

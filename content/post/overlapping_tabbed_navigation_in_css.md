@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Overlapping tabbed navigation in CSS",
   "date": "2006-12-09T00:00:00+00:00",
   "description": "A tutorial showing how overlapping tabbed navigation is possible in CSS and can be cross-browser compatible, accessible and javascript free.",

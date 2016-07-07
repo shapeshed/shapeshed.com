@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "html5-video-for-all-well-almost"
   "title": "HTML5 video for all (well almost)",
   "date": "2009-11-09T00:00:00+00:00",

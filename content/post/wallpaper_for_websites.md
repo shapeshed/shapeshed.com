@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Wallpaper for websites",
   "date": "2007-01-31T00:00:00+00:00",
   "description": "Here's a quick look about how you can give your site some wallpaper. Whilst you are moving the furniture around there is also some traditional wallpaper design for inspiration.",

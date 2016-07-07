@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "dom-css-a-beautiful-couple",
   "title": "DOM + CSS = A beautiful couple",
   "date": "2006-12-13T00:00:00+00:00",

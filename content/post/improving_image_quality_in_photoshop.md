@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Improving image quality in Photoshop",
   "date": "2007-05-21T00:00:00+01:00",
   "description": "Often clients deliver images that are not really good enough for use on the web. Photoshop comes with some less well known features that can improve image quality drastically in a couple of clicks. ",

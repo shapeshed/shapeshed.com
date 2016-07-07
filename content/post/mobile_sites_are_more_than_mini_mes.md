@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Mobile sites are more than mini-mes",
   "date": "2008-04-21T00:00:00+01:00",
   "description": "Mobile versions of websites can be better than their bigger, richer web versions. Moreover user-focussed, task-driven mobile sites can inform and improve their bigger brothers.",

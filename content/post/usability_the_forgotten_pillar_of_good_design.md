@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "usability-the-forgotten-pillar-of-good-design",
   "title": "Usability - The Forgotten Pillar of Good Design",
   "date": "2006-06-16T00:00:00+01:00",

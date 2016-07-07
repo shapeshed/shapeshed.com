@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Chrismas 2007 Wallpaper",
   "date": "2007-12-18T00:00:00+00:00",
   "description": "Here's some wallpaper for the festive season, that I have also sent out to friends and clients.",

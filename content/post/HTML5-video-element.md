@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "HTML5-video-element",
   "title": "The HTML 5 Video Element",
   "date": "2009-06-05T00:00:00+01:00",

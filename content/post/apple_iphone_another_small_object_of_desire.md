@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "apple-iphone-another-small-object-of-desire",
   "title": "Apple iPhone - Another small object of desire",
   "date": "2006-05-23T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "learning-iphone-development-interface-builder",
   "title": "Learning iPhone Development - Interface Builder",
   "date": "2010-04-27T00:00:00+01:00",

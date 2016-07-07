@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Web users are bigger than egos",
   "date": "2006-12-11T00:00:00+00:00",
   "description": "Placing users at the centre of the design process is imperative for a usable website. Leave your ego at the door and find out what matters in creating usable websites.",

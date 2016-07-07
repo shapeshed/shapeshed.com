@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "expressionengine-plugin-friendly-404-pages",
   "title": "ExpressionEngine plugin - Friendly 404 pages",
   "date": "2008-11-01T00:00:00+00:00",

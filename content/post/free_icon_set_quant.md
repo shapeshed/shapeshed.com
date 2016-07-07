@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug" : "free-icon-set-quant",
   "title": "Free icon set - Quant",
   "date": "2007-07-26T00:00:00+01:00",

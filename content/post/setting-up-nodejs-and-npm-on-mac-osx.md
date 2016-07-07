@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "setting-up-nodejs-and-npm-on-mac-osx",
   "title": "Setting up Node.js and npm on Mac OSX",
   "date": "2010-08-30T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Two new Yahoo goodies",
   "date": "2008-08-14T00:00:00+01:00",
   "description": "Two new goodies worth a look were released this week. The first Fire Eagle allows applications to access details of your location. The second is a preview of the update to the YUI the Yahoo interface library. ",

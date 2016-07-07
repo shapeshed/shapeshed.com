@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-healing-brush-tool",
   "title": "Photoshop 101 - The Healing Brush Tool",
   "date": "2006-11-05T00:00:00+00:00",

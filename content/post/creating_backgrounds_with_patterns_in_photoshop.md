@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Creating backgrounds with Patterns in Photoshop",
   "date": "2007-10-27T00:00:00+01:00",
   "description": "Often designs need a background to fill space behind navigation or other page elements. Here one way to create them. ",

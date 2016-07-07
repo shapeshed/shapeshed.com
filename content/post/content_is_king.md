@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Content is King",
   "date": "2006-04-14T00:00:00+01:00",
   "description": "Content is key in creating a successful website both for attracting visitors and good search engine rankings.",

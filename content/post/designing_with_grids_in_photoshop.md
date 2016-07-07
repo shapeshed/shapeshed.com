@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Designing with grids in Photoshop",
   "date": "2008-04-10T00:00:00+01:00",
   "description": "Creating a grid to base your designs on is invaluable for giving structure to the page. Here's a quick introduction to grids and how you can speed up creating them in Photoshop. ",

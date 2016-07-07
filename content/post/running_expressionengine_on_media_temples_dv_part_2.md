@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Running ExpressionEngine on Media Temple's (dv) Part 2",
   "date": "2007-11-27T00:00:00+00:00",
   "description": "The second article in the series looking at optimising Apache and MySQL to run ExpressionEngine at optimum speed",

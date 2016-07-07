@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Drawing symmetrical shapes in Illustrator",
   "date": "2007-06-28T00:00:00+01:00",
   "description": "Drawing symmetrical shapes in illustrator can be a little bit tricky but once mastered it is a technique you can use over and over again. ",

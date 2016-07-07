@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "is-web-20-more-than-just-a-buzzword",
   "title": "Is Web 2.0 More Than Just A Buzzword?",
   "date": "2006-05-18T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Gmail and HTML Emails",
   "date": "2008-04-11T00:00:00+01:00",
   "description": "The Email Standards Project has posted a tongue-in-cheek video asking Google to improve standards support in Gmail. Yahoo have acted on Yahoo Mail and have achieved everything in the acid test. Gmail needs to follow suit.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-dom-scripting-jeremy-keith",
   "title": "Book Review : DOM Scripting - Jeremy Keith",
   "date": "2007-02-05T00:00:00+00:00",

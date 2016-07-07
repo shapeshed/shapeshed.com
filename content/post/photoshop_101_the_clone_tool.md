@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-clone-tool",
   "title": "Photoshop 101 - The Clone Tool",
   "date": "2006-11-19T00:00:00+00:00",

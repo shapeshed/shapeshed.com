@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "How to Sync iCal and Google Calendar",
   "date": "2007-10-22T00:00:00+01:00",
   "description": "A short tutorial on syncing iCal with Google Calendar for free with iCal on your Mac being the master calendar.",

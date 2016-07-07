@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "elements-of-typographic-style-bringhurst",
   "title": "Book Review: The Elements of Typographic Style - Bringhurst",
   "date": "2006-11-05T00:00:00+00:00",

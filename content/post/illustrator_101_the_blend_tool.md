@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "illustrator-101-the-blend-tool",
   "title": "Illustrator 101 - The Blend Tool",
   "date": "2007-07-18T00:00:00+01:00",

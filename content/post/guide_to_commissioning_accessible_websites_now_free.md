@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Guide to Commissioning Accessible Websites now free",
   "date": "2006-06-29T00:00:00+01:00",
   "description": "PAS 78 A Guide To Good Practice In Commissioning Accessible Websites is now available for free.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "twitter-feature-request-hash-tag-follows",
   "title": "Twitter feature request - hash tag follows",
   "date": "2009-08-28T00:00:00+01:00",

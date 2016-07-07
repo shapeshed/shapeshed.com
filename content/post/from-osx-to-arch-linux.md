@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "From OSX to Arch Linux",
   "date": "2013-12-09T12:55:45+00:00",
   "description": "Six months ago I migrated from OSX to Arch Linux. Here is why Arch is a superior development platform for my needs.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Contact details in one click",
   "date": "2007-01-13T00:00:00+00:00",
   "description": "At some stage everyone has laboriously copied and pasted contact details from a website into their address book. Wouldn't it be nice if you could just click a graphic and see the details turn up in your address book?",

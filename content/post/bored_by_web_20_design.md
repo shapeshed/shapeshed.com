@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "bored-by-web-20-design",
   "title": "Bored by Web 2.0 Design",
   "date": "2007-02-13T00:00:00+00:00",

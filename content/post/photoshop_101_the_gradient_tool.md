@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-gradient-tool",
   "title": "Photoshop 101 - The Gradient Tool",
   "date": "2007-01-19T00:00:00+00:00",

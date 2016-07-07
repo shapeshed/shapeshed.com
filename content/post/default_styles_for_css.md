@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Default Styles for CSS",
   "date": "2007-03-06T00:00:00+00:00",
   "description": "Coding CSS can quickly run into difficulties with different browsers interpreting code in different ways. Designs will never look the same in every browser but you can help yourself by using a default style set when you start coding.",

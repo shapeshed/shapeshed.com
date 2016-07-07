@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Drop Shadows with CSS",
   "date": "2007-02-12T00:00:00+00:00",
   "description": "A short tutorial showing how to apply drop shadows to images on your site with CSS. ",

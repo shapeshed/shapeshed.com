@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "The HTML5 Speech Recognition API",
   "slug": "html5-speech-recognition-api",
   "date": "2014-01-21T16:04:36+00:00",

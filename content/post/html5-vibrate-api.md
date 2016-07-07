@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "html5-vibrate-api",
   "title": "The HTML5 Vibrate API",
   "date": "2014-01-03T07:50:56+00:00",

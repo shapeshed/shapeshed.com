@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "expression-engine-16",
   "title": "Expression Engine 1.6",
   "date": "2007-06-19T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "ExpressionEngine permissions shell script",
   "date": "2009-05-03T00:00:00+01:00",
   "description": "Every ExpressionEngine install requires that a number of permissions are set on folders and files. Here's a shell script to do the hard work for you. ",

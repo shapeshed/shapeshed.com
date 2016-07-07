@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-cascading-style-sheets-eric-meyer", 
   "title": "Book Review: Cascading Style Sheets - Eric Meyer",
   "date": "2007-01-21T00:00:00+00:00",

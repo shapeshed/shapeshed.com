@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "10-steps-to-better-css",
   "title": "10 Steps to Better CSS",
   "date": "2006-11-15T00:00:00+00:00",

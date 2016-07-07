@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Colour sampling outside Photoshop",
   "date": "2007-10-19T00:00:00+01:00",
   "description": "Here a simple tip that will save time if you need to sample colours from outside Photoshop for use in your artwork.",

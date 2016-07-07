@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Setting up a backup strategy with Amazon S3",
   "date": "2009-02-27T00:00:00+00:00",
   "description": "I've recently put a fairly rigorous backup procedure in place for local, staging and production servers. Partly so I don't forget I've written up the process. ",

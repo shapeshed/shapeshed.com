@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "learning-javascript-altering-content",
   "title": "Learning Javascript - Altering Content",
   "date": "2007-03-29T00:00:00+01:00",

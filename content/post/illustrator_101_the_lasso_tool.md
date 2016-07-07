@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "illustrator-101-the-lasso-tool",
   "title": "Illustrator 101 - The Lasso Tool",
   "date": "2007-05-22T00:00:00+01:00",

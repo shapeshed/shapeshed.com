@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Drag and drop in HTML5",
   "date": "2009-07-02T00:00:00+01:00",
   "description": "HTML 5 has the ability to create drag and drop events. This example only works in Firefox 3.5 and Safari 4 but here's a quick tour of how it works. ",

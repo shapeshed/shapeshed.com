@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Writing good XHTML and CSS Part 2",
   "date": "2006-10-07T00:00:00+01:00",
   "description": "The second in a series of good practices for writing XHTML and CSS looking at writing clean, maintainable code and dealing with browser hell problems.",

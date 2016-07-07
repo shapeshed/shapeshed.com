@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "redis-overview",
   "title": "An overview of Redis",
   "date": "2010-09-03T00:00:00+01:00",

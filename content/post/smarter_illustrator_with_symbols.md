@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Smarter Illustrator with Symbols",
   "date": "2007-07-03T00:00:00+01:00",
   "description": "Symbols are an extremely powerful aspect of Illustrator allowing you to create illustrations more rapidly, build a library and respond quickly to client amends and changes. If you are not already using them here is why you should. ",

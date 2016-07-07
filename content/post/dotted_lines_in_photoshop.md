@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Dotted lines in Photoshop",
   "date": "2007-07-12T00:00:00+01:00",
   "description": "Designing for the web in Photoshop has one thing missing - dotted lines. Here's how to create dotted lines so you can show clients how links will look.",

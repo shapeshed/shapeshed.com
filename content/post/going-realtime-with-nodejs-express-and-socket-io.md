@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "going-realtime-with-nodejs-express-and-socket-io",
   "title": "Going realtime with Node.js, Express and socket.io",
   "date": "2011-07-18T00:00:00+01:00",

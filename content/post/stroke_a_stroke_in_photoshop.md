@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Stroke a stroke in Photoshop",
   "date": "2007-11-30T00:00:00+00:00",
   "description": "Sometimes you might want to add a stroke to a stroke on the same layer in Photoshop. Thankfully with a simple technique you can.",

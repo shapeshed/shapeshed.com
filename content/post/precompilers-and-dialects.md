@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Precompilers and dialects",
   "date": "2012-10-02T00:00:00+01:00",
   "description": "Thoughts on TypeScript and precompilers",

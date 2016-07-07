@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "illustrator-101-the-twirl-tool",
   "title": "Illustrator 101 - The Twirl Tool",
   "date": "2007-08-19T00:00:00+01:00",

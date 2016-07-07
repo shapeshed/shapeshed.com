@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "examine-headers-with-netcat",
   "title": "Examining request headers with netcat",
   "date": "2014-02-19T08:38:19+00:00",

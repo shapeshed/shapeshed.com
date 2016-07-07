@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Adding a vignette to a video using Photoshop",
   "slug": "adding-a-vignette-to-a-video-using-photoshop",
   "date": "2010-04-28T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Review of Photoshop CS3 Beta",
   "date": "2006-12-18T00:00:00+00:00",
   "description": "Photoshop CS3 is released as a public beta with a few new features but most importantly Intel support on the Mac. Here's a review from a Mac-based web design perspective.",

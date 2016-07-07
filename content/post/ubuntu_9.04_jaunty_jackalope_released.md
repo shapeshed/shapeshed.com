@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Ubuntu 9.04 Jaunty Jackalope Released",
   "slug": "ubuntu-9.04-jaunty-jackalope-released",
   "date": "2009-04-23T00:00:00+01:00",

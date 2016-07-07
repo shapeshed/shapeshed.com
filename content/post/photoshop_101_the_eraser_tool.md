@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-eraser-tool",
   "title": "Photoshop 101 - The Eraser Tool",
   "date": "2006-12-06T00:00:00+00:00",

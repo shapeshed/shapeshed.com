@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "An Explanation of RSS (Really Simple Syndication)",
   "date": "2006-07-04T00:00:00+01:00",
   "description": "A non-technical explantion of RSS (Really Simple Syndication) for clients and anyone else who is interested.",

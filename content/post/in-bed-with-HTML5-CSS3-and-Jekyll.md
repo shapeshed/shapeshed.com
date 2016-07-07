@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "in-bed-with-HTML5-CSS3-and-Jekyll", 
   "title": "In bed with HTML5, CSS3 and Jekyll",
   "date": "2009-11-05T00:00:00+00:00",

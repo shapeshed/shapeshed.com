@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Managing packages on Arch Linux",
   "date": "2014-01-10T15:18:05+00:00",
   "description": "My simple workflow for managing packages on Arch Linux.",

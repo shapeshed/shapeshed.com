@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Quotations in CSS",
   "date": "2007-03-07T00:00:00+00:00",
   "description": "Here's a short tutorial on how to style quotes with CSS whilst making sure you use the right XHTML tools for the job.",

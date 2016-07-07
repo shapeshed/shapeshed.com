@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "How To Get The Most From Your Homepage",
   "date": "2006-05-09T00:00:00+01:00",
   "description": " A Homepage is like a shop window. It is invariably the most commonly visited page and if it does not draw customers or viewers in, it has failed. This paper looks at what makes a successful Hompeage. ",

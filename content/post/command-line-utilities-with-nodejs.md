@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "command-line-utilities-with-nodejs",
   "title": "Command Line Utilities with Node.js",
   "date": "2014-01-02T17:00:57+00:00",

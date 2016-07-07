@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "google-chrome-no-pulse-racing-but-it-is-fast",
   "title": "Google Chrome - no pulse racing but it is fast",
   "date": "2008-09-10T00:00:00+01:00",

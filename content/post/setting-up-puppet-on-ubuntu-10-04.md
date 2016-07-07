@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "setting-up-puppet-on-ubuntu-10-04",
   "title": "Setting up Puppet on Ubuntu 10.04",
   "date": "2011-02-25T00:00:00+00:00",

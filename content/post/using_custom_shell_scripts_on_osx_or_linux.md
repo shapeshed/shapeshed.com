@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using custom shell scripts on OSX or Linux",
   "date": "2009-05-03T00:00:00+01:00",
   "description": "Custom shell scripts allow you to do pretty much anything. Here's a short tutorial on how to set up either OSX or Linux so you can use custom shell scripts on your system.\n",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using Aliases in the Linux Shell",
   "date": "2008-07-11T00:00:00+01:00",
   "description": "Creating aliases to use in the command line is a simple way to increase productivity and shows the simplicity and power of using the shell. Here's how to do it.",

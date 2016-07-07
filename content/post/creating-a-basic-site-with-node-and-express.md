@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "creating-a-basic-site-with-node-and-express",
   "title": "Creating a basic site with Node.js and Express",
   "date": "2011-04-18T00:00:00+01:00",

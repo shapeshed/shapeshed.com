@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "I don't sell sheds!",
   "date": "2009-02-10T00:00:00+00:00",
   "description": "About once a month someone contacts me trying to place an order for a shed. A real shed that you can sit in. For once and for all I want to say I don't sell sheds..",

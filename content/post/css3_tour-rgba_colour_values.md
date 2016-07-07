@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "css3-tour-rgba-colour-values",
   "title": "CSS3 Tour - RGBa Colour Values",
   "date": "2009-02-24T00:00:00+00:00",

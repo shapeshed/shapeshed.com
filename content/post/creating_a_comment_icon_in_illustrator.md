@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Creating a comment icon in Illustrator",
   "date": "2007-06-29T00:00:00+01:00",
   "description": "A short tutorial on creating a vector-based comment icon in Illustrator. The tutorial includes a downloadable illustrator file to work through the example with.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Web Standards in Email Clients",
   "date": "2007-11-28T00:00:00+00:00",
   "description": "Fed up of writing Web 0.1 HTML for emails? You are not alone. Join the campaign to sort out standards support in HTML clients.",

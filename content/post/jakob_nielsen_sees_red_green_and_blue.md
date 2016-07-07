@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Jakob Nielsen sees Red Green and Blue",
   "date": "2006-08-02T00:00:00+01:00",
   "description": "Jakob Nielsen has published an article on screen resolutions. With his usual forthrightness he tells us we should design for 1024 x 768. Fair enough - no complaints there.",

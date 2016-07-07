@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-lasso-tool",
   "title": "Photoshop 101 - The Lasso Tool",
   "date": "2006-10-17T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-blur-tool",
   "title": "Photoshop 101 - The Blur Tool",
   "date": "2007-02-03T00:00:00+00:00",

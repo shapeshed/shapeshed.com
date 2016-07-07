@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-homepage-usability-nielsen-tahir",
   "title": "Book Review: Homepage Usability - Nielsen & Tahir",
   "date": "2006-10-06T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Why Web Standards Matter",
   "date": "2006-04-02T00:00:00+01:00",
   "description": "At Shape Shed we have a philosophy of hand coding websites to International Standards. Why go to the trouble of validating code? This article explains why and outlines the benefits we can give to our clients as a result. ",

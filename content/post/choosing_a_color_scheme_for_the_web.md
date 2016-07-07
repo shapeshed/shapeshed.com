@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "choosing-a-color-scheme-for-the-web",
   "title": "Choosing a colour scheme for the web",
   "date": "2006-11-22T00:00:00+00:00",

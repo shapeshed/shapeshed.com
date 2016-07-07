@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Leopard OSX's UI Design",
   "date": "2007-10-30T00:00:00+00:00",
   "description": "Leopard, Apple's latest version of the the OSX operating system was released last Friday. In my opinion some of the interface changes are a step backwards.",

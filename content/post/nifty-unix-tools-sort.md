@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "nifty-unix-tools-sort",
   "title": "Nifty Unix Tools - sort",
   "date": "2011-03-21T00:00:00+00:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Mac Browser Love-in",
   "date": "2006-05-26T00:00:00+01:00",
   "description": "Although I love Firefox for Mac I can't deny that it is very slow compared to other browsers. After reading of the adventures of the Mac browser pimp Jon Hicks I decided to experiment a bit more in my browser usage. Where did I end up? Well in a multitude of places with multiple browsers open!",

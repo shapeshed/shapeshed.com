@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Techno kittens love HTML5",
   "date": "2009-06-01T00:00:00+01:00",
   "description": "The kittens are jumping up and down. Why? HTML 5 offers an open set of standards for drawing animations and complex user interfaces. ",

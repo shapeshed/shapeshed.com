@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-magic-wand-tool",
   "title": "Photoshop 101 - The Magic Wand Tool",
   "date": "2006-10-26T00:00:00+01:00",

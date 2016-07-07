@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Easing Rails development with Hirb",
   "date": "2010-03-10T00:00:00+00:00",
   "description": "If you spend a lot of time in the console using Hirb is a great way to work faster and improve the output",

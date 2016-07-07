@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "The continued need for semantic HTML",
   "date": "2009-06-04T00:00:00+01:00",
   "description": "Two new search tools in Wolfram and Google Squared have been released that demonstrate the need for a standards based approach to web semantics and data.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Custom brushes in Illustrator",
   "date": "2007-07-06T00:00:00+01:00",
   "description": "Custom Brushes in Illustrator are an excellent way to add to designs. Here's a short tutorial how they work and how to use them.",

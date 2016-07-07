@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Windows Vista and XP Dual Boot",
   "date": "2006-07-27T00:00:00+01:00",
   "description": "Today I successfully completed a dual installation of Windows XP and Windows Vista Beta. I've now got a PC that will boot to either operating system. This is great for being able to test things on either platform with a variety of browsers.",

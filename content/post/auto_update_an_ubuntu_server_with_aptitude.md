@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Auto update an Ubuntu Server with Aptitude",
   "date": "2009-07-30T00:00:00+01:00",
   "description": "How to keep software up-to-date automatically on Ubuntu Server using Aptitude",

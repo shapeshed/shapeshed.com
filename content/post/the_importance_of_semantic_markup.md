@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "The importance of semantic markup",
   "date": "2007-02-10T00:00:00+00:00",
   "description": "Creating web documents that have meaning behind the page rendered in a browser is very important. Here are some pointers as to how to understand and write semantic markup. ",

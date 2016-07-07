@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "html5-geolocation-api",
   "title": "The HTML5 Geolocation API",
   "date": "2014-01-07T20:30:56+00:00",

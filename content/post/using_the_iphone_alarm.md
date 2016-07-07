@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using the iPhone alarm",
   "date": "2008-01-18T00:00:00+00:00",
   "description": "Coming from a Nokia I found it frustrating that you can't completely turn an iPhone off at night and be woken by the alarm. Thankfully there is a workaround. ",

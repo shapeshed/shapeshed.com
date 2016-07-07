@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Concentric text in Photoshop",
   "date": "2007-02-26T00:00:00+00:00",
   "description": "One day you might just be insane enough to want to write concentric text in Photoshop. It is quite illegible and likely to give you a headache but if you still want to do it read on.",

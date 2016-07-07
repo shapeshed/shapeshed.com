@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Experimenting with CSS3 and HTML5",
   "date": "2009-08-14T00:00:00+01:00",
   "description": "I've been creating more and more code examples and increasingly using GitHub for sharing code. I wanted to experiment with a few things so I <a href=\"http://shapeshed.github.com/\">created a site</a> on <a href=\"http://pages.github.com/\">GitHub pages</a>.",

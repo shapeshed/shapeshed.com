@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "html5-battery-api",
   "title": "HTML5 Battery Status API",
   "date": "2014-01-13T21:34:15+00:00",

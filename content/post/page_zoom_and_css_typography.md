@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Page zoom and CSS typography",
   "date": "2008-10-09T00:00:00+01:00",
   "description": "With most browsers now using Page Zoom rather than just enlarging text is this the end of the road for em based typography?",

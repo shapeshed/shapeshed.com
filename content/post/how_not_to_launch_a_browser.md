@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "How not to launch a browser",
   "date": "2008-06-18T00:00:00+01:00",
   "description": "Mozilla's launch of Firefox 3 was a poorly conceived marketing exercise and has let down an excellent product. ",

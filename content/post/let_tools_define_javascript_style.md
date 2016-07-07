@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Let tools define JavaScript style",
   "date": "2013-03-04T19:12:47+00:00",
   "description": "JavaScript's permissive syntax means style debates are easy to run into. This post details how tools can be used to encapsulate your opinion and how this can be integrated into a build process.",

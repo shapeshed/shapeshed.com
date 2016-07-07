@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "10 Tips for Good Web Copy",
   "date": "2006-10-11T00:00:00+01:00",
   "description": "Well written copy is often overlooked but is an integral part of a successful website. Here are 10 tips to tighten up your copy. ",

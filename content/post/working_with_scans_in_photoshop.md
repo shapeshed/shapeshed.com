@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Working with scans in Photoshop",
   "date": "2007-12-06T00:00:00+00:00",
   "description": "Photoshop comes with a handy feature that allows you to quickly crop and use scanned images or sketches.",

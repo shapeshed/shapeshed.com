@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "nifty-unix-tools-head-and-tail",
   "title": "Nifty Unix Tools - head and tail",
   "date": "2010-11-03T00:00:00+00:00",

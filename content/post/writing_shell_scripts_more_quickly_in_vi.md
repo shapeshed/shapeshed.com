@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Writing shell scripts more quickly in vi",
   "date": "2009-07-20T00:00:00+01:00",
   "description": "A couple of useful tips for writing shell scripts more quickly using the vi editor.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Reflecting on FOWD '08",
   "date": "2008-04-17T00:00:00+01:00",
   "description": "I attended the Future of Web Design Conference in London. For me the conference did not deliver on ideas but did on meeting people.",

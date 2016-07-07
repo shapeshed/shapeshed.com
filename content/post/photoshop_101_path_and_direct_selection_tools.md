@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-path-and-direct-selection-tools",
   "title": "Photoshop 101 - Path and Direct Selection Tools",
   "date": "2007-02-10T00:00:00+00:00",

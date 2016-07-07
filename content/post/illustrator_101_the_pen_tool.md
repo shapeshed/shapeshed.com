@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "illustrator-101-the-pen-tool",
   "title": "Illustrator 101 - The Pen Tool",
   "date": "2007-05-26T00:00:00+01:00",

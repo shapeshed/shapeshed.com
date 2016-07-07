@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Comprehensive CSS Resource",
   "date": "2006-06-13T00:00:00+01:00",
   "description": "The ever amazing Veerle Pieters has just published an extensive list of CSS resources.",

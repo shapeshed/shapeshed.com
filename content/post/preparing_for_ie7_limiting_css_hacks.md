@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "preparing-for-ie7-limiting-css-hacks",
   "title": "Preparing for IE7 - Limiting CSS Hacks",
   "date": "2006-09-28T00:00:00+01:00",

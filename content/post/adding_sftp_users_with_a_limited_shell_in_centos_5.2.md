@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Adding SFTP Users with a limited Shell in CentOS 5.2",
   "date": "2008-12-04T00:00:00+00:00",
   "description": "A quick way to add SFTP users with a limited shell in CentOS",

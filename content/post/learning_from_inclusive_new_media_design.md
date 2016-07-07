@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Learning from Inclusive New Media Design",
   "date": "2008-05-25T00:00:00+01:00",
   "description": "Last week I attended the final session of Inclusive New Media design, a project at the Rix Centre, The University of East London. I'm sure the project team will be publishing their findings in due course, but until then here is what I learned from the study.",

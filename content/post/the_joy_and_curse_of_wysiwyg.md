@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "The joy and curse of WYSIWYG",
   "date": "2007-04-18T00:00:00+01:00",
   "description": "Allowing sites to be updated by non-technical staff is essential. WYSIWYG editors are a must in Content Management Systems, but can cause frustration too.",

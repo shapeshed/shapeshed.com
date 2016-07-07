@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "the-end-of-native-applications",
   "title": "The End of Native Apps",
   "date": "2013-10-29T12:14:00+00:00",

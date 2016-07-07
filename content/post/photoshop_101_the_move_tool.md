@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-move-tool",
   "title": "Photoshop 101 - The Move Tool",
   "date": "2006-09-30T00:00:00+01:00",

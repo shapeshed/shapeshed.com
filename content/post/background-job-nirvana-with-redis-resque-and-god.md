@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "background-job-nirvana-with-redis-resque-and-god",
   "title": "Background job nirvana with Resque, Redis and God",
   "date": "2010-09-08T00:00:00+01:00",

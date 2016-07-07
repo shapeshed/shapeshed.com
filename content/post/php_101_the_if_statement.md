@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "php-101-the-if-statement",
   "title": "PHP 101 - The if statement",
   "date": "2008-10-21T00:00:00+01:00",

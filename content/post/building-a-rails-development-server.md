@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Building a Rails development server",
   "date": "2011-06-06T00:00:00+01:00",
   "description": "An server stack to facilitate development against almost any Rails environment.",

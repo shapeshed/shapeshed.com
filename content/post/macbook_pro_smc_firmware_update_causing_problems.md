@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "MacBook Pro SMC Firmware Update Causing Problems",
   "date": "2006-05-23T00:00:00+01:00",
   "description": "In the hope that this might help someone out I'm posting the slightly unpleasant experience I had this morning after running the SMC Firmware update from Apple",

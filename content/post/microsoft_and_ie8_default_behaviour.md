@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Microsoft and IE8 default behaviour",
   "date": "2008-03-04T00:00:00+00:00",
   "description": "Microsoft has changed its mind about the proposal to use a meta tag to trigger IE8 to use the standards rendering mode. ",

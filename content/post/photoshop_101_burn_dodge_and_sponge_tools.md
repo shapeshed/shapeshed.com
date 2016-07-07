@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-burn-dodge-and-sponge-tools",
   "title": "Photoshop 101 - Burn, Dodge and Sponge Tools",
   "date": "2007-02-05T00:00:00+00:00",

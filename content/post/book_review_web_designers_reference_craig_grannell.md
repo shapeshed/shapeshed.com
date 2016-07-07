@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-web-designers-reference-craig-grannell",
   "title": "Book Review: Web Designer's Reference - Craig Grannell",
   "date": "2006-09-05T00:00:00+01:00",

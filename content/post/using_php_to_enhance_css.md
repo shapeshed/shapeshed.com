@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using PHP to enhance CSS",
   "date": "2007-03-25T00:00:00+00:00",
   "description": "With a bit of PHP you can add an additional layer of logic to your CSS. You might choose to add seasonality to your site or change the layout entirely.  You are limited only by your imagination. ",

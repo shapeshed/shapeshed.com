@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "illustrator-101-guides-and-smart-guides",
   "title": "Illustrator 101 - Guides and Smart Guides",
   "date": "2008-04-26T00:00:00+01:00",

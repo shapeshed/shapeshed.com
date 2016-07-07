@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Google Sitemaps Cron Job",
   "date": "2006-06-21T00:00:00+01:00",
   "description": "I've recently set up a cron job to run the Google Sitemaps Python Script automatically each day. This automatically notifies Google of any changes to the site. I've found that new pages are being indexed very quickly. ",

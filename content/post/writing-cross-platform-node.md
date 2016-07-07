@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "writing-cross-platform-node",
   "title": "Writing cross-platform Node.js",
   "date": "2014-03-25T11:53:07+00:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using Shared Keys with SSH on Centos 5",
   "date": "2008-02-27T00:00:00+00:00",
   "description": "Shared Keys add an additional security level to using SSH and if you choose not to use a password you can automate logging in via SSH. It also allows you to completely negate brute force password cracking attempts if you disable password authentication. ",

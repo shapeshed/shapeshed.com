@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "CSS3 Tour: border-radius",
   "date": "2009-02-20T00:00:00+00:00",
   "description": "Border-radius allows you to create rounded corners with just CSS without the need for graphics or JavaScript. If you are not using it yet here's an explanation. ",

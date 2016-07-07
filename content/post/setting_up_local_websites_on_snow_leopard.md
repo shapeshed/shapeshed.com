@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Setting up local websites on Snow Leopard",
   "date": "2009-09-04T00:00:00+01:00",
   "description": "A short tutorial on setting up local websites on Snow Leopard.",

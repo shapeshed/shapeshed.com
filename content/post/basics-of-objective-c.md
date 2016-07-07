@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Basics of Objective-C",
   "date": "2010-04-30T00:00:00+01:00",
   "description": "My notes from working through Assignment 1B of the Stanford iPhone development course",

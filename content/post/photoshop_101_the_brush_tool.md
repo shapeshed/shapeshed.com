@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-brush-tool",
   "title": "Photoshop 101 - The Brush Tool",
   "date": "2006-11-11T00:00:00+00:00",

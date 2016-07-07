@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Redesign just about done",
   "date": "2007-05-03T00:00:00+01:00",
   "description": "Apart from a huge amount of client work I've been working on a redesign of shapeshed.com. With a few things to clean up it goes into the wild today.",

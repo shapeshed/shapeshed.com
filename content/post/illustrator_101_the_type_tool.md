@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "illustrator-101-the-type-tool",
   "title": "Illustrator 101 - The Type Tool",
   "date": "2007-06-22T00:00:00+01:00",

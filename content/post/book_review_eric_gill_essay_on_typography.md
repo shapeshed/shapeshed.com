@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-eric-gill-essay-on-typography",
   "title": "Book Review : Eric Gill - Essay on Typography",
   "date": "2007-03-24T00:00:00+00:00",

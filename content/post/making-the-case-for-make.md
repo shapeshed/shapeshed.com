@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Making the case for make",
   "date": "2014-01-08T16:42:56+00:00",
   "description": "Make gives you access to many tiny, powerful UNIX tools and shouldn't be overlooked as a build tool.",

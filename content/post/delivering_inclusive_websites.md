@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Delivering inclusive websites",
   "date": "2007-11-05T00:00:00+00:00",
   "description": "The UK Government has published a consultation document outlining that all government websites must meet W3C AA requirements by 2008. ",

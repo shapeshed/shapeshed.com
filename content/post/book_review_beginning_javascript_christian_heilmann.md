@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-beginning-javascript-christian-heilmann",
   "title": "Book Review : Beginning Javascript - Christian Heilmann",
   "date": "2007-04-23T00:00:00+01:00",

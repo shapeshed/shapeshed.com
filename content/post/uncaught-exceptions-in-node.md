@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "uncaught-exceptions-in-node",
   "title": "Uncaught Exceptions in Node.js",
   "date": "2012-11-14T00:00:00+00:00",

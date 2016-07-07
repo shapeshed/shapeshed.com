@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "illustrator-101-line-tools",
   "title": "Illustrator 101 - Line Tools",
   "date": "2007-06-23T00:00:00+01:00",

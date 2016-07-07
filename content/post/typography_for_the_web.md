@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Typography for the Web",
   "date": "2007-03-12T00:00:00+00:00",
   "description": "Until recently typography on the web has been overlooked. This article discusses issues to consider and some of the techniques available to create strong typography. ",

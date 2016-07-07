@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Wrapping up Inclusive New Media Design",
   "date": "2008-05-20T00:00:00+01:00",
   "description": "I've been lucky enough to take part in a study aimed at understanding how to make websites more accessible for users with Intellectual Disabilities at the Rix Centre, University of East London. On the final day an expert panel were invited to give their thoughts. Here are some brief notes from the speakers.",

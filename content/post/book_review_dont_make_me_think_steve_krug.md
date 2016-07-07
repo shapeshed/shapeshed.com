@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-dont-make-me-think-steve-krug",
   "title": "Book Review: Don't Make Me Think - Steve Krug",
   "date": "2007-01-30T00:00:00+00:00",

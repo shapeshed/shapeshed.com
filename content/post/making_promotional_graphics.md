@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Making promotional graphics",
   "date": "2006-11-28T00:00:00+00:00",
   "description": "A well designed promotional graphic can be a great way to drive traffic through your site. Here's one way to do it.",

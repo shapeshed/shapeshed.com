@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Passwords are still an anti-pattern",
   "date": "2014-05-30T11:14:01+01:00",
   "description": "Passwords continue to harm the web. We need to rethink our approach to authentication.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "illustrator-101-opacity-masks",
   "title": "Illustrator 101 - Opacity Masks",
   "date": "2007-08-16T00:00:00+01:00",

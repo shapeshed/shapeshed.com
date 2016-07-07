@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "10 ways to stress test your design",
   "date": "2007-09-13T00:00:00+01:00",
   "description": "Usability, or making your site easy to use, is the holy grail of web design. Here are a few tips that to help ensure that your design isn't missing the mark.",

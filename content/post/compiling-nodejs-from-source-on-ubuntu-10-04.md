@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "compiling-nodejs-from-source-on-ubuntu-10-04",
   "title": "Compiling Node.js from source on Ubuntu 10.04",
   "date": "2012-01-04T00:00:00+00:00",

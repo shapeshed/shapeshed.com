@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "The commoditisation of hack days",
   "date": "2013-12-12T08:18:33+00:00",
   "description": "Far from be a chance to play and experiment sponsored hack days heap pressure on creative developers willing to give their time for free.",

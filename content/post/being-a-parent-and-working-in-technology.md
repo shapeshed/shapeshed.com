@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Being a Parent and Working in Technology",
   "date": "2014-01-06T10:28:40+00:00",
   "description": "Being a parent brings challenges to working as an engineer in Technology. In my experience with good software practices it can work.",

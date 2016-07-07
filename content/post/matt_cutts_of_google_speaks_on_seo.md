@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Matt Cutts Of Google Speaks On SEO",
   "date": "2006-08-02T00:00:00+01:00",
   "description": "Matt Cutts of Google has published six videos where he speaks on SEO from Google's perspective (well his own but he works there). He gives some interesting insights and offers a few recommendations. Most of the recommendations we know about but it is good to hear them from the horse's mouth.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-transparent-fills",
   "title": "Photoshop 101 - Transparent Fills",
   "date": "2007-10-03T00:00:00+01:00",

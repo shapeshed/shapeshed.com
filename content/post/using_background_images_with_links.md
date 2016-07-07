@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using background images with links",
   "date": "2006-10-29T00:00:00+01:00",
   "description": "Associating icons with links can in my opinion be a powerful design device. With a small amount of CSS it is simple to add icons into your links.",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Opera's Antitrust Action With Microsoft",
   "date": "2007-12-14T00:00:00+00:00",
   "description": "Opera have filed an antitrust complaint with the European Commission stating that Microsoft is abusing its market position by selling the Windows operating system together with its Internet Explorer browser.",

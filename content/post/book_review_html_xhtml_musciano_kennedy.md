@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-html-xhtml-musciano-kennedy",
   "title": "Book Review - HTML & XHTML - Musciano & Kennedy",
   "date": "2007-02-14T00:00:00+00:00",

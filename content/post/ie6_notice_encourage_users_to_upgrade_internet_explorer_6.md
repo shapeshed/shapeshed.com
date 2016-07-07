@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "ie6-notice-encourage-users-to-upgrade-internet-explorer-6",
   "title": "IE6 Notice - Encourage users to upgrade IE6",
   "date": "2009-07-28T00:00:00+01:00",

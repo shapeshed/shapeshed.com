@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Creating custom shapes in Photoshop",
   "date": "2007-02-21T00:00:00+00:00",
   "description": "A less well known feature of Photoshop is that you can create custom vector shapes and use them throughout your designs. Here's an of examples of how to do it. ",

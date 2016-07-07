@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Beating CSS Bloat",
   "date": "2007-01-03T00:00:00+00:00",
   "description": "After a hearty festive period I need to trim down my belly. Whilst I'm at it I might as well trim down a few CSS files. ",

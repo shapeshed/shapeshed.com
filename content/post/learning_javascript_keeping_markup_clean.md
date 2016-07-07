@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "learning-javascript-keeping-markup-clean",
   "title": "Learning Javascript - Keeping Markup Clean",
   "date": "2007-03-15T00:00:00+00:00",

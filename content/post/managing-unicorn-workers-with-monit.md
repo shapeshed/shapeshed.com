@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Managing Unicorn Workers with Monit",
   "date": "2011-09-12T00:00:00+01:00",
   "description": "A walkthrough on how to manage Unicorn worker processes using Monit",

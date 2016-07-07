@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-cs3-quick-selection-tool",
   "title": "Photoshop CS3 - Quick Selection Tool",
   "date": "2007-11-18T00:00:00+00:00",

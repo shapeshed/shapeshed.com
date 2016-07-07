@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "cloud-foundry-a-ruby-and-nodejs-developers-perspective",
   "title": "Cloud Foundry - a Ruby and Node.js developer's perspective",
   "date": "2011-04-15T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "branding-and-logos-from-ideas-to-implementation",
   "title": "Branding and logos - from ideas to implementation",
   "date": "2006-04-05T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-just-ask-shawn-lawton-henry",
   "title": "Book Review: Just Ask - Shawn Lawton Henry",
   "date": "2007-12-08T00:00:00+00:00",

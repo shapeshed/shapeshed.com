@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "RNIB Accessibility Blog", 
   "date": "2006-07-19T00:00:00+01:00",
   "description": "The RNIB has launched an Accessibility Blog",

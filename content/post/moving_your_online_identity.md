@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Moving your online identity",
   "date": "2007-07-30T00:00:00+01:00",
   "description": "I have recently moved house. Updating my online identity has been a tedious and time consuming task. A change in approach to managing online identity is desperately required. ",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-pen-tool",
   "title": "Photoshop 101 - The Pen Tool",
   "date": "2007-02-26T00:00:00+00:00",

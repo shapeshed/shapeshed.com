@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Book Review: Prioritizing Web Usability",
   "date": "2007-09-21T00:00:00+01:00",
   "description": "Neilsen delivers another brilliant book full of timely advice to help avoid common usability mistakes. A must read.",

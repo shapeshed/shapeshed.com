@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "New UK Postal Prices Will Impact Online Businesses",
   "date": "2006-08-21T00:00:00+01:00",
   "description": "Recent changes to postal prices in the UK will make online buinesses less competitive. ",

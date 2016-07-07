@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Site Navigation in CSS and XHTML",
   "date": "2007-05-30T00:00:00+01:00",
   "description": "Coding navigation in CSS and XHTML properly is important for both search engines and accessibility. Here's my take on how to do it, although I would be very interested to hear what others think.",

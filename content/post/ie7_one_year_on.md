@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "IE7 one year on",
   "date": "2007-10-26T00:00:00+01:00",
   "description": "Today is the launch of Leopard, Apple's latest version of the OSX operating system. With it comes Safari 3, a product that almost a year on from the launch of Vista highlights the stagnant performance of Internet Explorer 7. ",

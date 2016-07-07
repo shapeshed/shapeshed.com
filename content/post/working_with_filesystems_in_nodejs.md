@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "working-with-filesystems-in-nodejs",
   "title": "Working with filesystems in Node.js",
   "date": "2013-03-08T08:38:51+00:00",

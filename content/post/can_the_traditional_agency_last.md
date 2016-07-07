@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Can the traditional agency last?",
   "date": "2007-06-05T00:00:00+01:00",
   "description": "More and more websites are not just supporting businesses; they are the business. Is the traditional agency model dead or is it just time for an evolution?",

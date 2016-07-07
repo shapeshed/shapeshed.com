@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "First WSG London Event",
   "date": "2006-07-18T00:00:00+01:00",
   "description": "I was very pleased to be able to attend the first Web Standards Group event in London that was very well organised by <a href=\"http://muffinresearch.co.uk/about/\">Stuart</a> at Muffin Research. I discovered two excellent speeches and a community intent on not resting on their laurels. ",

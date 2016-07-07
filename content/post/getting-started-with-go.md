@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Getting started with Go",
   "date": "2014-03-14T14:26:38+00:00",
   "description": "Time to learn another language because I've got a restless brain. Next up Go.",

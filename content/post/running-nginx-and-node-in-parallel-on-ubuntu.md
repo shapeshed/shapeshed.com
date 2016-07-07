@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "running-nginx-and-node-in-parallel-on-ubuntu",
   "title": "Running Nginx and Node.js in parallel on Ubuntu",
   "date": "2012-05-31T00:00:00+01:00",

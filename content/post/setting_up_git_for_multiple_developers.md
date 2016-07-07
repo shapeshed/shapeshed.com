@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Setting up Git for multiple developers",
   "date": "2010-03-31T00:00:00+01:00",
   "description": "How to set up git for multiple developers with granular access permissions",

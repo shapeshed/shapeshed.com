@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Internet Explorer 7",
   "date": "2006-03-02T00:00:00+00:00",
   "description": "I've been testing out the new Internet Explorer 7 Beta for a while now and I must say that most if not all of it is very good. For a start the security is much better but as a designer I can't get over the quality of the rendering. It is near Mac like in quality.",

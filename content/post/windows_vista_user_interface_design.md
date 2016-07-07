@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Windows Vista User Interface Design",
   "date": "2006-07-18T00:00:00+01:00",
   "description": "If you haven't seen the Windows Vista site I think you should have a look. I'm quite impressed with it. For a moment I was quite excited at seeing a strong design used with tableless layout. What was a shame was that the site failed to validate. It wouldn't take much effort to get the site through the validator either.",

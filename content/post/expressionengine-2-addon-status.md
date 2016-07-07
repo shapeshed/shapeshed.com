@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "expressionengine-2-addon-status",
   "title": "ExpressionEngine 2 add-on status",
   "date": "2009-11-30T00:00:00+00:00",

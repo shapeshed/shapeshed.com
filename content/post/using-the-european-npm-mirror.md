@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using the European npm mirror",
   "date": "2014-01-09T15:39:41+00:00",
   "description": "If you are located in Europe the European npm mirror is fast and reliable. With a few tweaks you can easily publish to the main registry too.",

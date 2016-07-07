@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Building a Rails server with Puppet",
   "date": "2011-06-22T00:00:00+01:00",
   "description": "A short write up of my experience learning and configuring Puppet to build and manage servers to serve Rails applications.",

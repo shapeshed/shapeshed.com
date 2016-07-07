@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "google-sitemaps-google-opening-up",
   "title": "Google Sitemaps. Google opening up?",
   "date": "2006-03-04T00:00:00+00:00",

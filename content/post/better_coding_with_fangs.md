@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Better coding with Fangs",
   "date": "2006-04-10T00:00:00+01:00",
   "description": "Until today I wasn't aware of the Fangs plugin for Firefox. Whilst reading an article on evaluating accessibility over at 456 Berea Street I came across the plugin.",

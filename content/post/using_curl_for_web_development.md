@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Using cURL for web development",
   "date": "2009-08-11T00:00:00+01:00",
   "description": "Pre-installed on most OSX and Linux/Unix systems cURL is a great tool for testing and developing a website. Here's a quick overview of what you can do.",

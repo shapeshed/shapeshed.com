@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "API design for an event-driven world",
   "date": "2014-01-24T15:39:29+00:00",
   "description": "REST and HATEOAS are designed around request response cycles. New thinking is needed for bidirectional, event-driven, realtime APIs.",

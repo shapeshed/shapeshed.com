@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "10 Steps to Improving Usability",
   "date": "2006-09-20T00:00:00+01:00",
   "description": "Nobody likes a website they cannot use. Usability, or making a site easy to use, is the holy grail of web design. It is impossible to please everyone but by taking sensible steps you can significantly improve the usability of your site. ",

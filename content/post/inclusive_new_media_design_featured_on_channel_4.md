@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Inclusive New Media Design Featured on Channel 4",
   "date": "2008-07-02T00:00:00+01:00",
   "description": "Inclusive New Media Design, a project run by the Rix Centre was featured on Channel 4 News here in the UK.",

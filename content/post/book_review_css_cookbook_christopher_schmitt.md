@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "book-review-css-cookbook-christopher-schmitt",
   "title": "Book Review: CSS Cookbook - Christopher Schmitt",
   "date": "2007-02-22T00:00:00+00:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Continuously deploy Node apps with GitHub, Travis and Heroku",
   "date": "2013-12-10T08:08:29+00:00",
   "description": "GitHub, Travis and Heroku make it simple to build a continuous deployment pipeline for Node.js applications. Here is a walkthrough.",

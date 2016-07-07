@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "magento-and-epdq-part-1",
   "title": "Magento and ePDQ - Part 1",
   "date": "2009-02-25T00:00:00+00:00",

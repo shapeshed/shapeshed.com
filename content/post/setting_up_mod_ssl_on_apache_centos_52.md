@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "setting-up-mod-ssl-on-apache-centos-52",
   "title": "Setting up mod_ssl on Apache Centos 5.2",
   "date": "2008-07-28T00:00:00+01:00",

@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Running ExpressionEngine on Media Temple's (dv) Part 1",
   "date": "2007-11-22T00:00:00+00:00",
   "description": "In a series of articles I'm going to look at running ExpressionEngine on Media Temple's (dv) Base Server and optimising both ExpressionEngine and the server for optimum performance.",

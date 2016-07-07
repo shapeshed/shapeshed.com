@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "title": "Christmas Shopping",
   "date": "2006-12-03T00:00:00+00:00",
   "description": "Choosing to shop from the comfort of your home can be as stressful as going to the high street. Just why are so many online retailers still getting it wrong?",

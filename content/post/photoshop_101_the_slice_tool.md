@@ -1,5 +1,4 @@
 {
-  "layout": "post",
   "slug": "photoshop-101-the-slice-tool",
   "title": "Photoshop 101 - The Slice Tool",
   "date": "2006-10-30T00:00:00+00:00",
