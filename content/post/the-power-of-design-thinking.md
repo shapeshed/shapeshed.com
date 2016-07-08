@@ -1,6 +1,6 @@
 ---
 author: George Ornbo
-categories:
+tags:
 - opinion
 date: 2016-05-08T00:00:00Z
 title: The Power of Design Thinking

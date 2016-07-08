@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why we still hack
 author: George Ornbo
 tags: [Hacks, Opinion]
