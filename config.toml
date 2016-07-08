@@ -6,10 +6,10 @@ RSSUri = "atom.xml"
 copyright = "Shape Shed"
 metaDataFormat = "json"
 paginate = "3"
-GoogleAnalytics= "UA-324369-3"
+sitemap = "sitemap.xml"
 [permalinks]
   post= "/:slug/"
 [params]
   author = "George Ornbo"
-sitemap = "sitemap.xml"
-description = "Articles by George Ornbo, a London-based technologist"
+  description = "Articles by George Ornbo, a London-based technologist"
+  GoogleAnalytics= "UA-324369-3"
