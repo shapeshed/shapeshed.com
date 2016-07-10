@@ -37,8 +37,8 @@ Adobe have created [Kuler][4] an online application that seems to replicate most
 
 The colour creation and management tools are a powerful addition to Illustrator CS3 and are certainly worth learning about and using.
 
- [1]: http://shapeshed.com/images/articles/colour_guide.jpg 
- [2]: http://shapeshed.com/images/articles/live_color_edit.jpg 
- [3]: http://shapeshed.com/images/articles/adding_to_swatch.jpg 
+ [1]: https://shapeshed.com/images/articles/colour_guide.jpg 
+ [2]: https://shapeshed.com/images/articles/live_color_edit.jpg 
+ [3]: https://shapeshed.com/images/articles/adding_to_swatch.jpg 
  [4]: http://kuler.adobe.com/
- [5]: http://shapeshed.com/images/articles/adobe_labs.jpg 
+ [5]: https://shapeshed.com/images/articles/adobe_labs.jpg 

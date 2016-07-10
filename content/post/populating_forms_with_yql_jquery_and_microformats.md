@@ -39,7 +39,7 @@ Yes - there are issues of standards, privacy, security, and permissions but [som
 
 You can see [the demonstration][1] or [fork the code from GitHub][2].
 
- [1]: http://shapeshed.com/examples/hcardme/
+ [1]: https://shapeshed.com/examples/hcardme/
  [2]: http://github.com/shapeshed/hcardme/tree/master
  [3]: http://www.yahoo.com/
  [4]: http://developer.yahoo.net/blog/archives/2009/01/yql_with_microformats.html

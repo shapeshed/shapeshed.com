@@ -9,7 +9,7 @@
 
 ## Everyone knows web typography is lacking
 
-I am not the first to notice that Typography on the web is generally terrible. Many designers overlook the importance of Typography and leave text at default settings, using the safe but not so inspiring Arial. Textual layout is often an afterthought. Reading <a href="http://www.shapeshed.com/journal/elements_of_typographic_style_bringhurst/">Bringhurst's</a> book I realised there is an entire craft that is generally being overlooked. Devoting time to typography is an essential part of design and moreover legibility. Usability is rightly being seen as a key driver for successful websites, so whey isn't typography being mentioned more often?
+I am not the first to notice that Typography on the web is generally terrible. Many designers overlook the importance of Typography and leave text at default settings, using the safe but not so inspiring Arial. Textual layout is often an afterthought. Reading <a href="https://shapeshed.com/journal/elements_of_typographic_style_bringhurst/">Bringhurst's</a> book I realised there is an entire craft that is generally being overlooked. Devoting time to typography is an essential part of design and moreover legibility. Usability is rightly being seen as a key driver for successful websites, so whey isn't typography being mentioned more often?
 
 ## CSS does allow text to be styled extensively
 
@@ -48,7 +48,7 @@ I'm resolved to improve my typography after reading Bringhurst's book and the wo
  [4]: http://www.w3.org/TR/CSS21/text.html#propdef-text-transform
  [5]: http://www.w3.org/TR/REC-CSS2/selector.html#first-letter
  [6]: http://www.w3.org/TR/REC-CSS2/visudet.html#propdef-line-height
- [7]: http://www.shapeshed.com/examples/typography-css
+ [7]: https://shapeshed.com/examples/typography-css
  [8]: http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326
  [9]: http://webtypography.net/toc/
  [10]: http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography/

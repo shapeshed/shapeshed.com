@@ -28,6 +28,6 @@ Return to MySQL administrator and this time use the restore utility. Choose the 
 Don't forget that you will need to assign privileges to the user to access and use the new database. Do this in the normal way by clicking Accounts and then assigning rights to the user.
 
  [1]: http://dev.mysql.com/downloads/gui-tools/5.0.html
- [2]: http://shapeshed.com/images/articles/select_backup.jpg 
+ [2]: https://shapeshed.com/images/articles/select_backup.jpg 
  [3]: http://macromates.com/
- [4]: http://shapeshed.com/images/articles/rename_database.png 
+ [4]: https://shapeshed.com/images/articles/rename_database.png 

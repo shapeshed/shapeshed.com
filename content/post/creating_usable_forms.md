@@ -66,8 +66,8 @@ Once a user has completed a process make sure there is a message saying that the
 
 Leave a comment and join the form fun!
 
- [1]: http://shapeshed.com/images/articles/forms_breathe.png 
- [2]: http://shapeshed.com/images/articles/progress_bar.gif 
- [3]: http://www.shapeshed.com/examples/creating-usable-forms/
- [4]: http://shapeshed.com/images/articles/warning_message.png 
+ [1]: https://shapeshed.com/images/articles/forms_breathe.png 
+ [2]: https://shapeshed.com/images/articles/progress_bar.gif 
+ [3]: https://shapeshed.com/examples/creating-usable-forms/
+ [4]: https://shapeshed.com/images/articles/warning_message.png 
 

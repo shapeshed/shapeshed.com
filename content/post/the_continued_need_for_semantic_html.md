@@ -59,7 +59,7 @@ Google's [goal][23] is "to organize the world's information and make it universa
  [18]: http://microformats.org/wiki/hcard
  [19]: http://microformats.org/wiki/hcalendar
  [20]: http://microformats.org/wiki/hreview
- [21]: http://shapeshed.com/examples/hcardme/
+ [21]: https://shapeshed.com/examples/hcardme/
  [22]: http://www.mckinsey.com/
  [23]: http://www.google.com/corporate/
  [24]: http://oauth.net/

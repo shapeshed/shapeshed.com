@@ -44,7 +44,7 @@ Smart Objects are also great for photographs in that you can apply filters witho
 
 Since learning about Smart Filters I have used them heavily to improve my workflow and to accomodate changes from clients more efficiently. If you don't use them already I strongly suggest you do!
 
- [1]: http://shapeshed.com/images/articles/search_icon.jpg
- [2]: http://shapeshed.com/images/articles/convert_to_smart.jpg
- [3]: http://shapeshed.com/images/articles/edit_smart_object.jpg
- [4]: http://shapeshed.com/images/articles/completed_edit.jpg
+ [1]: https://shapeshed.com/images/articles/search_icon.jpg
+ [2]: https://shapeshed.com/images/articles/convert_to_smart.jpg
+ [3]: https://shapeshed.com/images/articles/edit_smart_object.jpg
+ [4]: https://shapeshed.com/images/articles/completed_edit.jpg

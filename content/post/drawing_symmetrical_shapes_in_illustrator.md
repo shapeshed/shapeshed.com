@@ -42,9 +42,9 @@ If everything has gone to plan you now have a complete, joined path which you ca
 
 Watch the whole process in the video below
 
-<iframe src="http://player.vimeo.com/video/33020843?title=0&amp;byline=0&amp;portrait=0" width="400" height="279" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://player.vimeo.com/video/33020843?title=0&amp;byline=0&amp;portrait=0" width="400" height="279" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
- [1]: http://shapeshed.com/images/articles/heart_shape.png 
- [2]: http://shapeshed.com/images/articles/left_heart.png 
- [3]: http://shapeshed.com/images/articles/reflection_target.png 
+ [1]: https://shapeshed.com/images/articles/heart_shape.png 
+ [2]: https://shapeshed.com/images/articles/left_heart.png 
+ [3]: https://shapeshed.com/images/articles/reflection_target.png 
 

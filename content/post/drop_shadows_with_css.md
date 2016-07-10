@@ -42,7 +42,7 @@ For the CSS we are going to create a div and use the image we have just created 
         {
         margin: 20px;
         width:250px; 
-        background: url(..http://shapeshed.com/images/drop_border.png) top left no-repeat;    
+        background: url(..https://shapeshed.com/images/drop_border.png) top left no-repeat;    
         float: right;
     }
 
@@ -91,7 +91,7 @@ Then I put this rule in the IE 6 and below stylesheet so it gets a gif rather th
 
     .drop-shadow
         {
-        background: url(..http://shapeshed.com/images/drop_border.gif) top left no-repeat;    
+        background: url(..https://shapeshed.com/images/drop_border.gif) top left no-repeat;    
     }
 
 Make sure this comes after your main style sheet so it will override it in the cascade.
@@ -116,8 +116,8 @@ Mac
 
 CSS3 will make this all much easier with border-image but for now we will have to wait...
 
- [1]: http://shapeshed.com/images/articles/drop_shadow_goal.jpg 
- [2]: http://www.shapeshed.com/examples/drop-shadows-css/
- [3]: http://shapeshed.com/images/articles/drop_shadow.jpg 
- [4]: http://shapeshed.com/images/fitzroy.jpg 
+ [1]: https://shapeshed.com/images/articles/drop_shadow_goal.jpg 
+ [2]: https://shapeshed.com/examples/drop-shadows-css/
+ [3]: https://shapeshed.com/images/articles/drop_shadow.jpg 
+ [4]: https://shapeshed.com/images/fitzroy.jpg 
  [5]: http://cdn.shapeshed.com/downloads/drop-shadows-css.zip

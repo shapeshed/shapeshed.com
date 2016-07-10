@@ -73,4 +73,4 @@ That's it - you should be up and running with the test site. Next up - customisa
  [5]: http://www.jasonlitka.com/yum-repository/
  [6]: http://www.magentocommerce.com/wiki/groups/227/installing_magento_via_shell_ssh
  [7]: http://www.magentocommerce.com/download
- [8]: http://shapeshed.com/images/articles/magento.jpg
+ [8]: https://shapeshed.com/images/articles/magento.jpg

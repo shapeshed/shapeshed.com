@@ -35,8 +35,8 @@ Importing the swatch is straight forward. In Photoshop for example go to Window 
 
 Instead of scribbling the colours on a piece of paper you now have them in a swatch that you can refer to at any point. Clicking a colour in the swatch makes it the primary colour so it should make things much easier!
 
- [1]: http://shapeshed.com/images/articles/kuler_home.jpg
+ [1]: https://shapeshed.com/images/articles/kuler_home.jpg
  [2]: http://kuler.adobe.com/
- [3]: http://www.shapeshed.com/journal/why_use_web_safe_colours/
- [4]: http://shapeshed.com/images/articles/download.jpg
- [5]: http://shapeshed.com/images/articles/fly_out.jpg
+ [3]: https://shapeshed.com/journal/why_use_web_safe_colours/
+ [4]: https://shapeshed.com/images/articles/download.jpg
+ [5]: https://shapeshed.com/images/articles/fly_out.jpg

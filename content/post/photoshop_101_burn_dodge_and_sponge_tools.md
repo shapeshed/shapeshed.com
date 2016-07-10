@@ -38,6 +38,6 @@ When you adjust saturation you adjust the strength of a colour. With the sponge 
 
 ![Example of the Sponge Tool][3]
 
- [1]: http://shapeshed.com/images/articles/dodge_tool.jpg 
+ [1]: https://shapeshed.com/images/articles/dodge_tool.jpg 
  [2]: http://www.flickr.com/photos/barbararich/380912249/
- [3]: http://shapeshed.com/images/articles/saturated_boat.jpg 
+ [3]: https://shapeshed.com/images/articles/saturated_boat.jpg 

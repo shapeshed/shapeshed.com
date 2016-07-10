@@ -29,7 +29,7 @@ Here's the before and after
 
 A simple tip but one I found I have already used over and over again.
 
- [1]: http://shapeshed.com/images/articles/original_desk.jpg "Original Image of Desk"
- [2]: http://shapeshed.com/images/articles/high_pass_normal.jpg "High Pass Original"
- [3]: http://shapeshed.com/images/articles/high_pass_overlay.jpg "Applying Overlay to the High Pass"
- [4]: http://shapeshed.com/images/articles/high_pass_before_after.jpg "High Pass Before and After"
+ [1]: https://shapeshed.com/images/articles/original_desk.jpg "Original Image of Desk"
+ [2]: https://shapeshed.com/images/articles/high_pass_normal.jpg "High Pass Original"
+ [3]: https://shapeshed.com/images/articles/high_pass_overlay.jpg "Applying Overlay to the High Pass"
+ [4]: https://shapeshed.com/images/articles/high_pass_before_after.jpg "High Pass Before and After"

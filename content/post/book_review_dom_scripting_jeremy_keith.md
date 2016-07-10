@@ -30,7 +30,7 @@
 
 <p><a href="http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1590595335">Buy from Amazon</a></p>
 
-<img src="http://www.shapeshed.com/images/books/five_stars.gif" title="Five out of Five" alt="Five out of Five" width="124" height="30" />
+<img src="https://shapeshed.com/images/books/five_stars.gif" title="Five out of Five" alt="Five out of Five" width="124" height="30" />
 
 <span class="rating">5</span>
 

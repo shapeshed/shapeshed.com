@@ -59,8 +59,8 @@ If you address all of these areas there is no reason that the (dv) Base should n
  [3]: http://www.getfirebug.com/
  [4]: http://developer.yahoo.com/yslow/
  [5]: https://addons.mozilla.org/en-US/firefox/addon/60
- [6]: http://shapeshed.com/images/articles/document_size.jpg 
- [7]: http://shapeshed.com/images/articles/firebug_load_time.jpg
+ [6]: https://shapeshed.com/images/articles/document_size.jpg 
+ [7]: https://shapeshed.com/images/articles/firebug_load_time.jpg
  [8]: http://uk.video.yahoo.com/video/play?vid=1040890&fr=
- [9]: http://shapeshed.com/running_expressionengine_on_media_temples_dv_part_1/
- [10]: http://shapeshed.com/running_expressionengine_on_media_temples_dv_part_2/
+ [9]: https://shapeshed.com/running_expressionengine_on_media_temples_dv_part_1/
+ [10]: https://shapeshed.com/running_expressionengine_on_media_temples_dv_part_2/

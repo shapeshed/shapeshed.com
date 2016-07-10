@@ -46,11 +46,11 @@ If you'd like to have the desktop you can get a copy for your screen resolution 
 * [1024 x 768][7]
 * [1400 x 900][8]
 
- [1]: http://shapeshed.com/images/articles/swirl_preview_500.png 
- [2]: http://shapeshed.com/images/articles/warp_tool.jpg 
- [3]: http://shapeshed.com/images/articles/warp_and_circle.jpg
- [4]: http://shapeshed.com/images/articles/twirl_tool_options.jpg 
- [5]: http://shapeshed.com/images/articles/multiple_twirl_shapes.jpg 
+ [1]: https://shapeshed.com/images/articles/swirl_preview_500.png 
+ [2]: https://shapeshed.com/images/articles/warp_tool.jpg 
+ [3]: https://shapeshed.com/images/articles/warp_and_circle.jpg
+ [4]: https://shapeshed.com/images/articles/twirl_tool_options.jpg 
+ [5]: https://shapeshed.com/images/articles/multiple_twirl_shapes.jpg 
  [6]: http://cdn.shapeshed.com/downloads/twirl_wallpaper/800x600.png
  [7]: http://cdn.shapeshed.com/downloads/twirl_wallpaper/1024x768.png
  [8]: http://cdn.shapeshed.com/downloads/twirl_wallpaper/1400x900.png

@@ -80,8 +80,8 @@ Tip: With Auto Select Layer off you can still select your layer quickly by holdi
 
 The final option is Show Transform Controls. This is the same as hitting Apple + T (CTRL + T on Windows) and allows you to reshape your selection by dragging one of the 8 selection points.
 
- [1]: http://shapeshed.com/images/articles/move_tool_copy.jpg 
- [2]: http://shapeshed.com/images/articles/align_example.png 
- [3]: http://shapeshed.com/images/articles/select_layers.png 
- [4]: http://shapeshed.com/images/articles/move_tool_options.png 
- [5]: http://shapeshed.com/images/articles/align_top.png 
+ [1]: https://shapeshed.com/images/articles/move_tool_copy.jpg 
+ [2]: https://shapeshed.com/images/articles/align_example.png 
+ [3]: https://shapeshed.com/images/articles/select_layers.png 
+ [4]: https://shapeshed.com/images/articles/move_tool_options.png 
+ [5]: https://shapeshed.com/images/articles/align_top.png 

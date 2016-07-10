@@ -61,5 +61,5 @@ Initially I thought this layout would use two divs. This would have broken up th
 
 Still haven't seen the example? You can [view it here][1]
 
- [1]: http://www.shapeshed.com/examples/negative-margins-typography
- [2]: http://shapeshed.com/images/articles/layout.png 
+ [1]: https://shapeshed.com/examples/negative-margins-typography
+ [2]: https://shapeshed.com/images/articles/layout.png 

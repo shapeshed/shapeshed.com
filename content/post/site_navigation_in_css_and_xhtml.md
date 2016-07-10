@@ -101,7 +101,7 @@ This code is license under a [Creative Corners 3.0 License][9] so you are free t
 
 Juan Manuel Lemus has kindly [translated this article][10] into Spanish. Thanks Juan!
 
- [1]: http://www.shapeshed.com/examples/site-navigation-in-css-and-xhtml
+ [1]: https://shapeshed.com/examples/site-navigation-in-css-and-xhtml
  [2]: http://cdn.shapeshed.com/downloads/site_navigation_in_css_and_xhtml.zip
  [3]: / "Return to the Home Page"
  [4]: /

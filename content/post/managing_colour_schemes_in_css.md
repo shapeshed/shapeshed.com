@@ -63,5 +63,5 @@ I find there are many benefits to using this method:
 * If a colour is not appropriate for an element of the design then you can quickly switch it to another one from the palette.
 * I have always found large CSS files are difficult to wade through. Using this method solves the problem for colour at least.
 
- [1]: http://shapeshed.com/images/articles/color_scheme.png 
+ [1]: https://shapeshed.com/images/articles/color_scheme.png 
  [2]: http://httpd.apache.org/docs/1.3/howto/htaccess.html

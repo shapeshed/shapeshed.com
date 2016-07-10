@@ -28,7 +28,7 @@ Using your pattern is simple. Draw a circle with a 1pt stroke of any color. Then
 
 Using pattern brushes in this way is another great way to create complex looking designs in no time.
 
- [1]: http://shapeshed.com/images/articles/add_brush.jpg 
- [2]: http://shapeshed.com/images/articles/add_pattern_options.jpg 
- [3]: http://www.shapeshed.com/journal/illustrator_101_the_blend_tool/
- [4]: http://shapeshed.com/images/articles/circles_pattern_brush.png 
+ [1]: https://shapeshed.com/images/articles/add_brush.jpg 
+ [2]: https://shapeshed.com/images/articles/add_pattern_options.jpg 
+ [3]: https://shapeshed.com/journal/illustrator_101_the_blend_tool/
+ [4]: https://shapeshed.com/images/articles/circles_pattern_brush.png 

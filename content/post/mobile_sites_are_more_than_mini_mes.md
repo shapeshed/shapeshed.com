@@ -41,9 +41,9 @@ I'm going to say something controversial. In some cases I prefer mobile versions
 
 Design theory has made great strides in focussing on making a site user-focussed and task-driven. Mobile sites represent the ultimate incarnation of that. Increasingly I'm feeling that stripping a site back to its bare bones can help to understand the product better and can inform the full web version and sometimes even usurp it.
 
- [1]: http://shapeshed.com/images/articles/bbc.jpg
- [2]: http://shapeshed.com/images/articles/cnn.jpg
- [3]: http://shapeshed.com/images/articles/pownce.jpg
- [4]: http://shapeshed.com/images/articles/flickr.jpg
- [5]: http://shapeshed.com/images/articles/twitter.jpg
+ [1]: https://shapeshed.com/images/articles/bbc.jpg
+ [2]: https://shapeshed.com/images/articles/cnn.jpg
+ [3]: https://shapeshed.com/images/articles/pownce.jpg
+ [4]: https://shapeshed.com/images/articles/flickr.jpg
+ [5]: https://shapeshed.com/images/articles/twitter.jpg
  [6]: http://m.twitter.com/

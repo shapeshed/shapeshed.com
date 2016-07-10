@@ -33,8 +33,8 @@ That's it - you now have a stroke on a stroke!
 
 If you want to save this layer style for reuse simply open the style panel and then with your layer selected choose New Style. Give your style a suitable name and it will sit there ready to apply in the future.
 
- [1]: http://shapeshed.com/images/articles/star_stroke_1.png 
- [2]: http://shapeshed.com/images/articles/star_stroke_2.png 
- [3]: http://shapeshed.com/images/articles/star_stroke.png 
- [4]: http://shapeshed.com/images/articles/star_stroke_3.png 
- [5]: http://shapeshed.com/images/articles/double_stroke.png
+ [1]: https://shapeshed.com/images/articles/star_stroke_1.png 
+ [2]: https://shapeshed.com/images/articles/star_stroke_2.png 
+ [3]: https://shapeshed.com/images/articles/star_stroke.png 
+ [4]: https://shapeshed.com/images/articles/star_stroke_3.png 
+ [5]: https://shapeshed.com/images/articles/double_stroke.png

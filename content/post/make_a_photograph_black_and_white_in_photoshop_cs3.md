@@ -36,7 +36,7 @@ Until I discovered this technique I was using desaturate to move colour images t
 
  [1]: http://www.flickr.com/photos/steffe/462926489/
  [2]: http://www.flickr.com/photos/steffe/
- [3]: http://shapeshed.com/images/articles/tree_colour.jpg
- [4]: http://shapeshed.com/images/articles/create_new_fill.jpg
- [5]: http://shapeshed.com/images/articles/black_white_options.jpg
- [6]: http://shapeshed.com/images/articles/tree_bw.jpg
+ [3]: https://shapeshed.com/images/articles/tree_colour.jpg
+ [4]: https://shapeshed.com/images/articles/create_new_fill.jpg
+ [5]: https://shapeshed.com/images/articles/black_white_options.jpg
+ [6]: https://shapeshed.com/images/articles/tree_bw.jpg

@@ -41,6 +41,6 @@ You can set preferences for Smart Guides by going to Illustrator > Preferences >
 
 ![Smart Guide Options][3]
 
- [1]: http://shapeshed.com/images/articles/illustrator_rulers.jpg
- [2]: http://shapeshed.com/images/articles/illustrator_paths_guides.jpg
- [3]: http://shapeshed.com/images/articles/smart_guide_options.jpg
+ [1]: https://shapeshed.com/images/articles/illustrator_rulers.jpg
+ [2]: https://shapeshed.com/images/articles/illustrator_paths_guides.jpg
+ [3]: https://shapeshed.com/images/articles/smart_guide_options.jpg

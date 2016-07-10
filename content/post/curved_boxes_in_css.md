@@ -48,14 +48,14 @@ We add the curves through the CSS by accessing the elements and applying a backg
 
     .curved-box h2
         {
-        background: #c3d0d4 url(..http://shapeshed.com/images/curve_top.png) no-repeat left top;
+        background: #c3d0d4 url(..https://shapeshed.com/images/curve_top.png) no-repeat left top;
         color: #f4fbfd;
         padding: 10px 15px 5px 15px;
     }
 
     .curved-box p
         {
-        background: #c3d0d4 url(..http://shapeshed.com/images/curve_bottom.png) no-repeat left bottom;
+        background: #c3d0d4 url(..https://shapeshed.com/images/curve_bottom.png) no-repeat left bottom;
         margin: 0px;
         padding: 5px 15px 10px 15px;
         text-align: left;
@@ -77,7 +77,7 @@ Once CSS3 is finally agreed it will be even easier to curve the edges of boxes. 
 
 Currently supported in Camino 1+, Firefox 1+, NOT IE. The code degrades gracefully so if it is not supported there will be no curves but it will still render. Check out [the example to see it in action.][4]
 
- [1]: http://shapeshed.com/images/articles/curved_box.png "Curved box in CSS"
- [2]: http://shapeshed.com/images/articles/cutting_the_curve.png "Cutting the curve in Photoshop"
- [3]: http://shapeshed.com/examples/curved-boxes-in-css
- [4]: http://shapeshed.com/examples/curved-boxes-in-css#css3
+ [1]: https://shapeshed.com/images/articles/curved_box.png "Curved box in CSS"
+ [2]: https://shapeshed.com/images/articles/cutting_the_curve.png "Cutting the curve in Photoshop"
+ [3]: https://shapeshed.com/examples/curved-boxes-in-css
+ [4]: https://shapeshed.com/examples/curved-boxes-in-css#css3

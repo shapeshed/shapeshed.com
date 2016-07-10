@@ -33,9 +33,9 @@ The strength of the library is not limited to the CSS frameworks but is also ver
  [2]: http://code.google.com/
  [3]: http://fireeagle.yahoo.net/
  [4]: http://developer.yahoo.com/yui/3/
- [5]: http://shapeshed.com/images/articles/fireeagle.png
+ [5]: https://shapeshed.com/images/articles/fireeagle.png
  [6]: http://oauth.net/
- [7]: http://shapeshed.com/images/articles/yui.png
+ [7]: https://shapeshed.com/images/articles/yui.png
  [8]: http://developer.yahoo.com/yui/3/cssreset/
  [9]: http://developer.yahoo.com/yui/3/cssfonts/
  [10]: http://developer.yahoo.com/yui/3/cssgrids/

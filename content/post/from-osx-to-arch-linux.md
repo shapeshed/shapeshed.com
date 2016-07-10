@@ -76,7 +76,7 @@ I'm not suggesting that Linux, Arch or dwm are right for everyone. In fact they 
 [5]: http://ellislab.com/expressionengine/
 [6]: http://nodejsbook.io/
 [7]: http://brew.sh/
-[8]: http://shapeshed.com/vim-eighteen-months-on/
+[8]: https://shapeshed.com/vim-eighteen-months-on/
 [9]: https://github.com/shapeshed/dotfiles
 [10]: http://backbonejs.org/
 [11]: http://marionettejs.com/
@@ -89,10 +89,10 @@ I'm not suggesting that Linux, Arch or dwm are right for everyone. In fact they 
 [18]: http://openbox.org/
 [19]: http://awesome.naquadah.org/
 [20]: http://i3wm.org/
-[21]: http://shapeshed.com/images/articles/i3-9.bigthumb.png
+[21]: https://shapeshed.com/images/articles/i3-9.bigthumb.png
 [22]: http://suckless.org/
 [23]: http://st.suckless.org/
 [24]: http://www.chromium.org/Home
 [25]: http://www.docker.io/
 [26]: https://www.mediatemple.net
-[27]: http://shapeshed.com/all-magic-comes-with-a-price/
+[27]: https://shapeshed.com/all-magic-comes-with-a-price/

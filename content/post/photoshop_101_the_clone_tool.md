@@ -19,7 +19,7 @@ To select the clone tool hit S on the keyboard. In order to use the tool you mus
 
 In the video below we are going to remove one of the birds. The photo is by [eMotionBlogster][2]. Watch as the selection point is defined and then the brush strokes removes the bird whilst keeping the correct sky colours behind it. As you use the clone tool you may need to resample as you go - you will see this happening in the video as the cursor turns to a target icon.
 
-<iframe src="http://player.vimeo.com/video/32934045?title=0&amp;byline=0&amp;portrait=0" width="640" height="470" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/32934045">Photoshop 101 - The Clone Tool</a> from <a href="http://vimeo.com/shapeshed">George Ornbo</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934045?title=0&amp;byline=0&amp;portrait=0" width="640" height="470" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934045">Photoshop 101 - The Clone Tool</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 You might also wish to try this technique with the [Healing Brush Tool][1]. It may save you time. Which tool you use for this purpose is personal choice.
 
@@ -38,6 +38,6 @@ There are a large number of options available to you with the Clone Tool:
 
 The pattern stamp tool lets you paint with a pattern. To define a pattern use the [Marquee Tool][3] to define the area that you want to use. Then select the Pattern Stamp Tool. Then go to Edit > Define Pattern. You will be asked to give your Pattern a name. In the toolbar at the top you will see an additional option box with Pattern in. As before you have the same options. This tool is useful in applying textured overlays to images. Try lowering the opacity and painting over an image to give it a grainy effect.
 
- [1]: http://www.shapeshed.com/photoshop_101_the_healing_brush_tool/
+ [1]: https://shapeshed.com/photoshop_101_the_healing_brush_tool/
  [2]: http://www.flickr.com/photos/emotionblogster/
- [3]: http://www.shapeshed.com/photoshop_101_the_marquee_tool/
+ [3]: https://shapeshed.com/photoshop_101_the_marquee_tool/

@@ -39,8 +39,8 @@ The web is still new and we are all still learning. I'm bored of Web 2.0 design 
 
 ![I'm bored][5]
 
- [1]: http://shapeshed.com/images/articles/ridiculous.png 
+ [1]: https://shapeshed.com/images/articles/ridiculous.png 
  [2]: http://www.basecamphq.com/
  [3]: http://www.flickr.com/
- [4]: http://shapeshed.com/images/articles/alpha.png 
- [5]: http://shapeshed.com/images/articles/bored.png 
+ [4]: https://shapeshed.com/images/articles/alpha.png 
+ [5]: https://shapeshed.com/images/articles/bored.png 

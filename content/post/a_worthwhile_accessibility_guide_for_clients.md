@@ -32,5 +32,5 @@ Fax: 020 8996 7001
 Email: <orders@bsi-global.com>  
 Online: [www.bsi-global.com/pas78][2]
 
- [1]: http://shapeshed.com/why_web_standards_matter/
+ [1]: https://shapeshed.com/why_web_standards_matter/
  [2]: http://www.bsi-global.com/pas78

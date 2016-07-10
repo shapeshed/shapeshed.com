@@ -108,7 +108,7 @@ Continuous Deployment removes the requirement to do any DevOps from you as a dev
 
 [1]: https://blog.heroku.com/archives/2013/10/8/websockets-public-beta
 [2]: https://github.com/shapeshed/express_example
-[3]: http://shapeshed.com/creating-a-basic-site-with-node-and-express/
+[3]: https://shapeshed.com/creating-a-basic-site-with-node-and-express/
 [4]: http://visionmedia.github.io/mocha/
 [5]: https://www.heroku.com/
 [6]: https://toolbelt.heroku.com/

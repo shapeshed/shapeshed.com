@@ -25,5 +25,5 @@ In the example below you will see I have painted back in the colour for the King
 
  [1]: http://www.flickr.com/photos/64684201@N00/
  [2]: http://www.flickr.com/
- [3]: http://shapeshed.com/images/articles/history_brush.gif 
- [4]: http://shapeshed.com/images/articles/history_brush_example.jpg 
+ [3]: https://shapeshed.com/images/articles/history_brush.gif 
+ [4]: https://shapeshed.com/images/articles/history_brush_example.jpg 

@@ -54,9 +54,9 @@ The real beauty of symbols is that if a client asks for the an amend you can do 
 Another bonus of symbols is that the more you work the more you will build up a library of symbols allowing you re-use symbols on projects and save time. Maybe you could go and lie on the beach instead...
 
  [1]: http://cdn.shapeshed.com/downloads/symbols.ai
- [2]: http://shapeshed.com/images/articles/symbol_final.png 
- [3]: http://shapeshed.com/images/articles/symbols_1.png 
- [4]: http://shapeshed.com/images/articles/symbols_2.png 
- [5]: http://shapeshed.com/images/articles/symbols_4.png 
- [6]: http://shapeshed.com/images/articles/sprayer_tool_options.png 
- [7]: http://shapeshed.com/images/articles/first_spray.png 
+ [2]: https://shapeshed.com/images/articles/symbol_final.png 
+ [3]: https://shapeshed.com/images/articles/symbols_1.png 
+ [4]: https://shapeshed.com/images/articles/symbols_2.png 
+ [5]: https://shapeshed.com/images/articles/symbols_4.png 
+ [6]: https://shapeshed.com/images/articles/sprayer_tool_options.png 
+ [7]: https://shapeshed.com/images/articles/first_spray.png 

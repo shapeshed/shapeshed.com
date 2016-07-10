@@ -34,7 +34,7 @@ With a bit of simple CSS you can add wallpaper to a site quickly and easily. App
     body
         {
         font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
-        background: url(..http://shapeshed.com/images/wallpaper.gif) repeat;
+        background: url(..https://shapeshed.com/images/wallpaper.gif) repeat;
         color: #333366;    
         text-align:center;
     }
@@ -72,8 +72,8 @@ Online there are a number of places for you to find wallpapers for both use and 
 
 Or you could just fire up Photoshop and start creating!
 
- [1]: http://www.shapeshed.com/examples/wallpaper-for-websites/
- [2]: http://shapeshed.com/images/articles/morris.jpg 
- [3]: http://shapeshed.com/images/articles/Jasmine.jpg
+ [1]: https://shapeshed.com/examples/wallpaper-for-websites/
+ [2]: https://shapeshed.com/images/articles/morris.jpg 
+ [3]: https://shapeshed.com/images/articles/Jasmine.jpg
  [4]: http://k10k.net/pixelpatterns/
  [5]: http://www.squidfingers.com/patterns/

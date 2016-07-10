@@ -18,7 +18,7 @@
 
 <span class="type">product</span>
 
-<img src="http://shapeshed.com/images/articles/elements.png" alt="Element of Typographic Style - Robert Bringhurst" title="Elements of Typographic Style - Robert Bringhurst" width="150" height="263" class="right" />
+<img src="https://shapeshed.com/images/articles/elements.png" alt="Element of Typographic Style - Robert Bringhurst" title="Elements of Typographic Style - Robert Bringhurst" width="150" height="263" class="right" />
 
 <h3 class="fn">The Elements of Typographic Style</h3>
 
@@ -30,7 +30,7 @@
 
 <p><a href="http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326">Buy from Amazon</a></p>
 
-<img src="http://shapeshed.com/images/books/five_stars.gif" title="Five out of Five" alt="Five out of Five" width="124" height="30" />
+<img src="https://shapeshed.com/images/books/five_stars.gif" title="Five out of Five" alt="Five out of Five" width="124" height="30" />
 
 <span class="rating">5</span>
 

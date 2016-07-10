@@ -35,13 +35,13 @@ Then simply move the sliders until you get your desired color. Easy!
 
 Here's a video of the whole thing so you can see how quickly it can be done. 
 
-<iframe src="http://player.vimeo.com/video/33020832?title=0&amp;byline=0&amp;portrait=0" width="400" height="232" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://player.vimeo.com/video/33020832?title=0&amp;byline=0&amp;portrait=0" width="400" height="232" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Of course you could also use the Color Replacement Tool but I like this way!
 
  [1]: http://www.flickr.com/photos/stevewilde/189604745/
  [2]: http://www.flickr.com/photos/stevewilde/
- [3]: http://shapeshed.com/images/articles/doors_original.jpg
- [4]: http://shapeshed.com/images/articles/quick_select.jpg
- [5]: http://shapeshed.com/images/articles/adjustment_layer.jpg
- [6]: http://shapeshed.com/images/articles/doors_final.jpg
+ [3]: https://shapeshed.com/images/articles/doors_original.jpg
+ [4]: https://shapeshed.com/images/articles/quick_select.jpg
+ [5]: https://shapeshed.com/images/articles/adjustment_layer.jpg
+ [6]: https://shapeshed.com/images/articles/doors_final.jpg

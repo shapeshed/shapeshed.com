@@ -42,7 +42,7 @@ You can of course have Google Calendar as the master. Under calendar details you
  [1]: http://www.google.com/calendar
  [2]: https://www.google.com/accounts/NewAccount
  [3]: http://www.icalx.com/
- [4]: http://shapeshed.com/images/articles/icalx.jpg 
- [5]: http://shapeshed.com/images/articles/ical_publish.jpg 
- [6]: http://shapeshed.com/images/articles/auto_publish.jpg 
- [7]: http://shapeshed.com/images/articles/manage_calendars.jpg
+ [4]: https://shapeshed.com/images/articles/icalx.jpg 
+ [5]: https://shapeshed.com/images/articles/ical_publish.jpg 
+ [6]: https://shapeshed.com/images/articles/auto_publish.jpg 
+ [7]: https://shapeshed.com/images/articles/manage_calendars.jpg

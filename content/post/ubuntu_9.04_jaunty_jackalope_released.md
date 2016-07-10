@@ -29,7 +29,7 @@ The Ubuntu project has stated that it wants to change the status quo in computin
 
 Not specific to Ubuntu (it is available on most Linux desktops) is a dazzling and sometimes overwhelming array of Desktop effects via [Compiz][4]. [Apple][5] has long led the market in terms of visual appearance but Linux is catching up and I'd argue pushing the envelope. Here's a quick video of some of what's on offer:
 
-<object width="640" height="363"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=4277921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=4277921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="363"></embed></object>
+<object width="640" height="363"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="https://vimeo.com/moogaloop.swf?clip_id=4277921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="https://vimeo.com/moogaloop.swf?clip_id=4277921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="363"></embed></object>
   
 [Ubuntu 9.04][6] from [George Ornbo][7] on [Vimeo][8]. 
 
@@ -38,11 +38,11 @@ Not specific to Ubuntu (it is available on most Linux desktops) is a dazzling an
 So congratulations to Canonical for getting another release out of the door and if you haven't given Ubuntu a go yet [why not try out the new release?][9]
 
  [1]: http://www.ubuntu.com/
- [2]: http://shapeshed.com/images/articles/notification.jpg
+ [2]: https://shapeshed.com/images/articles/notification.jpg
  [3]: http://www.openoffice.org/
  [4]: http://www.compiz.org/
  [5]: http://www.apple.com/
- [6]: http://vimeo.com/4277921
- [7]: http://vimeo.com/user472031
- [8]: http://vimeo.com
+ [6]: https://vimeo.com/4277921
+ [7]: https://vimeo.com/user472031
+ [8]: https://vimeo.com
  [9]: http://www.ubuntu.com/getubuntu/download

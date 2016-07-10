@@ -40,5 +40,5 @@ Breaking, or bending grids is simple. Don't get rid of grids but don't be constr
  [2]: http://www.markboulton.co.uk/
  [3]: http://www.photoshopbrushes.com/brushes/39.htm
  [4]: http://www.fontriver.com/font/neoprint_m319/
- [5]: http://shapeshed.com/images/articles/load_brushes.jpg 
- [6]: http://shapeshed.com/images/articles/distressed_example.png
+ [5]: https://shapeshed.com/images/articles/load_brushes.jpg 
+ [6]: https://shapeshed.com/images/articles/distressed_example.png

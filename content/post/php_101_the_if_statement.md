@@ -80,7 +80,7 @@ The alternative syntax is more difficult to read but much shorter.
 *   [Robot photograph][5] taken by [pietroizzo][6]
 *   Original street art by Pixelpancho
 
-[1]: http://shapeshed.com/images/articles/if-robot.jpg
+[1]: https://shapeshed.com/images/articles/if-robot.jpg
 [2]: http://www.php.net/manual/en/control-structures.if.php
 [3]: http://www.tizag.com/phpT/if.php
 [4]: http://www.w3schools.com/php/php_if_else.asp

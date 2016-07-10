@@ -28,5 +28,5 @@ Secondly Internet Explorer 6 accounts for around half of the visitors. In three 
 For corporate clients at least it seems that IE6 is going to be with us for a while. For this sample it seems that the forced update of IE7 has had no noticeable effect on browser usage. The 4% shift to IE7 can probably be accounted for from upgrades to Vista. For corporate clients it seems we will need to continue supporting IE6 for a while yet. I wonder what other people's experience of the results of the forced update are?
 
  [1]: http://support.microsoft.com/default.aspx/kb/946202
- [2]: http://shapeshed.com/images/articles/browser_usage.jpg
- [3]: http://shapeshed.com/images/articles/ie_split.jpg
+ [2]: https://shapeshed.com/images/articles/browser_usage.jpg
+ [3]: https://shapeshed.com/images/articles/ie_split.jpg

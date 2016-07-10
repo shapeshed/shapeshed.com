@@ -85,5 +85,5 @@ Using the DOM in CSS is not limited to classes or ids that you create. You can u
 If you are using CSS, understanding and using the DOM is well worth it. What's more once you have grasped the concept a whole new world is opened up to you including XML and Javascript. So all together... ahhhh what a beautiful couple. I'm off for a beer.
 
  [1]: http://www.w3.org/TR/DOM-Level-2-Core/introduction.html
- [2]: http://shapeshed.com/images/articles/dom_tree.png 
- [3]: http://shapeshed.com/examples/css-dom/
+ [2]: https://shapeshed.com/images/articles/dom_tree.png 
+ [3]: https://shapeshed.com/examples/css-dom/

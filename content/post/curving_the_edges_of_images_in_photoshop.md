@@ -56,12 +56,12 @@ You can use any shape to create a Vector mask so why not explore the elements wi
 
 ### Still don't get it? Watch the movie!
 
-<iframe src="http://player.vimeo.com/video/32934122?title=0&amp;byline=0&amp;portrait=0" width="640" height="370" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/32934122">Curving the Edges of Images in Photoshop</a> from <a href="http://vimeo.com/shapeshed">George Ornbo</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934122?title=0&amp;byline=0&amp;portrait=0" width="640" height="370" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934122">Curving the Edges of Images in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
- [1]: http://shapeshed.com/images/articles/rectangle_tool.jpg 
- [2]: http://shapeshed.com/images/articles/curved_rectangles.png 
- [3]: http://shapeshed.com/images/articles/draw_curve.jpg 
- [4]: http://shapeshed.com/images/articles/select_shape.jpg 
- [5]: http://shapeshed.com/images/articles/add_vector_mask.jpg 
- [6]: http://shapeshed.com/images/articles/final_curved_shape.jpg 
+ [1]: https://shapeshed.com/images/articles/rectangle_tool.jpg 
+ [2]: https://shapeshed.com/images/articles/curved_rectangles.png 
+ [3]: https://shapeshed.com/images/articles/draw_curve.jpg 
+ [4]: https://shapeshed.com/images/articles/select_shape.jpg 
+ [5]: https://shapeshed.com/images/articles/add_vector_mask.jpg 
+ [6]: https://shapeshed.com/images/articles/final_curved_shape.jpg 
 

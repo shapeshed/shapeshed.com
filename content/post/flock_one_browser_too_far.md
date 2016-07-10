@@ -16,7 +16,7 @@ Moreover development doesn't seem be going very fast. They are still on release 
 
 Perhaps I'll be proved wrong but I wouldn't put my money into it.
 
-[1]: http://shapeshed.com/images/articles/flockLogo.png
+[1]: https://shapeshed.com/images/articles/flockLogo.png
 [2]: http://www.flock.com
 [3]: http://www.mozilla.com/firefox/
 [4]: http://www.microsoft.com/windows/ie/

@@ -62,7 +62,7 @@ Much of this article was derived from Andrew Grim's article ['Where Unicorns go 
 [1]: http://unicorn.bogomips.org/
 [2]: http://tomayko.com/
 [3]: http://tomayko.com/writings/unicorn-is-unix
-[4]: http://shapeshed.com/building-a-rails-development-server/
+[4]: https://shapeshed.com/building-a-rails-development-server/
 [5]: http://www.modrails.com/
 [6]: http://mmonit.com/monit/
 [7]: http://god.rubyforge.org/

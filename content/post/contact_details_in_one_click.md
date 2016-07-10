@@ -11,7 +11,7 @@
 
 <p>This tutorial will show how to create a button that will import contact details into an address book. All you need is some knowledge of XHTML and a graphics editor. But before the explanation you want to see it working don't you?</p>
 
-<a class="image" href="http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://www.shapeshed.com/examples/hcard/"><img src="/images/articles/hcard_example.jpg" alt="Add me to your address book" title="Add me to your address book" width="400" height="121" /></a>
+<a class="image" href="http://suda.co.uk/projects/X2V/get-vcard.php?uri=https://shapeshed.com/examples/hcard/"><img src="/images/articles/hcard_example.jpg" alt="Add me to your address book" title="Add me to your address book" width="400" height="121" /></a>
 
 
 <h3>How is it done? Meet Microformats</h3>
@@ -28,7 +28,7 @@
 <p>Microformats sprinkle in some class names to give further semantic meaning to the code. They also allow other programs to access the information contained within the class names.  There is even a handy <a href="http://microformats.org/code/hcard/creator">hcard generator</a> to do the work for you. Otherwise you can review the <a href="http://microformats.org/wiki/hcard">hcard specification</a>. You can attach the class name to any element so you are free to use the full power of XHTML to display it. So now my contact details look like this:</p>
 
     <div class="vcard">
-     <a class="url fn" href="http://www.shapeshed.com">George Ornbo</a>
+     <a class="url fn" href="https://shapeshed.com">George Ornbo</a>
      <div class="org">Shape Shed</div>
      <a class="email" href="mailto:george@shapeshed.com">george@shapeshed.com</a>
      <div class="adr">
@@ -40,13 +40,13 @@
      <div class="tel">+44(0)208 1419116</div>
     </div>
 
-<p>Have a look at <a href="http://www.shapeshed.com/examples/hcard/">the example page</a>. You can place this XHTML in the same page or a page anywhere on the web - it doesn't matter.</p>
+<p>Have a look at <a href="https://shapeshed.com/examples/hcard/">the example page</a>. You can place this XHTML in the same page or a page anywhere on the web - it doesn't matter.</p>
 
 <h3>Creating the vcard</h3>
 
-<p>Now I've got my contact details in semantic code I can do things with it. Like send it to a page that will generate a vCard. This is what we use with the image link. <a href="http://suda.co.uk">Brian Suda</a> has a big Microformat brain and has written <a href="http://suda.co.uk/projects/X2V/">code to transfer an hCard on any page into a vCard</a>. Amazing. So to generate a vCard from my XTHML page I just send the details to the script with the link: http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://www.shapeshed.com/examples/hcard/. The user doesn't care of course and they get my contact details in just one click.</p>
+<p>Now I've got my contact details in semantic code I can do things with it. Like send it to a page that will generate a vCard. This is what we use with the image link. <a href="http://suda.co.uk">Brian Suda</a> has a big Microformat brain and has written <a href="http://suda.co.uk/projects/X2V/">code to transfer an hCard on any page into a vCard</a>. Amazing. So to generate a vCard from my XTHML page I just send the details to the script with the link: http://suda.co.uk/projects/X2V/get-vcard.php?uri=https://shapeshed.com/examples/hcard/. The user doesn't care of course and they get my contact details in just one click.</p>
 
-<a href="http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://www.shapeshed.com/examples/hcard/"><img src="/images/articles/hcard_example.jpg" alt="Add me to your address book" title="Add me to your address book" width="400" height="121" /></a>
+<a href="http://suda.co.uk/projects/X2V/get-vcard.php?uri=https://shapeshed.com/examples/hcard/"><img src="/images/articles/hcard_example.jpg" alt="Add me to your address book" title="Add me to your address book" width="400" height="121" /></a>
 
 <h3>Amazed? This is just the beginning</h3>
 

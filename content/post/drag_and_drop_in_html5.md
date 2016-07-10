@@ -47,7 +47,7 @@ Because I'm a standards zealot I'm not sure about the inline javascript proposed
 * [HTML5 Drag and Drop Working Draft][5]
 * [Drag and Drop - MDC][6]
 
- [1]: http://shapeshed.com/examples/drag-and-drop/
+ [1]: https://shapeshed.com/examples/drag-and-drop/
  [2]: http://github.com/shapeshed/HTML-5/tree/master
  [3]: http://dev.w3.org/html5/webstorage/#storage-0
  [4]: http://www.theleagueofmoveabletype.com/fonts/1-junction

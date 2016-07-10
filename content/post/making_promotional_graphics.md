@@ -48,9 +48,9 @@ To give the image a gloss we are going to use the Pen Tool to draw a highlight o
 
 Be aware that Google will not spider the text that is on your image. If the copy is very important you may with to use a background image and keep the text. At least you should specify ALT text for the image.
 
- [1]: http://shapeshed.com/images/articles/glossy_button_final.jpg 
- [2]: http://shapeshed.com/images/articles/blending.jpg 
- [3]: http://shapeshed.com/images/articles/gradiant.jpg
- [4]: http://shapeshed.com/images/articles/button_gradiant.jpg 
- [5]: http://shapeshed.com/images/articles/strawberry.jpg
- [6]: http://shapeshed.com/images/articles/gloss.jpg 
+ [1]: https://shapeshed.com/images/articles/glossy_button_final.jpg 
+ [2]: https://shapeshed.com/images/articles/blending.jpg 
+ [3]: https://shapeshed.com/images/articles/gradiant.jpg
+ [4]: https://shapeshed.com/images/articles/button_gradiant.jpg 
+ [5]: https://shapeshed.com/images/articles/strawberry.jpg
+ [6]: https://shapeshed.com/images/articles/gloss.jpg 

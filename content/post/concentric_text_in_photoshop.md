@@ -28,6 +28,6 @@ Make sure the path is selected and then select the text tool. Hover over the sta
 
 ![Concentric text example][3]
 
- [1]: http://shapeshed.com/images/articles/guide.png 
- [2]: http://shapeshed.com/images/articles/guide_paths.png 
- [3]: http://shapeshed.com/images/articles/concentric_text.png 
+ [1]: https://shapeshed.com/images/articles/guide.png 
+ [2]: https://shapeshed.com/images/articles/guide_paths.png 
+ [3]: https://shapeshed.com/images/articles/concentric_text.png 

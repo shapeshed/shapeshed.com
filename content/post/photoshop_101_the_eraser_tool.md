@@ -45,11 +45,11 @@ Have a look at this photo by [mipdesign][6] on [ Flickr][7]. On the left is the 
 
 ![Magic Eraser Tool][8]
 
- [1]: http://shapeshed.com/photoshop_101_the_brush_tool/
- [2]: http://shapeshed.com/images/articles/eraser_optoins.jpg "Eraser image options"
- [3]: http://shapeshed.com/photoshop_101_the_history_brush_tool/
- [4]: http://shapeshed.com/photoshop_101_the_healing_brush_tool/
- [5]: http://shapeshed.com/photoshop_101_the_magic_wand_tool/
+ [1]: https://shapeshed.com/photoshop_101_the_brush_tool/
+ [2]: https://shapeshed.com/images/articles/eraser_optoins.jpg "Eraser image options"
+ [3]: https://shapeshed.com/photoshop_101_the_history_brush_tool/
+ [4]: https://shapeshed.com/photoshop_101_the_healing_brush_tool/
+ [5]: https://shapeshed.com/photoshop_101_the_magic_wand_tool/
  [6]: http://www.flickr.com/photos/mlpdesign/
  [7]: http://www.flickr.com
- [8]: http://shapeshed.com/images/articles/magic_eraser_tool.jpg "Magic Eraser Tool"
+ [8]: https://shapeshed.com/images/articles/magic_eraser_tool.jpg "Magic Eraser Tool"

@@ -21,7 +21,7 @@ One of the main drivers of wanting to redesign was a desire to move to HTML5. Th
 
 ## If you can see this...
 
-<iframe src="http://player.vimeo.com/video/33020750?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/33020750">HTML5 is alive</a> from <a href="http://vimeo.com/shapeshed">George Ornbo</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/33020750?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/33020750">HTML5 is alive</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ..you are in the future.
 
@@ -55,5 +55,5 @@ Previously I've pimped myself as a full-service agency. In reality I'm a one man
 
 My first ever talk is next week at the <a href="http://www.meetup.com/londoneers/calendar/11667855/">London ExpressionEngine Meetup</a>. Come along!
 
- [1]: http://shapeshed.com/images/articles/border_radius_comparison.png 
+ [1]: https://shapeshed.com/images/articles/border_radius_comparison.png 
 

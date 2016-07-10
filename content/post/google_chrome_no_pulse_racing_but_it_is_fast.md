@@ -52,10 +52,10 @@ Chrome is a positive step forward for the average user's experience of the inter
  [4]: http://www.google.com/reader
  [5]: http://ejohn.org/blog/javascript-performance-rundown/
  [6]: http://www.hicksdesign.co.uk/journal/initial-thoughts-on-google-chrome
- [7]: http://shapeshed.com/images/articles/contextual.jpg
- [8]: http://shapeshed.com/images/articles/fisher-price.jpg
+ [7]: https://shapeshed.com/images/articles/contextual.jpg
+ [8]: https://shapeshed.com/images/articles/fisher-price.jpg
  [9]: http://ben-ward.co.uk/
- [10]: http://shapeshed.com/images/articles/most_visited.jpg
+ [10]: https://shapeshed.com/images/articles/most_visited.jpg
  [11]: http://www.microsoft.com/windows/internet-explorer/beta/default.aspx
  [12]: http://www.mozilla.com/firefox
  [13]: http://www.opera.com/

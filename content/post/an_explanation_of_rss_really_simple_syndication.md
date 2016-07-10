@@ -30,8 +30,8 @@ The idea is much like email. Feeds you have selected will automatically come to 
 
 ![Articles][5]
 
- [1]: http://shapeshed.com/images/articles/copy_link.png 
+ [1]: https://shapeshed.com/images/articles/copy_link.png 
  [2]: http://www.mozilla.com/thunderbird/
  [3]: http://www.opencommunity.co.uk/vienna2.html
- [4]: http://shapeshed.com/images/articles/new_sub.png 
- [5]: http://shapeshed.com/images/articles/articles.png 
+ [4]: https://shapeshed.com/images/articles/new_sub.png 
+ [5]: https://shapeshed.com/images/articles/articles.png 

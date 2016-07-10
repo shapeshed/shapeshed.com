@@ -76,7 +76,7 @@ Web Standards include a commitment to the code used behind the site, ensuring th
 
 As yet there is no mark of Accreditation for a web designer. Until there is asking about Usability, Accessiblity and Web Standards is a good way to ensure that the designer you are employing is committed to the best practices on the web. If you fail to source a designer committed to this trio then you are failing to secure the benefits gained from these philosophies and techiniques.
 
- [1]: http://shapeshed.com/10_steps_to_improving_usability/
+ [1]: https://shapeshed.com/10_steps_to_improving_usability/
  [2]: http://www.w3.org/TR/WAI-WEBCONTENT/
  [3]: http://www.rnib.org.uk/
  [4]: http://www.drc-gb.org/

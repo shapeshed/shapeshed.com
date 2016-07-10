@@ -35,4 +35,4 @@ What do you think? Why has IE7 adoption been so slow?
  [1]: http://www.microsoft.com/windows/products/windowsvista/default.mspx
  [2]: http://www.vistaisrubbish.com/
  [3]: http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2007/09/24/cnpc124.xml
- [4]: http://shapeshed.com/images/articles/browser_market_share.jpg 
+ [4]: https://shapeshed.com/images/articles/browser_market_share.jpg 

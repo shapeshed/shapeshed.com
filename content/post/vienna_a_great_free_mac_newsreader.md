@@ -23,7 +23,7 @@ This would seem to be the market leader (I don't know this). Apart from the logo
 [Vienna][5]  
 This wins for me. A simple uncluttered interface and an in-built browser make this a breeze. It does everything I want it to do allowing me to read stories quickly and easily. It is like the RSS reader that Tiger never had. What's more amazingly it is free. Cost Free.
 
-[1]: http://shapeshed.com/images/articles/vienna.jpg 
+[1]: https://shapeshed.com/images/articles/vienna.jpg 
 [2]: http://www.newsfirerss.com/
 [3]: http://www.apple.com/macosx/features/safari/
 [4]: http://www.newsgator.com/Home.aspx

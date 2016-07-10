@@ -29,7 +29,7 @@ Using the Automate function I can ask Photoshop to split things out for me. Then
 
 It is not always 100% perfect but I usually find it is worth a try before using a more time consuming technique.
 
- [1]: http://shapeshed.com/images/articles/photos.jpg 
- [2]: http://shapeshed.com/images/articles/cropped_photos.jpg 
- [3]: http://shapeshed.com/images/articles/icon_ideas.jpg 
- [4]: http://shapeshed.com/images/articles/cropped_ideas.jpg 
+ [1]: https://shapeshed.com/images/articles/photos.jpg 
+ [2]: https://shapeshed.com/images/articles/cropped_photos.jpg 
+ [3]: https://shapeshed.com/images/articles/icon_ideas.jpg 
+ [4]: https://shapeshed.com/images/articles/cropped_ideas.jpg 

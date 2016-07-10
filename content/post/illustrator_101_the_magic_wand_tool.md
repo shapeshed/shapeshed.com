@@ -13,7 +13,7 @@
 
 <p>In this article I'm going to use a photograph of Les Dawson, a legendary British comedian. For those of you who don't know him he had a deadpan delivery and remains one of my favorites. In this example I placed (File > Place) the image into my illustrator file and used the Photo High Fidelity option in Live Trace. You will see below that the Live Trace does an amazing job of transforming the Photography to a vector based image.</p>
 
-<img src="http://shapeshed.com/images/articles/les_photo.jpg" alt="Les Dawson" title="Les Dawson" width="399" height="299" />
+<img src="https://shapeshed.com/images/articles/les_photo.jpg" alt="Les Dawson" title="Les Dawson" width="399" height="299" />
 
 <h3>How the tool works</h3>
 <p>The Magic Wand Tool works by selecting objects within your file that have the same attributes as the one you first click. The attributes you can target are:</p>
@@ -32,7 +32,7 @@
 
 <p>Let's say we want to select the highlights in the image. By choosing the Magic Wand tool we can target this. Click on the colour that you want to change and all of the other colours in the image will also be selected. This can save hours. Instead of going through the image and individually selecting each colour you can do it with one click.</p> 
 
-<img src="http://shapeshed.com/images/articles/les_selection.jpg" alt="Les Dawson Selection" title="Les Dawson Selection" width="504" height="378" />
+<img src="https://shapeshed.com/images/articles/les_selection.jpg" alt="Les Dawson Selection" title="Les Dawson Selection" width="504" height="378" />
 
 <p>If you find that the wand selects too many different selections you can remove selections by holding down ALT on Windows or Option on Mac and clicking. This is a really useful feature allowing you to precisely target what you looking to change. </p>
 
@@ -40,7 +40,7 @@
 
 <p>You can also customise this tool to select exactly the objects you want to target. To bring up the menu choose Window > Magic Wand. This will show you the following menu:</p>
 
-<img src="http://shapeshed.com/images/articles/magic_wand_options.jpg" alt="Magic Wand Options" title="Magic Wand Options" width="213" height="149" />
+<img src="https://shapeshed.com/images/articles/magic_wand_options.jpg" alt="Magic Wand Options" title="Magic Wand Options" width="213" height="149" />
 
 <p>You may need to click the flyout menu in the top right hand corner to see all of these options.</p> 
 

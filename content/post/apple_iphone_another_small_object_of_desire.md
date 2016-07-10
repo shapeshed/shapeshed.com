@@ -14,4 +14,4 @@ I suspect that it will be a long time before this actually makes into the public
 
 Nokia you have been warned!
 
-[1]: http://shapeshed.com/images/articles/apple_mobile.jpg "iPhone"
+[1]: https://shapeshed.com/images/articles/apple_mobile.jpg "iPhone"

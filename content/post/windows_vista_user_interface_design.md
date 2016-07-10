@@ -22,9 +22,9 @@ Windows is the most widely used operating system so it is great that the browser
 
 ![Vista Aqua][6]
 
- [1]: http://shapeshed.com/images/articles/expwinvista_highlight_aero.png 
+ [1]: https://shapeshed.com/images/articles/expwinvista_highlight_aero.png 
  [2]: http://www.microsoft.com/windowsvista/experiences/aero.mspx
- [3]: http://shapeshed.com/images/articles/AeroMint.jpg 
- [4]: http://www.shapeshed.com/journal/mac_motifs_on_windows_messenger_live_design/
+ [3]: https://shapeshed.com/images/articles/AeroMint.jpg 
+ [4]: https://shapeshed.com/journal/mac_motifs_on_windows_messenger_live_design/
  [5]: http://www.apple.com/macosx/overview/aquauserinterface.html
- [6]: http://shapeshed.com/images/articles/vista_aqua.jpg 
+ [6]: https://shapeshed.com/images/articles/vista_aqua.jpg 

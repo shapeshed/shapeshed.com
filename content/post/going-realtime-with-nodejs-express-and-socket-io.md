@@ -58,10 +58,10 @@ You can browse the source and see how the libraries are used on [Github][10]. Fo
 We could use this kind of setup to show realtime stats on server resources of the kind provided by [Munin][9], to create realtime statistics for a page, or to stream live data from a third party API to a page. I'm excited about what people are going to make with these libraries!
 
 [1]: http://nodejs.org
-[2]: http://shapeshed.com/images/articles/counter.jpg
+[2]: https://shapeshed.com/images/articles/counter.jpg
 [3]: http://socket.io/
 [4]: http://expressjs.com/
-[5]: http://shapeshed.com/creating-a-basic-site-with-node-and-express/
+[5]: https://shapeshed.com/creating-a-basic-site-with-node-and-express/
 [6]: http://smoothiecharts.org/
 [7]: http://smoothiecharts.org/tutorial.html
 [8]: http://redis.io/

@@ -22,5 +22,5 @@ Back in October Microsoft issued a [call to action][2] to developers to stop usi
 
 With IE7 Microsoft are trying to clean up their act so I think it is fair that developers should clean up their acts too. I code for IE5 up and managed to complete the templates to XHTML and CSS compliance with one stylesheet and no hacks. OK it took me a bit longer but the code is future proofed. Another bonus is that it makes maintaining the site so much easier as you don't have to go through 5 or 6 stylesheets. This is all well and good until the next tear your hair out moment in IE but my intention from now on is to say goodbye to IE hacks! Famous last words....
 
-[1]: http://shapeshed.com/images/articles/ie7.jpg 
+[1]: https://shapeshed.com/images/articles/ie7.jpg 
 [2]: http://blogs.msdn.com/ie/archive/2005/10/12/480242.aspx

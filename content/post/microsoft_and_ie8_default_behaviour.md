@@ -28,6 +28,6 @@ This is great news for developers who can concentrate on using standards and not
 
 Many of my colleagues ask me why I get so animated about this. It is just a rendering mode after all. Well it is, but it is also a small skirmish in the the battle to allow the web to be open, interoperable and free. With IE8 committing to render in standards mode it is very likely that sub-standard developers will have to improve their skills. This will have the result of more standards compliant sites being present on the web. By creating more standards-based sites on the web we have more chance future-proofing against new developments (and there will be many). Adhering to standards opens an opportunity that otherwise would not be available. For that reason alone I'm very pleased that Microsoft have reversed their decision.
 
- [1]: http://shapeshed.com/ie8_the_good_the_bad_and_the_ugly/
+ [1]: https://shapeshed.com/ie8_the_good_the_bad_and_the_ugly/
  [2]: http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx
  [3]: http://www.microsoft.com/presspass/presskits/interoperability/default.mspx

@@ -35,11 +35,11 @@ This announcement should be celebrated as a step forward for the open web. Googl
 * [WebM and VP8 land in Chromium][15] - Chromium announcement on VP8
 * [Working draft of HTML5 video spec][17] - Current work in progress for the HTML5 video spec
 
-[1]: http://shapeshed.com/HTML5-video-element/
-[2]: http://shapeshed.com/examples/HTML5-video-element/
-[3]: http://shapeshed.com/HTML5-video-for-all-well-almost/
+[1]: https://shapeshed.com/HTML5-video-element/
+[2]: https://shapeshed.com/examples/HTML5-video-element/
+[3]: https://shapeshed.com/HTML5-video-for-all-well-almost/
 [4]: http://www.ffmpeg.org/
-[5]: http://vimeo.com/
+[5]: https://vimeo.com/
 [6]: http://www.youtube.com/
 [7]: http://en.wikipedia.org/wiki/VP8
 [8]: http://37signals.com/svn/posts/2341-microsoft-patent-trolls-salesforce

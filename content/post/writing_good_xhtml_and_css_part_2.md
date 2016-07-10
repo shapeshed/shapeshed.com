@@ -26,7 +26,7 @@ Indent your code from the left edge to allow the reader to follow the flow of a 
       <body>
         <div id="id-for-css">
           <h1>A great big title</h1>
-          <img src="http://shapeshed.com/images/some_image.png" title="An image" alt="An image" width="100" height="200" />
+          <img src="https://shapeshed.com/images/some_image.png" title="An image" alt="An image" width="100" height="200" />
         </div>
       </body>
     </html>
@@ -36,7 +36,7 @@ The same is true for CSS files. Laying out your files in a consistent manner wil
     body { 
       font: 76%/150% "Lucida Grande", 
       "Lucida Sans", "Trebuchet MS", Tahoma, Verdana, sans-serif color: #333366; 
-      background: url(http://shapeshed.com/images/backgrounds/gradient.png) repeat-x; 
+      background: url(https://shapeshed.com/images/backgrounds/gradient.png) repeat-x; 
     }
 
 ## Comments are good
@@ -79,14 +79,14 @@ They don't cost anything so why not buy yourself something nice with the money y
 
 Although things are getting much better is a fact of life that at some point you will pull your hair out over a problem. Luckily for you there is a support group who has been through this hell before. You may well find the answer to your problem by simply typing it into Google. If that does not solve your problem then there are multiple email lists for CSS in particluar. [CSS-Discuss][12] is particularly good. Otherwise asking friends and colleagues is a good way to solve problems. If none of those work you are quite at liberty to throw your computer out of the window.
 
- [1]: http://shapeshed.com/writing_good_xhtml_and_css_part_1/
+ [1]: https://shapeshed.com/writing_good_xhtml_and_css_part_1/
  [2]: http://www.mozilla.com/firefox/
- [3]: http://shapeshed.com/images/some_image.png 
+ [3]: https://shapeshed.com/images/some_image.png 
  [4]: http://www.w3.org/QA/2002/04/valid-dtd-list.html
  [5]: http://validator.w3.org/
  [6]: http://jigsaw.w3.org/css-validator/
- [7]: http://shapeshed.com/photoshop_101_the_marquee_tool/
- [8]: http://shapeshed.com/images/articles/checking_layouts.png 
+ [7]: https://shapeshed.com/photoshop_101_the_marquee_tool/
+ [8]: https://shapeshed.com/images/articles/checking_layouts.png 
  [9]: http://www.w3.org/TR/xhtml1/
  [10]: http://www.w3.org/TR/REC-CSS2/
  [11]: http://www.w3.org/TR/WAI-WEBCONTENT/

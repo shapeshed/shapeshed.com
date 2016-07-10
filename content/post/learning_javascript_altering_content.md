@@ -105,7 +105,7 @@ Tested ok on:
 *   Mac Camino 1
 *   Mac Opera 9
 
-[1]: http://www.shapeshed.com/examples/altering-content/
+[1]: https://shapeshed.com/examples/altering-content/
 [2]: http://cdn.shapeshed.com/downloads/altering-content.zip
 [3]: http://simonwillison.net/2004/May/26/addLoadEvent/
 

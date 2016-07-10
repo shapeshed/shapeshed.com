@@ -42,5 +42,5 @@ I'm going to leave it to the mighty Mike Mchugh to explain what you can do with 
  [1]: http://en.wikipedia.org/wiki/Film_speed#Digital_camera_ISO_speed_and_exposure_index
  [2]: http://en.wikipedia.org/wiki/F-number#Stops.2C_f-stop_conventions.2C_and_exposure
  [3]: http://en.wikipedia.org/wiki/Shutter_speed
- [4]: http://shapeshed.com/images/articles/open_as_raw.jpg
+ [4]: https://shapeshed.com/images/articles/open_as_raw.jpg
  [5]: http://www.youtube.com/watch?v=-CXJYhf8Np4

@@ -56,7 +56,7 @@
 	<h3>Usability testing</h3>
 	<p>Perhaps the most useful section for me was Usability Testing. It outlines in great detail how to set up and run a usability test.</p> 
 
-	<p>Overall Just Ask is a detailed well referenced theoretical book. For anyone wanting to implement accessibility into a project, or conduct usability testing it provides excellent frameworks. I suspect many projects simply don't have the time or budget to implement many of the recommendations in the book. Steve Krug's book <a href="http://shapeshed.com/journal/book_review_dont_make_me_think_steve_krug/">Don't Make Me Think</a> for example takes account that the average project probably does not have a big budget. For me it I would have liked more attention being given to smaller projects. That said I will still incorporate as much of the excellent advice I can into my design process. </p>
+	<p>Overall Just Ask is a detailed well referenced theoretical book. For anyone wanting to implement accessibility into a project, or conduct usability testing it provides excellent frameworks. I suspect many projects simply don't have the time or budget to implement many of the recommendations in the book. Steve Krug's book <a href="https://shapeshed.com/journal/book_review_dont_make_me_think_steve_krug/">Don't Make Me Think</a> for example takes account that the average project probably does not have a big budget. For me it I would have liked more attention being given to smaller projects. That said I will still incorporate as much of the excellent advice I can into my design process. </p>
 
 
 </div>

@@ -47,10 +47,10 @@ The Red Eye Tool is simply for removing red eye. It is extremely easy to use. Se
 ![Removing Red Eye][8]
 
  [1]: http://www.flickr.com/photos/jurvetson/
- [2]: http://shapeshed.com/images/articles/raptor_removed.jpg 
- [3]: http://shapeshed.com/images/articles/blemish_books.jpg 
- [4]: http://shapeshed.com/images/articles/fixed_blemish.jpg 
- [5]: http://shapeshed.com/images/articles/patch_tool_options.png 
+ [2]: https://shapeshed.com/images/articles/raptor_removed.jpg 
+ [3]: https://shapeshed.com/images/articles/blemish_books.jpg 
+ [4]: https://shapeshed.com/images/articles/fixed_blemish.jpg 
+ [5]: https://shapeshed.com/images/articles/patch_tool_options.png 
  [6]: http://www.flickr.com/photos/fasteddie42/
- [7]: http://shapeshed.com/images/articles/removing_figure.jpg 
- [8]: http://shapeshed.com/images/articles/red_eye.jpg 
+ [7]: https://shapeshed.com/images/articles/removing_figure.jpg 
+ [8]: https://shapeshed.com/images/articles/red_eye.jpg 

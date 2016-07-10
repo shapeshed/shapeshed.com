@@ -36,7 +36,7 @@ Of course this is all great in theory until your client asks why the site does n
 My design and development philosophy has changed however. I'm no longer going to strive to make everything the same in less capable browsers.
 
  [1]: http://en.wikipedia.org/wiki/Progressive_enhancement
- [2]: http://shapeshed.com/examples/altering-content/
+ [2]: https://shapeshed.com/examples/altering-content/
  [3]: http://www.onlinetools.org/articles/unobtrusivejavascript/
  [4]: http://www.smileycat.com/miaow/archives/000044.php
  [5]: http://www.curvycorners.net/

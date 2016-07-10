@@ -56,8 +56,8 @@ I've created a [Github repository][2] for these examples if it is useful to anyo
 
 [1]: http://www.stanford.edu/class/cs193p/cgi-bin/drupal/system/files/assignments/Assignment1A_0.pdf
 [2]: http://github.com/shapeshed/StanfordExamples
-[3]: http://shapeshed.com/images/articles/assignment_1a_choose_project.png
-[4]: http://shapeshed.com/images/articles/assignment_1a_select_project.png
-[5]: http://shapeshed.com/images/articles/assignment_1a_main_window.png
-[6]: http://shapeshed.com/images/articles/assignement_1a_label_attributes.png
-[7]: http://shapeshed.com/images/articles/assignment_1a_application.png
+[3]: https://shapeshed.com/images/articles/assignment_1a_choose_project.png
+[4]: https://shapeshed.com/images/articles/assignment_1a_select_project.png
+[5]: https://shapeshed.com/images/articles/assignment_1a_main_window.png
+[6]: https://shapeshed.com/images/articles/assignement_1a_label_attributes.png
+[7]: https://shapeshed.com/images/articles/assignment_1a_application.png

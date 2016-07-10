@@ -37,7 +37,7 @@ You can use this effect with any layer so if you have created a shape with the p
 
 ![Transparent overlaps][1]
 
- [1]: http://shapeshed.com/images/articles/transparent_overlaps.png 
- [2]: http://shapeshed.com/images/articles/photoshop_blending_options.jpg 
- [3]: http://shapeshed.com/images/articles/layer_style.jpg 
- [4]: http://shapeshed.com/images/articles/opacity_fill.jpg 
+ [1]: https://shapeshed.com/images/articles/transparent_overlaps.png 
+ [2]: https://shapeshed.com/images/articles/photoshop_blending_options.jpg 
+ [3]: https://shapeshed.com/images/articles/layer_style.jpg 
+ [4]: https://shapeshed.com/images/articles/opacity_fill.jpg 
