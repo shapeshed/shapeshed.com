@@ -5,7 +5,7 @@ tags: [node.js, apis]
 author: George Ornbo
 original: http://pebblecode.com/blog/hacking-apis-with-node-js/
 ---
-<p><img src="http://media.tumblr.com/tumblr_m9x5blJ6Jh1qz7kgs.jpg" alt="The A Team"/></p>
+<p><img src="https://media.tumblr.com/tumblr_m9x5blJ6Jh1qz7kgs.jpg" alt="The A Team"/></p>
 
 <blockquote>
   <p>If you have a problem, if no one else can help, and if you can find them, maybe you can hire the A-Team.</p>
@@ -76,4 +76,4 @@ http.createServer(function(request, response) {
 
 <p>I love it when a plan comes together!</p>
 
-<p><img src="http://media.tumblr.com/tumblr_m9x5zrj7qa1qz7kgs.jpg" alt=""/></p>
+<p><img src="https://media.tumblr.com/tumblr_m9x5zrj7qa1qz7kgs.jpg" alt=""/></p>

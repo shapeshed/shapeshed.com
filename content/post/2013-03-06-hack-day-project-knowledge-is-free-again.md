@@ -5,7 +5,7 @@ tags: [hacks]
 author: George Ornbo
 original: http://pebblecode.com/blog/hack-day-project-knowledge-is-free-again/
 ---
-<p><img src="http://media.tumblr.com/28c3a2564a9b25655113beb15ae2630b/tumblr_inline_mj8gcmPEvf1qz4rgp.png" alt=""/></p>
+<p><img src="https://media.tumblr.com/28c3a2564a9b25655113beb15ae2630b/tumblr_inline_mj8gcmPEvf1qz4rgp.png" alt=""/></p>
 
 <h2>The idea(s)</h2>
 
@@ -27,7 +27,7 @@ original: http://pebblecode.com/blog/hack-day-project-knowledge-is-free-again/
 
 <p>By the end of the day we had a semi working application that we were able to demonstrate to the other teams but with much functionality incomplete. This was somewhat disappointing given the purity of John&rsquo;s vision.</p>
 
-<p><img src="http://media.tumblr.com/dadf56adbb939366e3f0955254668d6d/tumblr_inline_mj8ge0QQqR1qz4rgp.png" alt=""/></p>
+<p><img src="https://media.tumblr.com/dadf56adbb939366e3f0955254668d6d/tumblr_inline_mj8ge0QQqR1qz4rgp.png" alt=""/></p>
 
 <h2>The idea in a nutshell</h2>
 

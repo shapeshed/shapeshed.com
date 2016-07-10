@@ -9,7 +9,7 @@ original: http://pebblecode.com/blog/you-are-the-designer/
 
 <p>With the release of Safari 5 Apple added a <a href="http://www.apple.com/safari/whats-new.html#reader">Reader feature</a> that takes a web page and formats it for easy reading. This type of feature has been around for a while in Chrome and Firefox via the Readability Extension (<a href="https://chrome.google.com/extensions/detail/jggheggpdocamneaacmfoipeehedigia?hl=en">Chrome</a> &amp; <a href="https://addons.mozilla.org/en-US/firefox/addon/46442/">Firefox</a>) and gives users the option to reformat the page in a more readable format. Here&rsquo;s the pebble blog reformated using Readability.</p>
 
-<p><img src="http://media.tumblr.com/tumblr_l41z0k3U7d1qz7kgs.jpg" alt="'pebble Blog Reformatted'"/></p>
+<p><img src="https://media.tumblr.com/tumblr_l41z0k3U7d1qz7kgs.jpg" alt="'pebble Blog Reformatted'"/></p>
 
 <p>At pebble we&rsquo;ve really been enjoying using these tools to get rid of unnecessary navigation and adverts, and correct poor typography.</p>
 

@@ -44,7 +44,7 @@ var label1 = Titanium.UI.createLabel({
 
 <p>This is the code behind creating a tabbed window with a label for both iOS and Android:</p>
 
-<p><img src="http://media.tumblr.com/tumblr_lfq8rvv7DE1qz7kgs.jpg" alt=""/></p>
+<p><img src="https://media.tumblr.com/tumblr_lfq8rvv7DE1qz7kgs.jpg" alt=""/></p>
 
 <p>For more checkout the <a href="http://developer.appcelerator.com/apidoc/mobile/latest">API documentation</a> and <a href="http://developer.appcelerator.com/blog/2010/05/sample-code-and-resources.html">Code Examples</a>.</p>
 

@@ -7,7 +7,7 @@ original: http://pebblecode.com/blog/getting-a-startup-off-the-ground/
 ---
 <h3>Following the yellow brick road</h3>
 
-<p><img src="http://media.tumblr.com/tumblr_l69juj4maT1qz7kgs.jpg" alt=""/></p>
+<p><img src="https://media.tumblr.com/tumblr_l69juj4maT1qz7kgs.jpg" alt=""/></p>
 
 <p>Photo by <a href="http://www.flickr.com/photos/cdevers/4602805654/">Chris Devers</a></p>
 

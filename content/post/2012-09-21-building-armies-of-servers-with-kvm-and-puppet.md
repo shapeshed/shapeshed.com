@@ -5,7 +5,7 @@ tags: []
 author: George Ornbo
 original: http://pebblecode.com/blog/building-armies-of-servers-with-kvm-and-puppet/
 ---
-<p><img src="http://media.tumblr.com/tumblr_man7d7tNog1qz7kgs.jpg" alt=""/></p>
+<p><img src="https://media.tumblr.com/tumblr_man7d7tNog1qz7kgs.jpg" alt=""/></p>
 
 <p>Our infrastructure requirements at pebble {code} are growing. We&rsquo;ve got pretty far with an original Ubuntu 8.04 -&gt; 10.04 Linux server. It has been a workhorse for us but an incident with bad sectors and no RAID facility suggested it was time for a more grown up solution.</p>
 

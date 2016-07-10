@@ -13,13 +13,13 @@ original: http://pebblecode.com/blog/we-need-to-talk-about-privacy/
 
 <h3>Prism</h3>
 
-<p><img src="http://media.tumblr.com/022b811f976620f2300840d91657fcc5/tumblr_inline_mvy51gzsOJ1qz7kgs.jpg" alt=""/></p>
+<p><img src="https://media.tumblr.com/022b811f976620f2300840d91657fcc5/tumblr_inline_mvy51gzsOJ1qz7kgs.jpg" alt=""/></p>
 
 <p>Prism was the first program to be exposed and allows the NSA to request data from Internet businesses via agreed back doors into the data of major Internet businesses. Any data that matches court-approved search terms must be handed over to the agency. The <a href="https://en.wikipedia.org/wiki/PRISM_(surveillance_program)#The_Slides">slides</a> detail the number of Internet businesses involved including Microsoft, Yahoo!, Facebook, Google, Apple and Dropbox. These businesses denied a complicit programme and many have subsequently issued transparency reports around the issue. The idea that data held in the cloud can be requested by intelligence agencies when they have a court order seems acceptable. The idea that Intelligence Agencies have direct access to the data is not.</p>
 
 <h3>MUSCULAR - The Smiley Face</h3>
 
-<p><img src="http://media.tumblr.com/c842cfa5f1a37dd0a6254487086a6d92/tumblr_inline_mvy4p18exg1qz7kgs.png" alt=""/></p>
+<p><img src="https://media.tumblr.com/c842cfa5f1a37dd0a6254487086a6d92/tumblr_inline_mvy4p18exg1qz7kgs.png" alt=""/></p>
 
 <p>The <a href="http://www.theguardian.com/world/edward-snowden">MUSCULAR project</a> was exposed as a way for the NSA to harvest entire data flows passing through fibre optic cables and switches that link Google Data Centres. Effectively this enables covert snooping of all data that passes through Google&rsquo;s Cloud. According to reports 181,280,466 records were collected from Google and also Yahoo in a period of 30 days. The sketch that was published ont the web revealed a smiley face celebrating the hijack. It smacked of a calling card after a robbery.</p>
 
@@ -27,7 +27,7 @@ original: http://pebblecode.com/blog/we-need-to-talk-about-privacy/
 
 <h3>Lavabit</h3>
 
-<p><img src="http://media.tumblr.com/9eac495a05bec842232da7506f3af9f5/tumblr_inline_mvy5k1i7cH1qz7kgs.jpg" alt=""/></p>
+<p><img src="https://media.tumblr.com/9eac495a05bec842232da7506f3af9f5/tumblr_inline_mvy5k1i7cH1qz7kgs.jpg" alt=""/></p>
 
 <p>After the initial leaks were published <a href="https://lavabit.com/">Lavabit</a> became a target for Intelligence Agencies. It is thought Snowden had used the service to email journalists about releasing the leaks. Lavabit is an encrypted email service and was asked to hand over SSL keys by the federal government. As a result Lavabit decided to suspend the service as its entire business model was compromised. This particular story generated disquiet but there are some issues with the technology here. The fact that the a site is encrypted with a single SSL private key means that once that key is compromised everything is compromised. The model is that intelligence agencies cannot request any information without compromising everything. Ladar Levinson, the founder of Lavabit continues to take a firm stand on privacy and is on a <a href="https://rally.org/lavabit">funding drive</a> to take this forward.</p>
 

@@ -7,7 +7,7 @@ original: http://pebblecode.com/blog/vistazo-goes-live/
 ---
 <p>Today we are proud to release our latest bouncing baby to the public.</p>
 
-<p><img src="http://media.tumblr.com/tumblr_m29f567g0p1qz7kgs.png" alt=""/></p>
+<p><img src="https://media.tumblr.com/tumblr_m29f567g0p1qz7kgs.png" alt=""/></p>
 
 <p>Vistazo is a lightweight web application to help small teams keep track of who is working on what and when they are working on it.</p>
 

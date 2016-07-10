@@ -8,8 +8,8 @@ original: http://pebblecode.com/blog/do-taxis-go-south-of-the-river/
 <p>Recently we’ve been engaged by AddApps to help with their start-up <a href="http://www.londontaxiapp.com/">LDNTaxiApp</a>.</p>
 <h3>What’s the app?</h3>
 <p>LDNTaxiApp is a mobile app that matches London’s Black Cabs with Londoners needing to go places. The idea is that you open the app on your mobile, hail a cab and one will magically arrive. Here are a few screenshots.</p>
-<p><img src="http://media.tumblr.com/tumblr_lp3jonAWgW1qz7kgs.jpg"/></p>
-<p><img src="http://media.tumblr.com/tumblr_lp3jpoGH4w1qz7kgs.jpg"/></p>
+<p><img src="https://media.tumblr.com/tumblr_lp3jonAWgW1qz7kgs.jpg"/></p>
+<p><img src="https://media.tumblr.com/tumblr_lp3jpoGH4w1qz7kgs.jpg"/></p>
 <p>The app is in the <a href="http://itunes.apple.com/gb/app/ldntaxiapp/id427543366">app store</a> and has been in production use for around 3 months with thousands of completed journeys.</p>
 <h3>Prototype to production</h3>
 <p>Our initial engagement was to add some new features to an existing Rails application and to work with <a href="http://uk.linkedin.com/pub/robert-redmond/13/6b4/30">Rob</a>, the lead iPhone developer, to hook everything up to the iPhone. We worked to a fast release schedule building out infrastructure along the way. Within a couple of weeks we had availability of taxis, order fulfilment and push notification messaging done.</p>
@@ -22,7 +22,7 @@ original: http://pebblecode.com/blog/do-taxis-go-south-of-the-river/
 </ul><p>It is a much harder space to test effectively than a classic web app.</p>
 <h3>Building views onto the data</h3>
 <p>The team at LDNTaxiApp are amazing at listening to and contacting customers. They wanted an administration app to be able to have a view onto what was going on, how to identify problems in the process and make better decisions about the direction of the app. For us the application really came alive when we added a realtime map of the taxis available in London. As a Londoner this is fascinating. Where are the most taxis? Where do they typically go? What time of the day is most busy? This of course is all valuable data that LDNTaxiApp is building up. We could see pretty quickly though that the adage that taxis don’t go south of the river is true.</p>
-<p><img src="http://media.tumblr.com/tumblr_lp3jryw2od1qz7kgs.png"/></p>
+<p><img src="https://media.tumblr.com/tumblr_lp3jryw2od1qz7kgs.png"/></p>
 <h3>Start-ups need pragmatism</h3>
 <p>Apple’s approval process is long and frustrating. Finding a bug in your iPhone client means that it is likely that your customers will continue to find the bug for two weeks before it goes through the approval process. For that reason where possible fixes were applied to the Rails application. From a software engineering point of view this is clearly a bad decision but in a business context is totally understandable.</p>
 <p>Working with an existing technology stack there were areas we could see that real improvements could be made. For example reducing the reliance on MySQL for short lived data like locations and moving it to a in-memory store like <a href="http://redis.io/">Redis</a> or <a href="http://www.mongodb.org/">MongoDB</a>. With the requirement for near real-time data we also talked about moving the API to something like <a href="http://www.erlang.org/">Erlang</a> or <a href="http://nodejs.org/">node.js</a>.</p>

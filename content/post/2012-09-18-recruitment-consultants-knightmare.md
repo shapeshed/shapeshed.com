@@ -5,7 +5,7 @@ tags: []
 author: George Ornbo
 original: http://pebblecode.com/blog/recruitment-consultants-knightmare/
 ---
-<p><img src="http://media.tumblr.com/tumblr_majwei2PXP1qz7kgs.jpg" alt=""/></p>
+<p><img src="https://media.tumblr.com/tumblr_majwei2PXP1qz7kgs.jpg" alt=""/></p>
 
 <p>pebble {code} is a pretty good candidate for using Recruitment Consultants. We are working on some long term projects that are growing fast and it is likely we&rsquo;ll be adding further clients to our portfolio. For the vast majority of cases we use our network, community sites like <a href="http://careers.stackoverflow.com/">Stack Overflow</a> or find people through our own staff or peers. We have managed to find some great people this way. More recently we have been using a few recruitment companies with very mixed results.</p>
 
