@@ -3,7 +3,7 @@
   "date": "2011-03-13T00:00:00+00:00",
   "description": "A walkthrough of how to connect a client server to a Puppet Master and how to manage basic services",
   "tags": [
-    "Unix",
+    "UNIX",
     "Puppet",
     "Ubuntu"
   ]

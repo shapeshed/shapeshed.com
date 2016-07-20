@@ -6,7 +6,7 @@
   "tags": [
     "Node.js",
     "Nginx",
-    "Unix"
+    "UNIX"
   ]
 }
 

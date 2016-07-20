@@ -3,7 +3,7 @@
   "date": "2011-09-12T00:00:00+01:00",
   "description": "A walkthrough on how to manage Unicorn worker processes using Monit",
   "tags": [
-    "Unix",
+    "UNIX",
     "Rails",
     "Ruby"
   ]

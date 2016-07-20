@@ -3,7 +3,7 @@
   "date": "2011-08-29T00:00:00+01:00",
   "description": "Why I'm moving and how to do it",
   "tags": [
-    "Unix"
+    "UNIX"
   ]
 }
 

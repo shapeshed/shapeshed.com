@@ -4,7 +4,7 @@
   "date": "2011-03-21T00:00:00+00:00",
   "description": "Sort is a great little UNIX tool for sorting text files and streams. Here's a quick overview of how it works.",
   "tags": [
-    "Unix"
+    "UNIX"
   ]
 }
 

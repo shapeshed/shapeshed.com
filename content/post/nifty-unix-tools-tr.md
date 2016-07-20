@@ -4,7 +4,7 @@
   "date": "2010-07-23T00:00:00+01:00",
   "description": "tr is a simple but effective tool for translating or deleting characters in a string",
   "tags": [
-    "Unix"
+    "UNIX"
   ]
 }
 

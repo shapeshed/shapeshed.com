@@ -4,7 +4,7 @@
   "description": "A short write up of my experience learning and configuring Puppet to build and manage servers to serve Rails applications.",
   "tags": [
     "Puppet",
-    "Unix",
+    "UNIX",
     "Ruby",
     "Rails"
   ]

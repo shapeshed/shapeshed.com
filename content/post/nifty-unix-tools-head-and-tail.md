@@ -4,7 +4,7 @@
   "date": "2010-11-03T00:00:00+00:00",
   "excerpt": "For quickly looking into source and log files head and tail are simple tools for everyday use that become powerful when piped with other commands.",
   "tags": [
-    "Unix"
+    "UNIX"
   ]
 }
 

@@ -4,7 +4,7 @@
   "date": "2011-03-19T00:00:00+00:00",
   "description": "Word Count (wc) is a great tool to quickly give information on text files and becomes very powerful when piped with other commands",
   "tags": [
-    "Unix"
+    "UNIX"
   ]
 }
 

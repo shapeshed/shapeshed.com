@@ -5,7 +5,7 @@
   "description": "Compiling Node.js from source is easy enough so here's how.",
   "tags": [
     "Node.js",
-    "Unix"
+    "UNIX"
   ]
 }
 

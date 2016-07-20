@@ -5,7 +5,7 @@
   "tags": [
     "JavaScript",
     "Node.js",
-    "Unix"
+    "UNIX"
   ]
 }
 

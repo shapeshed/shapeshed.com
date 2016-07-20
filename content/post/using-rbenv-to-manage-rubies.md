@@ -3,7 +3,7 @@
   "date": "2011-10-12T00:00:00+01:00",
   "description": "How I use rbenv to manage rubies and integrate with other tools",
   "tags": [
-    "Unix",
+    "UNIX",
     "Rails",
     "Ruby"
   ]
