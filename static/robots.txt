@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: 
+Sitemap: https://shapeshed.com/sitemap.xml
