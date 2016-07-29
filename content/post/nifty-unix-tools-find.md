@@ -1,16 +1,20 @@
 {
-  "slug": "nifty-unix-tools-find",
-  "title": "Nifty UNIX tools - find",
+  "slug": "unix-find",
+  "title": "Linux and Unix find command tutorial with examples",
   "date": "2016-07-12T20:20:27+01:00",
-  "description": "Examples of how to find and operate on files.",
+  "description": "A series of how to examples on using find, a UNIX tool for sorting lines of text files",
   "tags": [
     "UNIX"
   ]
 }
 
-## Find a single file
+![find man page][5]
 
-In its simplest form `find` can be used to walk a filesystem tree and find a file. Considering the following directory structure we can use `find` to locate files of interest
+## How to find a single file by name
+
+To find a single file by name pass the `-name` option to `find` along with the name of the file you are looking for.
+
+Suppose the following directory structure exists shown here as the output of the `tree` command.
 
     foo
     ├── bar
@@ -18,50 +22,59 @@ In its simplest form `find` can be used to walk a filesystem tree and find a fil
     │   └── foo.txt
     └── bop
 
-By using the `-name` flag we can search for the name of the file and use `-type -f` to say we are looking for a file.
+The file `foo.txt` can be located with the `find` by using the `-name` option.
 
-    find ./foo -name foo.txt -type f 
+    find ./foo -name foo.txt 
     ./foo/baz/foo.txt
 
-## Find and delete a file
+## How to find and delete a file
 
-`find` allows you to delete files that you find with the `--delete` flag.
+To find and delete a file pass the `--delete` option to `find`. This will delete the file with no undo so be careful.
 
-    find ./foo -name foo.txt -type f -delete
+    find ./foo -name foo.txt --delete
 
-You can also use rm if you want to prompt for deletion.
+To be prompted to confirm deletion combine `-exec` with `rm -i`.
 
     find ./foo -name foo.txt -exec rm -i {} \;
 
-## Find a directory
+## How to find a directory
 
-You can search recursively for directories using `-type d`.
+To find a directory specify the option `-type d` with `find`.
 
     find ./foo -type d -name bar
     ./foo/bar
 
-## Operating on files you find
+## How to find files by modification time
 
-By using `exec` you can run another command on the files you find. In this example the permissions on the file are changed.
+To find files by modification time use the `-mtime` option followed by the number of days to look for. The number can be a positive or negative value. A negative value equates to less then so `-1` will find files modified within the last day. Similarly `+1` will find files modified more than one day ago.
+
+    find ./foo -mtime -1
+    find ./foo -mtime +1
+
+## How to find files by permission
+
+To find files by permission use the `-perm` option and pass the value you want to search for. The following example will find files that everyone can read, write and execute.
+
+    find ./foo -perm 777
+
+## How to find and operate on files
+
+To find and operate on file us the `-exec` option. This allows a command to be executed on files that are found.
 
     find ./foo -type f -name bar -exec chmod 777 {} \;
 
-## Find and replace
+## How to find and replace in a range of files
 
-One example of using `exec` is to loop over a series of files and make a replacement. By combining with something like `sed`you can find and replace text on a large group of files in one line. 
+To find and replace across a range of files the `find` command may be combined with another utility like `sed` to operate on the files by using the `-exec` option. In the following example any occurrence of find is replaced with replace. 
 
     find ./ -type f -exec sed -i 's/find/replace/g' {} \;
 
 
-## Look for content in files
+## How to search for text within multiple files
 
-By using `exec` you can look for content in a series of file through combining with `grep`.
+Another use of combining `find` with `exec` is to search for text within multiple files.
 
     find ./ -type f -name "*.md" -exec grep 'foo'  {} \;
-
-## Conclusion
-
-Find is a flexible tool for walking a file heirarchy. It supports searching a filesystem and through `exec` supports subsequent operations on found files. I use `find` daily and find it super useful!
 
 ## Further reading
 
@@ -74,3 +87,4 @@ Find is a flexible tool for walking a file heirarchy. It supports searching a fi
 [2]: http://alvinalexander.com/unix/edu/examples/find.shtml
 [3]: http://www.folkstalk.com/2011/12/101-examples-of-using-find-command-in.html
 [4]: http://www.ling.ohio-state.edu/~kyoon/tts/unix-help/unix-find-command-examples.htm
+[5]: https://shapeshed.com/images/articles/find.png
