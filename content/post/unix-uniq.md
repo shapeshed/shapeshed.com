@@ -3,6 +3,7 @@
   "title": "Linux and Unix uniq command tutorial with examples",
   "date": "2016-07-26T00:00:00+00:00",
   "description": "How to examples on using uniq, a UNIX tool for reporting or filtering repeated lines in a file",
+  "image": "images/articles/uniq.png",
   "tags": [
     "UNIX"
   ]
