@@ -3,6 +3,7 @@
   "title": "Linux and Unix find command tutorial with examples",
   "date": "2016-07-12T20:20:27+01:00",
   "description": "A series of how to examples on using find, a UNIX tool for sorting lines of text files",
+  "image": "images/articles/find.png",
   "tags": [
     "UNIX"
   ]
