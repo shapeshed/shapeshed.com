@@ -3,6 +3,7 @@
   "title": "Linux and Unix tee command tutorial with examples",
   "date": "2016-07-28T00:00:00+00:00",
   "description": "How to examples on using tee, a UNIX tool for copying standard input to standard output and making a copy to one or more files.",
+  "image": "images/articles/tee.png",
   "tags": [
     "UNIX"
   ]
