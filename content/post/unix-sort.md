@@ -3,6 +3,7 @@
   "title": "Linux and Unix Sort command tutorial with examples",
   "date": "2011-03-21T00:00:00+00:00",
   "lastmod": "2016-07-26T00:00:00+00:00",
+  "image": "images/articles/sort.png",
   "description": "A series of how to examples on using sort, a UNIX tool for sorting lines of text files",
   "tags": [
     "UNIX"
