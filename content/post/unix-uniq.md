@@ -133,7 +133,7 @@ To just see the list of counties `sed` and `cut` may be used to clean this up.
 * [Linux and Unix uniq command help and examples][3]
 * [Linux and Unix uniq command tutorial with examples][4]
 
-[1]: http://linu.die.net/man/1/uniq
+[1]: http://linux.die.net/man/1/uniq
 [2]: http://www.thegeekstuff.com/2013/05/uniq-command-examples
 [3]: http://www.computerhope.com/unix/uuniq.htm
 [4]: https://shapeshed.com/unix-sort/

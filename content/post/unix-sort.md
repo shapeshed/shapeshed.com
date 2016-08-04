@@ -212,7 +212,7 @@ To sort on the most expensive cheese the numeric and reverse options can be used
 * [15 examples of sort command in Linux][5]
 * [Linux sort command examples][6]
 
-[1]: http://linu.die.net/man/1/sort
+[1]: http://linux.die.net/man/1/sort
 [2]: http://www.softpanorama.org/Tools/sort.shtml
 [3]: http://www.computerhope.com/unix/usort.htm
 [4]: https://en.wikipedia.org/wiki/Sort_(Unix)
