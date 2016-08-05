@@ -11,19 +11,19 @@
 
 I'm assuming here that you are on a POSIX compliant system (namely OSX or Linux). First let's make sure we are in our home directory. On OSX or Linux in a terminal run:  
 
- cd 
+    cd 
 
 Standard practice is to keep user shell scripts in a bin folder in your home directory. You may or may not have this folder depending on your operating system. If it doesn't exist create it: 
 
     mkdir bin 
 
-So on OSX the folder path will be /Users/george/bin. On Linux it will be /home/george/bin. Remember 'george' will be whatever your username is.
+So on OSX the folder path will be `/Users/george/bin`. On Linux it will be `/home/george/bin`. Remember 'george' will be whatever your username is.
 
 ## Ensuring bin is in your path
 
-To be able to use the shell scripts from our bin folder we need to make sure that this folder is in the $PATH variable. The shell looks in this folder when you issue a command.
+To be able to use the shell scripts from our `bin` folder we need to make sure that this folder is in the `$PATH` variable. The shell looks in this folder when you issue a command.
 
-If you are comfortable with vi use these commands. If you are not comfortable with vi you can use [textedit][1] in OSX or gedit on Linux. 
+If you are comfortable with vi use these commands. If you are not comfortable with vi use your text editor of choice.
 
     cd #change to home directory 
     vi .bash_profile 
@@ -34,12 +34,11 @@ Add the following line to this file
 
 For the changes to take effect you need to reload your profile. I'm assuming you are still in your home directory. 
 
-  . ./.bash_profile 
+    source ~/.bash_profile 
 
 ## Adding scripts
 
 Now we can just drop shell scripts into the bin folder. To use them we must make sure they are executable: 
-
     chmod +x yourshellscript.sh 
 
 That's it. Now you can call your shell script from the command line using 
