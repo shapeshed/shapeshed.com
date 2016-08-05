@@ -1,7 +1,7 @@
 {
   "title": "Migrating from Slicehost to Linode",
   "date": "2011-08-29T00:00:00+01:00",
-  "description": "Why I'm moving and how to do it",
+  "description": "How I moved from Slicehost to Linode and how I did it.",
   "tags": [
     "UNIX"
   ]
