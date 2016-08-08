@@ -11,6 +11,10 @@
 
 ![cut man page](https://shapeshed.com/images/articles/cut.png)
 
+## What is the cut command in UNIX?
+
+The `cut` command in UNIX is a command line utility for cutting sections from each line of files and writing the result to standard output. It can be used to cut parts of a line by byte position, character and delimiter. It can also be used to cut data from file formats like CSV. 
+
 ## How to cut by byte position
 
 To cut out a section of a line by specifying a byte position use the `-b` option.

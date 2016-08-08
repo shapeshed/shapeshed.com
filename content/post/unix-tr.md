@@ -11,6 +11,10 @@
 
 ![tr man page](https://shapeshed.com/images/articles/tr.png)
 
+## What is the tr command in UNIX?
+
+The `tr` command in UNIX is a command line utility for translating or deleting characters. It supports a range of transformations including uppercase to lowercase, squeezing repeating characters, deleting specific characters and basic find and replace. It can be used with UNIX pipes to support more complex translation.
+
 ## How to convert lower case to upper case
 
 To convert from lower case to upper case the predefined sets in `tr` can be used. The `[:lower:]` set will match any lower case character. The `[:upper:]` set matches any uppercase character. To convert from lower to upper these can be used to translate a string.

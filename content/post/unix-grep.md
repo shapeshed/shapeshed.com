@@ -11,6 +11,10 @@
 
 ![grep man page][2]
 
+## What is the grep command in UNIX?
+
+The `grep` command in UNIX is a command line utility for printing lines that match a pattern. It can be used to find text in a file and search a directory structure of files recursively. It also supports showing the context of a match by showing lines before and after the result and has support for regular expressions in pattern matching.
+
 ## How to find text in a file
 
 To find text in a file pass the string you are looking for to `grep` followed by the name of the file or files.

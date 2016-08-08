@@ -11,6 +11,10 @@
 
 ![cat man page][1]
 
+## What is the cat command in UNIX?
+
+The `cat` command in UNIX is a command line utility for concatenating files and printing to standard output. It may be used to show the contents of a file in the terminal, to write the contents of one file to another and to combine multiple files into one. It also supports adding line numbers, showing special characters and squeezing blank lines.
+
 ## How to show the contents of a file
 
 To show the contents of a file using `cat` simply pass the name of the file or files you want to view. The contents will be printed to standard output and viewable in the terminal. The following example supposes that the file `foo.txt` has a single line 'Hello World'. 

@@ -11,9 +11,9 @@
 
 ![Tee man page][4]
 
-## What does tee do?
+## What is the tee command in UNIX?
 
-`tee` copies standard input to standard output. It supports writing whatever it is given from standard input to standard output and also writing to one or more files. The command is named after T splitter used in plumbing.
+The `tee` command in UNIX is a command line utility for copying standard input to standard output. It supports writing whatever it is given from standard input to standard output and optional writing to one or more files. The command is named after T splitter used in plumbing. 
 
 ## How to write to standard output and a file
 

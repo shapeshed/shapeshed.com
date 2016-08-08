@@ -12,6 +12,10 @@
 
 ![Sort man page][7]
 
+## What is the sort command in UNIX?
+
+The `sort` command in UNIX is a command line utility for sorting lines of text files. It supports sorting alphabetically, in reverse order, by number, by month and can also remove duplicates. The sort command can also sort by items not at the beginning of the line, ignore case sensitivity and return whether a file is sorted or not. 
+
 ## How to sort alphabetically
 
 The `sort` tool will sort lines alphabetically by default. Running `sort filename` writes the contents of the `filename` in alphabetical order to standard output. 

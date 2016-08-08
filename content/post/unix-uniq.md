@@ -11,6 +11,10 @@
 
 ![Uniq man page][5]
 
+## What is the uniq command in UNIX?
+
+The `uniq` command in UNIX is a command line utility for reporting or filtering repeated lines in a file. It can remove duplicates, show a count of occurrences, show only repeated lines, ignore certain characters and compare on specific fields. The command expects adjacent comparison lines so it is often combined with the `sort` command. 
+
 ## Uniq expects adjacent lines
 
 The `uniq` commands expects adjacent lines in inputs. To find unique occurrences where the lines are not adjacent a file needs to be sorted before passing to `uniq`. `uniq` will operate as expected on the following file that is named `authors.txt`.

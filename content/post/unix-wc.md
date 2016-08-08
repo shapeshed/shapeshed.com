@@ -11,6 +11,10 @@
 
 ![wc man page][3]
 
+## What is the wc command in UNIX?
+
+The `wc` command in UNIX is a command line utility for printing newline, word and byte counts for files. It can return the number of lines in a file, the number of characters in a file and the number of words in a file. It can also be combine with pipes for general counting operations. 
+
 ## How to get count information on a file
 
 To get count information on a file use the `wc` command with no options.
