@@ -85,7 +85,7 @@ The following are some practical examples of using aliases.
 
 ## Further reading
 
-* [How to use the alias command][1]
+* [The alias Command][1]
 * [Alias, setting command aliases][2]
 * [30 Handy Bash Shell Aliases For Linux / Unix / Mac OS][3]
 
