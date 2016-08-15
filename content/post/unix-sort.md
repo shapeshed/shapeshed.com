@@ -4,13 +4,13 @@
   "date": "2011-03-21T00:00:00+00:00",
   "lastmod": "2016-07-26T00:00:00+00:00",
   "image": "images/articles/sort.png",
-  "description": "A series of how to examples on using sort, a UNIX tool for sorting lines of text files",
+  "description": "Tutorial on using sort, a UNIX tool for sorting lines of text files. Examples of alphabetical sorting, reverse order sorting, sorting by number and mixed case sorting.",
   "tags": [
     "UNIX"
   ]
 }
 
-![Sort man page][7]
+![Terminal showing sort man page][7]
 
 ## What is the sort command in UNIX?
 
@@ -222,4 +222,4 @@ To sort on the most expensive cheese the numeric and reverse options can be used
 [4]: https://en.wikipedia.org/wiki/Sort_(Unix)
 [5]: http://www.theunixschool.com/2012/08/linux-sort-command-examples.html
 [6]: http://alvinalexander.com/unix/edu/examples/sort.shtml
-[7]: https://shapeshed.com/images/articles/sort.png
+[7]: https://shapeshed.com/images/articles/sort.png "Linux and Unix sort command"
