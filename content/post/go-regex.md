@@ -1,5 +1,5 @@
 {
-  "slug": "golang-regex",
+  "slug": "golang-regexp",
   "title": "Regular expressions in Go",
   "date": "2016-08-21T00:00:00+00:00",
   "description": "Series of how to examples on using the regexp standard library in Go. Includes string, string index, string submatch, string submatch index and replace examples.",
