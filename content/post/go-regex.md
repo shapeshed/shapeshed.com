@@ -241,6 +241,8 @@ Note that this can also be achieved with the [html parser][9] available in the G
 ## Further reading
 
 * [Golang Regexp Package][8]
+* [Go by Example: Regular Expressions][10]
+* [Golang Regex Tutorial][11]
 
 [1]: https://github.com/google/re2/wiki/Syntax
 [2]: https://play.golang.org/p/brKyB7stpN
@@ -251,3 +253,5 @@ Note that this can also be achieved with the [html parser][9] available in the G
 [7]: https://play.golang.org/p/ahEcVeqs8b
 [8]: https://golang.org/pkg/regexp/
 [9]: https://godoc.org/golang.org/x/net/html
+[10]: https://gobyexample.com/regular-expressions
+[11]: https://github.com/StefanSchroeder/Golang-Regex-Tutorial
