@@ -35,7 +35,7 @@ The latest versions of Safari, Firefox, Opera, or Chrome all support the canvas 
 [4]: http://get.adobe.com/flashplayer/
 [5]: http://silverlight.net/
 [6]: http://en.wikipedia.org/wiki/Open_standard
-[7]: http://www.youtube.com/watch?v=xIxDJof7xxQ
+[7]: https://www.youtube.com/watch?v=xIxDJof7xxQ
 [8]: http://www.whatwg.org/specs/web-apps/current-work/
 [9]: https://developer.mozilla.org/en/Canvas_tutorial
 [10]: http://en.wikipedia.org/wiki/Canvas_(HTML_element)

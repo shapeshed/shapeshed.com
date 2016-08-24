@@ -68,6 +68,6 @@ Ubiquitous support for the video element is likely to be a long way off but at s
  [4]: http://flowplayer.org/
  [5]: /video/your_video.ogg
  [6]: http://www.whatwg.org/specs/web-apps/current-work/#video
- [7]: http://www.youtube.com/html5
+ [7]: https://www.youtube.com/html5
  [8]: http://blog.dailymotion.com/2009/05/27/watch-videowithout-flash/
  [9]: http://sandfly.net.nz/blog/2009/05/the-html5-video-tags-fatal-flaw/

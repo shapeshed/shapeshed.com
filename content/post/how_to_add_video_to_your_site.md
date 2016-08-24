@@ -38,7 +38,7 @@ Of course you need your own web server and knowledge of how to create and upload
 
 Just like web pages the hardest part is producing good content. Filming is not an easy job and if you are producing a corporate video it is worth employing a TV professional with editing experience. The barriers to entry are low, which is a great thing, but that doesn't mean that people will watch what you produce if it doesn't have something to interest them!
 
- [1]: http://www.youtube.com/
+ [1]: https://www.youtube.com/
  [2]: http://www.videoegg.com/
  [3]: http://video.google.co.uk/
  [4]: http://www.ambrosiasw.com/utilities/snapzprox/

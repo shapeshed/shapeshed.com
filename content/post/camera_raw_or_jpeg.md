@@ -37,10 +37,10 @@ A DNG file is an open source file format created by Adobe. In a nutshell it is a
 
 I'm going to leave it to the mighty Mike Mchugh to explain what you can do with RAW files in Photoshop. I think "Bloody hell, wouldn't the bride be just pumped with that?" says it all. If you are reading this in a newsreader you can [view the video here][5].
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/-CXJYhf8Np4&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/-CXJYhf8Np4&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<object width="425" height="355"><param name="movie" value="https://www.youtube.com/v/-CXJYhf8Np4&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/-CXJYhf8Np4&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 
  [1]: http://en.wikipedia.org/wiki/Film_speed#Digital_camera_ISO_speed_and_exposure_index
  [2]: http://en.wikipedia.org/wiki/F-number#Stops.2C_f-stop_conventions.2C_and_exposure
  [3]: http://en.wikipedia.org/wiki/Shutter_speed
  [4]: https://shapeshed.com/images/articles/open_as_raw.jpg
- [5]: http://www.youtube.com/watch?v=-CXJYhf8Np4
+ [5]: https://www.youtube.com/watch?v=-CXJYhf8Np4

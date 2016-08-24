@@ -49,7 +49,7 @@ I salute him for going through that and understanding how it works.
 
 He was making a serious point. The more we ask a framework to do the more complex it becomes to maintain and understand. At RailsConf 2011 Rails was bigger, more complex and slower. 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/kWOAHIpmLAI#t=2050s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWOAHIpmLAI#t=2050s" frameborder="0" allowfullscreen></iframe>
 
 ## UNIX and Rails
 
@@ -69,7 +69,7 @@ All developers like abstraction and there are many excellent modules available f
 
 There are increasing pressures within the Node.js community to abstract more, provide generators and make it easier for developers to use. My attraction to Node.js (as much as what it offers) is that when a request comes in and a response goes out I can understand what it happening. We should work hard to keep this the case in the community. Keeping things small, understandable and distinct is my biggest hope for what the Node.js community will create. Then I might just be able to get Robert Carlyle's face and his stupid catchphrase out of my head. 
 
-[1]: http://www.youtube.com/watch?feature=player_detailpage&v=kWOAHIpmLAI#t=1913s
+[1]: https://www.youtube.com/watch?feature=player_detailpage&v=kWOAHIpmLAI#t=1913s
 [2]: http://blog.wyeworks.com/2012/4/20/rails-for-api-applications-rails-api-released
 [3]: https://github.com/rails/rails/commit/6db930cb5bbff9ad824590b5844e04768de240b1
 [4]: http://blog.wyeworks.com/2012/4/20/rails-for-api-applications-rails-api-released/
@@ -83,4 +83,4 @@ There are increasing pressures within the Node.js community to abstract more, pr
 [12]: https://github.com/mikeal/tako
 [13]: http://flatironjs.org/
 [14]: http://meteor.com/
-[15]: http://www.youtube.com/watch?feature=player_detailpage&v=kWOAHIpmLAI#t=2050s
+[15]: https://www.youtube.com/watch?feature=player_detailpage&v=kWOAHIpmLAI#t=2050s

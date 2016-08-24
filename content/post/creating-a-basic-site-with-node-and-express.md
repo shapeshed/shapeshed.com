@@ -252,7 +252,7 @@ If you find any inaccuracies in the post [send me an email][23] and I'll update 
 [13]: http://express-tutorial.herokuapp.com/
 [14]: http://www.heroku.com/
 [15]: http://chrismatthieu.com/
-[16]: http://www.youtube.com/watch?v=IMCXbrI_Ygk
+[16]: https://www.youtube.com/watch?v=IMCXbrI_Ygk
 [17]: http://express_example.nodester.com
 [18]: https://github.com/shapeshed/express_example	
 [19]: http://jade-lang.com/

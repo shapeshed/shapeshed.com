@@ -40,14 +40,14 @@ This announcement should be celebrated as a step forward for the open web. Googl
 [3]: https://shapeshed.com/HTML5-video-for-all-well-almost/
 [4]: http://www.ffmpeg.org/
 [5]: https://vimeo.com/
-[6]: http://www.youtube.com/
+[6]: https://www.youtube.com/
 [7]: http://en.wikipedia.org/wiki/VP8
 [8]: http://37signals.com/svn/posts/2341-microsoft-patent-trolls-salesforce
 [9]: http://www.apple.com/hotnews/thoughts-on-flash/
 [10]: http://www.nowpublic.com/tech-biz/adobe-apple-ad-campaign-we-love-apple-open-letter-apple-2616766.html
 [11]: http://blog.mozilla.com/blog/2010/05/19/open-web-open-video-and-webm/
 [12]: http://dev.opera.com/articles/view/opera-supports-webm-video/
-[13]: http://www.youtube.com/googledevelopers
+[13]: https://www.youtube.com/googledevelopers
 [14]: http://nightly.mozilla.org/webm/
 [15]: http://blog.chromium.org/2010/05/webm-and-vp8-land-in-chromium.html
 [16]: http://www.whatwg.org/specs/web-apps/current-work/

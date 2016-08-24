@@ -11,7 +11,7 @@ original: http://pebblecode.com/blog/rest-workshop/
 
 <p>The <a href="https://www.youtube.com/watch?v=Ydc5QPFS92M">video</a> and <a href="http://gist.io/5458283">slides</a> are below and a link to the apiary.io discussion project can be <a href="http://docs.workshop.apiary.io/">found here</a>.</p>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Ydc5QPFS92M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ydc5QPFS92M" frameborder="0" allowfullscreen></iframe>
 
 <h3>What is REST?</h3>
 
