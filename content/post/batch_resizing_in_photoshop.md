@@ -39,4 +39,4 @@ If you feel you've missed something watch the video. If you'd like the HD versio
  [1]: https://shapeshed.com/images/articles/create_new_action.jpg
  [2]: https://shapeshed.com/images/articles/stop_action.jpg
  [3]: https://shapeshed.com/images/articles/automate_batch.jpg
- [4]: http://www.vimeo.com/1050103
+ [4]: https://www.vimeo.com/1050103
