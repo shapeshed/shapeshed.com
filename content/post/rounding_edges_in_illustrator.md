@@ -52,4 +52,4 @@ Want to work through these examples? [Here's the illustrator file][1]
  [4]: https://shapeshed.com/images/articles/two_stars.png 
  [5]: https://shapeshed.com/images/articles/text_curved.png 
  [6]: https://shapeshed.com/images/articles/curved_button.png 
- [7]: http://f.cl.ly/items/3s1F1u1w3h0G3L0x3G3y/round-shape-effect.png
+ [7]: https://shapeshed.com/images/articles/round-shape-effect.png
