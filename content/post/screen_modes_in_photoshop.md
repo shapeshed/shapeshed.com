@@ -35,6 +35,7 @@ If you want to scroll around your design hold the Space bar and drag around. You
 
 Watch the video below to see the full cycle of events in the very first Shape Shed video! Woo hoo! The SD version is below but if you want the HD version you'll have to visit the [Vimeo site][1]
 
-<object type="application/x-shockwave-flash" width="400" height="300" data="https://www.vimeo.com/moogaloop.swf?clip_id=985417&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="https://www.vimeo.com/moogaloop.swf?clip_id=985417&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=" /></object><br /><a href="https://www.vimeo.com/985417?pg=embed&sec=985417">Screen Modes in Photoshop</a> from <a href="https://www.vimeo.com/user472031?pg=embed&sec=985417">George Ornbo</a> on <a href="https://vimeo.com?pg=embed&sec=985417">Vimeo</a>.
+<iframe src="https://player.vimeo.com/video/985417" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/985417">Screen Modes in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
  [1]: https://www.vimeo.com/985417
