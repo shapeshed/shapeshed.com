@@ -19,4 +19,4 @@ css:
 	@find ./public -name index.html | xargs sed -i "s/styles\.css/$(CSSMD5)\.css/"
 
 rsync: 
-	@rsync -az -e "ssh" --delete ./public/ 173.255.248.188:/srv/http/shapeshed.com
+	@rsync -az -e "ssh" --delete ./public/ static1.shapeshed.com:/srv/http/shapeshed.com
