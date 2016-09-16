@@ -28,7 +28,7 @@ Now with the Pencil tool selected you can draw dotted lines onto the canvas.
 
 ![Final dotted lines][4]
 
- [1]: https://shapeshed.com/images/articles/dotted_line.png 
- [2]: https://shapeshed.com/images/articles/duplicate_brush.png 
- [3]: https://shapeshed.com/images/articles/set_brush_option.png 
- [4]: https://shapeshed.com/images/articles/final_dotted_lines.png 
+ [1]: /images/articles/dotted_line.png 
+ [2]: /images/articles/duplicate_brush.png 
+ [3]: /images/articles/set_brush_option.png 
+ [4]: /images/articles/final_dotted_lines.png 

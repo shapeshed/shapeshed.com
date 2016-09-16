@@ -47,6 +47,6 @@ Admittedly designing a logo for Photoshop is difficult. It will be exposed to pr
 
  [1]: http://www.adobe.com/products/photoshop/index.html
  [2]: http://veerle.duoh.com/blog/comments/the_new_adobe_icons_and_branding/
- [3]: https://shapeshed.com/images/articles/ps_logo_228x52.gif 
- [4]: https://shapeshed.com/images/articles/london_2012.gif 
+ [3]: /images/articles/ps_logo_228x52.gif 
+ [4]: /images/articles/london_2012.gif 
  [5]: http://blogs.adobe.com/jnack/2007/09/photoshop_gets.html

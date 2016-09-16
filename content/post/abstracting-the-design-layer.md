@@ -121,7 +121,7 @@ Frameworks and abstractions are not for everyone and I certainly would not consi
 * [JSLint][9]
 
 [1]: http://nodejs.org
-[2]: https://shapeshed.com/sass-is-a-beautiful-thing/
+[2]: /sass-is-a-beautiful-thing/
 [3]: http://sass-lang.com/ 
 [4]: http://lesscss.org/
 [5]: http://compass-style.org/

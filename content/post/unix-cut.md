@@ -9,7 +9,7 @@
   ]
 }
 
-![cut man page](https://shapeshed.com/images/articles/cut.png)
+![cut man page](/images/articles/cut.png)
 
 ## What is the cut command in UNIX?
 

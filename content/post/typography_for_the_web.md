@@ -45,8 +45,8 @@ Typography on the web is in its infancy. Whilst new techniques are springing up 
 
  [1]: http://www.codestyle.org/css/font-family/sampler-WindowsResults.shtml
  [2]: http://www.codestyle.org/css/font-family/sampler-MacResults.shtml
- [3]: https://shapeshed.com/images/articles/serif_sans_serif.png 
+ [3]: /images/articles/serif_sans_serif.png 
  [4]: http://www.clagnut.com/blog/348/
- [5]: https://shapeshed.com/journal/my_web_typography_is_awful/
+ [5]: /journal/my_web_typography_is_awful/
  [6]: http://www.stopdesign.com/articles/replace_text/
  [7]: http://www.mikeindustries.com/sifr/

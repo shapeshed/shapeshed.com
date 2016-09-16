@@ -69,6 +69,6 @@ To view compressed files without decompressing them pass the `-z` option. In the
 * [file (command) Wikipedia page][4]
 
 [1]: http://linux.die.net/man/1/file
-[2]: https://shapeshed.com/images/articles/file.png "Linux and Unix file command"
+[2]: /images/articles/file.png "Linux and Unix file command"
 [3]: http://alvinalexander.com/unix/edu/examples/file.shtml
 [4]: https://en.wikipedia.org/wiki/File_(command)

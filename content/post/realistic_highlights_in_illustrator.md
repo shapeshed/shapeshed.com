@@ -42,8 +42,8 @@ Using this technique you can get close to natural light effects. Of course there
 
 ![Police Siren][1]
 
- [1]: https://shapeshed.com/images/articles/police-light.png 
- [2]: https://shapeshed.com/images/articles/highlight_path.jpg 
- [3]: https://shapeshed.com/images/articles/siren_gradient.jpg 
- [4]: https://shapeshed.com/images/articles/siren_gradient_options.jpg 
- [5]: https://shapeshed.com/images/articles/siren_clipping_mask.jpg 
+ [1]: /images/articles/police-light.png 
+ [2]: /images/articles/highlight_path.jpg 
+ [3]: /images/articles/siren_gradient.jpg 
+ [4]: /images/articles/siren_gradient_options.jpg 
+ [5]: /images/articles/siren_clipping_mask.jpg 

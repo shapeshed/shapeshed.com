@@ -93,4 +93,4 @@ The following are some practical examples of using aliases.
 [1]: http://www.linfo.org/alias.html
 [2]: http://www.linuxhowtos.org/Tips%20and%20Tricks/command_aliases.htm
 [3]: http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
-[4]: https://shapeshed.com/images/articles/shell_alias.png
+[4]: /images/articles/shell_alias.png

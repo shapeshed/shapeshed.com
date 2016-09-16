@@ -32,7 +32,7 @@ So get working with the blend tool and you even end up making something [like th
 
  [1]: http://veerle.duoh.com/blog/comments/using_the_blend_tool_and_distort_zig_zag_effect_in_illustrator/
  [2]: http://www.ndesign-studio.com/resources/tutorials/abstract-background/
- [3]: https://shapeshed.com/images/articles/electro.png 
+ [3]: /images/articles/electro.png 
  [4]: http://www.bittbox.com/illustrator/28-free-illustrator-brushes-for-making-swooshes-and-swirls/
- [5]: https://shapeshed.com/images/articles/brushes.png
+ [5]: /images/articles/brushes.png
  [6]: http://www.serioussituations.com/2007/03/semicompetitive_east.html

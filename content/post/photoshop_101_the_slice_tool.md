@@ -37,6 +37,6 @@ The problem for me with this tool is that it is clumsy in the way it works. It c
 
 By all means feel free to use the Slice Tool if you like but in my opinion you will work more accurately and professionally if you slice up .psds using the [Marquee Tool][1]. If you keep the Info box viewable (F8) you will be able to quickly see the width and height of elements and incorporate it into your CSS. The slice tool was really designed for use with Table based layout - if you persist in using tables it is likely that you are not going to be getting much work in the future!
 
- [1]: https://shapeshed.com/journal/photoshop_101_the_marquee_tool/
- [2]: https://shapeshed.com/images/articles/slice_from_guides.jpg 
- [3]: https://shapeshed.com/images/articles/slice_tool_options.jpg 
+ [1]: /journal/photoshop_101_the_marquee_tool/
+ [2]: /images/articles/slice_from_guides.jpg 
+ [3]: /images/articles/slice_tool_options.jpg 

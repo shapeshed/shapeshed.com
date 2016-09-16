@@ -41,7 +41,7 @@ Of course you could also use the Color Replacement Tool but I like this way!
 
  [1]: http://www.flickr.com/photos/stevewilde/189604745/
  [2]: http://www.flickr.com/photos/stevewilde/
- [3]: https://shapeshed.com/images/articles/doors_original.jpg
- [4]: https://shapeshed.com/images/articles/quick_select.jpg
- [5]: https://shapeshed.com/images/articles/adjustment_layer.jpg
- [6]: https://shapeshed.com/images/articles/doors_final.jpg
+ [3]: /images/articles/doors_original.jpg
+ [4]: /images/articles/quick_select.jpg
+ [5]: /images/articles/adjustment_layer.jpg
+ [6]: /images/articles/doors_final.jpg

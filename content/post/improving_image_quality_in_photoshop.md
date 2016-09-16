@@ -44,7 +44,7 @@ The Auto-correction tools also allow you to fine tune what they have done. Once 
 
 Photoshop offers you hundereds of ways to improve the quality of images. Unless I'm doing some artworking I normally find that the Auto correction tools and a few adjustment layers will do the trick. If not you can explore the many options available under Image > Adjustments. The options are too many to list here but they are worth exploring!
 
- [1]: https://shapeshed.com/images/articles/auto_levels.jpg 
+ [1]: /images/articles/auto_levels.jpg 
 
 	 
 		

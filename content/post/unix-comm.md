@@ -96,8 +96,8 @@ If case sensitivity is ignore with `-i` option the words will be shown as common
 * [comm Wikipedia page][5]
 
 
-[1]: https://shapeshed.com/images/articles/comm.png
+[1]: /images/articles/comm.png
 [2]: http://linux.die.net/man/1/comm
-[3]: https://shapeshed.com/unix-sort/
+[3]: /unix-sort/
 [4]: http://www.theunixschool.com/2011/03/comm-beautiful-comparison.html
 [5]: https://en.wikipedia.org/wiki/Comm

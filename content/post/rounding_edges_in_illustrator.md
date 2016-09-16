@@ -47,9 +47,9 @@ If you have to modify the shape beyond the stroke, you can also use Effect > Sty
 Want to work through these examples? [Here's the illustrator file][1]
 
  [1]: http://cdn.shapeshed.com/downloads/curved_edges.ai
- [2]: https://shapeshed.com/images/articles/star.png 
- [3]: https://shapeshed.com/images/articles/rounded_star.png 
- [4]: https://shapeshed.com/images/articles/two_stars.png 
- [5]: https://shapeshed.com/images/articles/text_curved.png 
- [6]: https://shapeshed.com/images/articles/curved_button.png 
- [7]: https://shapeshed.com/images/articles/round-shape-effect.png
+ [2]: /images/articles/star.png 
+ [3]: /images/articles/rounded_star.png 
+ [4]: /images/articles/two_stars.png 
+ [5]: /images/articles/text_curved.png 
+ [6]: /images/articles/curved_button.png 
+ [7]: /images/articles/round-shape-effect.png

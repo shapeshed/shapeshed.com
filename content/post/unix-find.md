@@ -92,4 +92,4 @@ Another use of combining `find` with `exec` is to search for text within multipl
 [2]: http://alvinalexander.com/unix/edu/examples/find.shtml
 [3]: http://www.folkstalk.com/2011/12/101-examples-of-using-find-command-in.html
 [4]: http://www.ling.ohio-state.edu/~kyoon/tts/unix-help/unix-find-command-examples.htm
-[5]: https://shapeshed.com/images/articles/find.png
+[5]: /images/articles/find.png

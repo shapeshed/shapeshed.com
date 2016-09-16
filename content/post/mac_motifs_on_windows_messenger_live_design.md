@@ -16,5 +16,5 @@ It is commendable that Microsoft are improving User Interface Design but echoing
 
 [Windows Messenger Live][2]
 
-[1]: https://shapeshed.com/images/articles/mac.png
+[1]: /images/articles/mac.png
 [2]: http://windows.microsoft.com/en-us/messenger/home

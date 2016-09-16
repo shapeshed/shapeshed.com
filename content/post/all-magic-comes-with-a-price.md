@@ -76,8 +76,8 @@ There are increasing pressures within the Node.js community to abstract more, pr
 [5]: http://www.imdb.com/name/nm0001015/
 [6]: http://beta.abc.go.com/shows/once-upon-a-time
 [7]: https://github.com/mikeal/request
-[8]: https://shapeshed.com/images/articles/rumpelstiltskin.jpg
-[9]: https://shapeshed.com/images/articles/rails_middleware.png
+[8]: /images/articles/rumpelstiltskin.jpg
+[9]: /images/articles/rails_middleware.png
 [10]: http://expressjs.com/
 [11]: http://geddyjs.org/
 [12]: https://github.com/mikeal/tako

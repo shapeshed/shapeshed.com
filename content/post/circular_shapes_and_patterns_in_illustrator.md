@@ -24,4 +24,4 @@ I've used this technique here to quickly create a wallpaper/textile design. Than
 
 ![Flower Pattern in Illustration][1]
 
- [1]: https://shapeshed.com/images/articles/circle_pattern.png 
+ [1]: /images/articles/circle_pattern.png 

@@ -76,8 +76,8 @@ After reading this article [Matt Tanase][25] contacted me about a great project 
 
 [1]: http://www.amazon.com/Pulling-Strings-Puppet-Automated-Administration/dp/1590599780
 [2]: http://docs.puppetlabs.com/
-[3]: https://shapeshed.com/setting-up-puppet-on-ubuntu-10-04/
-[4]: https://shapeshed.com/connecting-clients-to-a-puppet-master/
+[3]: /setting-up-puppet-on-ubuntu-10-04/
+[4]: /connecting-clients-to-a-puppet-master/
 [5]: http://projects.puppetlabs.com/projects/1/wiki/Using_Unicorn
 [6]: http://unicorn.bogomips.org/
 [7]: https://github.com/blt04/puppet-rvm
@@ -92,7 +92,7 @@ After reading this article [Matt Tanase][25] contacted me about a great project 
 [16]: http://docs.puppetlabs.com/guides/tests_smoke.html
 [17]: http://projects.puppetlabs.com/projects/1/wiki/Branch_Testing
 [18]: http://docs.puppetlabs.com/guides/installing_dashboard.html
-[19]: https://shapeshed.com/images/articles/puppet_dashboard.jpg
+[19]: /images/articles/puppet_dashboard.jpg
 [20]: http://puppetlabs.com/
 [21]: http://pebblecode.com/
 [22]: http://www.heroku.com/

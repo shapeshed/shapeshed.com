@@ -76,5 +76,5 @@ That's it - go create!
 [10]: http://blog.izs.me/post/3295261330/on-npm-and-homebrew
 [11]: https://github.com/shapeshed/dotfiles/blob/master/bashrc
 [12]: http://nodejs.org/download
-[13]: https://shapeshed.com/compiling-nodejs-from-source-on-ubuntu-10-04/
+[13]: /compiling-nodejs-from-source-on-ubuntu-10-04/
 [14]: https://npmjs.org/

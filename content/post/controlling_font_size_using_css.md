@@ -39,4 +39,4 @@ I love this method and thoroughly recommend it. You will save time and maintain 
 
  [1]: http://www.clagnut.com
  [2]: http://www.clagnut.com/blog/348/
- [3]: https://shapeshed.com/examples/font-size-css/
+ [3]: /examples/font-size-css/

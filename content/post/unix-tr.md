@@ -9,7 +9,7 @@
   ]
 }
 
-![tr man page](https://shapeshed.com/images/articles/tr.png)
+![tr man page](/images/articles/tr.png)
 
 ## What is the tr command in UNIX?
 

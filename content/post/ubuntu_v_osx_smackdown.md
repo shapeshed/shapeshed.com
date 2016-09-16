@@ -100,29 +100,29 @@ I'm not going to be dumping OSX just yet but I've been really impressed with the
  [1]: http://www.parallels.com/products/desktop/
  [2]: http://www.howtogeek.com/howto/ubuntu/enable-smooth-fonts-on-ubuntu-linux/
  [3]: https://wiki.ubuntu.com/Fonts
- [4]: https://shapeshed.com/images/articles/look_feel.jpg
+ [4]: /images/articles/look_feel.jpg
  [5]: http://macromates.com/
  [6]: http://grigio.org/pimp_my_gedit_was_textmate_linux
  [7]: http://projects.gnome.org/gedit/
- [8]: https://shapeshed.com/images/articles/gedit.jpg
+ [8]: /images/articles/gedit.jpg
  [9]: http://projects.gnome.org/evolution/
  [10]: http://www.mozilla.com/thunderbird/
- [11]: https://shapeshed.com/images/articles/thunderbird.jpg
+ [11]: /images/articles/thunderbird.jpg
  [12]: http://www.apple.com/safari/
  [13]: http://www.mozilla.com/firefox/
- [14]: https://shapeshed.com/images/articles/firefox.jpg
+ [14]: /images/articles/firefox.jpg
  [15]: http://projects.gnome.org/rhythmbox/
  [16]: http://www.getsongbird.com/
  [17]: http://last.fm/
- [18]: https://shapeshed.com/images/articles/rhythmbox.jpg
+ [18]: /images/articles/rhythmbox.jpg
  [19]: http://code.google.com/p/gtwitter/
  [20]: http://iconfactory.com/software/twitterrific
- [21]: https://shapeshed.com/images/articles/gTwitter.jpg
+ [21]: /images/articles/gTwitter.jpg
  [22]: http://docs.google.com/
  [23]: http://www.apple.com/iwork/
  [24]: http://www.openoffice.org/
  [25]: http://www.panic.com/transmit/
  [26]: http://gftp.seul.org/
- [27]: https://shapeshed.com/images/articles/gftp.jpg
+ [27]: /images/articles/gftp.jpg
  [28]: http://www.apple.com/macosx/features/spaces.html
- [29]: https://shapeshed.com/images/articles/switcher.png
+ [29]: /images/articles/switcher.png

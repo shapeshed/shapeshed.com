@@ -130,7 +130,7 @@ To set the network interface that `traceroute` should use use the `-i` option. I
 * [Using traceroute][6]
 
 [1]: http://linux.die.net/man/8/traceroute
-[2]: https://shapeshed.com/images/articles/traceroute.png "Linux and Unix ps command"
+[2]: /images/articles/traceroute.png "Linux and Unix ps command"
 [3]: https://en.wikipedia.org/wiki/Traceroute
 [4]: https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html
 [5]: http://whatismyipaddress.com/traceroute

@@ -28,7 +28,7 @@
 
 <h3>Backing up remotely</h3>
 
-<p>Next I send a backup to my remote backup server. This means I have a remote copy in the cloud so if the server blows up I can recover everything. I set up <a href="https://shapeshed.com/journal/using_shared_keys_with_ssh_on_centos_5/">shared keys</a> between the production server and the backup machine. This means I don't need passwords so I can also create a cron job and forget about it. First of all I copied the vhosts and mysql folders as .tar.bz2 files to the backup server. For daily backup I'm using <a href="http://samba.anu.edu.au/rsync/">Rsync</a> to push changes to the backup server, again in a cron job:</p>
+<p>Next I send a backup to my remote backup server. This means I have a remote copy in the cloud so if the server blows up I can recover everything. I set up <a href="/journal/using_shared_keys_with_ssh_on_centos_5/">shared keys</a> between the production server and the backup machine. This means I don't need passwords so I can also create a cron job and forget about it. First of all I copied the vhosts and mysql folders as .tar.bz2 files to the backup server. For daily backup I'm using <a href="http://samba.anu.edu.au/rsync/">Rsync</a> to push changes to the backup server, again in a cron job:</p>
 
     #!/bin/bash
     rsync -a --exclude-from="/home/george/exclude.txt" --del -e ssh /var/www/vhosts/  george@1.234.56.789:/mnt/dionysus/backups/shapeshed.com/var/www/vhosts/

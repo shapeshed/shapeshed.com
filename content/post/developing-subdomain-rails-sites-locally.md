@@ -69,7 +69,7 @@ There is also another domain that serves the same purpose if you prefer it - lvh
 * [Subdomains in Rails 3][4]
 
 [1]: http://www.modrails.com/install.html
-[2]: https://shapeshed.com/setting_up_local_websites_on_snow_leopard/
+[2]: /setting_up_local_websites_on_snow_leopard/
 [3]: http://tbaggery.com/2010/03/04/smack-a-ho-st.html
 [4]: http://railscasts.com/episodes/221-subdomains-in-rails-3
 [4]: http://tbaggery.com/

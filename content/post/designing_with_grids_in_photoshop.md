@@ -44,9 +44,9 @@ From the menu choose Pattern... Then select the pattern that we have just create
 
 ![The final grid][5]
 
- [1]: https://shapeshed.com/images/articles/guardian_grid.jpg
- [2]: https://shapeshed.com/images/articles/grid_rectangle.jpg
- [3]: https://shapeshed.com/images/articles/grid_merge.jpg
- [4]: https://shapeshed.com/images/articles/grid_new_fill.jpg
- [5]: https://shapeshed.com/images/articles/grid_final.png
+ [1]: /images/articles/guardian_grid.jpg
+ [2]: /images/articles/grid_rectangle.jpg
+ [3]: /images/articles/grid_merge.jpg
+ [4]: /images/articles/grid_new_fill.jpg
+ [5]: /images/articles/grid_final.png
 

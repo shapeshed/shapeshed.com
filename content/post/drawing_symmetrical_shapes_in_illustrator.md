@@ -44,7 +44,7 @@ Watch the whole process in the video below
 
 <iframe src="https://player.vimeo.com/video/33020843?title=0&amp;byline=0&amp;portrait=0" width="400" height="279" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
- [1]: https://shapeshed.com/images/articles/heart_shape.png 
- [2]: https://shapeshed.com/images/articles/left_heart.png 
- [3]: https://shapeshed.com/images/articles/reflection_target.png 
+ [1]: /images/articles/heart_shape.png 
+ [2]: /images/articles/left_heart.png 
+ [3]: /images/articles/reflection_target.png 
 

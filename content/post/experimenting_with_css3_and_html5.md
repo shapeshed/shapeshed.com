@@ -37,7 +37,7 @@ Pretty much everything I've have learned in terms of my job has been through peo
 
 You can view [the site here][6] and see what's under the hood at [the Github repository][7].
 
- [1]: https://shapeshed.com/images/articles/github_site.jpg
+ [1]: /images/articles/github_site.jpg
  [2]: http://shapeshed.github.com/
  [3]: http://icant.co.uk/
  [4]: http://www.whatwg.org/specs/web-apps/current-work/multipage/

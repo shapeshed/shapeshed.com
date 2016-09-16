@@ -180,6 +180,6 @@ On some systems the `pkill` command is also available to accomplish this.
 * [10 basic examples of Linux ps command][4]
 
 [1]: http://linux.die.net/man/1/ps
-[2]: https://shapeshed.com/images/articles/ps.png "Linux and Unix ps command"
+[2]: /images/articles/ps.png "Linux and Unix ps command"
 [3]: http://www.linfo.org/ps.html
 [4]: http://www.binarytides.com/linux-ps-command/

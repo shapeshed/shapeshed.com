@@ -32,7 +32,7 @@ The real power of this feature is that you can quickly fill shapes or objects wi
 
 ![Flower power t-shirt][4]
 
- [1]: https://shapeshed.com/images/articles/t-shirt_one.png 
- [2]: https://shapeshed.com/images/articles/add_pattern_swatch.jpg 
- [3]: https://shapeshed.com/images/articles/t_shirt_two.png 
- [4]: https://shapeshed.com/images/articles/t_shirt_three.png 
+ [1]: /images/articles/t-shirt_one.png 
+ [2]: /images/articles/add_pattern_swatch.jpg 
+ [3]: /images/articles/t_shirt_two.png 
+ [4]: /images/articles/t_shirt_three.png 

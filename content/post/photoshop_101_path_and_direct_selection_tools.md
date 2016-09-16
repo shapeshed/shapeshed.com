@@ -41,5 +41,5 @@ Have a look at the short video to see the shape being moved and changed using th
 
 Particularly for adding fine details and fine tuning the paths you have drawn this is an invaluable tool.
 
- [1]: https://shapeshed.com/images/articles/path_example.png 
+ [1]: /images/articles/path_example.png 
 

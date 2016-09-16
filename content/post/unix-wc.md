@@ -76,4 +76,4 @@ To count the number of folders and files in a directory `wc` can be combined wit
 
 [1]: http://linux.die.net/man/1/wc
 [2]: http://alvinalexander.com/unix/edu/examples/wc.shtml
-[3]: https://shapeshed.com/images/articles/wc.png
+[3]: /images/articles/wc.png

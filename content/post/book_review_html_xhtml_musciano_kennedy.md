@@ -31,7 +31,7 @@
 
 <p><a href="http://www.amazon.com/HTML-XHTML-Definitive-Guide-Fifth/dp/059600382X">Buy from Amazon</a></p>
 
-<img src="https://shapeshed.com/images/books/two_stars.gif" title="Two out of Five" alt="Two out of Five" width="124" height="30" />
+<img src="/images/books/two_stars.gif" title="Two out of Five" alt="Two out of Five" width="124" height="30" />
 
 <span class="rating">2</span>
 

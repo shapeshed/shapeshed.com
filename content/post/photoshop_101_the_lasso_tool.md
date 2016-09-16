@@ -47,6 +47,6 @@ Tip If you are not happy with your selection and want to start again hit escape.
 *   **Frequency:** This controls how often points are drawn by the Magnetic Lasso tool. Low values are good for smooth edges, high values are good for uneven edges. 
 *   **Edge Contrast:** This controls how much the contrast between pixels needs to be before the tool snaps to it. A high value is good when the background is in high contrast, a low value is good when the background is in poor contrast.
 
- [1]: https://shapeshed.com/photoshop_101_the_marquee_tool/
- [2]: https://shapeshed.com/images/articles/freehand_lasso.jpg 
- [3]: https://shapeshed.com/images/articles/tracing_shape.jpg 
+ [1]: /photoshop_101_the_marquee_tool/
+ [2]: /images/articles/freehand_lasso.jpg 
+ [3]: /images/articles/tracing_shape.jpg 

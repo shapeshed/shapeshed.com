@@ -176,4 +176,4 @@ This can be very useful in data transform pipelines to shift JSON data from one 
 [3]: http://blog.librato.com/posts/jq-json
 [4]: http://www.compciv.org/recipes/cli/jq-for-parsing-json/
 [5]: https://stedolan.github.io/jq/manual/
-[6]: https://shapeshed.com/images/articles/jq.png
+[6]: /images/articles/jq.png

@@ -43,6 +43,6 @@ I'm interested to know what other users / monitors experience. So why not downlo
  [2]: http://www.lynda.com/
  [3]: http://www.lynda.com/hex.asp
  [4]: http://www.morecrayons.com/palettes/webSmart/
- [5]: https://shapeshed.com/images/articles/256.jpg 
- [6]: https://shapeshed.com/images/articles/web_safe_experiment.psd
- [7]: https://shapeshed.com/images/articles/web_safe_experiment.jpg
+ [5]: /images/articles/256.jpg 
+ [6]: /images/articles/web_safe_experiment.psd
+ [7]: /images/articles/web_safe_experiment.jpg

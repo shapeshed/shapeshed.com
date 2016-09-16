@@ -90,6 +90,6 @@ This seems to be very cross browser friendly. I've tested it ok in the following
 *   Mac Camino 1
 *   Mac Opera 9
 
-[1]: https://shapeshed.com/examples/creating-content/
+[1]: /examples/creating-content/
 [2]: http://cdn.shapeshed.com/downloads/creating-content.zip
 [4]: http://simonwillison.net/2004/May/26/addLoadEvent/

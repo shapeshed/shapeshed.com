@@ -44,7 +44,7 @@ Personally I find all those lines a bit much. As each line it a separate path yo
 
 This works with lots of other tools including all the tools within the rectangle tool and line segment tool so get experimenting!
 
- [1]: https://shapeshed.com/images/articles/some_on_some_off.jpg 
- [2]: https://shapeshed.com/images/articles/gradient.jpg 
+ [1]: /images/articles/some_on_some_off.jpg 
+ [2]: /images/articles/gradient.jpg 
  [3]: http://www.bittbox.com/freebies/free-illustrator-brushes-teardrop-foliage/
- [4]: https://shapeshed.com/images/articles/gradient_brushes.jpg 
+ [4]: /images/articles/gradient_brushes.jpg 

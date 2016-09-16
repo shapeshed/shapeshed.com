@@ -41,7 +41,7 @@ This is more of a whinge (I'm English after all) than a serious objection. I'm v
 
 Apple have been so successful as they have produced designs that are user-focussed and simple to use. My concern is that the Leopard UI shows problems that should easily be picked up in user testing. Which folder icons do you find easier to use? I suspect Tiger would win every time. Which menu bar is easier to read? Again Tiger for me is better. Do you really care about the shiney dock? Not really no - I just want something that is easy to use.
 
- [1]: https://shapeshed.com/images/articles/leopard_folders.png 
- [2]: https://shapeshed.com/images/articles/folders.png 
- [3]: https://shapeshed.com/images/articles/menu_bar.jpg 
- [4]: https://shapeshed.com/images/articles/dock.jpg
+ [1]: /images/articles/leopard_folders.png 
+ [2]: /images/articles/folders.png 
+ [3]: /images/articles/menu_bar.jpg 
+ [4]: /images/articles/dock.jpg

@@ -140,5 +140,5 @@ To just see the list of counties `sed` and `cut` may be used to clean this up.
 [1]: http://linux.die.net/man/1/uniq
 [2]: http://www.thegeekstuff.com/2013/05/uniq-command-examples
 [3]: http://www.computerhope.com/unix/uuniq.htm
-[4]: https://shapeshed.com/unix-sort/
-[5]: https://shapeshed.com/images/articles/uniq.png
+[4]: /unix-sort/
+[5]: /images/articles/uniq.png

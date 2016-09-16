@@ -37,4 +37,4 @@ Background - This has the rules associated with the the background image
 
 A simple icon applied to a link using CSS. (If you are reading this in a newsreader you won't see the image) 
 
- [1]: https://shapeshed.com/images/articles/pencil_icon.gif 
+ [1]: /images/articles/pencil_icon.gif 

@@ -90,8 +90,8 @@ To enforce uniform spacing using the `fmt` command the `-u` option may be used. 
 * [Linux fmt command examples][4]
 * ["fmt" Command Usage Examples in Linux][5]
 
-[1]: https://shapeshed.com/unix-cat/
+[1]: /unix-cat/
 [2]: http://linux.die.net/man/1/fmt
-[3]: https://shapeshed.com/images/articles/fmt.png "Linux and Unix fmt command"
+[3]: /images/articles/fmt.png "Linux and Unix fmt command"
 [4]: http://landoflinux.com/linux_fmt_command.html
 [5]: http://www.sanfoundry.com/fmt-command-usage-examples-linux/

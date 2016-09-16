@@ -241,7 +241,7 @@ If you find any inaccuracies in the post [send me an email][23] and I'll update 
 [2]: http://tjholowaychuk.com/
 [3]: http://npmjs.org/
 [4]: http://nodejs.org/
-[5]: https://shapeshed.com/setting-up-nodejs-and-npm-on-mac-osx/
+[5]: /setting-up-nodejs-and-npm-on-mac-osx/
 [6]: http://www.google.com/search?q=install+node.js+linux
 [7]: http://www.google.com/search?q=install+node.js+windows
 [8]: http://git-scm.com/
@@ -259,7 +259,7 @@ If you find any inaccuracies in the post [send me an email][23] and I'll update 
 [20]: http://learnboost.github.com/stylus/
 [21]: http://nodester.com/api.html
 [22]: http://socket.io/
-[23]: https://shapeshed.com/contact/
+[23]: /contact/
 [24]: http://remysharp.com/
 [25]: https://github.com/remy/nodemon
 [26]: https://github.com/rtomayko/shotgun
@@ -267,7 +267,7 @@ If you find any inaccuracies in the post [send me an email][23] and I'll update 
 [28]: http://haml-lang.com/
 [29]: http://expressjs.com/guide.html
 [30]: http://sass-lang.com/
-[31]: https://shapeshed.com/images/articles/express_example.jpg
+[31]: /images/articles/express_example.jpg
 [32]: http://www.nodejitsu.com/
 [33]: https://no.de/
 [34]: http://www.cloudfoundry.com/

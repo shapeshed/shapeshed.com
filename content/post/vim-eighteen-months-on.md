@@ -90,10 +90,10 @@ But if you stick with it you might just see the light. I did and can only give V
 [13]: http://www.chromium.org/Home
 [14]: http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
 [15]: https://vimeo.com/user1690209/videos
-[16]: https://shapeshed.com/images/articles/vim_screenshot.png
+[16]: /images/articles/vim_screenshot.png
 [17]: https://github.com/mxcl/homebrew
 [18]: https://github.com/mislav/dotfiles
-[19]: https://shapeshed.com/images/articles/lowercase_vim_help.png
-[20]: https://shapeshed.com/images/articles/express_screenshot.png
+[19]: /images/articles/lowercase_vim_help.png
+[20]: /images/articles/express_screenshot.png
 [21]: https://github.com/carlhuda/janus
 [22]: http://www.fatcow.com/edu/eighteen-months-bg/

@@ -79,12 +79,12 @@ Take it out of the over and leave it somewhere to cool. Then when it is still wa
 ![Sliced][7] 
 
 
-[1]: https://shapeshed.com/images/articles/ingredients.jpg 
-[2]: https://shapeshed.com/images/articles/mixed_in_bowl.jpg 
-[3]: https://shapeshed.com/images/articles/proved.jpg 
-[4]: https://shapeshed.com/images/articles/second_proving.jpg 
-[5]: https://shapeshed.com/images/articles/scored.jpg 
-[6]: https://shapeshed.com/images/articles/baked.jpg 
-[7]: https://shapeshed.com/images/articles/sliced.jpg 
-[8]: https://shapeshed.com/images/articles/combined_ingredients.jpg 
+[1]: /images/articles/ingredients.jpg 
+[2]: /images/articles/mixed_in_bowl.jpg 
+[3]: /images/articles/proved.jpg 
+[4]: /images/articles/second_proving.jpg 
+[5]: /images/articles/scored.jpg 
+[6]: /images/articles/baked.jpg 
+[7]: /images/articles/sliced.jpg 
+[8]: /images/articles/combined_ingredients.jpg 
 [9]: http://www.bbc.co.uk/food/recipes/paul_hollywoods_crusty_83536

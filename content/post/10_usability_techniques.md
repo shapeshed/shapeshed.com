@@ -72,16 +72,16 @@ Putting your users at the centre of the design and execution of your site will l
 
 [Employing a User-Centered Design Philosophy - David Polcaro][13]
 
- [1]: https://shapeshed.com/images/articles/resizable_fonts.png "Resizable text"
+ [1]: /images/articles/resizable_fonts.png "Resizable text"
  [2]: http://www.clagnut.com/blog/348/
  [3]: http://www.informit.com/articles/article.asp?p=369225&rl=1
  [4]: http://www.useit.com/papers/webwriting/writing.html
  [5]: http://www.456bereastreet.com/archive/200611/click_here_and_other_meaningless_link_phrases/
  [6]: http://www.baekdal.com/articles/Usability/breadcrumbguidelines/
- [7]: https://shapeshed.com/images/articles/warning_message.png "Warning message"
+ [7]: /images/articles/warning_message.png "Warning message"
  [8]: http://alistapart.com/articles/sensibleforms
  [9]: http://alistapart.com/stories/goingtoprint/
  [10]: http://www.webcredible.co.uk/user-friendly-resources/web-usability/focus-groups.shtml
- [11]: https://shapeshed.com/images/articles/search.jpg "Search box"
+ [11]: /images/articles/search.jpg "Search box"
  [12]: http://www.useit.com/alertbox/9707b.html
  [13]: http://www.pixelbridge.com/articles/index.php?p=103

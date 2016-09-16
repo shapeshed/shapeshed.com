@@ -46,7 +46,7 @@ Have a look at the example page to [see it in action and to get the source code]
 
 The paint bucket tool will fill areas or selections with a particular colour. You can alter the opacity to affect how transparent the colour is just as you can in the gradient layer. Tolerance affects how broadly the paint will fill after your click. All pretty straightforward really!
 
- [1]: https://shapeshed.com/images/articles/gradient_options.jpg 
- [2]: https://shapeshed.com/images/articles/gradiant_examples.jpg 
- [3]: https://shapeshed.com/images/articles/background_example.jpg 
- [4]: https://shapeshed.com/examples/background-gradients/
+ [1]: /images/articles/gradient_options.jpg 
+ [2]: /images/articles/gradiant_examples.jpg 
+ [3]: /images/articles/background_example.jpg 
+ [4]: /examples/background-gradients/

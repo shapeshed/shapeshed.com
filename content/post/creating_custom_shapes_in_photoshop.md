@@ -32,7 +32,7 @@ Now go to Edit > Define Custom Shape to add this shape into your library. That's
 
 ![Cider Flyer][4]
 
- [1]: https://shapeshed.com/images/articles/selection.jpg 
- [2]: https://shapeshed.com/images/articles/make_path.jpg 
- [3]: https://shapeshed.com/images/articles/fill_path.jpg 
- [4]: https://shapeshed.com/images/articles/cider_festival.jpg 
+ [1]: /images/articles/selection.jpg 
+ [2]: /images/articles/make_path.jpg 
+ [3]: /images/articles/fill_path.jpg 
+ [4]: /images/articles/cider_festival.jpg 

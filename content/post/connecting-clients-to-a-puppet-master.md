@@ -63,7 +63,7 @@ When the client requests an update from the server it will be sent the new confi
 
 The Puppet documentation has some [good documentation][4] on creating manifests.
 
-[1]: https://shapeshed.com/setting-up-puppet-on-ubuntu-10-04/
+[1]: /setting-up-puppet-on-ubuntu-10-04/
 [2]: http://projects.puppetlabs.com/projects/puppet/wiki/Ruby_Ssl_2007_006
 [3]: https://github.com/shapeshed/puppet-master/tree/master/modules/motd
 [4]: http://docs.puppetlabs.com/learning/manifests.html

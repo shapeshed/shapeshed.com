@@ -23,6 +23,6 @@ Once you have installed Vista when you boot you will see a black screen asking w
 
 The install went pretty smoothly for me - a few drivers were missing but I was able to update them manually. So far I'm very impressed with Vista.
 
- [1]: https://shapeshed.com/images/articles/installvista.jpg 
+ [1]: /images/articles/installvista.jpg 
  [2]: http://gparted.sourceforge.net/
  [3]: http://www.microsoft.com/windowsvista/

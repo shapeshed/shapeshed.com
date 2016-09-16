@@ -37,5 +37,5 @@ I'm sure that I won't be the only one to have a bad online experience this Chris
  [2]: https://www.jomalone.co.uk/rs.nsf/fmRegister?openform
  [3]: http://www.mozilla.com/en-US/firefox/
  [4]: http://www.w3schools.com/browsers/browsers_stats.asp
- [5]: https://shapeshed.com/images/articles/verify_password.jpg 
- [6]: https://shapeshed.com/images/articles/malone_continue.jpg 
+ [5]: /images/articles/verify_password.jpg 
+ [6]: /images/articles/malone_continue.jpg 

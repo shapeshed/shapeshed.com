@@ -18,7 +18,7 @@
 
 <p>From left to right here are the basic options available to you.</p>
 
-<img src="https://shapeshed.com/images/articles/text_tool_options.jpg" alt="Basic text tool options" title="Basic text tool options" width="527" height="33" />
+<img src="/images/articles/text_tool_options.jpg" alt="Basic text tool options" title="Basic text tool options" width="527" height="33" />
 
 <dl>
 	<dt>Change the text orientation</dt>
@@ -35,19 +35,19 @@
 	<dd>These align the text according to the text box you have drawn.</dd>
 </dl>
 
-<img src="https://shapeshed.com/images/articles/text-options.png" alt="Text aliasing" title="Text aliasing" width="468" height="38" />
+<img src="/images/articles/text-options.png" alt="Text aliasing" title="Text aliasing" width="468" height="38" />
 
 <h3>Warping text</h3>
 
 <p>Just to the right of the main options is the Warp Text option. Typographers cringe at the thought of have their lovingly crafted typefaces warped like this. I'm not a big fan but just incase you need it here's how it works. Select the text you want to warp and then click on the warp button. This brings up an option box with a dazzling array of options. Have a play yourself to explore all of the options available to you. </p>
 
-<img src="https://shapeshed.com/images/articles/text_warp.jpg" alt="Warping Text" title="Warping text" width="146" height="378" />
+<img src="/images/articles/text_warp.jpg" alt="Warping Text" title="Warping text" width="146" height="378" />
 
 <h3>The Character Tab - fine-tuning typography</h3>
 
 <p>If you want total control over your typography in Photoshop shop you will need to open the Character and Paragraph tabs. They give you precision control over type. Some of the options are repeated from the basic options. Let's start with the Character tab. You will find the character tab icon to the right of the warp icon. Or you can open it by going to Window > Character.</p>
 
-<img src="https://shapeshed.com/images/articles/character_tab.jpg" alt="The Character Tab" title="The Character Tab" width="210" height="214" />
+<img src="/images/articles/character_tab.jpg" alt="The Character Tab" title="The Character Tab" width="210" height="214" />
 
 <dl>
 	<dt>Font family</dt>
@@ -78,7 +78,7 @@
 
 <p>Finally the Paragraph tab lets you position blocks of text as you wish. The first row of optoins give you full control over aligning blocks of text. You can left, right and centre align or choose to justify your text.</p>
 
-<img src="https://shapeshed.com/images/articles/paragraph_tab.jpg" alt="The Paragraph Tab" title="The Paragraph Tab" width="210" height="156" />
+<img src="/images/articles/paragraph_tab.jpg" alt="The Paragraph Tab" title="The Paragraph Tab" width="210" height="156" />
 
 <dl>
 	<dt>Indent left margin</dt>
@@ -97,4 +97,4 @@
 
 <p>The text tool offers the mask tools to allow you type your text as if it were a selection. Then you can either fill it or apply an effect as you wish. Or you can copy the selection and paste it. In the example below I've used it on the strawberry to generate text with the background of the strawberry. A simple trick that can be very effective.</p> 
 
-<img src="https://shapeshed.com/images/articles/text_mask.jpg" alt="image" width="536" height="151" />
+<img src="/images/articles/text_mask.jpg" alt="image" width="536" height="151" />

@@ -46,9 +46,9 @@ Applied over the video the Vignette gives us the effect we are looking for:
 
 [1]: http://www.samornbo.com/
 [2]: http://www.adobe.com/products/premiere/
-[3]: https://shapeshed.com/images/articles/vignette_ellipse.png
-[4]: https://shapeshed.com/images/articles/vignette_layers.jpg
-[5]: https://shapeshed.com/images/articles/vignette_inverse_ellipse.jpg
-[6]: https://shapeshed.com/images/articles/vignette_finished.jpg
-[7]: https://shapeshed.com/images/articles/vignette_biker.jpg
+[3]: /images/articles/vignette_ellipse.png
+[4]: /images/articles/vignette_layers.jpg
+[5]: /images/articles/vignette_inverse_ellipse.jpg
+[6]: /images/articles/vignette_finished.jpg
+[7]: /images/articles/vignette_biker.jpg
 [8]: http://www.topgear.com/

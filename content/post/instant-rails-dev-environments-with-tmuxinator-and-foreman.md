@@ -96,4 +96,4 @@ This technique will also work well for screen and regular terminal users with th
 [10]: https://github.com/ddollar/foreman
 [11]: https://github.com/jondruse/screeninator
 [12]: https://github.com/achiu/terminitor
-[13]: https://shapeshed.com/images/articles/tmuxinator.jpg
+[13]: /images/articles/tmuxinator.jpg

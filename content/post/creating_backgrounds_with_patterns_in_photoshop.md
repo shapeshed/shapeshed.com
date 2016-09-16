@@ -30,7 +30,7 @@ Within a couple of minutes you can quickly build up a background that stands out
 
 ![Final Background][4]
 
- [1]: https://shapeshed.com/images/articles/background_pattern.jpg 
- [2]: https://shapeshed.com/images/articles/background_layer_style.png 
- [3]: https://shapeshed.com/images/articles/background_layer_gradient.png 
- [4]: https://shapeshed.com/images/articles/background_example.png
+ [1]: /images/articles/background_pattern.jpg 
+ [2]: /images/articles/background_layer_style.png 
+ [3]: /images/articles/background_layer_gradient.png 
+ [4]: /images/articles/background_example.png

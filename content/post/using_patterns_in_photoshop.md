@@ -36,8 +36,8 @@ You can quickly make some good effects with even the simplest pattern. Already u
 
 ![An example using patterns][5]
 
- [1]: https://shapeshed.com/images/articles/pattern.jpg 
- [2]: https://shapeshed.com/images/articles/pattern_options.jpg
- [3]: https://shapeshed.com/images/articles/patten_background.jpg 
- [4]: https://shapeshed.com/images/articles/blending_options.jpg 
- [5]: https://shapeshed.com/images/articles/patterns-example.png 
+ [1]: /images/articles/pattern.jpg 
+ [2]: /images/articles/pattern_options.jpg
+ [3]: /images/articles/patten_background.jpg 
+ [4]: /images/articles/blending_options.jpg 
+ [5]: /images/articles/patterns-example.png 

@@ -124,9 +124,9 @@ The tabs can be shown with the `-T` option.
 * [The cat command][3]
 * [13 Basic Cat Command Examples in Linux][4]
 
-[1]: https://shapeshed.com/unix-grep/
+[1]: /unix-grep/
 [2]: http://linux.die.net/man/1/cat
 [3]: http://www.linfo.org/cat.html
 [4]: http://www.tecmint.com/13-basic-cat-command-examples-in-linux/
 [5]: http://www.tldp.org/LDP/abs/html/io-redirection.html
-[1]: https://shapeshed.com/images/articles/cat.png
+[1]: /images/articles/cat.png

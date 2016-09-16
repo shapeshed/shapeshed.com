@@ -46,10 +46,10 @@ font: 62.5%/1.5 "Candara", "Lucida Sans", Verdana, Tahoma, sans-serif;
 
 With such a limited choice of system fonts this is something for typography fans to cheer about (well a little bit!).
 
- [1]: https://shapeshed.com/images/articles/calibri.png 
- [2]: https://shapeshed.com/images/articles/cambria.png 
- [3]: https://shapeshed.com/images/articles/candara.png 
- [4]: https://shapeshed.com/images/articles/consolas.png 
- [5]: https://shapeshed.com/images/articles/constantia.png 
- [6]: https://shapeshed.com/images/articles/corbel.png 
- [7]: https://shapeshed.com/images/articles/segoe_ui.png 
+ [1]: /images/articles/calibri.png 
+ [2]: /images/articles/cambria.png 
+ [3]: /images/articles/candara.png 
+ [4]: /images/articles/consolas.png 
+ [5]: /images/articles/constantia.png 
+ [6]: /images/articles/corbel.png 
+ [7]: /images/articles/segoe_ui.png 

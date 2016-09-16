@@ -43,8 +43,8 @@ This is not an overnight job. If we step back a moment and think of who has the 
 
 It seems odd to me that this situation exists. I just hope by the next time I move things have improved.
 
- [1]: https://shapeshed.com/images/articles/identity.png 
- [2]: https://shapeshed.com/images/articles/indentity_new.png 
+ [1]: /images/articles/identity.png 
+ [2]: /images/articles/indentity_new.png 
  [3]: http://simonwillison.net/
  [4]: http://openid.net/
 

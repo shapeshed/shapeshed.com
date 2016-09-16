@@ -43,6 +43,6 @@ In the video below I've drawn a face. But there are areas I am not happy with. S
 
 <iframe src="https://player.vimeo.com/video/32964527?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32964527">Illustrator 101 - The Pen Tool</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
- [1]: https://shapeshed.com/images/articles/pen_line.jpg 
- [2]: https://shapeshed.com/images/articles/pen_curve_copy.jpg 
+ [1]: /images/articles/pen_line.jpg 
+ [2]: /images/articles/pen_curve_copy.jpg 
  [3]: http://www.creativetechs.com/iq/adobe_pen_tool_cheatsheet.html

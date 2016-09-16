@@ -36,7 +36,7 @@ If you feel you've missed something watch the video. If you'd like the HD versio
 
 <iframe src="https://player.vimeo.com/video/1050103?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/1050103">Batch resizing in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
- [1]: https://shapeshed.com/images/articles/create_new_action.jpg
- [2]: https://shapeshed.com/images/articles/stop_action.jpg
- [3]: https://shapeshed.com/images/articles/automate_batch.jpg
+ [1]: /images/articles/create_new_action.jpg
+ [2]: /images/articles/stop_action.jpg
+ [3]: /images/articles/automate_batch.jpg
  [4]: https://www.vimeo.com/1050103

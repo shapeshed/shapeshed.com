@@ -26,4 +26,4 @@ Although no time frames are given EE2.0 is on the horizon with an ecommerce modu
  [1]: http://expressionengine.com
  [2]: http://en.wikipedia.org/wiki/Auguste_Rodin
  [3]: http://expressionengine.com/blog/entry/160_preview_and_multiple_rick_manager_birthday_contest/
- [4]: https://shapeshed.com/images/articles/rick.jpg "Rick Ellis"
+ [4]: /images/articles/rick.jpg "Rick Ellis"

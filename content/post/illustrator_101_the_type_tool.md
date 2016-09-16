@@ -42,10 +42,10 @@ With the type tool selected go to Window > Workspace > Type. This brings up a co
 
 ![Character Styles in Illustrator][7]
 
- [1]: https://shapeshed.com/journal/photoshop_101_the_type_tools/
- [2]: https://shapeshed.com/images/articles/il_text_tool_options.jpg 
- [3]: https://shapeshed.com/images/articles/character_options.jpg 
- [4]: https://shapeshed.com/images/articles/circular_text.png 
- [5]: https://shapeshed.com/images/articles/text_on_a_path.jpg 
- [6]: https://shapeshed.com/images/articles/following_path.jpg 
- [7]: https://shapeshed.com/images/articles/character_style.jpg 
+ [1]: /journal/photoshop_101_the_type_tools/
+ [2]: /images/articles/il_text_tool_options.jpg 
+ [3]: /images/articles/character_options.jpg 
+ [4]: /images/articles/circular_text.png 
+ [5]: /images/articles/text_on_a_path.jpg 
+ [6]: /images/articles/following_path.jpg 
+ [7]: /images/articles/character_style.jpg 

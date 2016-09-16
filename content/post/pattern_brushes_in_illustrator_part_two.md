@@ -46,9 +46,9 @@ Now if you draw an open path and click on your brush you will get the shape appe
 
 ![Open Paths with Patterns][6]
 
- [1]: https://shapeshed.com/journal/pattern_brushes_in_illustrator_part_one/
- [2]: https://shapeshed.com/images/articles/half_circles.jpg 
- [3]: https://shapeshed.com/images/articles/art_deco_frame.jpg 
- [4]: https://shapeshed.com/images/articles/border_with_corners.jpg 
- [5]: https://shapeshed.com/images/articles/ends_of_paths_patterns.jpg 
- [6]: https://shapeshed.com/images/articles/path_with_pattern.jpg 
+ [1]: /journal/pattern_brushes_in_illustrator_part_one/
+ [2]: /images/articles/half_circles.jpg 
+ [3]: /images/articles/art_deco_frame.jpg 
+ [4]: /images/articles/border_with_corners.jpg 
+ [5]: /images/articles/ends_of_paths_patterns.jpg 
+ [6]: /images/articles/path_with_pattern.jpg 

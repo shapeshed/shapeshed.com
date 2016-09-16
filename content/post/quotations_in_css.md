@@ -76,8 +76,8 @@ This code has been tested and works in the following browsers
 *   Mac Opera 9
 
 [1]: http://www.rickmann-design.co.uk/
-[2]: https://shapeshed.com/images/articles/pizza_quote.png 
+[2]: /images/articles/pizza_quote.png 
 [3]: http://www.w3.org/TR/html4/struct/text.html#edef-Q
 [4]: http://www.w3.org/TR/html4/struct/text.html#edef-BLOCKQUOTE
 [5]: http://www.w3.org/TR/html4/struct/text.html#edef-CITE
-[6]: https://shapeshed.com/examples/quotations-in-css/
+[6]: /examples/quotations-in-css/

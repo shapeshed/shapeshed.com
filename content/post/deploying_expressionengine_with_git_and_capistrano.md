@@ -17,7 +17,7 @@ I'm going to make a few assumptions in this article. Firstly that you are workin
 * Git on the local and remote machine. <a href="http://git-scm.com/download/">Installation instructions here.</a>
 * Ruby is installed on your local machine. (It ships with OSX).
 * Capistrano is installed on your local machine. <a href="http://www.capify.org/getting-started/basics/">Installation options here.</a>
-* <a href="https://shapeshed.com/journal/using_shared_keys_with_ssh_on_centos_5/">SSH shared keys are set up between local and remote keys</a>
+* <a href="/journal/using_shared_keys_with_ssh_on_centos_5/">SSH shared keys are set up between local and remote keys</a>
 You have SSH access to your web server. 
 
 

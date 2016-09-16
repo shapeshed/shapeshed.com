@@ -38,6 +38,6 @@ There are a large number of options available to you with the Clone Tool:
 
 The pattern stamp tool lets you paint with a pattern. To define a pattern use the [Marquee Tool][3] to define the area that you want to use. Then select the Pattern Stamp Tool. Then go to Edit > Define Pattern. You will be asked to give your Pattern a name. In the toolbar at the top you will see an additional option box with Pattern in. As before you have the same options. This tool is useful in applying textured overlays to images. Try lowering the opacity and painting over an image to give it a grainy effect.
 
- [1]: https://shapeshed.com/photoshop_101_the_healing_brush_tool/
+ [1]: /photoshop_101_the_healing_brush_tool/
  [2]: http://www.flickr.com/photos/emotionblogster/
- [3]: https://shapeshed.com/photoshop_101_the_marquee_tool/
+ [3]: /photoshop_101_the_marquee_tool/

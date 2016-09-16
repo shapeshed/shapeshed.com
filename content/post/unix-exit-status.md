@@ -108,9 +108,9 @@ Combining both the suppression of error output and the `OR` operation the follow
 * [Bash Shell Exit Status Tutorial with Practical Examples][6]
 
 [1]: https://en.wikipedia.org/wiki/POSIX
-[2]: https://shapeshed.com/unix-cat/
+[2]: /unix-cat/
 [3]: http://www.tldp.org/LDP/abs/html/exitcodes.html
 [4]: http://tldp.org/LDP/abs/html/exit-status.html
 [5]: http://docstore.mik.ua/orelly/unix3/upt/ch35_12.htm
 [6]: http://www.thegeekstuff.com/2010/03/bash-shell-exit-status
-[7]: https://shapeshed.com/images/articles/unix-exit-code.png
+[7]: /images/articles/unix-exit-code.png

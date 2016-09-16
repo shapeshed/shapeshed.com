@@ -59,4 +59,4 @@ I'll blog here about my progress. If anyone has any good resources for beginners
 [4]: http://developer.apple.com/iphone/library/navigation/index.html?section=Resource+Types&topic=Sample+C#section=Resource%20Types&topic=Sample%20Code
 [5]: http://deimos3.apple.com/WebObjects/Core.woa/Browse/itunes.stanford.edu.3124430053.03124430055.3145764870?i=1399672464
 [6]: http://developer.apple.com/iphone/program/
-[7]: https://shapeshed.com/images/articles/hello_world_iphone.png
+[7]: /images/articles/hello_world_iphone.png

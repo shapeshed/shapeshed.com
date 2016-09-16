@@ -9,7 +9,7 @@
   ]
 }
 
-![join man page](https://shapeshed.com/images/articles/join.png)
+![join man page](/images/articles/join.png)
 
 ## What is the join command in UNIX?
 
@@ -128,4 +128,4 @@ To specify the order the list of fields are passed to `-o`. For this example thi
 * [Examples of the unix join command](http://www.albany.edu/~ig4895/join.htm)
 * [The UNIX School: join command](http://www.theunixschool.com/2012/01/join-command.html)
 
-[1]: https://shapeshed.com/unix-sort/
+[1]: /unix-sort/

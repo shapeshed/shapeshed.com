@@ -83,7 +83,7 @@ In the following example the directory is created to be world readable.
 * [file (command) Wikipedia page][4]
 
 [1]: http://linux.die.net/man/1/mkdir
-[2]: https://shapeshed.com/images/articles/mkdir.png "Linux and Unix mkdir command"
+[2]: /images/articles/mkdir.png "Linux and Unix mkdir command"
 [3]: http://ww.linfo.org/mkdir.html
 [4]: https://en.wikipedia.org/wiki/Mkdir
 

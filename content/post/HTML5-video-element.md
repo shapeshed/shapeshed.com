@@ -62,7 +62,7 @@ Ubiquitous support for the video element is likely to be a long way off but at s
 *   [The Dailymotion HTML5 Demo][8] 
 *   [The HTML5 Video Tag's Fatal Flaw][9] 
 
- [1]: https://shapeshed.com/examples/HTML5-video-element/
+ [1]: /examples/HTML5-video-element/
  [2]: http://blog.deconcept.com/swfobject/
  [3]: http://www.longtailvideo.com/players/jw-flv-player/
  [4]: http://flowplayer.org/

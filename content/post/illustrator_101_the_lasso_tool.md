@@ -29,5 +29,5 @@ Watch the video below to see how this works. Drawing the lasso over parts of sha
 
 <iframe src="https://player.vimeo.com/video/33020788?title=0&amp;byline=0&amp;portrait=0" width="400" height="328" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
- [1]: https://shapeshed.com/journal/illustrator_101_selection_tools/
- [2]: https://shapeshed.com/images/articles/selected.png 
+ [1]: /journal/illustrator_101_selection_tools/
+ [2]: /images/articles/selected.png 

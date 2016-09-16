@@ -30,9 +30,9 @@ Newspapers are a great example of a medium that needs to get a large amount of d
 As you begin to understand that much of the world is organised through grids you will begin to look at things differently. Look at billboards, posters, cars, nature, packaging, maps. You will find that there are grids everywhere. Grids that you can learn from, interpret and understand.
 
  [1]: http://www.flickr.com/photos/justusthane/
- [2]: https://shapeshed.com/images/articles/honeycomb.jpg
+ [2]: /images/articles/honeycomb.jpg
  [3]: http://www.flickr.com/photos/seewah/
- [4]: https://shapeshed.com/images/articles/british_library.jpg
- [5]: https://shapeshed.com/images/articles/map.jpg
- [6]: https://shapeshed.com/designing_with_grids_in_photoshop/
- [7]: https://shapeshed.com/images/articles/guardian_grid.jpg
+ [4]: /images/articles/british_library.jpg
+ [5]: /images/articles/map.jpg
+ [6]: /designing_with_grids_in_photoshop/
+ [7]: /images/articles/guardian_grid.jpg

@@ -128,7 +128,7 @@ Note that in the GNU version of `grep` there is no difference in available funct
 * [Examples using grep][5]
 
 [1]: http://linux.die.net/man/1/grep
-[2]: https://shapeshed.com/images/articles/grep.png
+[2]: /images/articles/grep.png
 [3]: http://shop.oreilly.com/product/9780596528126.do
 [4]: http://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples
 [5]: http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html

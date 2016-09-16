@@ -110,4 +110,4 @@ as mentioned in https://www.kernel.org/pub/software/scm/git/docs/git-config.html
 [1]: http://serverfault.com/questions/26954/how-do-i-share-a-git-repository-with-multiple-users-on-a-machine
 [2]: http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way/
 [3]: http://github.com/
-[4]: https://shapeshed.com//using_shared_keys_with_ssh_on_centos_5/
+[4]: //using_shared_keys_with_ssh_on_centos_5/

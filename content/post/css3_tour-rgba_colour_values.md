@@ -84,10 +84,10 @@ Another example of [Progressive Enhancement][7].
 
 You can see the effects that are available [in the demo][1], or grab the [source from Github.][8]
 
- [1]: https://shapeshed.com/examples/css3-rgba/
+ [1]: /examples/css3-rgba/
  [2]: http://www.w3.org/TR/css3-color/#rgba-color
  [3]: http://www.w3.org/TR/css3-color/
- [4]: https://shapeshed.com/images/articles/rgba.png
+ [4]: /images/articles/rgba.png
  [5]: http://www.w3.org/TR/CSS21/syndata.html#color-units
  [6]: http://css-tricks.com/rgba-browser-support/
  [7]: http://en.wikipedia.org/wiki/Progressive_enhancement

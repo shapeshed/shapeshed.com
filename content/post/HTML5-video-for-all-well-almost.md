@@ -8,11 +8,11 @@
   ]
 }
 
-Can't wait? You can view the <a href="https://shapeshed.com/examples/video-for-all/">example here</a> or <a href="http://cdn.shapeshed.com/downloads/video-for-all.zip">download</a> it here. Excuse my ugly mug..
+Can't wait? You can view the <a href="/examples/video-for-all/">example here</a> or <a href="http://cdn.shapeshed.com/downloads/video-for-all.zip">download</a> it here. Excuse my ugly mug..
 
 ## In-browser video
 
-HTML5 brings the ability to <a href="https://shapeshed.com/journal/HTML5-video-element/">play video natively in the browser</a> without any requirements for third party plug-ins like <a href="http://get.adobe.com/flashplayer/">Flash</a> or <a href="http://silverlight.net/">Silverlight</a>. Developers rejoiced until they realised that whilst Webkit and Gecko browsers have support Internet Explorer is yet to implement any aspect of HTML5. Queue much crying into a hankerchief.
+HTML5 brings the ability to <a href="/journal/HTML5-video-element/">play video natively in the browser</a> without any requirements for third party plug-ins like <a href="http://get.adobe.com/flashplayer/">Flash</a> or <a href="http://silverlight.net/">Silverlight</a>. Developers rejoiced until they realised that whilst Webkit and Gecko browsers have support Internet Explorer is yet to implement any aspect of HTML5. Queue much crying into a hankerchief.
 
 But all is not lost. You can still use HTML5 video for capable browsers and fall back to Flash for Internet Explorer. Here's how:
 

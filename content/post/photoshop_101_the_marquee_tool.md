@@ -62,7 +62,7 @@ A powerful use of the Marquee Tool is to combine it with the Free Transform. Let
 
 ![The Marquee Tool with Free Transform][4]
 
- [1]: https://shapeshed.com/images/articles/select_save_image.jpg 
- [2]: https://shapeshed.com/images/articles/marquee_toolbar.png 
- [3]: https://shapeshed.com/images/articles/marquee_feather.jpg 
- [4]: https://shapeshed.com/images/articles/marquee_transform.jpg
+ [1]: /images/articles/select_save_image.jpg 
+ [2]: /images/articles/marquee_toolbar.png 
+ [3]: /images/articles/marquee_feather.jpg 
+ [4]: /images/articles/marquee_transform.jpg

@@ -48,7 +48,7 @@ If you do not want to use Firefox there is a similar plugin for Internet Explore
 
 Now you have a development and testing environment we will move onto writing code in [Part 2][16] of How to Write Good XHTML and CSS
 
- [1]: https://shapeshed.com/images/articles/bbedit.png
+ [1]: /images/articles/bbedit.png
  [2]: http://www.barebones.com/products/bbedit/
  [3]: http://www.adobe.com/products/homesite/
  [4]: http://www.pspad.com/
@@ -63,4 +63,4 @@ Now you have a development and testing environment we will move onto writing cod
  [13]: https://addons.mozilla.org/firefox/60/
  [14]: https://addons.mozilla.org/firefox/402/
  [15]: http://www.visionaustralia.org.au/ais/toolbar/
- [16]: https://shapeshed.com/writing_good_xhtml_and_css_part_2/
+ [16]: /writing_good_xhtml_and_css_part_2/

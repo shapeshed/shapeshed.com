@@ -26,7 +26,7 @@ An <a href="http://www.opera.com/press/releases/2007/12/13/">Antitrust</a> compl
 
 The announcement on the IE Blog that <a href="http://blogs.msdn.com/ie/archive/2009/11/18/an-early-look-at-ie9-for-developers.aspx">Internet Explorer 9</a> is in development, demonstrably demonstrates how far behind Internet Explorer is as a product. There are tangible, quantitative metrics like The <a href="http://acid3.acidtests.org/">Acid3</a> test that show just how far behind Internet Explorer is. This isn't subjective user experience. This is fact. It performs very poorly in relation to other browsers.
 
-I've stated before that I am <a href="https://shapeshed.com/journal/educating_clients_about_browsers/">not anti-Microsoft</a>. I just want to see the best products rising to the top of the market. The IE development team, who are too often lambasted on the IE Blog, have made great progress in bringing the product up to speed with Standards, particularly with IE8. But they are still behind. 
+I've stated before that I am <a href="/journal/educating_clients_about_browsers/">not anti-Microsoft</a>. I just want to see the best products rising to the top of the market. The IE development team, who are too often lambasted on the IE Blog, have made great progress in bringing the product up to speed with Standards, particularly with IE8. But they are still behind. 
 
 ## What's gone wrong?
 

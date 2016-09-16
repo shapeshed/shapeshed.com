@@ -38,7 +38,7 @@ Not specific to Ubuntu (it is available on most Linux desktops) is a dazzling an
 So congratulations to Canonical for getting another release out of the door and if you haven't given Ubuntu a go yet [why not try out the new release?][9]
 
  [1]: http://www.ubuntu.com/
- [2]: https://shapeshed.com/images/articles/notification.jpg
+ [2]: /images/articles/notification.jpg
  [3]: http://www.openoffice.org/
  [4]: http://www.compiz.org/
  [5]: http://www.apple.com/

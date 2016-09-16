@@ -63,6 +63,6 @@ Adding a highly available and robust background queue to the application took le
 [6]: http://github.com/mxcl/homebrew
 [7]: http://code.google.com/p/redis/
 [8]: http://github.com/defunkt/resque/blob/master/README.markdown
-[9]: https://shapeshed.com/images/articles/resque_workers.png
+[9]: /images/articles/resque_workers.png
 [10]: http://github.com
 

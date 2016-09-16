@@ -48,9 +48,9 @@ Then another image is positioned on top in the middle to show the two characters
 
 It is a very clever implementation both creatively and technically and one that has its roots in tessellation. It works very well for screens of all dimensions and shows how fluid designs can use tessellation to great effect.
 
- [1]: https://shapeshed.com/images/articles/escher05.jpeg 
- [2]: https://shapeshed.com/images/articles/22345-large.jpg 
+ [1]: /images/articles/escher05.jpeg 
+ [2]: /images/articles/22345-large.jpg 
  [3]: http://www.w3schools.com/css/css_background.asp
  [4]: http://www.google.com/ig
- [5]: https://shapeshed.com/images/articles/header_tile.jpg
- [6]: https://shapeshed.com/images/articles/header_bg.jpg 
+ [5]: /images/articles/header_tile.jpg
+ [6]: /images/articles/header_bg.jpg 

@@ -42,9 +42,9 @@ For added effect you might like to add a pencil or pen in or whatever you need t
 
 Why not [download the illustrator file][6] and work through the example yourself?
 
- [1]: https://shapeshed.com/images/articles/comment_stage_5.png 
- [2]: https://shapeshed.com/images/articles/comment_stage_1.png 
- [3]: https://shapeshed.com/images/articles/comment_stage_2.png 
- [4]: https://shapeshed.com/images/articles/comment_stage_3.png 
- [5]: https://shapeshed.com/images/articles/comment_stage_6.png 
+ [1]: /images/articles/comment_stage_5.png 
+ [2]: /images/articles/comment_stage_1.png 
+ [3]: /images/articles/comment_stage_2.png 
+ [4]: /images/articles/comment_stage_3.png 
+ [5]: /images/articles/comment_stage_6.png 
  [6]: http://cdn.shapeshed.com/downloads/comment_icon.ai

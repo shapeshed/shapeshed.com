@@ -37,14 +37,14 @@ At this stage the image is very square. If this is your preference then you are 
 
 Although these images will improve the appearance of your site they won't be read by screen readers unless you supply meaningful alt text. This is also good for search engine robots who will crawl your site. Make sure you use alt text on your images and if you wish the title tag: 
 
-    <img src="https://shapeshed.com/images/yourimage.jpg" alt="A picture of a Merry Go Round with text reading Your Text Here" alt="A picture of a Merry Go Round with text reading Your Text Here" width="502" height="314" /> 
+    <img src="/images/yourimage.jpg" alt="A picture of a Merry Go Round with text reading Your Text Here" alt="A picture of a Merry Go Round with text reading Your Text Here" width="502" height="314" /> 
 
 Captioned images are very effective but should be used sparingly in order not to hinder the accessibility and search engine optimisation of your site.
 
 ![The Finished Image][5]
 
- [1]: https://shapeshed.com/images/articles/original_file.jpg 
- [2]: https://shapeshed.com/images/articles/adding_text.jpg
- [3]: https://shapeshed.com/images/articles/breaking_the_box.jpg
- [4]: https://shapeshed.com/images/articles/yourimage.jpg
- [5]: https://shapeshed.com/images/articles/final_graphic_text.jpg 
+ [1]: /images/articles/original_file.jpg 
+ [2]: /images/articles/adding_text.jpg
+ [3]: /images/articles/breaking_the_box.jpg
+ [4]: /images/articles/yourimage.jpg
+ [5]: /images/articles/final_graphic_text.jpg 

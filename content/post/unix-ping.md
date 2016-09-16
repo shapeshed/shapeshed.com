@@ -90,6 +90,6 @@ To add a timestamp before each line pass the `-D` option. This causes `ping` to 
 * [Linux and Unix ping command][4]
 
 [1]: http://linux.die.net/man/8/ping
-[2]: https://shapeshed.com/images/articles/ping.png "Linux and Unix ping command"
+[2]: /images/articles/ping.png "Linux and Unix ping command"
 [3]: http://www.thegeekstuff.com/2009/11/ping-tutorial-13-effective-ping-command-examples/
 [4]: http://www.computerhope.com/unix/uping.htm

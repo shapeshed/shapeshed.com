@@ -74,8 +74,8 @@ Since I [moved over from Arch Linux][8] I've loved the simplicy that Arch, dwm a
 [2]: https://wiki.archlinux.org/index.php/Yaourt
 [3]: https://aur.archlinux.org/packages/cower/
 [4]: http://dwm.suckless.org/
-[5]: https://shapeshed.com/images/articles/pacman-cower.png
+[5]: /images/articles/pacman-cower.png
 [6]: http://jasonwryan.com/
 [7]: https://bitbucket.org/jasonwryan/shiv/src/67d4a496a8fd239805b369886b669fe4a34f5eb7/Scripts/cowerd
-[8]: https://shapeshed.com/from-osx-to-arch-linux/
+[8]: /from-osx-to-arch-linux/
 

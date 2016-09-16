@@ -39,6 +39,6 @@ Is this version of Photoshop worth another upgrade fee? For Intel Mac users I wo
 Overall this is a great version for Intel users solely for the fact it is now Universal Binary. But to date the new features don't offer much that isn't already available in CS2.
 
  [1]: http://labs.adobe.com/technologies/photoshopcs3/
- [2]: https://shapeshed.com/images/articles/cs3_tabs.jpg
- [3]: https://shapeshed.com/images/articles/cs3_menu.jpg 
+ [2]: /images/articles/cs3_tabs.jpg
+ [3]: /images/articles/cs3_menu.jpg 
  [4]: http://photoshopnews.com/stories/downloads/whatsnewinPSCS3.pdf
