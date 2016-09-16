@@ -10,7 +10,7 @@
   ]
 }
 
-![cat man page][1]
+![cat man page][6]
 
 ## What is the cat command?
 
@@ -129,4 +129,4 @@ The tabs can be shown with the `-T` option.
 [3]: http://www.linfo.org/cat.html
 [4]: http://www.tecmint.com/13-basic-cat-command-examples-in-linux/
 [5]: http://www.tldp.org/LDP/abs/html/io-redirection.html
-[1]: /images/articles/cat.png
+[6]: /images/articles/cat.png
