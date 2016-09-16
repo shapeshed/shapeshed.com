@@ -3,17 +3,18 @@
   "title": "Linux and Unix cat command tutorial with examples",
   "date": "2016-08-04T00:00:00+00:00",
   "image": "images/articles/cat.png",
-  "description": "A series of how to examples on using cat, a UNIX tool for concatenating files and printing to standard output.",
+  "description": "Tutorial on using cat, a UNIX and Linux tool for concatenating files and printing to standard output. Examples of showing the contents of a file, appending one file to another, and combining multiple files into one",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 
 ![cat man page][1]
 
-## What is the cat command in UNIX?
+## What is the cat command?
 
-The `cat` command in UNIX is a command line utility for concatenating files and printing to standard output. It may be used to show the contents of a file in the terminal, to write the contents of one file to another and to combine multiple files into one. It also supports adding line numbers, showing special characters and squeezing blank lines.
+The `cat` command a command line utility for concatenating files and printing to standard output. It may be used to show the contents of a file in the terminal, to write the contents of one file to another and to combine multiple files into one. It also supports adding line numbers, showing special characters and squeezing blank lines.
 
 ## How to show the contents of a file
 

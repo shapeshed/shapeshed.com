@@ -4,17 +4,18 @@
   "date": "2011-03-21T00:00:00+00:00",
   "lastmod": "2016-07-26T00:00:00+00:00",
   "image": "images/articles/sort.png",
-  "description": "Tutorial on using sort, a UNIX tool for sorting lines of text files. Examples of alphabetical sorting, reverse order sorting, sorting by number and mixed case sorting.",
+  "description": "Tutorial on using sort, a UNIX and Linux tool for sorting lines of text files. Examples of alphabetical sorting, reverse order sorting, sorting by number and mixed case sorting.",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 
 ![Terminal showing sort man page][7]
 
-## What is the sort command in UNIX?
+## What is the sort command?
 
-The `sort` command in UNIX is a command line utility for sorting lines of text files. It supports sorting alphabetically, in reverse order, by number, by month and can also remove duplicates. The sort command can also sort by items not at the beginning of the line, ignore case sensitivity and return whether a file is sorted or not. 
+The `sort` command is a command line utility for sorting lines of text files. It supports sorting alphabetically, in reverse order, by number, by month and can also remove duplicates. The sort command can also sort by items not at the beginning of the line, ignore case sensitivity and return whether a file is sorted or not. 
 
 ## How to sort alphabetically
 
