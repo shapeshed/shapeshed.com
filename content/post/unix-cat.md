@@ -3,7 +3,7 @@
   "title": "Linux and Unix cat command tutorial with examples",
   "date": "2016-08-04T00:00:00+00:00",
   "image": "images/articles/cat.png",
-  "description": "Tutorial on using cat, a UNIX and Linux tool for concatenating files and printing to standard output. Examples of showing the contents of a file, appending one file to another, and combining multiple files into one",
+  "description": "Tutorial on using cat, a UNIX and Linux tool for concatenating files and printing to standard output. Examples of showing the contents of a file, appending one file to another, and combining multiple files into one.",
   "tags": [
     "UNIX",
     "Linux"
