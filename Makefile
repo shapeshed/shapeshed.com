@@ -10,7 +10,7 @@ hugo:
 	@hugo
 
 gzip-static:
-	@find . -type f \( -name "*.html" -o -name "*.css" \) -exec gzip -k -f -9 {} \;
+	@find ./public -type f \( -name "*.html" -o -name "*.css" \) -exec gzip -k -f -9 {} \;
 
 
 
