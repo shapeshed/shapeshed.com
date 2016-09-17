@@ -3,9 +3,10 @@
   "title": "Linux and Unix mkdir command tutorial with examples",
   "date": "2016-09-09T00:00:00+00:00",
   "image": "images/articles/mkdir.png",
-  "description": "Tutorial on using mkdir, a UNIX command for creating directories. Examples of creating a directory, creating multiple directories, creating parent directories and setting permissions.",
+  "description": "Tutorial on using mkdir, a UNIX and Linux command for creating directories. Examples of creating a directory, creating multiple directories, creating parent directories and setting permissions.",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 

@@ -3,9 +3,10 @@
   "title": "Linux and Unix comm command tutorial with examples",
   "date": "2016-08-10T00:00:00+00:00",
   "image": "images/articles/comm.png",
-  "description": "A series of how to examples on using comm, a UNIX tool for comparing two sorted files line by line",
+  "description": "Tutorial on using comm, a UNIX and Linux tool for comparing two sorted files line by line. Examples of showing specific comparisons and ignoring case sensitivity.",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 

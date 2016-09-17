@@ -3,9 +3,10 @@
   "title": "Linux and Unix grep command tutorial with examples",
   "date": "2016-08-03T00:00:00+00:00",
   "image": "images/articles/grep.png",
-  "description": "A series of how to examples on using grep, a UNIX tool to print lines matching a pattern",
+  "description": "Tutorial using grep, a UNIX and Linux tool to print lines matching a pattern. Examples of finding text in a file, printing line numbers, counting the number of matches, searching recursively and ignoring case sensitivity.",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 

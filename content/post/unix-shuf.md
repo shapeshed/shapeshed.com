@@ -3,9 +3,10 @@
   "title": "Linux and Unix shuf command tutorial with examples",
   "date": "2016-08-09T00:00:00+00:00",
   "image": "images/articles/shuf.png",
-  "description": "Tutorial on using shuf, a UNIX tool for generating random permutations. Examples of shuffling the lines in a file, picking a random line and shuffling standard input.",
+  "description": "Tutorial on using shuf, a UNIX and Linux tool for generating random permutations. Examples of shuffling the lines in a file, picking a random line and shuffling standard input.",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 

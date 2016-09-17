@@ -2,10 +2,11 @@
   "slug": "unix-cut",
   "title": "Linux and Unix cut command tutorial with examples",
   "date": "2016-07-19T18:16:59+01:00",
-  "description": "A series of how to examples on using cut, a UNIX tool to cut sections from each line of files.",
+  "description": "Tutorial on using cut, a UNIX and Linux tool for cutting sections from each line of files. Examples of cutting by character, byte position, cutting based on delimiter and how to modify the output delimiter.",
   "image": "images/articles/cut.png",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 

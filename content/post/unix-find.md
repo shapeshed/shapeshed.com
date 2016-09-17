@@ -2,7 +2,7 @@
   "slug": "unix-find",
   "title": "Linux and Unix find command tutorial with examples",
   "date": "2016-07-12T20:20:27+01:00",
-  "description": "A series of how to examples on using find, a UNIX tool for walking a file hierarchy.",
+  "description": "Tutorial on using find, a UNIX and Linux tool for walking a file hierarchy. Examples of finding a file by name, finding and deleting a file, finding a directory and searching by modification time and permissions.",
   "image": "images/articles/find.png",
   "tags": [
     "UNIX"

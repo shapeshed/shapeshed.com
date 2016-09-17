@@ -3,7 +3,7 @@
   "title": "Linux and Unix traceroute command tutorial with examples",
   "date": "2016-09-13T00:00:00+00:00",
   "image": "images/articles/traceroute.png",
-  "description": "Tutorial on using traceroute, a UNIX command for showing the route packets take to a network. Examples of tracing a route, using IPv6, disabling hostname mapping and setting the number of queries per hop.",
+  "description": "Tutorial on using traceroute, a UNIX and Linux command for showing the route packets take to a network. Examples of tracing a route, using IPv6, disabling hostname mapping and setting the number of queries per hop.",
   "tags": [
     "UNIX",
     "Linux"

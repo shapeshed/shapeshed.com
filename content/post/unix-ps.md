@@ -3,9 +3,10 @@
   "title": "Linux and Unix ps command tutorial with examples",
   "date": "2016-09-05T00:00:00+00:00",
   "image": "images/articles/ps.png",
-  "description": "Tutorial on using ps, a UNIX command for reporting information on running processes. Examples of searching by user, group, executable name and killing processes.",
+  "description": "Tutorial on using ps, a UNIX and Linux command for reporting information on running processes. Examples of searching by user, group, executable name and killing processes.",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 

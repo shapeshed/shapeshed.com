@@ -3,9 +3,10 @@
   "title": "Linux and Unix exit code tutorial with examples",
   "date": "2016-08-07T00:00:00+00:00",
   "image": "images/articles/unix-exit-code.png",
-  "description": "A series of how to examples on using exit codes from Linux or UNIX commands",
+  "description": "Tutorial on using exit codes from Linux or UNIX commands. Examples of how to get the exit code of a command, how to set the exit code and how to suppress exit codes.",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 

@@ -3,9 +3,10 @@
   "title": "Linux and Unix tr command tutorial with examples",
   "date": "2010-07-23T00:00:00+01:00",
   "image": "images/articles/tr.png",
-  "description": "A series of how to examples on using tr, a UNIX tool for translating or deleting characters",
+  "description": "Tutorial on using tr, a UNIX and Linux tool for translating or deleting characters. Examples of converting uppercase to lowercase, deleting specific characters, squeezing repeating patterns and basic finding and replacing. ",
   "tags": [
-    "UNIX"
+    "UNIX",
+    "Linux"
   ]
 }
 
