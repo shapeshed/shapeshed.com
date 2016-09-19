@@ -4,7 +4,7 @@
   "date": "2011-03-21T00:00:00+00:00",
   "lastmod": "2016-07-26T00:00:00+00:00",
   "image": "images/articles/sort.png",
-  "description": "Tutorial on using sort, a UNIX and Linux tool for sorting lines of text files. Examples of alphabetical sorting, reverse order sorting, sorting by number and mixed case sorting.",
+  "description": "Tutorial on using sort, a UNIX and Linux command for sorting lines of text files. Examples of alphabetical sorting, reverse order sorting, sorting by number and mixed case sorting.",
   "tags": [
     "UNIX",
     "Linux"

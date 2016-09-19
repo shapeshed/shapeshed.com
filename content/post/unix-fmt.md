@@ -3,7 +3,7 @@
   "title": "Linux and Unix fmt command tutorial with examples",
   "date": "2016-08-15T00:00:00+00:00",
   "image": "images/articles/fmt.png",
-  "description": "Tutorial on using fmt, a UNIX and Linux tool for formatting text. Examples of formatting a file, setting the column with and formatting uniform spaces.",
+  "description": "Tutorial on using fmt, a UNIX and Linux command for formatting text. Examples of formatting a file, setting the column with and formatting uniform spaces.",
   "tags": [
     "UNIX",
     "Linux"

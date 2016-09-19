@@ -3,7 +3,7 @@
   "title": "Linux and Unix wc command tutorial with examples",
   "date": "2011-03-19T00:00:00+00:00",
   "image": "images/articles/wc.png",
-  "description": "Tutorial on using wc, a UNIX and Linux tool for printing newline, word and byte counts for files. Examples of printing the number of lines in a file, printing the number of characters in a file and printing the number of words in a file.",
+  "description": "Tutorial on using wc, a UNIX and Linux command for printing newline, word and byte counts for files. Examples of printing the number of lines in a file, printing the number of characters in a file and printing the number of words in a file.",
   "tags": [
     "UNIX",
     "Linux"

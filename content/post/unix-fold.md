@@ -3,7 +3,7 @@
   "title": "Linux and Unix fold command tutorial with examples",
   "date": "2016-08-08T00:00:00+00:00",
   "image": "images/articles/fold.png",
-  "description": "Tutorial on using fold, a UNIX tool for folding long lines for finite widths. Examples of limiting column width, limiting by bytes and wrapping on spaces.",
+  "description": "Tutorial on using fold, a UNIX and Linux command for folding long lines for finite widths. Examples of limiting column width, limiting by bytes and wrapping on spaces.",
   "tags": [
     "UNIX",
     "Linux"
