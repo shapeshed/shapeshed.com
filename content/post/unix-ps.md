@@ -67,6 +67,14 @@ The `-F` provides extra full format information.
     root         3     2  0     0     0   0 19:58 ?        00:00:00 [ksoftirqd/0]
     ...
 
+Another commonly used syntax to achieve seeing every process on the system using BSD syntax is `ps aux`.
+
+    ps aux
+    USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+    root         1  0.0  0.0  53120  6368 ?        Ss   Sep19   0:01 /sbin/init
+    root         2  0.0  0.0      0     0 ?        S    Sep19   0:00 [kthreadd]
+    ...
+
 ## How to list all processes for a user
 
 To list all processes by user use the `-u` option. This supports the user ID or name. 
