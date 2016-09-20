@@ -54,7 +54,7 @@ More information on installing the `aws-cli` tool is available on the [AWS CLI U
     if [[ -n $1 ]]; then
       aws s3 sync s3://$BUCKET/cf-logs .
       cat *.gz > combined.log.gz
-      find $CWD ! -name 'combined.log.gz' -type f -exec rm -f {} +
+      find $CWD ! -name 'combined.log.gz' -name '*.gz' -type f -exec rm -f {} +
       gzip -d combined.log.gz
       sed -i '/^#/ d' combined.log
       exit 0
