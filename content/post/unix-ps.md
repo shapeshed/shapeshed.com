@@ -45,6 +45,7 @@ To demonstrate that other processes will show by just running `ps` a task can be
 
 To list all processes on a system use the `-e` option. 
 
+    ps -e
     PID TTY          TIME CMD
       1 ?        00:00:01 systemd
       2 ?        00:00:00 kthreadd
@@ -53,6 +54,7 @@ To list all processes on a system use the `-e` option.
 
 This option can be combined with the `-f` and `-F` options to provide more information on processes. The `-f` option offers full-format listing.
 
+    ps -f
     UID        PID  PPID  C STIME TTY          TIME CMD
     root         1     0  0 19:58 ?        00:00:01 /sbin/init
     root         2     0  0 19:58 ?        00:00:00 [kthreadd]
@@ -61,6 +63,7 @@ This option can be combined with the `-f` and `-F` options to provide more infor
 
 The `-F` provides extra full format information.
 
+    ps -F 
     UID        PID  PPID  C    SZ   RSS PSR STIME TTY          TIME CMD
     root         1     0  0 13250  6460   1 19:58 ?        00:00:01 /sbin/init
     root         2     0  0     0     0   1 19:58 ?        00:00:00 [kthreadd]
