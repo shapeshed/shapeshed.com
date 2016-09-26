@@ -30,7 +30,7 @@ To view a disk usage summary of a directory pass the directory to the `du` comma
     1716    /home/george/go/src/gopkg.in
     ...
 
-The output is to show the disk usage for file size in kilobytes in the first column follow by the full path to the file or folder. Folders are summaries so include a sum of files and folders within them.
+The output show the disk usage in kilobytes in the first column followed by the full path to the file or folder. Folders are summaries so include a sum of files and folders within them.
 
 ## How to view a grand total for a directory
 
