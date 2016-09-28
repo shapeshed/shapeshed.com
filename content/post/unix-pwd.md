@@ -14,7 +14,7 @@
 
 ## What is the pwd command in UNIX?
 
-The `pwd` command is a command line utility for printing the current working directory. It will print the full system path of the current working directory to standard output. By default the `pwd` command ignores symlinks, although the full physical path of a current directory can be shown with an option. The `pwd` command is normally a shell built-in meaning it is part of the code that runs the shell rather than an external executable. 
+The `pwd` command is a command line utility for printing the current working directory. It will print the full system path of the current working directory to standard output. By default the `pwd` command ignores symlinks, although the full physical path of a current directory can be shown with an option. The `pwd` command is normally a shell builtin meaning it is part of the code that runs the shell rather than an external executable. 
 
 ## How to print the current working directory
 
@@ -43,14 +43,14 @@ Running `pwd` with the `-P` shows the physical location.
     pwd -P  
     /home/george/dotfiles/zsh
 
-## pwd is normally a shell built-in
+## pwd is normally a shell builtin
 
-In most shells `pwd` is a [shell built-in][4]. This means the command is present in the shell rather than calling an external program. This means that the code will run significantly faster than calling an external executable. 
+In most shells `pwd` is a [shell builtin][4]. This means the command is present in the shell rather than calling an external program. This means that the code will run significantly faster than calling an external executable. 
 
     which pwd
-    pwd: shell built-in command
+    pwd: shell builtin command
 
-Whilst most shells have `pwd` as a shell built-in the command also exists on systems as an executable. On my own system the executable is located at `/bin/pwd`.
+Whilst most shells have `pwd` as a shell builtin the command also exists on systems as an executable. On my own system the executable is located at `/bin/pwd`.
 
     /bin/pwd
     /home/george/dotfiles/zsh
@@ -62,7 +62,7 @@ In most shells the `$PWD` variable is available and is set each time a user or i
     echo $PWD
     /home/george
 
-Although `$PWD` is ubiquitous it is specific to the shell running the command so some prefer to reference the `pwd` command and store it in a variable. This makes scripts more portable as they will call the system executable if the shell built-in or the `$PWD` variable does not exist.
+Although `$PWD` is ubiquitous it is specific to the shell running the command so some prefer to reference the `pwd` command and store it in a variable. This makes scripts more portable as they will call the system executable if the shell builtin or the `$PWD` variable does not exist.
 
     CWD=$(pwd)
     echo $CWD
