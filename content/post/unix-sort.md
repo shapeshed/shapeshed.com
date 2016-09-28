@@ -1,6 +1,6 @@
 {
   "slug": "unix-sort",
-  "title": "Linux and Unix Sort command tutorial with examples",
+  "title": "Linux and Unix sort command tutorial with examples",
   "date": "2011-03-21T00:00:00+00:00",
   "lastmod": "2016-07-26T00:00:00+00:00",
   "image": "images/articles/sort.png",
