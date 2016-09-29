@@ -33,11 +33,8 @@ When you select a path with the direct selection tool you will see the anchor po
 
 Have a look at the short video to see the shape being moved and changed using these tools. This shape was created using the Pen tool.
 
-<video width="397" height="316" controls="true">
-  <source src="/movies/mp4/path_selection.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
-  <source src="/movies/ogv/path_selection.ogv" type='video/ogg; codecs="theora, vorbis"' />
-  To view this video you need the latest version of <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.mozilla.com/firefox/">Firefox</a> or <a href="http://www.google.com/chrome">Chrome</a>. Alterantively download the videos and watch them offline. <a href="/movies/mp4/path_selection.mp4">Windows / Mac (mp4)</a>, <a href="/movies/mp4/path_selection.mp4">Linux (ogv)</a>
-</video>
+<iframe src="https://player.vimeo.com/video/33020795" width="640" height="499" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/33020795">Photoshop 101 - Path Selection</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Particularly for adding fine details and fine tuning the paths you have drawn this is an invaluable tool.
 
