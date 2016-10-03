@@ -6,8 +6,8 @@
 
 * Email george at shapeshed dot com
 * [Work (pebble {code})][1]
-* [Github][3]
-* [Twitter][2]
+* [Github][2]
+* [Twitter][3]
 * [Instagram][4]
 
 [1]: http://pebblecode.com
