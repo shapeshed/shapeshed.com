@@ -14,7 +14,7 @@
 
 ## What is the ls command?
 
-The `ls` command is a command-line utility for listing the contents of a directory or directory given to it via standard input. It writes results to standard output. The `ls` command supports showing a variety of information about files, sorting on a range of options and recursive listing.
+The `ls` command is a command-line utility for listing the contents of a directory or directories given to it via standard input. It writes results to standard output. The `ls` command supports showing a variety of information about files, sorting on a range of options and recursive listing.
 
 ## How to show the contents of a directory
 
