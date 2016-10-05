@@ -3,7 +3,7 @@
   "title": "Creating a basic site with Node.js and Express",
   "date": "2011-04-18T00:00:00+01:00",
   "lastmod": "2016-10-05T00:00:00+00:00",
-  "description": "A walkthrough on how to create and deploy a basic site with Node.js and the Express framework",
+  "description": "A walkthrough on how to create and deploy a basic site with Node.js and the Express framework. Examples of generating an express site, how to use templating and styles, creating basic routes and deploying the app to the Internet.",
   "tags": [
     "Node.js",
     "JavaScript"
