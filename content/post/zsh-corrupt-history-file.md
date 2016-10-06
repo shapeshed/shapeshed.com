@@ -2,7 +2,7 @@
   "slug": "zsh-corrupt-history-file",
   "title": "How to fix a corrupt zsh history file",
   "date": "2016-10-06T00:00:00+00:00",
-  "description": "Occasionally you may find you have a corrupt zsh history file preventing you from using fc or searching the history. Here's how to fix it.", 
+  "description": "Occasionally you may find you have a corrupt zsh history file preventing you from using the `fc` command or searching the history. Here's how to fix it.", 
 "tags": [
     "Unix",
     "Linux"
