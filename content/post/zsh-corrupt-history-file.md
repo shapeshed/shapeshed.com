@@ -41,7 +41,7 @@ Once this happened more than twice I made a script to fix the issue. The followi
     fc -R ~/.zsh_history
     rm ~/.zsh_history_bad
 
-Now if I see the `zsh: corrupt history file` again I just run the command get back to work.
+Now if I see the `zsh: corrupt history file` error again I just run the command get back to work.
 
     zsh_history_fix
 
