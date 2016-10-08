@@ -1,8 +1,8 @@
 {
-  "slug": "unix-shell-aliases",
-  "title": "Linux and Unix shell aliases tutorial with examples",
+  "slug": "unix-alias",
+  "title": "Linux and Unix alias command tutorial with examples",
   "date": "2008-07-11T00:00:00+01:00",
-  "lastmod": "2016-08-05T00:00:00+01:00",
+  "lastmod": "2016-10-08T00:00:00+01:00",
   "description": "How to create shell aliases using bash or zsh to provide shortcuts to common commands",
   "image": "/images/articles/shell_alias.png",
   "tags": [
