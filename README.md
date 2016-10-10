@@ -6,6 +6,11 @@ This is the source code for [shapeshed.com][1].
 
 The site uses [hugo][2]. Refer to [installation instructions][3] for Hugo. 
 
+The theme used is [shapeshed-minimal][6]. To install it
+
+    mkdir themes
+    git clone git@github.com:shapeshed/shapeshed-minimal.git themes/shapeshed-minimal
+
 ## Site generation
 
 Once Hugo is installed generate the site with
@@ -31,3 +36,4 @@ To build and deploy the site
 [3]: https://gohugo.io/overview/installing/
 [4]: https://github.com/tdewolff/minify
 [5]: https://github.com/tdewolff/minify/tree/master/cmd/minify 
+[6]: https://github.com/shapeshed/shapeshed-minimal
