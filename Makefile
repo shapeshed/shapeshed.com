@@ -7,7 +7,7 @@ clean:
 	@rm -Rf ./public
 
 hugo:
-	@hugo
+	@hugo --quiet
 
 gzip-static:
 	@find ./public -type f \( -name "*.html" -o -name "*.css" -o -name "*.xml" \) -exec gzip -k -f -9 {} \;
