@@ -30,3 +30,4 @@ To build and deploy the site
 [2]: https://gohugo.io/
 [3]: https://gohugo.io/overview/installing/
 [4]: https://github.com/tdewolff/minify
+[5]: https://github.com/tdewolff/minify/tree/master/cmd/minify 
