@@ -27,6 +27,8 @@ For developing the site there is a further dependency of [minify][4]. The `Makef
 
 The Makefile assumes you are running on a modern Linux distribution (I use Arch) but really just wraps building and deployment so you will probably want to roll your own for that. 
 
+## Deployment
+
 To build and deploy the site 
 
     make build && make deploy
