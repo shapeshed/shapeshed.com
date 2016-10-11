@@ -71,7 +71,7 @@ By default the `mv` command will overwrite an existing file. Consider the follow
     ls
     bar.txt
 
-In this example `bar.txt` is overwritten by the file `file.txt. At some point when running `mv` a file that was not meant to be overwritten probably will be. To prompt before overwritting a file the `-i` option can be used.
+In this example `bar.txt` is overwritten by the file `file.txt`. At some point when running `mv` a file that was not meant to be overwritten probably will be. To prompt before overwriting a file the `-i` option can be used.
 
     ls 
     foo.txt bar.txt
