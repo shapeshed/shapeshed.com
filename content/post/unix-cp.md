@@ -124,7 +124,7 @@ To prompt for confirmation when copying a file pass the `-i` flag. Normally when
 
 ## How to create a hard link instead of copying
 
-To create a hard link instead of copying with the `cp` command pass the `-l` option. Instead of copying the file a new file will be created that is a hard link to the data on disk. Here's a [primer][1] on hard and symbolic or soft links.
+To create a hard link instead of copying with the `cp` command pass the `-l` option. Instead of copying the file a new file will be created that is a hard link to the data on disk. Here's a [primer][7] on hard and symbolic or soft links.
 
     ls 
     foo.txt
@@ -167,3 +167,4 @@ To show files that are being copied pass the `-v` option to the `cp`. This print
 [4]: https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html
 [5]: http://linfo.org/cp.html
 [6]: https://shapeshed.com/unix-mv/
+[7]: https://shapeshed.com/unix-ln/#what-is-the-difference-between-a-hard-and-symbolic-link
