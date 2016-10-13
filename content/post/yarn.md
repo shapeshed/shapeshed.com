@@ -2,7 +2,6 @@
   "slug": "thoughts-on-yarn",
   "title": "Thoughts on yarn",
   "date": "2016-10-13T01:00:00+00:00",
-  "image": "images/articles/ln.png",
   "description": "Yarn announced itself as a new package manager for JavaScript. In fact is a better npm client but its release suggests that change may be coming to JavaScript package management with issues of security and centralisation up for debate.",
   "tags": [
     "JavaScript",
