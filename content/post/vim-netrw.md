@@ -50,6 +50,7 @@ By default files will be opened in the same window as the netrw directory browse
 * `1` - open files in a new horizontal split
 * `2` - open files in a new vertical split
 * `3` - open files in a new tab 
+* `4` - open in previous window
  
 To make the selection permanent add the following to your `.vimrc`.
 
