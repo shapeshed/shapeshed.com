@@ -102,9 +102,9 @@ Vim also supports arbitrary commands to be run following `!`. For a quick direct
 
 For a more complex command other commands like `ack`, [`grep`][8] or [`find`][9] can be used. 
 
-There are a number of ways to open files in vim and if that is what you use `netrw` for. Using `file` within `vim` can open files and supports tab completion.
+There are a number of ways to open files in vim and if that is what you use `netrw` for. Using `find` within `vim` can open files and supports tab completion.
 
-    :file path/to/file.txt
+    :find path/to/file.txt
 
 To open a file in a vertical split use the following. This also supports tab completion. 
 
