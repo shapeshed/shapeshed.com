@@ -2,7 +2,7 @@
   "slug": "vim-packages",
   "title": "Vim: So long Pathogen, hello native package loading",
   "date": "2016-10-20T00:00:00+00:00",
-  "description": "Vim 8 added a native way to load third-party packages. This means, for me at least, there is no longer any need to use a third party plugin helpers like Pathogen.",
+  "description": "Vim 8 added a native way to load third-party packages. This means, for me at least, there is no longer any need to use a third party plugin helper like Pathogen.",
   "tags": [
     "vim"
   ]
@@ -10,7 +10,7 @@
 
 ## Vim 8 brings native third-party package loading
 
-Vim 8, released on 12th September added a new feature of being able to load third party packages natively. 
+Vim 8, released on 12th September, added a new feature of being able to load third party packages natively. 
 
 > Plugins keep growing and more of them are available than ever before.  To keep
 the collection of plugins manageable package support has been added.  This is
@@ -18,7 +18,7 @@ a convenient way to get one or more plugins, drop them in a directory and
 possibly keep them updated.  Vim will load them automatically, or only when
 desired.  See |packages|
 
-The approach is very similar to the [Pathogen][1] package it adds paths where packages can be found to the Vim runtime path. This is sensible as there are very few changes required to switch from Pathogen to using the native functionality. 
+The approach is very similar to the [Pathogen][1] package it adds paths to the Vim runtime path where packages can be added. This is sensible as there are very few changes required to switch from Pathogen to using the native functionality. 
 
 ## How it works
 
@@ -26,7 +26,7 @@ If you store your `vim` configuration in `~/.vim` a new folder needs to be creat
 
     mkdir -p ~/.vim/pack/shapeshed
 
-With this folder a further folder `start` is needed to hold plugins. Vim will pick up any packages added to this folder and automatically load the plugins. 
+Within this folder a further folder `start` is needed to hold plugins. Vim will pick up any packages added to this folder and automatically load the plugins. 
 
 Optionally another folder `opt` may be created to hold packages that are not loaded automatically. Packages added in the opt folder may be loaded using 
 
@@ -90,7 +90,7 @@ Vim's native package management is very closely related to the approach taken by
 
 In my testing I have found that packages work out of the box and I am confident enough to remove Pathogen and use the native approach to loading packages. Pathogen has worked really well for me but less third-party code is a good thing.
 
-Vim's approach to package management is not particularly user friendly mainly because it pushes the management of packages into user land. Help tags are not automatically generated for packages either ([Vundle][2] has this) but this could probably be wrapped up in a script. Git submodules still feel clunky but they have worked well with Pathogen and I am confident this will work for me. Going native feels good!
+Vim's approach to package management is not particularly user friendly mainly because it pushes the management of packages into user land. Help tags are not automatically generated for packages either ([Vundle][2] has this) but this could probably be wrapped up in a script. Git submodules still feel clunky but they have worked well with Pathogen and I am confident this will work for me. Going native and reducing dependencies feels good!
 
 
 
