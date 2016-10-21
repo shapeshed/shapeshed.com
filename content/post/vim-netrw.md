@@ -122,7 +122,7 @@ For exploring codebases I also find [using `ctags`][10] is a better than greppin
 
     ctags -R .
 
-Once this file is created vim can take you to a function or method definition automatically with `CTRL-[`. It is like magic and much more intelligent than random file browsing. 
+Once this file is created vim can take you to a function or method definition automatically with `CTRL-]`. It is like magic and much more intelligent than random file browsing. 
 
 ## Conclusion
 
