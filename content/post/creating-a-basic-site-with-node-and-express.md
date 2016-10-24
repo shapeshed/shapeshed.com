@@ -2,7 +2,7 @@
   "slug": "creating-a-basic-site-with-node-and-express",
   "title": "Creating a basic site with Node.js and Express",
   "date": "2011-04-18T00:00:00+01:00",
-  "lastmod": "2016-10-05T00:00:00+00:00",
+  "lastmod": "2016-10-24T00:00:00+00:00",
   "description": "A walkthrough on how to create and deploy a basic site with Node.js and the Express framework. Examples of generating an express site, how to use templating and styles, creating basic routes and deploying the app to the Internet.",
   "tags": [
     "Node.js",
@@ -87,9 +87,13 @@ This will install packages and you will see a lot of output. When this is comple
 
 ## Boot the app
 
-That's all the setup you need. Phew. Now you can boot the app:
+That's all the setup you need. Phew. Now you can boot the app. If you are on OSX or Linux use the following command.
 
     DEBUG=express_example:* npm start
+
+If you are on Windows use the following command.
+
+    set DEBUG=express_example:* & npm start
 
 You should see `Express server listening on port 3000` and if you open [http://127.0.0.1:3000][39] you'll see the default Express page.
 
