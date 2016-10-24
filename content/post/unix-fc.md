@@ -136,5 +136,5 @@ This can also accept a command number or a range of numbers from the history.
 
 [1]: https://linux.die.net/man/1/fc
 [2]: /images/articles/fc.png "Linux and Unix fc command"
-[3]: https://en.wikipedia.org/wiki/Cal_(Unix)
+[3]: https://en.wikipedia.org/wiki/Fc_(Unix)
 [4]: http://www.computerhope.com/unix/uhistory.htm
