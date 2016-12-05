@@ -31,12 +31,12 @@ The strength of the library is not limited to the CSS frameworks but is also ver
 
  [1]: http://code.google.com/hosting/
  [2]: http://code.google.com/
- [3]: http://fireeagle.yahoo.net/
- [4]: http://developer.yahoo.com/yui/3/
+ [3]: https://en.wikipedia.org/wiki/Fire_Eagle
+ [4]: https://en.wikipedia.org/wiki/YUI_Library
  [5]: /images/articles/fireeagle.png
  [6]: http://oauth.net/
  [7]: /images/articles/yui.png
- [8]: http://developer.yahoo.com/yui/3/cssreset/
- [9]: http://developer.yahoo.com/yui/3/cssfonts/
- [10]: http://developer.yahoo.com/yui/3/cssgrids/
- [11]: http://developer.yahoo.com/yui/3/cssbase/
+ [8]: https://en.wikipedia.org/wiki/YUI_Library
+ [9]: https://en.wikipedia.org/wiki/YUI_Library
+ [10]: https://en.wikipedia.org/wiki/YUI_Library
+ [11]: https://en.wikipedia.org/wiki/YUI_Library 
