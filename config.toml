@@ -7,6 +7,7 @@ copyright = "Shape Shed"
 metaDataFormat = "json"
 paginate = "3"
 sitemap = "sitemap.xml"
+googleAnalytics= "UA-324369-3"
 [permalinks]
   post= "/:slug/"
 [params]
