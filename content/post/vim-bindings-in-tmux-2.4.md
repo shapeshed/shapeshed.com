@@ -23,7 +23,6 @@ tmux supports me achieving a nearly mouseless workflow with the copy and paste f
     bind-key p paste-buffer
     bind-key -t vi-copy v begin-selection
     bind-key -t vi-copy V select-line
-    bind-key -t vi-copy y copy-selection
     bind-key -t vi-copy r rectangle-toggle
     bind -t vi-copy y copy-pipe "xclip -in -selection clipboard"
 
@@ -53,7 +52,6 @@ A couple of [StackOverflow][8] [posts][9] led me to `if-shell` that allows diffe
       bind-key p paste-buffer; \
       bind-key -t vi-copy v begin-selection; \
       bind-key -t vi-copy V select-line; \
-      bind-key -t vi-copy y copy-selection; \
       bind-key -t vi-copy r rectangle-toggle; \
       bind -t vi-copy y copy-pipe 'xclip -in -selection clipboard'"
 
@@ -61,7 +59,6 @@ A couple of [StackOverflow][8] [posts][9] led me to `if-shell` that allows diffe
       "bind-key -T copy-mode-vi 'v' send -X begin-selection; \
       bind-key -T copy-mode-vi 'V' send -X select-line; \
       bind-key -T copy-mode-vi 'r' send -X rectangle-toggle; \
-      bind-key -T copy-mode-vi 'y' send -X copy-selection-and-cancel; \
       bind-key -T copy-mode-vi 'y' send -X copy-pipe-and-cancel 'xclip -in -selection clipboard'"
 
 This checks the tmux version and applies configuration accordingly. If you are interested in what has changed recently the [CHANGES][10] documents this. 
