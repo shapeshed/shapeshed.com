@@ -77,7 +77,7 @@ In the following example the `-c` option is used to select the first character. 
 
 To modify the output delimiter use the `--output-delimiter` option. Note that this option is not available on the BSD version of `cut`. In the following example a semi-colon is converted to a space and the first, third and fourth fields are selected.
 
-    echo 'how;now;brown;cow' | cut -d ':' -f 1,3,4 --output-delimiter=' '
+    echo 'how;now;brown;cow' | cut -d ';' -f 1,3,4 --output-delimiter=' '
     how brown cow
 
 ## Further reading
