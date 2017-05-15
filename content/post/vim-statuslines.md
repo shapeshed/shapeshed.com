@@ -86,6 +86,10 @@ Colour is perhaps the hardest part to configure in statuslines. [The documentati
 
 After reading the documentation and understanding how statuslines work it was easy to construct a statusline that works for me.
 
+    function! GitBranch()
+      return system("git rev-parse --abbrev-ref HEAD 2>/dev/null | tr -d '\n'")
+    endfunction
+
     function! StatuslineGit()
       let l:branchname = GitBranch()
       return strlen(l:branchname) > 0?'  '.l:branchname.' ':''
@@ -108,7 +112,7 @@ After reading the documentation and understanding how statuslines work it was ea
 
 ![My statusline][13] 
 
-Of course it may be easier for many people to use [powerline][8] or [airline][9]. Personally 18 lines of code is enough to have a working statusline and I have one fewer dependency.
+Of course it may be easier for many people to use [powerline][8] or [airline][9]. Personally 22 lines of code is enough to have a working statusline and I have one fewer dependency.
 
 ## References
 
