@@ -74,7 +74,7 @@ Join expects that files will be sorted before joining. For this example suppose 
 
 Running `join` on these files results in an error becuase the files are not sorted.
 
-    gjoin -1 2 -2 1 wine.txt reviews.txt
+    join -1 2 -2 1 wine.txt reviews.txt
     join: wine.txt:3: is not sorted: Red Beaunes France
     join: reviews.txt:2: is not sorted: Beaunes Great!
     Riocha Red Spain Meh
