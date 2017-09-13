@@ -15,6 +15,8 @@ gzip-static:
 minify-html:
 	@minify -r --match=\.html public -o public
 
+optimize-images:
+	find ./static/images/articles -mtime -1 -name '*.png' | xargs optipng -o7 -strip all 
 
 css: 
 	@mv ./public/css/styles.css ./public/css/$(CSSMD5).css 
