@@ -87,7 +87,9 @@ Colour is perhaps the hardest part to configure in statuslines. [The documentati
 After reading the documentation and understanding how statuslines work it was easy to construct a statusline that works for me.
 
     function! GitBranch()
-      return system("git rev-parse --abbrev-ref HEAD 2>/dev/null | tr -d '\n'")
+      let fpath = expand('%:h')
+      let gitcmd = "cd ".fpath." && git rev-parse --abbrev-ref HEAD 2>/dev/null | tr -d '\n'"
+      return system(gitcmd)
     endfunction
 
     function! StatuslineGit()
