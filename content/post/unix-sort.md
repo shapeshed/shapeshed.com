@@ -185,7 +185,7 @@ The file needs to be sorted by the name of the company that placed them. By usin
 
 To sort by a delimiter pass the `-t` option to `sort` along with the delimiter value. For a CSV file this would be `,`. This can be combined with the `-k` option to sort on fields within a CSV. The result will be written to standard output.
 
-Suppose a file exists with a list of cheeses that is saved as `cheeses.csv`.
+Suppose a file exists with a list of cheeses that is saved as `cheese.csv`.
 
     2,Maroilles,1.13
     3,Stinking Bishop,1.65
