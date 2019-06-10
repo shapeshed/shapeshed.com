@@ -1,10 +1,25 @@
-language: go
+language: minimal
 before_script: 
-  - go get github.com/spf13/hugo
-  - go get github.com/tdewolff/minify
+  - wget "https://github.com/tdewolff/minify/releases/download/v2.5.0/minify_2.5.0_linux_amd64.tar.gz"
+  - tar -xvzf minify_2.5.0_linux_amd64.tar.gz
+  - sudo mv ./minify /usr/local/bin/
+  -	wget "https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz"
+  - tar -xvzf hugo_0.55.6_Linux-64bit.tar.gz
+  - sudo mv ./hugo /usr/local/bin/
+  - git clone https://github.com/shapeshed/shapeshed-minimal.git themes/shapeshed-minimal
+  - sudo pip install s3cmd
+script: make
+after_success:
+  - s3cmd sync --delete-removed --check-md5 --no-preserve --acl-private --access_key=$AWS_ACCESS_KEY_ID --secret_key=$AWS_SECRET_ACCESS_KEY -r public/ s3://static.shapeshed.com
+
 #deploy:
-#provider: s3
-#  access_key_id: "YOUR AWS ACCESS KEY"
-#  secret_access_key: "YOUR AWS SECRET KEY"
-#  bucket: "S3 Bucket"
+#  on:
+#    branch: master
+#  provider: s3
+#  access_key_id: $AWS_ACCESS_KEY_ID
+#  secret_access_key: $AWS_SECRET_ACCESS_KEY
+#  bucket: static.shapeshed.com
+#  region: eu-west-1
+#  skip_cleanup: true
+#  local_dir: public
 
