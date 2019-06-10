@@ -1,7 +1,14 @@
+.DEFAULT_GOAL := build
 SHELL := /bin/bash
 CSSMD5 = $(shell md5sum ./public/css/styles.css | awk '{ print $$1 }')
 
 build: clean hugo css minify-html gzip-static
+
+install:
+	wget "https://github.com/tdewolff/minify/releases/download/v2.5.0/minify_2.5.0_linux_amd64.tar.gz"
+	tar -xvzf minify_2.5.0_linux_amd64.tar.gz
+	wget "https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz"
+	tar -xvzf hugo_0.55.6_Linux-64bit.tar.gz
 
 clean: 
 	@rm -Rf ./public
@@ -10,7 +17,7 @@ hugo:
 	@hugo --quiet
 
 gzip-static:
-	@find ./public -type f \( -name "*.html" -o -name "*.css" -o -name "*.xml" \) -exec gzip -k -f -9 {} \;
+	@find ./public -type f \( -name "*.html" -o -name "*.css" -o -name "*.xml" \) -exec gzip -n -k -f -9 {} \;
 
 minify-html:
 	@minify -r --match=\.html public -o public

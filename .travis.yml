@@ -1,7 +1,7 @@
 language: go
 before_script: 
   - go get github.com/spf13/hugo
-  - go get github.com/tdewolff/minify/v2
+  - go get github.com/tdewolff/minify
 #deploy:
 #provider: s3
 #  access_key_id: "YOUR AWS ACCESS KEY"
