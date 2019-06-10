@@ -12,14 +12,3 @@ script: make
 after_success:
   - s3cmd sync --delete-removed --check-md5 --no-preserve --acl-private --access_key=$AWS_ACCESS_KEY_ID --secret_key=$AWS_SECRET_ACCESS_KEY -r public/ s3://static.shapeshed.com
 
-#deploy:
-#  on:
-#    branch: master
-#  provider: s3
-#  access_key_id: $AWS_ACCESS_KEY_ID
-#  secret_access_key: $AWS_SECRET_ACCESS_KEY
-#  bucket: static.shapeshed.com
-#  region: eu-west-1
-#  skip_cleanup: true
-#  local_dir: public
-
