@@ -1,14 +1,13 @@
 language: minimal
 before_script: 
-  - wget "https://github.com/tdewolff/minify/releases/download/v2.5.0/minify_2.5.0_linux_amd64.tar.gz"
-  - tar -xvzf minify_2.5.0_linux_amd64.tar.gz
-  - sudo mv ./minify /usr/local/bin/
-  -	wget "https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz"
-  - tar -xvzf hugo_0.55.6_Linux-64bit.tar.gz
-  - sudo mv ./hugo /usr/local/bin/
-  - git clone https://github.com/shapeshed/shapeshed-minimal.git themes/shapeshed-minimal
-  - sudo pip install s3cmd
+  - "wget https://github.com/tdewolff/minify/releases/download/v2.5.0/minify_2.5.0_linux_amd64.tar.gz"
+  - "tar -xvzf minify_2.5.0_linux_amd64.tar.gz"
+  - "sudo mv ./minify /usr/local/bin/"
+  - "wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz"
+  - "tar -xvzf hugo_0.55.6_Linux-64bit.tar.gz"
+  - "sudo mv ./hugo /usr/local/bin/"
+  - "git clone https://github.com/shapeshed/shapeshed-minimal.git themes/shapeshed-minimal"
+  - "sudo pip install s3cmd"
 script: make
-after_success:
-  - s3cmd sync --delete-removed --check-md5 --no-preserve --acl-private --access_key=$AWS_ACCESS_KEY_ID --secret_key=$AWS_SECRET_ACCESS_KEY -r public/ s3://static.shapeshed.com
-
+after_success: 
+  - "s3cmd sync --delete-removed --check-md5 --no-preserve --acl-private --access_key=$AWS_ACCESS_KEY_ID --secret_key=$AWS_SECRET_ACCESS_KEY -r public/ s3://static.shapeshed.com"
