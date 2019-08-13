@@ -40,7 +40,7 @@ It is also possible to use `pkill` to achieve the same result.
 
 ## How to (really) kill a process
 
-If a signal does not respond to a `TERM` signal the `KILL` signal may be used. The `KILL` signal cannot be ignored by UNIX processes and the process is killed immediately. Note that this does not allow the process to perform any cleanup when shutting down the process. To send a process a signal other than `TERM` use the `-s` option followed by the name of the signal.
+If a process does not respond to a `TERM` signal the `KILL` signal may be used. The `KILL` signal cannot be ignored by UNIX processes and the process is killed immediately. Note that this does not allow the process to perform any cleanup when shutting down the process. To send a process a signal other than `TERM` use the `-s` option followed by the name of the signal.
 
     kill -s KILL 17146
 

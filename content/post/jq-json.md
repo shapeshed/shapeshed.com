@@ -22,7 +22,7 @@
 `jq` can pretty print this file using the `.` filter. This takes the entire input and sends it to standard output. Unless told not to `jq` will pretty print making JSON readable. 
 
 
-    jq '.' file.json
+    jq '.' names.json
     [
       {
         "id": 1,
@@ -40,7 +40,7 @@
 
 Because `jq` is UNIX friendly it is possible to pipe data in and out of it. This can be useful for using jq as a filter or interacting with other tools. In the following pipeline `cat` pipes the file into `jq` and this is piped onto `less`. This can be very useful for viewing large JSON files.
 
-    cat file.json | jq '.' | less
+    cat names.json | jq '.' | less
 
 ## How to find a key and value
 
@@ -60,15 +60,16 @@ To find a key and value `jq` can filter based on keys and return the value. Supp
       ]
     }
 
-`jq` can retrieve values from this document by passing key names. Multiple keys can by passed separated by commas. 
+`jq` can retrieve values from this document by passing key names.
     
     jq '.name'
-    [
-      "Buster"
-      jq '.breed,.age'
-      "Golden Retriever",
-      "4" 
-    ]
+    "Buster"
+
+Multiple keys can by passed separated by commas.
+
+    jq '.breed,.age'
+    "Golden Retriever"
+    "4" 
 
 To search for nested objects chain values using the dot operator just as you would in JavaScript.
   
@@ -118,10 +119,12 @@ This can be achieved with a pipe with the `jq` filter.
 `jq` can be used for more than just reading values from a JSON object. It can also transform JSON into new data structures. Returning to the `dog.json` example earlier a new array can be created containing the name and likes as follows.
 
     jq '[.name, .likes[]]' dog.json
-    "Buster",
-    "Bones",
-    "balls",
-    "dog biscuits"
+    [
+      "Buster",
+      "Bones",
+      "balls",
+      "dog biscuits"
+    ]
 
 This can be very useful in data transform pipelines to shift JSON data from one structure to another. 
 
