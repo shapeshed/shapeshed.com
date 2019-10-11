@@ -2,7 +2,7 @@
   "slug": "vim-templates",
   "title": "Using template files in Vim",
   "date": "2017-04-26T00:00:00+00:00",
-  "description": "Vim templates or skeletons, allow you to specify a template to be used for new files with a certain extension.", 
+  "description": "Vim templates or skeletons, allow you to specify a template to be used for new files with a certain extension.",
 "tags": [
     "Unix",
     "Vim"
@@ -12,13 +12,13 @@
 
 ## Using templates in Vim
 
-The Vim philosophy encourages users to automate repeated actions and provides a rich toolkit with great documentation to achieve that. One example of this type of micro-optimisation is having a template or skeleton file that populates the vim buffer when a new file is opened. 
+The Vim philosophy encourages users to automate repeated actions and provides a rich toolkit with great documentation to achieve that. One example of this type of micro-optimisation is having a template or skeleton file that populates the vim buffer when a new file is opened.
 
 With just a few lines in the `~/.vimrc` file it is possible to build a rich library of skeleton templates. There is no need to use a plugin and add a dependency overhead to your Vim configuration.
 
 ## Why is a skeleton file?
 
-A skeleton file is a template to scaffold the creation of new files. This means that whenever a new file is created a standard template is applied and applied to the Vim buffer. For a `ruby` file for example, the template may be an empty ruby class. The contents of the file are less important than the idea that for a specific file extension like `.go` or `.js` Vim can populate a new file with the contents of a template. 
+A skeleton file is a template to scaffold the creation of new files. This means that whenever a new file is created a standard template is applied and applied to the Vim buffer. For a `ruby` file for example, the template may be an empty ruby class. The contents of the file are less important than the idea that for a specific file extension like `.go` or `.js` Vim can populate a new file with the contents of a template.
 
 ## Why use a skeleton file?
 
@@ -35,11 +35,11 @@ A simple example is a shell script. Shell scripts should start with a [shebang][
 
 To ensure that I remember to add this in a consistent way this is a perfect candidate for a skeleton file.
 
-The single line template is saved into `~/.vim/templates/skeleton.sh`. You may wish to add license or usage information to this template. 
+The single line template is saved into `~/.vim/templates/skeleton.sh`. You may wish to add license or usage information to this template.
 
-## Populating new files 
+## Populating new files
 
-To use a skeleton template when creating a new file the following will populate a new file with a `.sh` extension with the shell script template. 
+To use a skeleton template when creating a new file the following will populate a new file with a `.sh` extension with the shell script template.
 
     if has("autocmd")
       augroup templates
@@ -60,6 +60,27 @@ Suppose that we have created a new bash script called `backup`. This will not us
 
     :read ~/.vim/templates/skeleton.sh
 
+### With just fzf installed
+
+While we don't have to add any dependency, some of them do offer some great usability. [fzf][7] is a great example, its a fuzzy finder that you can insert any list to filter and it has integration with vim built-in.
+
+The point here is that typing the hole path for the `read` command may get a little annoying. With the following lines you can just type `:LoadTemplate` and it will open fzf with all your templates for you to choose. Once you've selected the desired option a press of an <kbd>Enter</kbd> you load the template.
+
+```viml
+function! s:read_template_into_buffer(template)
+  " has to be a function to avoid the extra space fzf#run insers otherwise
+  execute '0r ~/.vim/templates/'.a:template
+endfunction
+
+command! -bang -nargs=* LoadTemplate call fzf#run({
+      \   'source': 'ls -1 ~/.config/nvim/templates',
+      \   'down': 20,
+      \   'sink': function('<sid>read_template_into_buffer')
+      \ })
+```
+
+As a side note, this is just the [fzf][7] binary, not the [fzf.vim][8].
+
 ## Customise to your tastes
 
 Vim's lightweight approach to templating is extremely flexible, comes with zero dependencies and can be integrated into your [dotfiles][1]. It ensures consistency of style either for your own scripts or can be used as part of a standardised approach for a team.
@@ -72,3 +93,6 @@ For more see [`:help template`][5].
 [4]: http://vimdoc.sourceforge.net/htmldoc/autocmd.html#BufNewFile
 [5]: http://vimdoc.sourceforge.net/htmldoc/autocmd.html#skeleton
 [6]: https://en.wikipedia.org/wiki/Shebang_(Unix)
+[7]: https://github.com/junegunn/fzf
+[8]: https://github.com/junegunn/fzf.vim
+
