@@ -38,15 +38,17 @@ This might be useful for debugging or an ad-hoc plugin.
 
 Directory layout for packages is given as the following. 
 
-    start/foobar/plugin/foo.vim    	  " always loaded, defines commands
-    start/foobar/plugin/bar.vim    	  " always loaded, defines commands
-    start/foobar/autoload/foo.vim  	  " loaded when foo command used
-    start/foobar/doc/foo.txt       	  " help for foo.vim
-    start/foobar/doc/tags          	  " help tags
-    opt/fooextra/plugin/extra.vim  	  " optional plugin, defines commands
-    opt/fooextra/autoload/extra.vim  	" loaded when extra command used
-    opt/fooextra/doc/extra.txt  	    " help for extra.vim
-    opt/fooextra/doc/tags  	          " help tags
+    .vim/pack/shapeshed/start/foobar/plugin/foo.vim    	  " always loaded, defines commands
+    .vim/pack/shapeshed/start/foobar/plugin/bar.vim    	  " always loaded, defines commands
+    .vim/pack/shapeshed/start/foobar/autoload/foo.vim  	  " loaded when foo command used
+    .vim/pack/shapeshed/start/foobar/doc/foo.txt       	  " help for foo.vim
+    .vim/pack/shapeshed/start/foobar/doc/tags          	  " help tags
+    .vim/pack/shapeshed/opt/fooextra/plugin/extra.vim  	  " optional plugin, defines commands
+    .vim/pack/shapeshed/opt/fooextra/autoload/extra.vim  	" loaded when extra command used
+    .vim/pack/shapeshed/opt/fooextra/doc/extra.txt  	    " help for extra.vim
+    .vim/pack/shapeshed/opt/fooextra/doc/tags  	          " help tags
+
+where `foobar` and `fooextra` are names of plugins.
 
 Other than the opt folder these are the default for existing packages so things are compatible. 
 
