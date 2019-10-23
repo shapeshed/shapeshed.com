@@ -16,7 +16,7 @@ The Vim philosophy encourages users to automate repeated actions and provides a 
 
 With just a few lines in the `~/.vimrc` file it is possible to build a rich library of skeleton templates. There is no need to use a plugin and add a dependency overhead to your Vim configuration.
 
-## Why is a skeleton file?
+## What is a skeleton file?
 
 A skeleton file is a template to scaffold the creation of new files. This means that whenever a new file is created a standard template is applied and applied to the Vim buffer. For a `ruby` file for example, the template may be an empty ruby class. The contents of the file are less important than the idea that for a specific file extension like `.go` or `.js` Vim can populate a new file with the contents of a template. 
 
