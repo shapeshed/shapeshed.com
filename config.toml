@@ -4,22 +4,20 @@ theme = "shapeshed-minimal"
 title = "George Ornbo"
 copyright = "Shape Shed"
 metaDataFormat = "json"
-paginate = "3"
 rssLimit = "20"
 sitemap = "sitemap.xml"
 googleAnalytics= "UA-324369-3"
 
 [permalinks]
-  post= "/:slug/"
-
+  posts = "/:slug/"
 [params]
   author = "George Ornbo"
   description = "Articles by George Ornbo, a London-based technologist"
-  GoogleAnalytics= "UA-324369-3"
+  GoogleAnalytics = "UA-324369-3"
 
 [outputs]
   home = ["HTML", "RSS"]
   page = ["HTML"]
 
 [outputFormats.RSS]
-  baseName = "atom"
+  # baseName = "atom"
