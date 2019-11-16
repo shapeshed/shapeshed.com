@@ -71,7 +71,7 @@ CoffeeScript and TypeScript are both essentially dialects of JavaScript. CoffeeS
 
 What strikes me about both of these dialects is that Programmers like what they are comfortable with. If I like Ruby syntax I can pick up CoffeeScript. If I like C# TypeScript makes JavaScript more palatable. The fact that JavaScript is dynamic and extremely permissive means it is possible to create precompiler interfaces to support however your brain thinks of programming problems. JavaScript's type coercian might well be conceived as programming with chaos by some developers and I suspect TypeScript is a reaction to that. If you need a primer on that watch this from 2 minutes 50.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/kXEgk1Hdze0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/kXEgk1Hdze0" allowfullscreen></iframe>
 
 ## Precompilers
 

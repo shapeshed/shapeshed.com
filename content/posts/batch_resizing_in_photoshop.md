@@ -34,7 +34,9 @@ On the options you want to select your Action under Play - Action (pick the one 
 
 If you feel you've missed something watch the video. If you'd like the HD version you'll have to [watch it on Vimeo.][4]
 
-<iframe src="https://player.vimeo.com/video/1050103?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/1050103">Batch resizing in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/1050103?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/1050103">Batch resizing in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
  [1]: /images/articles/create_new_action.jpg
  [2]: /images/articles/stop_action.jpg

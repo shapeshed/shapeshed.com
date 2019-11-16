@@ -31,8 +31,9 @@ Smart Guides are brilliant and if you aren't using them turn them on by hitting 
 
 To line up an edge for example (ensuring Smart Guides are on) click on the edge of the object that you want to line up. Then hover over the shape you want to align to. It will snap to the shape and you can then move it up and down to position. Watch the video below to see it in action. In most cases this is quicker than pulling out rulers or using the Align palette (but if that works for you then great). 
 
-<iframe src="https://player.vimeo.com/video/184806522" width="640" height="557" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/184806522">guides_illustrator</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/184806522" width="640" height="557" allowfullscreen></iframe>
+
+<a href="https://vimeo.com/184806522">guides_illustrator</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 You can set preferences for Smart Guides by going to Illustrator > Preferences > Smart Guides & Slices on the Mac or Edit > Preferences > Smart Guides & Slices on Windows. The preferences pane allows you to decide what shows in Smarts Guides and angles and snapping tolerance.
 

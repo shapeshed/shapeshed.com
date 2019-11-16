@@ -38,7 +38,9 @@ original: http://pebblecode.com/blog/whats-wrong-with-scalenpm-org/
 <li>Is there any scope to collaborate on this work?</li>
 <li>Are the technical decisions up for debate?</li>
 <li>Are they tied to CouchDB because of the recent acquisition of IrisCouch?</li>
-</ul><p>There are areas that are not entirely transparent and other members of the Node.js community feel the same way.</p>
+</ul>
+
+<p>There are areas that are not entirely transparent and other members of the Node.js community feel the same way.</p>
 
 <blockquote>
   <p>Obviously everybody should support <a href="http://scalenpm.org">http://scalenpm.org</a>  BUT I wish there was a non-profit behind the effort, a la the @jquery foundation</p>

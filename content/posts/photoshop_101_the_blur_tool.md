@@ -27,7 +27,9 @@ The smudge tool takes a colour that you select and smudges it into wherever you 
 
 Watch the video below to see the blur and smudge in action. The photo is by [Taosmax][1] and apparently he was hit in the face shortly after taking the photo! What we are looking to do here is to blur out the background, then smudge it to give it more action. The blur tool is a quick and dirty way of doing this.
 
-<iframe src="https://player.vimeo.com/video/32933878?title=0&amp;byline=0&amp;portrait=0" width="640" height="427" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32933878">Photoshop 101 - The Blur Tool</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32933878?title=0&amp;byline=0&amp;portrait=0" width="640" height="427" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/32933878">Photoshop 101 - The Blur Tool</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
  [1]: http://www.flickr.com/photos/taosmax/
 

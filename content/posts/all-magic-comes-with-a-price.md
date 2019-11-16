@@ -49,7 +49,7 @@ I salute him for going through that and understanding how it works.
 
 He was making a serious point. The more we ask a framework to do the more complex it becomes to maintain and understand. At RailsConf 2011 Rails was bigger, more complex and slower. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kWOAHIpmLAI#t=2050s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWOAHIpmLAI#t=2050s" allowfullscreen></iframe>
 
 ## UNIX and Rails
 

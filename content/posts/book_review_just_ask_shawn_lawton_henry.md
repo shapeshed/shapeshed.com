@@ -10,53 +10,36 @@
   ]
 }
 
-<abbr class="dtreviewed" title="20071208T0952">Dec 8, 2007</abbr>
-	
-	<span class="reviewer vcard" id="reviewer-vcard">
-	
-		<span class="fn">George Ornbo</span>
-	
-	</span>
-	
-	<span class="type">product</span>
-	
-	<img src="/images/articles/just-ask.png" alt="Just Ask- Integrating Accessibility Throughout Design" class="right" />
+Author: Shawn Lawton Henry
 
-	
-	<h3 class="fn">Just Ask- Integrating Accessibility Throughout Design</h3>
-	
-	<p>Author: Shawn Lawton Henry</p>
-	
-	<p>Published: February 2007</p>
-	
-	<p>ISBN:1430319526</p>
-	
-	<p><a href="http://www.amazon.com/Just-Ask-Integrating-Accessibility-Throughout/dp/1430319526">Buy from Amazon</a></p>
-	
-	<img src="/images/books/three_stars.gif" title="Three out of Five" alt="Three out of Five" width="124" height="30" />
-	
-	<span class="rating">3</span>
-	
-	<p>This review is based on the <a href="http://www.uiaccess.com/accessucd/">free online version</a> of Just Ask</p>
+Published: February 2007
 
-	<h3>Accessibility through design</h3>
-	<p>Just Ask- Integrating Accessibility Throughout Design is not a book that will teach you how to create an Accessible site. In fact there is not one line of code. It is more of a theoretical book and outlines frameworks to test your site and integrate accessibility into your design process. The book advises:</p>
-	<blockquote>
-	<p>Designing for accessibility doesn't require a whole new design process; it generally involves only minor adjustments to your existing design process.</p>
-	</blockquote>
+ISBN:1430319526
 
-	<p>Just Ask shows you how to make those minor adjustments with some sound advice. </p>
+[Buy from Amazon](http://www.amazon.com/Just-Ask-Integrating-Accessibility-Throughout/dp/1430319526)
 
-	<h3>Well referenced</h3>
-	<p>The book is meticulously referenced throughout allowing the reader to look up standards and recommended documents. As a developer at times I was looking for more interpretation of things like WCAG. Indeed advice is given that standards should be interpreted and tested with users rather than followed to the letter. It would have been great to have some examples of this. The book is certainly theoretical rather than technical.</p>
+![Three out of Five](/images/books/three_stars.gif "Three out of Five") <span class="rating">3</span>
 
-	<h3>Users, personas, scenarios</h3>
-	<p>The section on Accessibility in User Centered Design is an excellent framework. First you profile your user groups, then create personas and finally scenarios of tasks to be completed. For me this formalised processes that I follow, but it is an excellent resource to refer to.</p>
+This review is based on the [free online version](http://www.uiaccess.com/accessucd/) of Just Ask
 
-	<h3>Usability testing</h3>
-	<p>Perhaps the most useful section for me was Usability Testing. It outlines in great detail how to set up and run a usability test.</p> 
+### Accessibility through design
 
-	<p>Overall Just Ask is a detailed well referenced theoretical book. For anyone wanting to implement accessibility into a project, or conduct usability testing it provides excellent frameworks. I suspect many projects simply don't have the time or budget to implement many of the recommendations in the book. Steve Krug's book <a href="/journal/book_review_dont_make_me_think_steve_krug/">Don't Make Me Think</a> for example takes account that the average project probably does not have a big budget. For me it I would have liked more attention being given to smaller projects. That said I will still incorporate as much of the excellent advice I can into my design process. </p>
+Just Ask- Integrating Accessibility Throughout Design is not a book that will teach you how to create an Accessible site. In fact there is not one line of code. It is more of a theoretical book and outlines frameworks to test your site and integrate accessibility into your design process. The book advises:
 
+> Designing for accessibility doesn't require a whole new design process; it generally involves only minor adjustments to your existing design process.
 
-</div>
+Just Ask shows you how to make those minor adjustments with some sound advice.
+
+### Well referenced
+
+The book is meticulously referenced throughout allowing the reader to look up standards and recommended documents. As a developer at times I was looking for more interpretation of things like WCAG. Indeed advice is given that standards should be interpreted and tested with users rather than followed to the letter. It would have been great to have some examples of this. The book is certainly theoretical rather than technical.
+
+### Users, personas, scenarios
+
+The section on Accessibility in User Centered Design is an excellent framework. First you profile your user groups, then create personas and finally scenarios of tasks to be completed. For me this formalised processes that I follow, but it is an excellent resource to refer to.
+
+### Usability testing
+
+Perhaps the most useful section for me was Usability Testing. It outlines in great detail how to set up and run a usability test.
+
+Overall Just Ask is a detailed well referenced theoretical book. For anyone wanting to implement accessibility into a project, or conduct usability testing it provides excellent frameworks. I suspect many projects simply don't have the time or budget to implement many of the recommendations in the book. Steve Krug's book [Don't Make Me Think](/journal/book_review_dont_make_me_think_steve_krug/) for example takes account that the average project probably does not have a big budget. For me it I would have liked more attention being given to smaller projects. That said I will still incorporate as much of the excellent advice I can into my design process.

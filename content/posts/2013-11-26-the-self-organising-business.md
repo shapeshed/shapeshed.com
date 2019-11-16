@@ -39,7 +39,7 @@ original: http://pebblecode.com/blog/the-self-organising-business/
 
 <p>Very rarely are managers true visionaries. Yet the idea that one person should be able to shape an idea and then employ underlings to create it is precisely the model of a management layer. They offer nothing to a creative process other than the idea that they are brightest mind on the project. If their vision is wrong then a horrible dystopia of delivering for a cretinous megalomaniac can evolve. Think David Brent. I&rsquo;m sure you have an immediate or past experience of working with a similar character.</p>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/J8HsAZnzTUA?list=PLO-wxIy9sHyZ0qOHYmScUxpSAWim6pWZ5" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/J8HsAZnzTUA?list=PLO-wxIy9sHyZ0qOHYmScUxpSAWim6pWZ5" allowfullscreen></iframe>
 
 <p>If you give a team autonomy and connect them together then light direction is all that is required. More often than not you will find that the team begins to generate more innovation than the initial direction could ever have imagined.</p>
 

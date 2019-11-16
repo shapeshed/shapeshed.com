@@ -15,7 +15,7 @@ original: http://pebblecode.com/blog/getting-started-with-docker/
 
 <p>For a good introduction to Docker and Linux Containers watch this video:</p>
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/Q5POuMHxW-0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/Q5POuMHxW-0" allowfullscreen></iframe>
 
 <p>The anaolgy with shipping containers is very striking here. If you can make the container for your application a standard it becomes much easier and more efficient to scale it. Horizonatal scaling, where you scale out across machines rather than up on hardware means that being able to spin up new instances of your application is more important than ever.</p>
 

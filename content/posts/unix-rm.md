@@ -161,7 +161,7 @@ The `rm` command does not delete a file. Instead it unlinks it meaning the data 
     hello
     shred foo.txt
     cat foo.txt
-        x~XZ"MG     0KA.2Fxţ,b4s3#jOL       ?`xݕ杶hhȜsf.;3 a+M9?n
+    O3eiqOIl%bq;a;;%/HwOr<ZVP=
     ...
     rm foo.txt
 

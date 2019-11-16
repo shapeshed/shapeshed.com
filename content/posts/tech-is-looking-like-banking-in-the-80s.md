@@ -29,7 +29,7 @@ In Europe all of the mainstream technology companies are avoiding tax.
 
 How are they doing this? They are using a technique known as the Double Irish and Dutch Sandwich. It is a legal technique but morally dubious.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EFKGmmm-j5M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EFKGmmm-j5M" allowfullscreen></iframe>
 
 Some examples just from the UK:
 

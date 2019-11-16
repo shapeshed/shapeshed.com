@@ -15,7 +15,7 @@ original: http://pebblecode.com/blog/christmas-hugs-hug-humanity/
 
 <p>The idea is simple. Allow the browser access to you webcam or camera and record a hug in two seconds.</p>
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/2wfBzkEVMUs" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/2wfBzkEVMUs" allowfullscreen></iframe>
 
 <p>This isn&rsquo;t an app that is going to make you feel sexy or rich. It will make you smile though. Here&rsquo;s what some people made.</p>
 

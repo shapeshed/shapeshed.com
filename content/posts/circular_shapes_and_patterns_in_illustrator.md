@@ -14,7 +14,9 @@ Let's introduce the technique first. In this example we want to create a circula
 
 Now we use transform again to replicate the shape over and over again to get our circular pattern. You can Transform again by hitting Apple + D on a Mac or CTRL + D on windows. If you struggle with the Shortcut go to Object > Transform > Transform Again. Watch the video below to see this process in action.
 
-<iframe src="https://player.vimeo.com/video/32934009?title=0&amp;byline=0&amp;portrait=0" width="640" height="364" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934009">Circular Shapes and Patterns in Illustrator</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934009?title=0&amp;byline=0&amp;portrait=0" width="640" height="364" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/32934009">Circular Shapes and Patterns in Illustrator</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 ## Using the technique
 

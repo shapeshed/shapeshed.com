@@ -29,8 +29,8 @@ The Ubuntu project has stated that it wants to change the status quo in computin
 
 Not specific to Ubuntu (it is available on most Linux desktops) is a dazzling and sometimes overwhelming array of Desktop effects via [Compiz][4]. [Apple][5] has long led the market in terms of visual appearance but Linux is catching up and I'd argue pushing the envelope. Here's a quick video of some of what's on offer:
 
-<object width="640" height="363"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="https://vimeo.com/moogaloop.swf?clip_id=4277921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="https://vimeo.com/moogaloop.swf?clip_id=4277921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="363"></embed></object>
-  
+<iframe src="https://player.vimeo.com/video/4277921" width="640" height="363" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 [Ubuntu 9.04][6] from [George Ornbo][7] on [Vimeo][8]. 
 
 ## Congratuations

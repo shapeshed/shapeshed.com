@@ -34,7 +34,9 @@ end
 <ul><li>The time it takes to process 50 emails</li>
 <li>A slow network to the mail server</li>
 <li>Heavy load on the mail server</li>
-</ul><p>Until we return from this the slowness is passed directly to the user.</p>
+</ul>
+
+<p>Until we return from this the slowness is passed directly to the user.</p>
 
 <p>Increasingly web applications do not exist on a single server. They are becoming complex networked applications using cloud infrastructures, third-party APIs and services across the internet. In these kind of applications the potential for blocking operations like our small email example becomes bigger. In a world where speed matters we have to be increasingly creative about ways to avoid blocking operations.</p>
 
@@ -47,7 +49,9 @@ end
 <ul><li>Redis</li>
 <li>Background processes</li>
 <li><a href="http://mmonit.com/monit/">Monit</a>, <a href="https://github.com/arya/bluepill">bluepill</a> or <a href="https://github.com/mojombo/god">god</a> to monitor the background process</li>
-</ul><p>That&rsquo;s a lot of extra stuff so the question is - why are we blocking on this at all?</p>
+</ul>
+
+<p>That&rsquo;s a lot of extra stuff so the question is - why are we blocking on this at all?</p>
 
 <h2>Non-blocking I/O</h2>
 

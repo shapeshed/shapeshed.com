@@ -15,7 +15,7 @@ With the announcement of the Pixel phone Google has made a play for the top end 
 
 No doubt that tech journalists in San Francisco will lap this up and we'll see some great reviews on YouTube and the tech press. Yes the hardware looks very good and with stock Android the experience will likely be good too.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rykmwn0SMWU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rykmwn0SMWU" allowfullscreen></iframe>
 
 But at a time when the smartphone market is becoming more saturated it seems worth exploring some data against the play to end the Nexus line of affordable good quality smartphones (the Nexus 5X retails for around £250 here in the UK) and move for the top end of the market with a phone starting at £600.
 

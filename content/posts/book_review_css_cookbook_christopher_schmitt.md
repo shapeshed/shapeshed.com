@@ -9,41 +9,21 @@
   ]
 }
 
-<abbr class="dtreviewed" title="20070222T1343">Feb 22nd, 2007</abbr>
+Author: Christopher Schmitt
 
-<span class="reviewer vcard" id="reviewer-vcard">
+Published: August 2004
 
-    <span class="fn">George Ornbo</span>
+ISBN: 0596005768
 
-</span>
+[Buy from Amazon](http://www.amazon.com/CSS-Cookbook-Christopher-Schmitt/dp/0596005768)
 
-<span class="type">product</span>
+![Four out of Five](/images/books/four_stars.gif "Four out of Five") <span class="rating">4</span>
 
-<img src="/images/articles/css_cookbook.gif" alt="CSS Cookbook" title="CSS Cookbook" width="180" height="236" class="right" />
+CSS Cookbook is an up to date practical guide to using CSS on your site. Primarily aimed at coders who haven't made the transition to CSS layouts the books has step by step guides to common problems that occur on a daily basis. Styling typography, forms list and layouts are all covered in a simple and easy to read style.
 
+This is a great beginners book. Compared to Eric Meyer's book this offers novice authors a more practical introduction the CSS and what it can do. Each example uses the framework of "Problem" and then "Solution". The style of writing is easy follow and the examples are all excellent ones that web authors will use on a daily basis.
 
-<h3 class="fn">CSS Cookbook</h3>
+Where the book is lacking in comparison to other CSS books is on the design side. The book will show you the nuts and bolts of CSS but it does not really cover how to give your designs the wow factor. Indeed some of the examples in the book look like they have been made by a coder rather than a designer. For me really good CSS is understanding the possibilities (which this book more than does) and applying creativity to that. For me the book lacks creativity.
 
-<p>Author: Christopher Schmitt</p>
+The lack of creativity is a minor complaint though. This is a great book for beginners, especially for those who are still using tables. It shows practical methods for HTML authors to use to produce more lightweight and maintainable code.
 
-<p>Published: August 2004</p>
-
-<p>ISBN: 0596005768</p>
-
-<p><a href="http://www.amazon.com/CSS-Cookbook-Christopher-Schmitt/dp/0596005768">Buy from Amazon</a></p>
-
-<img src="/images/books/four_stars.gif" title="Four out of Five" alt="Four out of Five" height="30" width="124" />
-
-<span class="rating">4</span>
-
-<div class="description">
-
-<p>CSS Cookbook is an up to date practical guide to using CSS on your site. Primarily aimed at coders who haven't made the transition to CSS layouts the books has step by step guides to common problems that occur on a daily basis. Styling typography, forms list and layouts are all covered in a simple and easy to read style.</p>
-
-<p>This is a great beginners book. Compared to Eric Meyer's book this offers novice authors a more practical introduction the CSS and what it can do. Each example uses the framework of "Problem" and then "Solution". The style of writing is easy follow and the examples are all excellent ones that web authors will use on a daily basis.</p>
-
-<p>Where the book is lacking in comparison to other CSS books is on the design side. The book will show you the nuts and bolts of CSS but it does not really cover how to give your designs the wow factor. Indeed some of the examples in the book look like they have been made by a coder rather than a designer. For me really good CSS is understanding the possibilities (which this book more than does) and applying creativity to that. For me the book lacks creativity.</p>
-
-<p>The lack of creativity is a minor complaint though. This is a great book for beginners, especially for those who are still using tables. It shows practical methods for HTML authors to use to produce more lightweight and maintainable code.</p> 
-</div>
-</div>

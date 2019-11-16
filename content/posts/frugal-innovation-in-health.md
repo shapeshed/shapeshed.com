@@ -30,7 +30,7 @@ The challenge and academic interest is how can you do more with less for many mo
 
 The next example is [Peek Vision][9] who took the [Aravind Eye Care System][11] and used it to innovate. The video give a good flavour for the product.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHS2sRL8r04" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHS2sRL8r04" allowfullscreen></iframe>
 
 The final example given is [Robohand][12], a 3D Printed alternative to traditional prosthetics. The creator also made the designs open source.
 
@@ -134,7 +134,7 @@ Maja gives another example of non-attendance of appointment through [differently
 
 Maja showed [Floot][16], an app they working on in relation to Asthma. The app encourages patients to blow into a peak flow whistle. Doctors held that kids wouldn't blow into a peak flow whistle but the app shows they will if incentivised in the right way.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hmqaW4VSSHI?start=662" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hmqaW4VSSHI?start=662" allowfullscreen></iframe>
 
 They are also going to use the Apple healthkit to gather data during the trial.
 

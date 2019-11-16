@@ -6,5 +6,9 @@
     "Web Standards"
   ]
 }
-<p>Gmail is a great email client and it is being let down by a lack of support for web standards. If you have ever developed an HTML email you'll know that Gmail does not honour standards compliant code and you need to use tables and hacks to get it rendering properly. This isn't an acceptable situation and the <a href="http://www.email-standards.org/">Email Standards Project</a> is lobbying to change things.</p> They have already had success with the <a href="http://www.email-standards.org/blog/entry/the-impact-of-longhand-vs-shorthand-css/">Yahoo Mail</a> team. Come on Google - it is time to put your house in order.</p>
-<iframe src="https://player.vimeo.com/video/873823" width="640" height="483" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Gmail is a great email client and it is being let down by a lack of support for web standards. If you have ever developed an HTML email you'll know that Gmail does not honour standards compliant code and you need to use tables and hacks to get it rendering properly. This isn't an acceptable situation and the <a href="http://www.email-standards.org/">Email Standards Project</a> is lobbying to change things.
+
+They have already had success with the <a href="http://www.email-standards.org/blog/entry/the-impact-of-longhand-vs-shorthand-css/">Yahoo Mail</a> team. Come on Google - it is time to put your house in order.
+
+<iframe src="https://player.vimeo.com/video/873823" width="640" height="483" allowfullscreen></iframe>

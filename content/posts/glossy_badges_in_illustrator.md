@@ -36,7 +36,9 @@ Finally round the edges a little by going to Filter > Stylize > Round Corners. I
 
 Now we need to add the gloss so it is time for the good old Opacity Mask. First create a highlight shape. I like to use a circle and then use the Direct Selection Tool to achieve this. Have a look at the video below for how I create the shape. It helps me to turn Smart Guides on so if you want that go to View > Smart Guides. Once you have the shape label the layer. I've called mine "curve" in the download. 
 
-<iframe src="https://player.vimeo.com/video/32934091?title=0&amp;byline=0&amp;portrait=0" width="640" height="436" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934091">Glossy Badges in Illustrator</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934091?title=0&amp;byline=0&amp;portrait=0" width="640" height="436" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/32934091">Glossy Badges in Illustrator</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 Now copy the inner star that you have drawn and paste it in front of the original (Edit > Paste in Front). Call this layer "highlight". Now make sure you have the correct layer selected and give your copy have a white fill. No call up the transparency menu and in the fly-out menu in the top right click Make Opacity Mask. Now go back to your layer "curve" and copy this. Return to the opacity mask and paste it in to show the highlight. Add a gradient to complete the effect. This is a little complex so watch the video below if you are struggling. Sorry for the poor video - it is the best I can do at the moment!
 

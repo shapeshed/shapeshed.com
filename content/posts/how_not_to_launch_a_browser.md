@@ -13,7 +13,7 @@ I've been a Firefox user since around version 0.4 and I have used [Firefox][1] a
 
 ## Firefox 3
 
-I often poke around the treasure chest that is the [Mozilla FTP site][2] and somehow I found out about the Gran Paradiso release which has grown into Firefox 3. Product wise it is a massive improvement. John Resig (admittedly he works for Mozilla) has performed analysis on [memory usage][3] as well as highlighting [colour profiles][4], [Microformats][5] and the native [getElementsByClassName][6]. It is doing pretty well on the Acid 3 test too (71/100 on my test) which tests the standards compliance of browsers even though both [Opera][7] and [WebKit][8] have achieved a full pass</a>.
+I often poke around the treasure chest that is the [Mozilla FTP site][2] and somehow I found out about the Gran Paradiso release which has grown into Firefox 3. Product wise it is a massive improvement. John Resig (admittedly he works for Mozilla) has performed analysis on [memory usage][3] as well as highlighting [colour profiles][4], [Microformats][5] and the native [getElementsByClassName][6]. It is doing pretty well on the Acid 3 test too (71/100 on my test) which tests the standards compliance of browsers even though both [Opera][7] and [WebKit][8] have achieved a full pass.
 
 Firefox 3 might not be the most cutting edge browser but coupled with UI improvements to more closely integrate with your OS and [feature enhancements][9] it is a pretty solid and highly marketable release. A marketing team's dream you might think?
 

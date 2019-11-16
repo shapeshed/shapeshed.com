@@ -21,7 +21,9 @@ One of the main drivers of wanting to redesign was a desire to move to HTML5. Th
 
 ## If you can see this...
 
-<iframe src="https://player.vimeo.com/video/33020750?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/33020750">HTML5 is alive</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/33020750?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/33020750">HTML5 is alive</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 ..you are in the future.
 

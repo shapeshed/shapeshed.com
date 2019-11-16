@@ -23,7 +23,9 @@ Let's say I want to sample the green used on the [Times Online website][2]. With
 
 Now you can select the Eyedropper Tool (shortcut I) and click and hold within your photoshop document. You can now drag the Eyedropper tool outside your Photoshop document and sample any colour on your desktop. Watch the video below to see it in action.
 
-<iframe src="https://player.vimeo.com/video/32934323?title=0&amp;byline=0&amp;portrait=0" width="640" height="406" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934323">Colour Sampling Outside Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934323?title=0&amp;byline=0&amp;portrait=0" width="640" height="406" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/32934323">Colour Sampling Outside Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 You'll notice the menu appearing before I move the tool to select the colour. If you right click you can choose the sample rate. This is the area that gets sampled. So "Point Sample" is the exact point that you click. This is great for large blocks of colour. "3 x 3 Average" will sample an average of 3 x 3 pixels around the point at which you click. The number gradually increase in the options and increase the sample. If the image you are sampling contains a variety of colours you can either zoom in or use these options to average the colour out.
 

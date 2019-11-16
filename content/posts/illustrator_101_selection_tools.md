@@ -21,7 +21,7 @@ Hovering a little way away from the edge of the white square you will see that t
 
 Followed everything? Try is yourself along with the video below.
 
-<iframe src="https://player.vimeo.com/video/33020856?title=0&amp;byline=0&amp;portrait=0" width="400" height="357" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://player.vimeo.com/video/33020856?title=0&amp;byline=0&amp;portrait=0" width="400" height="357" allowFullScreen></iframe>
 
 To group different shapes together hold down the shift key as you select. You can perform exactly the same tasks on a group of selections as a single selection. 
 
@@ -31,11 +31,14 @@ Tip: If you want to move a group of shapes on a regular basis select them all th
 
 The Direct Selection tool (shortcut A) allows you to select and modify paths within shapes. With the direct selection tool click on one of the circles. You will see that it doesn't select the entire group like the selection tool but instead chooses just the circle you click on. You can click, hold and drag to move the shape. More useful though is the ability to modify individual path points. You will see that the circle has a blue circle around it with four blue squares. Hover over one of the squares and you will see the icon change. These squares are known as anchor points. You can click and hold the anchor points and move them around. Once you have clicked on the anchor point you will also see lines coming off it. These are known as direction points. Using the tool you can drag these to change the shape. This is a little tricky to explain so see what happens in the video below.
 
-<iframe src="https://player.vimeo.com/video/32934298?title=0&amp;byline=0&amp;portrait=0" width="640" height="571" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934298">Illustrator 101 - Selection Tools</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934298?title=0&amp;byline=0&amp;portrait=0" width="640" height="571" allowFullScreen></iframe>
 
+<a href="https://vimeo.com/32934298">Illustrator 101 - Selection Tools</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 ## The Group Selection Tool
 
 Now select the Group Selection Tool. Click and hold on the Direct Selection Tool and you will see a flyout menu with another option. This is the Group Selection Tool. This tool allows you to click once and select one object. If you click again it will select everything in the parent group of the object. If there are other groups that are grouped with the parent group you can click again to select those. The final video shows grouping and the group selection tool in action. It shows each line being made into a group, then the top two lines being grouped, and finally the bottom line grouped with the top two lines. Then the Group Selection Tool is used to gradually select objects.
 
-<iframe src="https://player.vimeo.com/video/32934355?title=0&amp;byline=0&amp;portrait=0" width="640" height="571" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934355">Illustrator 101 - Selection Tools</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934355?title=0&amp;byline=0&amp;portrait=0" width="640" height="571" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/32934355">Illustrator 101 - Selection Tools</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.

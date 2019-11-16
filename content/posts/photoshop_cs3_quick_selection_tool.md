@@ -35,7 +35,7 @@ Then simply move the sliders until you get your desired color. Easy!
 
 Here's a video of the whole thing so you can see how quickly it can be done. 
 
-<iframe src="https://player.vimeo.com/video/33020832?title=0&amp;byline=0&amp;portrait=0" width="400" height="232" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://player.vimeo.com/video/33020832?title=0&amp;byline=0&amp;portrait=0" width="400" height="232" allowFullScreen></iframe>
 
 Of course you could also use the Color Replacement Tool but I like this way!
 

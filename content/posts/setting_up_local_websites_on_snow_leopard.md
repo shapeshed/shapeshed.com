@@ -79,7 +79,7 @@ Then it is already running so restart it using
 
     sudo apachectl restart
 
-Now open a browser and visit "http://mysite.local/" (or whatever ServerName you set). All being well you should see a page displaying "My awesome site"
+Now open a browser and visit [http://mysite.local/][2] (or whatever ServerName you set). All being well you should see a page displaying "My awesome site"
 
 ## Step 5 - Enable PHP
 
@@ -110,3 +110,4 @@ Now if you open a browser and visit http://mysite.local/index.php you should see
 All done! To add further sites just repeat steps 3, 4 and 5.
 
  [1]: http://www.mamp.info/en/index.html
+ [2]: http://mysite.local

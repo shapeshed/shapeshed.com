@@ -19,7 +19,9 @@ To select the clone tool hit S on the keyboard. In order to use the tool you mus
 
 In the video below we are going to remove one of the birds. The photo is by [eMotionBlogster][2]. Watch as the selection point is defined and then the brush strokes removes the bird whilst keeping the correct sky colours behind it. As you use the clone tool you may need to resample as you go - you will see this happening in the video as the cursor turns to a target icon.
 
-<iframe src="https://player.vimeo.com/video/32934045?title=0&amp;byline=0&amp;portrait=0" width="640" height="470" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934045">Photoshop 101 - The Clone Tool</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934045?title=0&amp;byline=0&amp;portrait=0" width="640" height="470" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/32934045">Photoshop 101 - The Clone Tool</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 You might also wish to try this technique with the [Healing Brush Tool][1]. It may save you time. Which tool you use for this purpose is personal choice.
 

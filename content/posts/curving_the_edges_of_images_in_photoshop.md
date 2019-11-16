@@ -34,7 +34,7 @@ Selected the Rounded Rectangle as we did in the first example. Then draw a recta
 
 ### Step two - Select the Curved Rectangle
 
-In order to create a mask you need to select the curved rectangle you have just drawn. To do this hover over the preview of the shape in the layers window. In the example this is the red square. Hold down the Apple Key on a Mac (<strike>ALT</strike> CTRL on Windows) and you will see a white rectangle appear next to the hand. Click and the shape will be selected - you will note the familiar black and white edge to the shape showing it is selected. 
+In order to create a mask you need to select the curved rectangle you have just drawn. To do this hover over the preview of the shape in the layers window. In the example this is the red square. Hold down the Apple Key on a Mac (CTRL on Windows) and you will see a white rectangle appear next to the hand. Click and the shape will be selected - you will note the familiar black and white edge to the shape showing it is selected. 
 
 ![Select the Curved Rectangle][4] 
 
@@ -56,7 +56,9 @@ You can use any shape to create a Vector mask so why not explore the elements wi
 
 ### Still don't get it? Watch the movie!
 
-<iframe src="https://player.vimeo.com/video/32934122?title=0&amp;byline=0&amp;portrait=0" width="640" height="370" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="https://vimeo.com/32934122">Curving the Edges of Images in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/32934122?title=0&amp;byline=0&amp;portrait=0" width="640" height="370" allowFullScreen></iframe>
+
+<a href="https://vimeo.com/32934122">Curving the Edges of Images in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
  [1]: /images/articles/rectangle_tool.jpg 
  [2]: /images/articles/curved_rectangles.png 

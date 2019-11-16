@@ -35,7 +35,10 @@ If you want to scroll around your design hold the Space bar and drag around. You
 
 Watch the video below to see the full cycle of events in the very first Shape Shed video! Woo hoo! The SD version is below but if you want the HD version you'll have to visit the [Vimeo site][1]
 
-<iframe src="https://player.vimeo.com/video/985417" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/985417">Screen Modes in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+<iframe src="https://player.vimeo.com/video/985417" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<a href="https://vimeo.com/985417">Screen Modes in Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on <a href="https://vimeo.com">Vimeo</a>.
 
  [1]: https://www.vimeo.com/985417

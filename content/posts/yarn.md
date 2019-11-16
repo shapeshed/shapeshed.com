@@ -22,12 +22,14 @@ Given developers want reliability and speed if the yarn project can succeed in i
 It is indisputable that [npm][2] has been a runaway success. The platform has seen explosive growth, has scaled and has become a daily tool for software developers.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">npm users downloaded 1.4 billion packages in the last 7 days, 5.2 billion in the last 28 days, and 48 billion in the last 365 days. <a href="https://t.co/pXaPTB6s1p">pic.twitter.com/pXaPTB6s1p</a></p>&mdash; Laurie Voss (@seldo) <a href="https://twitter.com/seldo/status/781716700618260482">September 30, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<script async src="//platform.twitter.com/widgets.js"></script> 
 
 150 new authors are now publishing packages every day. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is a graph of how many people publish a package to npm for the very first time, per day -- 150-200 new authors per day! <a href="https://t.co/MEBY1qNFTJ">pic.twitter.com/MEBY1qNFTJ</a></p>&mdash; Laurie Voss (@seldo) <a href="https://twitter.com/seldo/status/783811524498296832">October 5, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script async src="//platform.twitter.com/widgets.js"></script>
 
 The explosive growth is not surprising given that small modules are favoured over large monolithic code bases but the growth is indisputable and impressive. The npm service has matured to become stable and able to scale.
 

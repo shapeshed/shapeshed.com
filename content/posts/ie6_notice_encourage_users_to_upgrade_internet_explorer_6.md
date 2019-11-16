@@ -13,7 +13,7 @@
 
 IE6 Notice adds a notice for IE6 users encouraging them to upgrade their browser. Users may choose to hide the notice and their preference will be remembered.
 
-<object width="640" height="505"><param name="movie" value="https://www.youtube.com/v/xF2-QbP8Z1k&amp;hl=en&amp;fs=1&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/xF2-QbP8Z1k&amp;hl=en&amp;fs=1&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xF2-QbP8Z1k" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How to use it 
 
