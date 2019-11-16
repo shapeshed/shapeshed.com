@@ -1,10 +1,11 @@
----
-title: 'Book Review: The Second Machine Age'
-date: '2015-02-09T12:37:00+00:00'
-tags: []
-original: http://pebblecode.com/blog/book-review-the-second-machine-age/
-author: George Ornbo
----
++++
+author = "George Ornbo"
+date = "2015-02-09T12:37:00+00:00"
+original = "http://pebblecode.com/blog/book-review-the-second-machine-age/"
+tags = []
+title = "Book Review: The Second Machine Age"
+
++++
 <p>In <a href="http://www.secondmachineage.com/">The Second Machine Age</a> Erik Brynjolfsson and Andrew McAfee eloquently document many of the changes that increased Artificial Intelligence is bringing. They go on to make a series of policy recommendations that, whether you agree with them or not, will educate you further about the economic and social changes that increased Artificial Intelligence will bring.</p>
 
 <h2>Artificial Intelligence - the present and future</h2>

@@ -1,11 +1,10 @@
-{
-  "title": "Building a Rails development server",
-  "date": "2011-06-06T00:00:00+01:00",
-  "description": "An server stack to facilitate development against almost any Rails environment.",
-  "tags": [
-    "Rails"
-  ]
-}
++++
+date = "2011-06-06T00:00:00+01:00"
+description = "An server stack to facilitate development against almost any Rails environment."
+tags = ["Rails"]
+title = "Building a Rails development server"
+
++++
 
 At [pebble.code][2] where I work we have a Ubuntu 10.04 LTS server for our Rails and Ruby projects. We use this mostly internally but sometimes expose sites outside of our network to allow clients to quickly review work. When we started the business we built the Rails stack using the standard tools - [Apache][3] and [Passenger][4]. As our client list grew and we took on a couple of legacy projects we found that this stack no longer matched the environments that we were deploying too and didn't give us the flexibility we wanted. So here's how we changed it. 
 

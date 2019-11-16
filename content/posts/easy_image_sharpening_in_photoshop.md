@@ -1,11 +1,10 @@
-{
-  "title": "Easy image sharpening in Photoshop",
-  "date": "2007-10-18T00:00:00+01:00",
-  "description": "Here's a simple tip I picked up to quickly sharpen images in Photoshop using the High Pass Filter.",
-  "tags": [
-    "Photoshop"
-  ]
-}
++++
+date = "2007-10-18T00:00:00+01:00"
+description = "Here's a simple tip I picked up to quickly sharpen images in Photoshop using the High Pass Filter."
+tags = ["Photoshop"]
+title = "Easy image sharpening in Photoshop"
+
++++
 
 ## Quick sharpening
 

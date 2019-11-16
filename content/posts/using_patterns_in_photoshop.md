@@ -1,12 +1,10 @@
-{
-  "title": "Using patterns in Photoshop",
-  "date": "2007-02-17T00:00:00+00:00",
-  "description": "Patterns area hidden gem in Photoshop. Here's a short tutorial showing you how to make your own and how to use them in your designs.",
-  "tags": [
-    "Design",
-    "Photoshop"
-  ]
-}
++++
+date = "2007-02-17T00:00:00+00:00"
+description = "Patterns area hidden gem in Photoshop. Here's a short tutorial showing you how to make your own and how to use them in your designs."
+tags = ["Design", "Photoshop"]
+title = "Using patterns in Photoshop"
+
++++
 
 ## Patterns - time to make your own
 

@@ -1,11 +1,10 @@
-{
-  "title": "Reflecting on two years in business",
-  "date": "2008-04-05T00:00:00+01:00",
-  "description": "The end of the tax year marks my second full year in business. Shape Shed has come a long way but there is much more to do. ",
-  "tags": [
-    "Personal"
-  ]
-}
++++
+date = "2008-04-05T00:00:00+01:00"
+description = "The end of the tax year marks my second full year in business. Shape Shed has come a long way but there is much more to do. "
+tags = ["Personal"]
+title = "Reflecting on two years in business"
+
++++
 
 ## A good choice
 

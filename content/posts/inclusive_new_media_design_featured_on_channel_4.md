@@ -1,11 +1,10 @@
-{
-  "title": "Inclusive New Media Design Featured on Channel 4",
-  "date": "2008-07-02T00:00:00+01:00",
-  "description": "Inclusive New Media Design, a project run by the Rix Centre was featured on Channel 4 News here in the UK.",
-  "tags": [
-    "Accessibility"
-  ]
-}
++++
+date = "2008-07-02T00:00:00+01:00"
+description = "Inclusive New Media Design, a project run by the Rix Centre was featured on Channel 4 News here in the UK."
+tags = ["Accessibility"]
+title = "Inclusive New Media Design Featured on Channel 4"
+
++++
 ## The Project
 
 [Inclusive New Media Design][1] is a project run by the Rix Centre, at the University of East London. The project aims to identify the best ways to encourage web designers and developers to build websites accessible to people with intellectual disabilities. Over several months it was a great experience to work with Men and Women from [Ellingham Employment Services][2] who helped us understand how they use the web and the issues they come up against. 

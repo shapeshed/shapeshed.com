@@ -1,14 +1,12 @@
-{
-  "slug": "unix-ps",
-  "title": "Linux and Unix ps command tutorial with examples",
-  "date": "2016-09-05T00:00:00+00:00",
-  "image": "images/articles/ps.png",
-  "description": "Tutorial on using ps, a UNIX and Linux command for reporting information on running processes. Examples of searching by user, group, executable name and killing processes.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-09-05T00:00:00+00:00"
+description = "Tutorial on using ps, a UNIX and Linux command for reporting information on running processes. Examples of searching by user, group, executable name and killing processes."
+image = "images/articles/ps.png"
+slug = "unix-ps"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix ps command tutorial with examples"
+
++++
 
 ![Terminal showing ps man page][2]
 

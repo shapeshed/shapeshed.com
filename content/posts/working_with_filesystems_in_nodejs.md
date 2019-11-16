@@ -1,13 +1,11 @@
-{
-  "slug": "working-with-filesystems-in-nodejs",
-  "title": "Working with filesystems in Node.js",
-  "date": "2013-03-08T08:38:51+00:00",
-  "description": "Node's fs module gives you a great cross-platform toolkit for working with filesystems. With a few third-party modules it becomes everything you need",
-  "tags": [
-    "Node.js",
-    "JavaScript"
-  ]
-}
++++
+date = "2013-03-08T08:38:51+00:00"
+description = "Node's fs module gives you a great cross-platform toolkit for working with filesystems. With a few third-party modules it becomes everything you need"
+slug = "working-with-filesystems-in-nodejs"
+tags = ["Node.js", "JavaScript"]
+title = "Working with filesystems in Node.js"
+
++++
 
 ## Different ways to read a file
 

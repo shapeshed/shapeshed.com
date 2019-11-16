@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-blur-tool",
-  "title": "Photoshop 101 - The Blur Tool",
-  "date": "2007-02-03T00:00:00+00:00",
-  "description": "The Blur Sharpen and Smudge tools are artworking tools that can give photos a different perspective. Also useful for graphical work they are well worth learning. Here's a short overview and a video showing how to use them.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2007-02-03T00:00:00+00:00"
+description = "The Blur Sharpen and Smudge tools are artworking tools that can give photos a different perspective. Also useful for graphical work they are well worth learning. Here's a short overview and a video showing how to use them."
+slug = "photoshop-101-the-blur-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Blur Tool"
+
++++
 
 The shortcut for the blur tool is R
 

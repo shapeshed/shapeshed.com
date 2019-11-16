@@ -1,14 +1,11 @@
-{
-  "slug": "rolling-deployments-with-kubernetes",
-  "title": "Rolling deployments with Kubernetes",
-  "date": "2017-01-25T01:01:00+00:00",
-  "description": "How to deploy a new version of an image into a Kubernetes cluster",
-  "tags": [
-    "Kubernetes",
-    "Linux",
-    "Unix"
-  ]
-}
++++
+date = "2017-01-25T01:01:00+00:00"
+description = "How to deploy a new version of an image into a Kubernetes cluster"
+slug = "rolling-deployments-with-kubernetes"
+tags = ["Kubernetes", "Linux", "Unix"]
+title = "Rolling deployments with Kubernetes"
+
++++
 
 In a [previous post][6] I worked through getting a Kubernetes cluster up and running on a local machine using [minikube][2]. Within this cluster I have one deployment of a simple Hello World Go application.
 

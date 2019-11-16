@@ -1,10 +1,11 @@
----
-title: You are the designer
-date: '2011-10-18T10:28:27+01:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/you-are-the-designer/
----
++++
+author = "George Ornbo"
+date = "2011-10-18T10:28:27+01:00"
+original = "http://pebblecode.com/blog/you-are-the-designer/"
+tags = []
+title = "You are the designer"
+
++++
 <p>New websites and tools for browsers are showing that users have more control over design than ever.</p>
 
 <p>With the release of Safari 5 Apple added a <a href="http://www.apple.com/safari/whats-new.html#reader">Reader feature</a> that takes a web page and formats it for easy reading. This type of feature has been around for a while in Chrome and Firefox via the Readability Extension (<a href="https://chrome.google.com/extensions/detail/jggheggpdocamneaacmfoipeehedigia?hl=en">Chrome</a> &amp; <a href="https://addons.mozilla.org/en-US/firefox/addon/46442/">Firefox</a>) and gives users the option to reformat the page in a more readable format. Here&rsquo;s the pebble blog reformated using Readability.</p>

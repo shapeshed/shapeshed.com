@@ -1,10 +1,11 @@
----
-title: Hacking APIs with Node.js
-date: '2012-09-06T09:28:00+01:00'
-tags: [node.js, apis]
-author: George Ornbo
-original: http://pebblecode.com/blog/hacking-apis-with-node-js/
----
++++
+author = "George Ornbo"
+date = "2012-09-06T09:28:00+01:00"
+original = "http://pebblecode.com/blog/hacking-apis-with-node-js/"
+tags = ["node.js", "apis"]
+title = "Hacking APIs with Node.js"
+
++++
 ![The A Team](https://media.tumblr.com/tumblr_m9x5blJ6Jh1qz7kgs.jpg)
 
 > If you have a problem, if no one else can help, and if you can find them, maybe you can hire the A-Team.

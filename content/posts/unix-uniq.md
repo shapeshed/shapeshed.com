@@ -1,14 +1,12 @@
-{
-  "slug": "unix-uniq",
-  "title": "Linux and Unix uniq command tutorial with examples",
-  "date": "2016-07-26T00:00:00+00:00",
-  "description": "Tutorial on using uniq, a UNIX and Linux command for reporting or filtering repeated lines in a file. Examples of showing a count of occurrences, showing only repeated lines and ignoring characters and specific fields.",
-  "image": "images/articles/uniq.png",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-07-26T00:00:00+00:00"
+description = "Tutorial on using uniq, a UNIX and Linux command for reporting or filtering repeated lines in a file. Examples of showing a count of occurrences, showing only repeated lines and ignoring characters and specific fields."
+image = "images/articles/uniq.png"
+slug = "unix-uniq"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix uniq command tutorial with examples"
+
++++
 
 ![Uniq man page][5]
 

@@ -1,12 +1,10 @@
-{
-  "title": "Writing good XHTML and CSS Part 2",
-  "date": "2006-10-07T00:00:00+01:00",
-  "description": "The second in a series of good practices for writing XHTML and CSS looking at writing clean, maintainable code and dealing with browser hell problems.",
-  "tags": [
-    "CSS",
-    "XHTML"
-  ]
-}
++++
+date = "2006-10-07T00:00:00+01:00"
+description = "The second in a series of good practices for writing XHTML and CSS looking at writing clean, maintainable code and dealing with browser hell problems."
+tags = ["CSS", "XHTML"]
+title = "Writing good XHTML and CSS Part 2"
+
++++
 In [Part 1][1] we went over the production environment you will need to write Professional XHTML and CSS. This included software and hardware as some excellent extensions you can get for the [Firefox browser][2]. Part two looks at good practices for writing maintainable and lasting code. 
 
 ## Format code cleanly

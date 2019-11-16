@@ -1,12 +1,10 @@
-{
-  "title": "Saving time with Smart Objects in Photoshop",
-  "date": "2008-04-21T00:00:00+01:00",
-  "description": "Smart Objects can save you a great deal of time if you are designing for the web in Photoshop. Furthermore they allow you to manipulate images without destroying the original.",
-  "tags": [
-    "Design",
-    "Photoshop"
-  ]
-}
++++
+date = "2008-04-21T00:00:00+01:00"
+description = "Smart Objects can save you a great deal of time if you are designing for the web in Photoshop. Furthermore they allow you to manipulate images without destroying the original."
+tags = ["Design", "Photoshop"]
+title = "Saving time with Smart Objects in Photoshop"
+
++++
 
 ## What are Smart Objects?
 

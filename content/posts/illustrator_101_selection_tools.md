@@ -1,13 +1,11 @@
-{
-  "slug": "illustrator-101-selection-tools",
-  "title": "Illustrator 101 - Selection tools",
-  "date": "2007-05-11T00:00:00+01:00",
-  "description": "Understanding the selection tools is a must for working with icons or illustrations. Master the basics and you will save yourself a great deal of time.",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator"
-  ]
-}
++++
+date = "2007-05-11T00:00:00+01:00"
+description = "Understanding the selection tools is a must for working with icons or illustrations. Master the basics and you will save yourself a great deal of time."
+slug = "illustrator-101-selection-tools"
+tags = ["Illustrator 101", "Illustrator"]
+title = "Illustrator 101 - Selection tools"
+
++++
 
 ## The Selection Tool
 

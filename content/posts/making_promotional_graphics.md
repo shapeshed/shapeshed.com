@@ -1,12 +1,10 @@
-{
-  "title": "Making promotional graphics",
-  "date": "2006-11-28T00:00:00+00:00",
-  "description": "A well designed promotional graphic can be a great way to drive traffic through your site. Here's one way to do it.",
-  "tags": [
-    "Design",
-    "Photoshop"
-  ]
-}
++++
+date = "2006-11-28T00:00:00+00:00"
+description = "A well designed promotional graphic can be a great way to drive traffic through your site. Here's one way to do it."
+tags = ["Design", "Photoshop"]
+title = "Making promotional graphics"
+
++++
 
 This tutorial shows you how to make a graphic like this:
 

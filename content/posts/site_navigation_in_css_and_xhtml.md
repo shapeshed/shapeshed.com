@@ -1,12 +1,10 @@
-{
-  "title": "Site Navigation in CSS and XHTML",
-  "date": "2007-05-30T00:00:00+01:00",
-  "description": "Coding navigation in CSS and XHTML properly is important for both search engines and accessibility. Here's my take on how to do it, although I would be very interested to hear what others think.",
-  "tags": [
-    "CSS",
-    "XHTML"
-  ]
-}
++++
+date = "2007-05-30T00:00:00+01:00"
+description = "Coding navigation in CSS and XHTML properly is important for both search engines and accessibility. Here's my take on how to do it, although I would be very interested to hear what others think."
+tags = ["CSS", "XHTML"]
+title = "Site Navigation in CSS and XHTML"
+
++++
 Not interested in the explanation? [See the demo][1] and [download the source code here][2]
 
 ## Semantics anyone?

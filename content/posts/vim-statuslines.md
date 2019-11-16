@@ -1,13 +1,11 @@
-{
-  "slug": "vim-statuslines",
-  "title": "Build your own Vim statusline",
-  "date": "2017-05-12T01:00:00+00:00",
-  "description": "Statuslines in Vim are not hard to create. Making your own means one less dependency in your life.",
-  "tags": [
-    "Vim",
-    "UNIX"
-  ]
-}
++++
+date = "2017-05-12T01:00:00+00:00"
+description = "Statuslines in Vim are not hard to create. Making your own means one less dependency in your life."
+slug = "vim-statuslines"
+tags = ["Vim", "UNIX"]
+title = "Build your own Vim statusline"
+
++++
 
 ## What is a statusline in Vim?
 

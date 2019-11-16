@@ -1,11 +1,10 @@
-{
-  "title": "Smarter Illustrator with Symbols",
-  "date": "2007-07-03T00:00:00+01:00",
-  "description": "Symbols are an extremely powerful aspect of Illustrator allowing you to create illustrations more rapidly, build a library and respond quickly to client amends and changes. If you are not already using them here is why you should. ",
-  "tags": [
-    "Illustrator"
-  ]
-}
++++
+date = "2007-07-03T00:00:00+01:00"
+description = "Symbols are an extremely powerful aspect of Illustrator allowing you to create illustrations more rapidly, build a library and respond quickly to client amends and changes. If you are not already using them here is why you should. "
+tags = ["Illustrator"]
+title = "Smarter Illustrator with Symbols"
+
++++
 
 Why not [download the illustrator file][1] so you can work through this too?
 

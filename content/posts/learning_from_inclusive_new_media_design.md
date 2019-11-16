@@ -1,11 +1,10 @@
-{
-  "title": "Learning from Inclusive New Media Design",
-  "date": "2008-05-25T00:00:00+01:00",
-  "description": "Last week I attended the final session of Inclusive New Media design, a project at the Rix Centre, The University of East London. I'm sure the project team will be publishing their findings in due course, but until then here is what I learned from the study.",
-  "tags": [
-    "Accessibility"
-  ]
-}
++++
+date = "2008-05-25T00:00:00+01:00"
+description = "Last week I attended the final session of Inclusive New Media design, a project at the Rix Centre, The University of East London. I'm sure the project team will be publishing their findings in due course, but until then here is what I learned from the study."
+tags = ["Accessibility"]
+title = "Learning from Inclusive New Media Design"
+
++++
 ## Not the same
 
 Intellectually Disabled users are a broad and diverse group. Suggesting they are a homogenous group is wrong. [Simon Evans][1] gave an excellent presentation about the semantics of disability and showed that terms can vary depending on location and nation. He also showed how disability is often complicated by a combination of conditions, so people are not just intellectually disabled but may have a number of conditions. Clinical definitions of disability are not necessarily helpful in trying to create uniform recommendations as users are simply very diverse in their capabilities. The fundamental point is that within the definition of Intellectually Disabled abilities vary hugely. It is important, as much as you can, to understand the group of users you are designing for.

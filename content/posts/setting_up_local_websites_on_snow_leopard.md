@@ -1,13 +1,10 @@
-{
-  "title": "Setting up local websites on Snow Leopard",
-  "date": "2009-09-04T00:00:00+01:00",
-  "description": "A short tutorial on setting up local websites on Snow Leopard.",
-  "tags": [
-    "OSX",
-    "Apache",
-    "PHP"
-  ]
-}
++++
+date = "2009-09-04T00:00:00+01:00"
+description = "A short tutorial on setting up local websites on Snow Leopard."
+tags = ["OSX", "Apache", "PHP"]
+title = "Setting up local websites on Snow Leopard"
+
++++
 
 Not keen on the command line? Using something like [MAMP][1] may be a better option for you. I'm using vi to edit the files but feel free to use your text editor of choice (TextMate, emacs etc). 
 

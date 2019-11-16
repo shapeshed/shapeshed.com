@@ -1,12 +1,10 @@
-{
-  "title": "Circular shapes and patterns in Illustrator",
-  "date": "2007-08-02T00:00:00+01:00",
-  "description": "Making circular shapes and patterns in Illustrator is straightforward using a simple technique. Here's how to save yourself some time. ",
-  "tags": [
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-08-02T00:00:00+01:00"
+description = "Making circular shapes and patterns in Illustrator is straightforward using a simple technique. Here's how to save yourself some time. "
+tags = ["Illustrator", "Design"]
+title = "Circular shapes and patterns in Illustrator"
+
++++
 
 ## A simple start
 

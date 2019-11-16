@@ -1,12 +1,11 @@
-{
-  "slug": "expression-engine-16",
-  "title": "Expression Engine 1.6",
-  "date": "2007-06-19T00:00:00+01:00",
-  "description": "The release of ExpressionEngine 1.6 is imminent. To celebrate ExpressionEngine are having a competition. Here's my entry.",
-  "tags": [
-    "ExpressionEngine"
-  ]
-}
++++
+date = "2007-06-19T00:00:00+01:00"
+description = "The release of ExpressionEngine 1.6 is imminent. To celebrate ExpressionEngine are having a competition. Here's my entry."
+slug = "expression-engine-16"
+tags = ["ExpressionEngine"]
+title = "Expression Engine 1.6"
+
++++
 
 [ExpressionEngine][1] is an off the shelf Content Management System with a small price tag but with a long list of features. I've used it for many projects now and have found it to be an excellent and flexible piece of software. The next release is 1.6 and features a new multi-site manager, allowing multiple sites to be run from a single install. 
 ## My entry

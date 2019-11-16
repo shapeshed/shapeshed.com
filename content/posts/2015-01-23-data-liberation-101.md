@@ -1,10 +1,11 @@
----
-title: Data Liberation 101
-date: '2015-01-23T10:00:00+00:00'
-tags: [hacks]
-original: http://pebblecode.com/blog/data-liberation-101/
-author: George Ornbo
----
++++
+author = "George Ornbo"
+date = "2015-01-23T10:00:00+00:00"
+original = "http://pebblecode.com/blog/data-liberation-101/"
+tags = ["hacks"]
+title = "Data Liberation 101"
+
++++
 <p>As part of pebble {code}&rsquo;s upcoming Visualisation Hack Day we look at the life blood of Visualisations and how organisations can position themselves to take advantage of unlocking value and meaning through open data.</p>
 
 <p><img src="https://31.media.tumblr.com/0f02de3de2e1172d1ef56dd039e34040/tumblr_inline_nihhiiN8BU1qz7kgs.png" alt=""/></p>

@@ -2,7 +2,7 @@
 SHELL := /bin/bash
 CSSMD5 = $(shell md5sum ./public/css/styles.css | awk '{ print $$1 }')
 
-build: clean hugo css minify-html gzip-static
+build: clean hugo css minify-html gzip-static validate
 
 install:
 	wget "https://github.com/tdewolff/minify/releases/download/v2.5.0/minify_2.5.0_linux_amd64.tar.gz"
@@ -32,3 +32,6 @@ css:
 
 deploy: 
 	@rsync -az -e "ssh" --delete ./public/ static1.shapeshed.com:/srv/http/shapeshed.com
+
+validate:
+	@validatornu public/*/index.html

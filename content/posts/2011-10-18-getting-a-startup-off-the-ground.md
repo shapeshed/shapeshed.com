@@ -1,10 +1,11 @@
----
-title: Getting a startup off the ground
-date: '2011-10-18T10:28:44+01:00'
-tags: [startups]
-author: George Ornbo
-original: http://pebblecode.com/blog/getting-a-startup-off-the-ground/
----
++++
+author = "George Ornbo"
+date = "2011-10-18T10:28:44+01:00"
+original = "http://pebblecode.com/blog/getting-a-startup-off-the-ground/"
+tags = ["startups"]
+title = "Getting a startup off the ground"
+
++++
 ### Following the yellow brick road
 
 ![](https://media.tumblr.com/tumblr_l69juj4maT1qz7kgs.jpg)

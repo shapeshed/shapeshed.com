@@ -1,13 +1,11 @@
-{
-  "slug": "compiling-nodejs-from-source-on-ubuntu-10-04",
-  "title": "Compiling Node.js from source on Ubuntu 10.04",
-  "date": "2012-01-04T00:00:00+00:00",
-  "description": "Compiling Node.js from source is easy enough so here's how.",
-  "tags": [
-    "Node.js",
-    "UNIX"
-  ]
-}
++++
+date = "2012-01-04T00:00:00+00:00"
+description = "Compiling Node.js from source is easy enough so here's how."
+slug = "compiling-nodejs-from-source-on-ubuntu-10-04"
+tags = ["Node.js", "UNIX"]
+title = "Compiling Node.js from source on Ubuntu 10.04"
+
++++
 
 Compiling Node.js from source is easy enough so here's how. 
 

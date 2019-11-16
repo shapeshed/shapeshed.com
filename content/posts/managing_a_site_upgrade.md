@@ -1,12 +1,10 @@
-{
-  "title": "Managing a site upgrade",
-  "date": "2007-11-16T00:00:00+00:00",
-  "description": "Upgrading a site can be a nerve-wracking process. But it doesn't have to be. Here are some tips to make the whole process easier.",
-  "tags": [
-    "Apache",
-    "Opinion"
-  ]
-}
++++
+date = "2007-11-16T00:00:00+00:00"
+description = "Upgrading a site can be a nerve-wracking process. But it doesn't have to be. Here are some tips to make the whole process easier."
+tags = ["Apache", "Opinion"]
+title = "Managing a site upgrade"
+
++++
 
 ## Backups
 

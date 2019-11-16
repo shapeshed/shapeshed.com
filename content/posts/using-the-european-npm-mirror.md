@@ -1,12 +1,10 @@
-{
-  "title": "Using the European npm mirror",
-  "date": "2014-01-09T15:39:41+00:00",
-  "description": "If you are located in Europe the European npm mirror is fast and reliable. With a few tweaks you can easily publish to the main registry too.",
-  "tags": [
-    "JavaScript",
-    "Node.js"
-  ]
-}
++++
+date = "2014-01-09T15:39:41+00:00"
+description = "If you are located in Europe the European npm mirror is fast and reliable. With a few tweaks you can easily publish to the main registry too."
+tags = ["JavaScript", "Node.js"]
+title = "Using the European npm mirror"
+
++++
 
 The mighty [Maciej Malecki][1] created a [European npm mirror][2] for all the Node.js developers this side of the Atlantic. It is much faster to install packages from and takes some load off the main registry. 
 

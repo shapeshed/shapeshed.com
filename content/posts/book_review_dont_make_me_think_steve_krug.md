@@ -1,13 +1,11 @@
-{
-  "slug": "book-review-dont-make-me-think-steve-krug",
-  "title": "Book Review: Don't Make Me Think - Steve Krug",
-  "date": "2007-01-30T00:00:00+00:00",
-  "description": "Don't Make Me Think is a solid dose of common sense at a time when hype is back on the Web Design menu. It is a gem of a book that tells you what you already know but too often overlook. ",
-  "tags": [
-    "Book Reviews",
-    "Usability"
-  ]
-}
++++
+date = "2007-01-30T00:00:00+00:00"
+description = "Don't Make Me Think is a solid dose of common sense at a time when hype is back on the Web Design menu. It is a gem of a book that tells you what you already know but too often overlook. "
+slug = "book-review-dont-make-me-think-steve-krug"
+tags = ["Book Reviews", "Usability"]
+title = "Book Review: Don't Make Me Think - Steve Krug"
+
++++
 
 Author: Steve Krug
 

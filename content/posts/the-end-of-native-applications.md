@@ -1,12 +1,11 @@
-{
-  "slug": "the-end-of-native-applications",
-  "title": "The End of Native Apps",
-  "date": "2013-10-29T12:14:00+00:00",
-  "description": "Native applications and App Stores have harmed interoperability and openness on the web. The time is right to reconnect with the browser and reject native applications.", 
-  "tags": [
-    "Opinion"
-  ]
-}
++++
+date = "2013-10-29T12:14:00+00:00"
+description = "Native applications and App Stores have harmed interoperability and openness on the web. The time is right to reconnect with the browser and reject native applications."
+slug = "the-end-of-native-applications"
+tags = ["Opinion"]
+title = "The End of Native Apps"
+
++++
 
 ## The Arrival of App Stores
 

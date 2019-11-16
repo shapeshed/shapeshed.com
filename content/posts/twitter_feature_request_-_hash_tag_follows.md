@@ -1,12 +1,11 @@
-{
-  "slug": "twitter-feature-request-hash-tag-follows",
-  "title": "Twitter feature request - hash tag follows",
-  "date": "2009-08-28T00:00:00+01:00",
-  "description": "Hash tag follows would eliminate pointless retweets and provide users with a looser way of creating relationships. ",
-  "tags": [
-    "Opinion"
-  ]
-}
++++
+date = "2009-08-28T00:00:00+01:00"
+description = "Hash tag follows would eliminate pointless retweets and provide users with a looser way of creating relationships. "
+slug = "twitter-feature-request-hash-tag-follows"
+tags = ["Opinion"]
+title = "Twitter feature request - hash tag follows"
+
++++
 
 ## My situation
 

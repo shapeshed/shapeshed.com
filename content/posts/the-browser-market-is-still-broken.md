@@ -1,12 +1,10 @@
-{
-  "title": "The browser market is still broken",
-  "date": "2009-11-19T00:00:00+00:00",
-  "description": "The current state of the browser market is harming the development of the web and things need to change",
-  "tags": [
-    "Browsers",
-    "Opinion"
-  ]
-}
++++
+date = "2009-11-19T00:00:00+00:00"
+description = "The current state of the browser market is harming the development of the web and things need to change"
+tags = ["Browsers", "Opinion"]
+title = "The browser market is still broken"
+
++++
 
 ## Some good news
 

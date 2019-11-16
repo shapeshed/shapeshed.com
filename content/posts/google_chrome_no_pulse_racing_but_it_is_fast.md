@@ -1,14 +1,11 @@
-{
-  "slug": "google-chrome-no-pulse-racing-but-it-is-fast",
-  "title": "Google Chrome - no pulse racing but it is fast",
-  "date": "2008-09-10T00:00:00+01:00",
-  "description": "Last week Google launched a new web browser Google Chrome. Built to facilitate the next generation of web applications the browser is an exciting newcomer to the market that wins on performance and features but looks like 'my first web browser'.",
-  "tags": [
-    "Browsers",
-    "Google",
-    "Opinion"
-  ]
-}
++++
+date = "2008-09-10T00:00:00+01:00"
+description = "Last week Google launched a new web browser Google Chrome. Built to facilitate the next generation of web applications the browser is an exciting newcomer to the market that wins on performance and features but looks like 'my first web browser'."
+slug = "google-chrome-no-pulse-racing-but-it-is-fast"
+tags = ["Browsers", "Google", "Opinion"]
+title = "Google Chrome - no pulse racing but it is fast"
+
++++
 
 ## Built on open source software
 

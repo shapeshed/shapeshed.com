@@ -1,12 +1,11 @@
-{
-  "slug": "book-review-homepage-usability-nielsen-tahir",
-  "title": "Book Review: Homepage Usability - Nielsen & Tahir",
-  "date": "2006-10-06T00:00:00+01:00",
-  "description": "Although four years old this book delivers invaluable insights into Homepage usability. At the same time though you find yourself wishing Nielsen and Tahir would relax just a little bit. ",
-  "tags": [
-    "Book Reviews"
-  ]
-}
++++
+date = "2006-10-06T00:00:00+01:00"
+description = "Although four years old this book delivers invaluable insights into Homepage usability. At the same time though you find yourself wishing Nielsen and Tahir would relax just a little bit. "
+slug = "book-review-homepage-usability-nielsen-tahir"
+tags = ["Book Reviews"]
+title = "Book Review: Homepage Usability - Nielsen & Tahir"
+
++++
 
 Authors: Jakob Nielsen & Marie Tahir
 

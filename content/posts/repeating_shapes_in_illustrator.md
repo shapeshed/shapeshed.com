@@ -1,12 +1,10 @@
-{
-  "title": "Repeating shapes in Illustrator",
-  "date": "2007-07-27T00:00:00+01:00",
-  "description": "Here's a simple tip I came across for quickly creating repeating shapes in Illustrator. Give it a try it. ",
-  "tags": [
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-07-27T00:00:00+01:00"
+description = "Here's a simple tip I came across for quickly creating repeating shapes in Illustrator. Give it a try it. "
+tags = ["Illustrator", "Design"]
+title = "Repeating shapes in Illustrator"
+
++++
 
 ## The effect
 

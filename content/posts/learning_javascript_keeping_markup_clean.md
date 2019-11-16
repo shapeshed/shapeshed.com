@@ -1,13 +1,11 @@
-{
-  "slug": "learning-javascript-keeping-markup-clean",
-  "title": "Learning Javascript - Keeping Markup Clean",
-  "date": "2007-03-15T00:00:00+00:00",
-  "description": "Like many front end developers I've come to Javascript late. Of course I could go and grab one of the many Javascript libraries out there. But I'm making an effort to learn Javascript. Thankfully it isn't as hard as you might think.",
-  "tags": [
-    "JavaScript",
-    "DOM"
-  ]
-}
++++
+date = "2007-03-15T00:00:00+00:00"
+description = "Like many front end developers I've come to Javascript late. Of course I could go and grab one of the many Javascript libraries out there. But I'm making an effort to learn Javascript. Thankfully it isn't as hard as you might think."
+slug = "learning-javascript-keeping-markup-clean"
+tags = ["JavaScript", "DOM"]
+title = "Learning Javascript - Keeping Markup Clean"
+
++++
 
 ## Learning Javascript
 

@@ -1,10 +1,11 @@
----
-title: Recruitment Consultants Knightmare
-date: '2012-09-18T16:07:00+01:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/recruitment-consultants-knightmare/
----
++++
+author = "George Ornbo"
+date = "2012-09-18T16:07:00+01:00"
+original = "http://pebblecode.com/blog/recruitment-consultants-knightmare/"
+tags = []
+title = "Recruitment Consultants Knightmare"
+
++++
 
 ![](https://media.tumblr.com/tumblr_majwei2PXP1qz7kgs.jpg)
 

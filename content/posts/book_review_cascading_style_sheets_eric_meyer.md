@@ -1,12 +1,11 @@
-{
-  "slug": "book-review-cascading-style-sheets-eric-meyer", 
-  "title": "Book Review: Cascading Style Sheets - Eric Meyer",
-  "date": "2007-01-21T00:00:00+00:00",
-  "description": "Eric Meyer's book is a thorough technical guide to the ins and outs of CSS.  The book is a classic but won't offer much creative inspiration. What you will find is a thorough technical explanation of the ins and outs of CSS. ",
-  "tags": [
-    "Book Reviews"
-  ]
-}
++++
+date = "2007-01-21T00:00:00+00:00"
+description = "Eric Meyer's book is a thorough technical guide to the ins and outs of CSS.  The book is a classic but won't offer much creative inspiration. What you will find is a thorough technical explanation of the ins and outs of CSS. "
+slug = "book-review-cascading-style-sheets-eric-meyer"
+tags = ["Book Reviews"]
+title = "Book Review: Cascading Style Sheets - Eric Meyer"
+
++++
 
 Author: Eric Meyer
 

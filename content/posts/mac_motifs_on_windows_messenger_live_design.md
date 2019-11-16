@@ -1,12 +1,10 @@
-{
-  "title": "Mac motifs on Windows Messenger Live design",
-  "date": "2006-05-19T00:00:00+01:00",
-  "description": "I don't think I'll be the only one to notice that the design of Windows Messenger Live seems to be heavily influenced by Mac design even down to the OSX style motifs in the background.",
-  "tags": [
-    "Microsoft",
-    "Apple"
-  ]
-}
++++
+date = "2006-05-19T00:00:00+01:00"
+description = "I don't think I'll be the only one to notice that the design of Windows Messenger Live seems to be heavily influenced by Mac design even down to the OSX style motifs in the background."
+tags = ["Microsoft", "Apple"]
+title = "Mac motifs on Windows Messenger Live design"
+
++++
 
 ![Mac Motifs on Windows Messenger][1]
 

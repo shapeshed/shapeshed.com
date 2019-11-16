@@ -1,13 +1,11 @@
-{
-  "slug": "learning-javascript-creating-content",
-  "title": "Learning Javascript - Creating Content",
-  "date": "2007-03-26T00:00:00+01:00",
-  "description": "Using Javascript and the DOM you can create content on the fly. You can also make sure that if Javascript is turned off things won't go wrong.",
-  "tags": [
-    "JavaScript",
-    "DOM"
-  ]
-}
++++
+date = "2007-03-26T00:00:00+01:00"
+description = "Using Javascript and the DOM you can create content on the fly. You can also make sure that if Javascript is turned off things won't go wrong."
+slug = "learning-javascript-creating-content"
+tags = ["JavaScript", "DOM"]
+title = "Learning Javascript - Creating Content"
+
++++
 ## Creating content
 
 This is the second in a series of articles about learning Javascript. I am not an expert, specifically I am a competent XTHML and CSS coder looking to pick up new skills. If you can add any insight please feel free to add a comment. This is meant to help people learn.

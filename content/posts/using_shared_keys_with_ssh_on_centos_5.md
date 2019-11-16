@@ -1,11 +1,10 @@
-{
-  "title": "Using Shared Keys with SSH on Centos 5",
-  "date": "2008-02-27T00:00:00+00:00",
-  "description": "Shared Keys add an additional security level to using SSH and if you choose not to use a password you can automate logging in via SSH. It also allows you to completely negate brute force password cracking attempts if you disable password authentication. ",
-  "tags": [
-    "Linux"
-  ]
-}
++++
+date = "2008-02-27T00:00:00+00:00"
+description = "Shared Keys add an additional security level to using SSH and if you choose not to use a password you can automate logging in via SSH. It also allows you to completely negate brute force password cracking attempts if you disable password authentication. "
+tags = ["Linux"]
+title = "Using Shared Keys with SSH on Centos 5"
+
++++
 
 This tutorial assumes a basic knowledge of the Linux Command Line. The tutorial is written for Centos 5.1 but is applicable to other distributions, although file locations may be slightly different. The tutorial is targeted at Mac and Linux users. Windows users can find resources [ here][1]. The usual disclaimer applies - no responsibility can be accepted for following this tutorial so if you do not know what you are doing please do not use this tutorial. 
 

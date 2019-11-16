@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-slice-tool",
-  "title": "Photoshop 101 - The Slice Tool",
-  "date": "2006-10-30T00:00:00+00:00",
-  "description": "For precise interpretation of PSDs to XHTML I recommend avoiding this tool. But there may well be a time when you can use this tool so here's a quick overview.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-10-30T00:00:00+00:00"
+description = "For precise interpretation of PSDs to XHTML I recommend avoiding this tool. But there may well be a time when you can use this tool so here's a quick overview."
+slug = "photoshop-101-the-slice-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Slice Tool"
+
++++
 
 I do not recommend using this tool for creating web pages from PSDs. A more useful tool for slicing up PSDs is the [Marquee Tool][1]
 

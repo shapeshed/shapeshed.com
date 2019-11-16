@@ -1,12 +1,10 @@
-{
-  "title": "Firebug is simply brilliant",
-  "date": "2006-12-08T00:00:00+00:00",
-  "description": "Software comes and goes and rarely is there a piece of 'must have' software. Firebug, an extension for Firefox, deserves to be to be heralded as an outstanding piece of software and something no web developer should be without. ",
-  "tags": [
-    "CSS",
-    "XHTML"
-  ]
-}
++++
+date = "2006-12-08T00:00:00+00:00"
+description = "Software comes and goes and rarely is there a piece of 'must have' software. Firebug, an extension for Firefox, deserves to be to be heralded as an outstanding piece of software and something no web developer should be without. "
+tags = ["CSS", "XHTML"]
+title = "Firebug is simply brilliant"
+
++++
 
 ## Making web development easier
 

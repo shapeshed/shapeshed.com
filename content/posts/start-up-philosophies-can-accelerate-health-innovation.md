@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- Health
-date: 2016-02-16T00:00:00Z
-title: Start-up philosophies can accelerate health innovation
-description: By learning from technology start-ups Health Practitioners can accelerate Digital Transformation.
-original: http://pebblecode.com/blog/start-up-philosophies-can-accelerate-health-innovation/
----
++++
+author = "George Ornbo"
+date = "2016-02-16T00:00:00Z"
+description = "By learning from technology start-ups Health Practitioners can accelerate Digital Transformation."
+original = "http://pebblecode.com/blog/start-up-philosophies-can-accelerate-health-innovation/"
+tags = ["Health"]
+title = "Start-up philosophies can accelerate health innovation"
+
++++
 
 ## Constraints fuel creativity
 

@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-brush-tool",
-  "title": "Photoshop 101 - The Brush Tool",
-  "date": "2006-11-11T00:00:00+00:00",
-  "description": "The brush tool is one of Photoshop's most basic tools allowing you to draw freehand shapes and lines. The tool allows precision and correction abilities as well as some tricks using brushes.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-11-11T00:00:00+00:00"
+description = "The brush tool is one of Photoshop's most basic tools allowing you to draw freehand shapes and lines. The tool allows precision and correction abilities as well as some tricks using brushes."
+slug = "photoshop-101-the-brush-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Brush Tool"
+
++++
 
 The Healing Brush is similar to the Clone Stamp Tool in that it is used to sample from an image to correct or enhance other areas of the image. It samples the colour, luminosity and texture of the source area separately and blends it with the destination area. This means you can get excellent results without having to do things manually. 
 

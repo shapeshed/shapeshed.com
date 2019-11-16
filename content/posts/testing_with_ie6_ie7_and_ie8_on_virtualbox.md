@@ -1,14 +1,10 @@
-{
-  "title": "Testing with IE6, IE7 and IE8 on VirtualBox",
-  "date": "2009-04-14T00:00:00+01:00",
-  "description": "I've recently moved from using Parallels for browser testing to Sun's Open Source VirtualBox. Here's a walkthrough on how to get a browser testing suite for free on OSX or Ubuntu. ",
-  "tags": [
-    "Ubuntu",
-    "Linux",
-    "Browsers",
-    "Apple"
-  ]
-}
++++
+date = "2009-04-14T00:00:00+01:00"
+description = "I've recently moved from using Parallels for browser testing to Sun's Open Source VirtualBox. Here's a walkthrough on how to get a browser testing suite for free on OSX or Ubuntu. "
+tags = ["Ubuntu", "Linux", "Browsers", "Apple"]
+title = "Testing with IE6, IE7 and IE8 on VirtualBox"
+
++++
 
 ## Microsoft's Virtual Hard Drives
 

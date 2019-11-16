@@ -1,13 +1,11 @@
-{
-  "slug": "php-101-the-if-statement",
-  "title": "PHP 101 - The if statement",
-  "date": "2008-10-21T00:00:00+01:00",
-  "description": "I get a fair few requests from designers asking for help with basic PHP. So I'm going to write a series on very basic PHP. It is not hard so let's start with a robot and the if statement. ",
-  "tags": [
-    "PHP 101",
-    "PHP"
-  ]
-}
++++
+date = "2008-10-21T00:00:00+01:00"
+description = "I get a fair few requests from designers asking for help with basic PHP. So I'm going to write a series on very basic PHP. It is not hard so let's start with a robot and the if statement. "
+slug = "php-101-the-if-statement"
+tags = ["PHP 101", "PHP"]
+title = "PHP 101 - The if statement"
+
++++
 
 ## The if robot
 

@@ -1,11 +1,10 @@
-{
-  "title": "Automating backups with Amazon S3 on Linux",
-  "date": "2008-03-03T00:00:00+00:00",
-  "description": "A tutorial on how to back up files on Linux using Amazon's S3 service. The end result is a cost-effective synchronised remote backup service.",
-  "tags": [
-    "Linux"
-  ]
-}
++++
+date = "2008-03-03T00:00:00+00:00"
+description = "A tutorial on how to back up files on Linux using Amazon's S3 service. The end result is a cost-effective synchronised remote backup service."
+tags = ["Linux"]
+title = "Automating backups with Amazon S3 on Linux"
+
++++
 
 ## Backup Architecture
 

@@ -1,14 +1,12 @@
-{
-  "slug": "unix-kill",
-  "title": "Linux and Unix kill command tutorial with examples",
-  "date": "2016-10-17T00:00:00+00:00",
-  "image": "images/articles/kill.png",
-  "description": "Tutorial on using kill, a UNIX and Linux command for terminating a process. Examples of killing a process, sending a SIGTERM, listing signal names and numbers, and handling 'operation not permitted' errors.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-17T00:00:00+00:00"
+description = "Tutorial on using kill, a UNIX and Linux command for terminating a process. Examples of killing a process, sending a SIGTERM, listing signal names and numbers, and handling 'operation not permitted' errors."
+image = "images/articles/kill.png"
+slug = "unix-kill"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix kill command tutorial with examples"
+
++++
 
 ![Terminal showing kill man page][2]
 

@@ -1,13 +1,11 @@
-{
-  "slug": "vim-templates",
-  "title": "Using template files in Vim",
-  "date": "2017-04-26T00:00:00+00:00",
-  "description": "Vim templates or skeletons, allow you to specify a template to be used for new files with a certain extension.", 
-"tags": [
-    "Unix",
-    "Vim"
-  ]
-}
++++
+date = "2017-04-26T00:00:00+00:00"
+description = "Vim templates or skeletons, allow you to specify a template to be used for new files with a certain extension."
+slug = "vim-templates"
+tags = ["Unix", "Vim"]
+title = "Using template files in Vim"
+
++++
 
 
 ## Using templates in Vim

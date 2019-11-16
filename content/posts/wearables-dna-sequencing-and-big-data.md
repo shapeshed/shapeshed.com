@@ -1,13 +1,12 @@
-{
-  "author": "George Ornbo",
-  "tags": [
-    "Health"
-    ],
-  "date": "2016-02-10T00:00:00.000Z",
-  "title": "Wearables, DNA sequencing and big data",
-  "description": "Are we brave enough to imagine a self-learning medical research platform?",
-  "original": "http://pebblecode.com/blog/wearables-dna-sequencing-and-big-data/"
-}
++++
+author = "George Ornbo"
+date = "2016-02-10T00:00:00.000Z"
+description = "Are we brave enough to imagine a self-learning medical research platform?"
+original = "http://pebblecode.com/blog/wearables-dna-sequencing-and-big-data/"
+tags = ["Health"]
+title = "Wearables, DNA sequencing and big data"
+
++++
 
 ## Standing in the future
 

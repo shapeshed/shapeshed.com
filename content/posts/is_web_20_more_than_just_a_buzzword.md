@@ -1,12 +1,11 @@
-{
-  "slug": "is-web-20-more-than-just-a-buzzword",
-  "title": "Is Web 2.0 More Than Just A Buzzword?",
-  "date": "2006-05-18T00:00:00+01:00",
-  "description": "A brief explanation of the meaning of Web 2.0 and what it can do for your business",
-  "tags": [
-    "Opinion"
-  ]
-}
++++
+date = "2006-05-18T00:00:00+01:00"
+description = "A brief explanation of the meaning of Web 2.0 and what it can do for your business"
+slug = "is-web-20-more-than-just-a-buzzword"
+tags = ["Opinion"]
+title = "Is Web 2.0 More Than Just A Buzzword?"
+
++++
 The Internet is as bad as any profession for using acronyms and buzzwords that are meaningless to the average man in the street. Ajax, Really Simple Syndication, Wikis probably mean nothing to the average client. So what does Web 2.0 mean for business websites? This paper seeks to give a very brief overview of what Web 2.0 means and how it will affect web development.
 
 ## Where did it come from?

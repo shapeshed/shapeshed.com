@@ -1,13 +1,10 @@
-{
-  "title": "WebKit to support font-face",
-  "date": "2007-10-08T00:00:00+01:00",
-  "description": "The news that the open source browser engine WebKit is to follow Opera and support font-face is great news for web typography. But more work needs to be done by the web community, browser manufacturers and font foundries.",
-  "tags": [
-    "Typography",
-    "Browsers",
-    "Opinion"
-  ]
-}
++++
+date = "2007-10-08T00:00:00+01:00"
+description = "The news that the open source browser engine WebKit is to follow Opera and support font-face is great news for web typography. But more work needs to be done by the web community, browser manufacturers and font foundries."
+tags = ["Typography", "Browsers", "Opinion"]
+title = "WebKit to support font-face"
+
++++
 
 ## What's new
 

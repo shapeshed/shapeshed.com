@@ -1,12 +1,10 @@
-{
-  "title": "Curving The Edges of Images in Photoshop",
-  "date": "2006-10-20T00:00:00+01:00",
-  "description": "I get a lot of search engine referrals from people looking to create curved images or curved rectangles in Photoshop. So here's a quick tutorial to show you how. ",
-  "tags": [
-    "Design",
-    "Photoshop"
-  ]
-}
++++
+date = "2006-10-20T00:00:00+01:00"
+description = "I get a lot of search engine referrals from people looking to create curved images or curved rectangles in Photoshop. So here's a quick tutorial to show you how. "
+tags = ["Design", "Photoshop"]
+title = "Curving The Edges of Images in Photoshop"
+
++++
 
 ## Curved rectangles
 

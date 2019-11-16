@@ -1,12 +1,10 @@
-{
-  "title": "Pattern Brushes in Illustrator Part Two",
-  "date": "2007-08-09T00:00:00+01:00",
-  "description": "In part two of looking at Pattern Brushes in Ilustrator we look at how to expand brushes to add shapes to corners and the ends of paths. ",
-  "tags": [
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-08-09T00:00:00+01:00"
+description = "In part two of looking at Pattern Brushes in Ilustrator we look at how to expand brushes to add shapes to corners and the ends of paths. "
+tags = ["Illustrator", "Design"]
+title = "Pattern Brushes in Illustrator Part Two"
+
++++
 
 If you haven't read [part one][1] of Pattern Brushes in Illustrator now might be a good time. It shows how to add a brush and create complex shapes using a circle.
 

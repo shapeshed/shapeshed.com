@@ -1,10 +1,11 @@
----
-title: Open data for London and the Olympics
-date: '2012-04-25T17:17:00+01:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/open-data-for-london-and-the-olympics/
----
++++
+author = "George Ornbo"
+date = "2012-04-25T17:17:00+01:00"
+original = "http://pebblecode.com/blog/open-data-for-london-and-the-olympics/"
+tags = []
+title = "Open data for London and the Olympics"
+
++++
 Tomorrow pebble {code} will host our first hackday! The theme is Olympics! The IOC data is distinctly not open but there are some good feeds available.
 
 ### Food for developers

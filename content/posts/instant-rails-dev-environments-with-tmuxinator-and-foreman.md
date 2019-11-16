@@ -1,12 +1,10 @@
-{
-  "title": "Instant Rails dev environments with Tmuxinator and Foreman",
-  "date": "2011-07-06T00:00:00+01:00",
-  "description": "How to start an entire development environment with a single command",
-  "tags": [
-    "UNIX",
-    "Rails"
-  ]
-}
++++
+date = "2011-07-06T00:00:00+01:00"
+description = "How to start an entire development environment with a single command"
+tags = ["UNIX", "Rails"]
+title = "Instant Rails dev environments with Tmuxinator and Foreman"
+
++++
 
 ## The problem
 

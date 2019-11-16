@@ -1,12 +1,10 @@
-{
-  "title": "Christmas Shopping",
-  "date": "2006-12-03T00:00:00+00:00",
-  "description": "Choosing to shop from the comfort of your home can be as stressful as going to the high street. Just why are so many online retailers still getting it wrong?",
-  "tags": [
-    "Opinion",
-    "Usability"
-  ]
-}
++++
+date = "2006-12-03T00:00:00+00:00"
+description = "Choosing to shop from the comfort of your home can be as stressful as going to the high street. Just why are so many online retailers still getting it wrong?"
+tags = ["Opinion", "Usability"]
+title = "Christmas Shopping"
+
++++
 ## It should be easy
 
 Picture the comfort of a living room, a glass of gin and tonic on the side table and the prospect of a couple of hours buying presents for friends and family on the internet. It should be so easy shouldn't it? Sadly experiences to date have proved otherwise.

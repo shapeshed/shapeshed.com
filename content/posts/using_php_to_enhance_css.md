@@ -1,12 +1,10 @@
-{
-  "title": "Using PHP to enhance CSS",
-  "date": "2007-03-25T00:00:00+00:00",
-  "description": "With a bit of PHP you can add an additional layer of logic to your CSS. You might choose to add seasonality to your site or change the layout entirely.  You are limited only by your imagination. ",
-  "tags": [
-    "CSS",
-    "PHP"
-  ]
-}
++++
+date = "2007-03-25T00:00:00+00:00"
+description = "With a bit of PHP you can add an additional layer of logic to your CSS. You might choose to add seasonality to your site or change the layout entirely.  You are limited only by your imagination. "
+tags = ["CSS", "PHP"]
+title = "Using PHP to enhance CSS"
+
++++
 ## An example
 
 Let's say a client has asked for a different background color for a website at weekends. The idea is that from Monday to Friday a grey background is shown and then at weekends an orange background is shown.

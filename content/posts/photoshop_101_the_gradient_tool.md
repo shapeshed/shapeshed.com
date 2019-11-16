@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-gradient-tool",
-  "title": "Photoshop 101 - The Gradient Tool",
-  "date": "2007-01-19T00:00:00+00:00",
-  "description": "The Gradient and Paint Bucket tools are both useful gems in Photoshop and can be used to quickly fill in areas as well as create backgrounds for websites. ",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2007-01-19T00:00:00+00:00"
+description = "The Gradient and Paint Bucket tools are both useful gems in Photoshop and can be used to quickly fill in areas as well as create backgrounds for websites. "
+slug = "photoshop-101-the-gradient-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Gradient Tool"
+
++++
 
 ## The Gradient Tool - does what it says on the tin
 

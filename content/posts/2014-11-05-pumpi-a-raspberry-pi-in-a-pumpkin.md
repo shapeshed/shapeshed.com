@@ -1,11 +1,12 @@
----
-title: Pumpi - A raspberry pi in a pumpkin
-date: '2014-11-05T20:37:00+00:00'
-tags: [hacks]
-original: http://pebblecode.com/blog/pumpi-a-raspberry-pi-in-a-pumpkin/
-slug: pumpi-a-raspberry-pi-in-a-pumpkin
-author: George Ornbo
----
++++
+author = "George Ornbo"
+date = "2014-11-05T20:37:00+00:00"
+original = "http://pebblecode.com/blog/pumpi-a-raspberry-pi-in-a-pumpkin/"
+slug = "pumpi-a-raspberry-pi-in-a-pumpkin"
+tags = ["hacks"]
+title = "Pumpi - A raspberry pi in a pumpkin"
+
++++
 <p>pebble {code}&rsquo;s latest hack day theme was hardware. It happened to fall on Halloween. So the natural thing to do was to combine Halloween and hardware. So why not put a Raspberry Pi in a pumpkin and make it make some scary sounds?</p>
 
 <p><img src="https://31.media.tumblr.com/92d4d992253bb941abe19f89ea486d4b/tumblr_inline_nel2kiawb91qz7kgs.jpg" alt=""/></p>

@@ -1,14 +1,11 @@
-{
-  "slug": "book-review-just-ask-shawn-lawton-henry",
-  "title": "Book Review: Just Ask - Shawn Lawton Henry",
-  "date": "2007-12-08T00:00:00+00:00",
-  "description": "Just Ask is a detailed book on how to incorporate usability and accessibility into your design process. If you are considering conducting usability testing particularly for disabled users this is an essential book.",
-  "tags": [
-    "Book Reviews",
-    "Usability",
-    "Accessibility"
-  ]
-}
++++
+date = "2007-12-08T00:00:00+00:00"
+description = "Just Ask is a detailed book on how to incorporate usability and accessibility into your design process. If you are considering conducting usability testing particularly for disabled users this is an essential book."
+slug = "book-review-just-ask-shawn-lawton-henry"
+tags = ["Book Reviews", "Usability", "Accessibility"]
+title = "Book Review: Just Ask - Shawn Lawton Henry"
+
++++
 
 Author: Shawn Lawton Henry
 

@@ -1,13 +1,11 @@
-{
-  "slug": "going-realtime-with-nodejs-express-and-socket-io",
-  "title": "Going realtime with Node.js, Express and socket.io",
-  "date": "2011-07-18T00:00:00+01:00",
-  "description": "A how to tutorial on creating a simple realtime counter in Node.js",
-  "tags": [
-    "Node.js",
-    "JavaScript"
-  ]
-}
++++
+date = "2011-07-18T00:00:00+01:00"
+description = "A how to tutorial on creating a simple realtime counter in Node.js"
+slug = "going-realtime-with-nodejs-express-and-socket-io"
+tags = ["Node.js", "JavaScript"]
+title = "Going realtime with Node.js, Express and socket.io"
+
++++
 
 ## Counting is fun!
 

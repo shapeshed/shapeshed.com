@@ -1,13 +1,11 @@
-{
-  "slug": "illustrator-101-the-pen-tool",
-  "title": "Illustrator 101 - The Pen Tool",
-  "date": "2007-05-26T00:00:00+01:00",
-  "description": "A tool worth learning you can soon have the same control as you do when sketching. It is tricky to master but you can soon be up and running with a little practice. ",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator"
-  ]
-}
++++
+date = "2007-05-26T00:00:00+01:00"
+description = "A tool worth learning you can soon have the same control as you do when sketching. It is tricky to master but you can soon be up and running with a little practice. "
+slug = "illustrator-101-the-pen-tool"
+tags = ["Illustrator 101", "Illustrator"]
+title = "Illustrator 101 - The Pen Tool"
+
++++
 
 ## Your bread and butter
 

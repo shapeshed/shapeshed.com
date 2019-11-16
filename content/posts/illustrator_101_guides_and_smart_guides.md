@@ -1,14 +1,11 @@
-{
-  "slug": "illustrator-101-guides-and-smart-guides",
-  "title": "Illustrator 101 - Guides and Smart Guides",
-  "date": "2008-04-26T00:00:00+01:00",
-  "description": "Guides help you to line control objects and paths easily in Illustrator. Here's a short overview of the options and how Smart Guides can take it a step further.",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2008-04-26T00:00:00+01:00"
+description = "Guides help you to line control objects and paths easily in Illustrator. Here's a short overview of the options and how Smart Guides can take it a step further."
+slug = "illustrator-101-guides-and-smart-guides"
+tags = ["Illustrator 101", "Illustrator", "Design"]
+title = "Illustrator 101 - Guides and Smart Guides"
+
++++
 
 ## Basic Guides
 

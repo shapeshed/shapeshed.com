@@ -1,14 +1,12 @@
-{
-  "slug": "unix-join",
-  "title": "Linux and Unix join command tutorial with examples",
-  "date": "2016-08-10T00:00:00+00:00",
-  "description": "Tutorial on using join, a UNIX and Linux command to join lines of two files on a common field. Examples of joining two files, sorting before joining, specifying a field separator and specifying the output format.",
-  "image": "images/articles/join.png",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-08-10T00:00:00+00:00"
+description = "Tutorial on using join, a UNIX and Linux command to join lines of two files on a common field. Examples of joining two files, sorting before joining, specifying a field separator and specifying the output format."
+image = "images/articles/join.png"
+slug = "unix-join"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix join command tutorial with examples"
+
++++
 
 ![join man page](/images/articles/join.png)
 

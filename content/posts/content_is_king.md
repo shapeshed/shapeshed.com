@@ -1,11 +1,10 @@
-{
-  "title": "Content is King",
-  "date": "2006-04-14T00:00:00+01:00",
-  "description": "Content is key in creating a successful website both for attracting visitors and good search engine rankings.",
-  "tags": [
-    "Copy"
-  ]
-}
++++
+date = "2006-04-14T00:00:00+01:00"
+description = "Content is key in creating a successful website both for attracting visitors and good search engine rankings."
+tags = ["Copy"]
+title = "Content is King"
+
++++
 
 Copy is often the last thing that is considered when creating a website. It is easy to get caught up in the excitement of a new design and how the site will function. Writing considered content will improve the usability of your site and allow users to find things quickly and easily.
 

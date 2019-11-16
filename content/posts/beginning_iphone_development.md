@@ -1,12 +1,10 @@
-{
-  "title": "Beginning iPhone Development",
-  "date": "2010-04-26T00:00:00+01:00",
-  "description": "I've recently started to learn to develop for the iPhone and iPad platforms. There are plenty of resources available for beginners and if it helps anyone I'm listing them here.",
-  "tags": [
-    "iPhone",
-    "Objective-C"
-  ]
-}
++++
+date = "2010-04-26T00:00:00+01:00"
+description = "I've recently started to learn to develop for the iPhone and iPad platforms. There are plenty of resources available for beginners and if it helps anyone I'm listing them here."
+tags = ["iPhone", "Objective-C"]
+title = "Beginning iPhone Development"
+
++++
 
 ## Textmate to Xcode
 

@@ -1,11 +1,10 @@
-{
-  "title": "YQL supporting microformats",
-  "date": "2009-01-15T00:00:00+00:00",
-  "description": "If you missed the post on the Yahoo Developer Network blog, YQL now supports microformats. This is a great addition to the YQL.",
-  "tags": [
-    "Yahoo"
-  ]
-}
++++
+date = "2009-01-15T00:00:00+00:00"
+description = "If you missed the post on the Yahoo Developer Network blog, YQL now supports microformats. This is a great addition to the YQL."
+tags = ["Yahoo"]
+title = "YQL supporting microformats"
+
++++
 
 ## Yahoo Query Language
 

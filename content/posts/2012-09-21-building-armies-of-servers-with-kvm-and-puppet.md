@@ -1,10 +1,11 @@
----
-title: Building armies of servers with kvm and puppet
-date: '2012-09-21T09:49:39+01:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/building-armies-of-servers-with-kvm-and-puppet/
----
++++
+author = "George Ornbo"
+date = "2012-09-21T09:49:39+01:00"
+original = "http://pebblecode.com/blog/building-armies-of-servers-with-kvm-and-puppet/"
+tags = []
+title = "Building armies of servers with kvm and puppet"
+
++++
 ![](https://media.tumblr.com/tumblr_man7d7tNog1qz7kgs.jpg)
 
 Our infrastructure requirements at pebble {code} are growing. We’ve got pretty far with an original Ubuntu 8.04 -> 10.04 Linux server. It has been a workhorse for us but an incident with bad sectors and no RAID facility suggested it was time for a more grown up solution.

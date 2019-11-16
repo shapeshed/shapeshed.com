@@ -1,11 +1,10 @@
-{
-  "title": "10 Usability Techniques",
-  "date": "2007-01-22T00:00:00+00:00",
-  "description": "A great looking site is of no use if it is difficult to use. Here are ten techniques to help improve the usability of your site. ",
-  "tags": [
-    "Usability"
-  ]
-}
++++
+date = "2007-01-22T00:00:00+00:00"
+description = "A great looking site is of no use if it is difficult to use. Here are ten techniques to help improve the usability of your site. "
+tags = ["Usability"]
+title = "10 Usability Techniques"
+
++++
 ## Resizable text
 
 ![Resizable text][1] 

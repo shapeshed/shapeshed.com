@@ -1,15 +1,10 @@
-{
-  "title": "Running ExpressionEngine on Media Temple's (dv) Part 3",
-  "date": "2007-12-03T00:00:00+00:00",
-  "description": "In the final part of the series we look at how to optimise the front end code on your site and cut response times by up to 50%.",
-  "tags": [
-    "ExpressionEngine",
-    "JavaScript",
-    "CSS",
-    "XHTML",
-    "Media Temple"
-  ]
-}
++++
+date = "2007-12-03T00:00:00+00:00"
+description = "In the final part of the series we look at how to optimise the front end code on your site and cut response times by up to 50%."
+tags = ["ExpressionEngine", "JavaScript", "CSS", "XHTML", "Media Temple"]
+title = "Running ExpressionEngine on Media Temple's (dv) Part 3"
+
++++
 
 ## Optimising front end code
 

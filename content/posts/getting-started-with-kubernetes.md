@@ -1,14 +1,11 @@
-{
-  "slug": "getting-started-with-kubernetes",
-  "title": "Getting started with Kubernetes",
-  "date": "2017-01-25T01:00:00+00:00",
-  "description": "How to get started with using Kubernetes on a local machine using minikube",
-  "tags": [
-    "Kubernetes",
-    "Linux",
-    "Unix"
-  ]
-}
++++
+date = "2017-01-25T01:00:00+00:00"
+description = "How to get started with using Kubernetes on a local machine using minikube"
+slug = "getting-started-with-kubernetes"
+tags = ["Kubernetes", "Linux", "Unix"]
+title = "Getting started with Kubernetes"
+
++++
 
 Over the last few weeks I have been learning [Kubernetes][1]. Here is how I got set up and started learning.
 

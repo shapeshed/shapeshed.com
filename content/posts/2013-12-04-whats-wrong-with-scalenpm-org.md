@@ -1,10 +1,11 @@
----
-title: What's wrong with scalenpm.org
-date: '2013-12-04T10:50:00+00:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/whats-wrong-with-scalenpm-org/
----
++++
+author = "George Ornbo"
+date = "2013-12-04T10:50:00+00:00"
+original = "http://pebblecode.com/blog/whats-wrong-with-scalenpm-org/"
+tags = []
+title = "What's wrong with scalenpm.org"
+
++++
 <h3>npm is amazing</h3>
 
 <p>Without doubt <a href="https://npmjs.org/">npm</a> is the best package manger I have used. As an end user it is a delight to use and makes sharing code extremely simple. I have used a range of package managers including PEAR, pip, CPAN, RubyGems and most of the Linux package managers. For me npm is best in class.</p>

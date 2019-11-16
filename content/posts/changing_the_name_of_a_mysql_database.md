@@ -1,11 +1,10 @@
-{
-  "title": "Changing the name of a MySQL database",
-  "date": "2008-01-03T00:00:00+00:00",
-  "description": "MySQL doesn't currently support altering the name of a database using SQL so here's a workaround.",
-  "tags": [
-    "MySQL"
-  ]
-}
++++
+date = "2008-01-03T00:00:00+00:00"
+description = "MySQL doesn't currently support altering the name of a database using SQL so here's a workaround."
+tags = ["MySQL"]
+title = "Changing the name of a MySQL database"
+
++++
 
 ## Support added then removed
 

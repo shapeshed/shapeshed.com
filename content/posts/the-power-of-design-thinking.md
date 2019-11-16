@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- opinion
-date: 2016-05-08T00:00:00Z
-title: The Power of Design Thinking
-original: http://pebblecode.com/blog/the-power-of-design-thinking/
-description: How do organisations become more innovative?
----
++++
+author = "George Ornbo"
+date = "2016-05-08T00:00:00Z"
+description = "How do organisations become more innovative?"
+original = "http://pebblecode.com/blog/the-power-of-design-thinking/"
+tags = ["opinion"]
+title = "The Power of Design Thinking"
+
++++
 
 Many organisations are seeking to become more Innovative, Agile and Creative. A Design Thinking workshop is a practical way to get started with understanding how Innovation, Agility and Creativity can be fostered within even the most traditional of organisations. 
 

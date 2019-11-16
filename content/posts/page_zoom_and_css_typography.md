@@ -1,13 +1,10 @@
-{
-  "title": "Page zoom and CSS typography",
-  "date": "2008-10-09T00:00:00+01:00",
-  "description": "With most browsers now using Page Zoom rather than just enlarging text is this the end of the road for em based typography?",
-  "tags": [
-    "Browsers",
-    "CSS",
-    "Opinion"
-  ]
-}
++++
+date = "2008-10-09T00:00:00+01:00"
+description = "With most browsers now using Page Zoom rather than just enlarging text is this the end of the road for em based typography?"
+tags = ["Browsers", "CSS", "Opinion"]
+title = "Page zoom and CSS typography"
+
++++
 
 ## Em based typography
 

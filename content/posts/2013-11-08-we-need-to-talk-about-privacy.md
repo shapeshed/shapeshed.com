@@ -1,10 +1,11 @@
----
-title: We need to talk about privacy
-date: '2013-11-08T18:01:03+00:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/we-need-to-talk-about-privacy/
----
++++
+author = "George Ornbo"
+date = "2013-11-08T18:01:03+00:00"
+original = "http://pebblecode.com/blog/we-need-to-talk-about-privacy/"
+tags = []
+title = "We need to talk about privacy"
+
++++
 <p>Society needs to debate how Intelligence Services operate and reform laws designed for another era.</p>
 
 <p>The <a href="http://www.theguardian.com/world/edward-snowden">Snowden leaks</a> have been a hot topic of conversation in the pebble office. Our office is located just a short walk away from the <a href="https://en.wikipedia.org/wiki/SIS_Building">SIS Building</a> in Vauxhall that houses MI6 and we are just around the corner from a former <a href="https://en.wikipedia.org/wiki/Serious_Organised_Crime_Agency">SOCA</a> building too. We know of contacts who work at businesses that they could not name and as technicians we understand the techniques that the leaks have exposed.</p>

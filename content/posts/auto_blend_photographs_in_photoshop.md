@@ -1,11 +1,10 @@
-{
-  "title": "Auto-blend photographs in Photoshop",
-  "date": "2007-10-27T00:00:00+01:00",
-  "description": "If you have Photoshop CS3 you can automatically merge two different photographs to create a new one, with Photoshop doing all of the hard work for you. ",
-  "tags": [
-    "Photoshop"
-  ]
-}
++++
+date = "2007-10-27T00:00:00+01:00"
+description = "If you have Photoshop CS3 you can automatically merge two different photographs to create a new one, with Photoshop doing all of the hard work for you. "
+tags = ["Photoshop"]
+title = "Auto-blend photographs in Photoshop"
+
++++
 
 ## Two different photos
 

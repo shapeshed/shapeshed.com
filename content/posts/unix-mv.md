@@ -1,14 +1,12 @@
-{
-  "slug": "unix-mv",
-  "title": "Linux and Unix mv command tutorial with examples",
-  "date": "2016-10-11T01:00:00+00:00",
-  "image": "images/articles/mv.png",
-  "description": "Tutorial on using mv, a UNIX and Linux command to move or rename files. Examples of moving a file, moving multiple files, moving a directory, prompting before overwriting and taking a backup before moving.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-11T01:00:00+00:00"
+description = "Tutorial on using mv, a UNIX and Linux command to move or rename files. Examples of moving a file, moving multiple files, moving a directory, prompting before overwriting and taking a backup before moving."
+image = "images/articles/mv.png"
+slug = "unix-mv"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix mv command tutorial with examples"
+
++++
 
 ![Terminal showing mv man page][2]
 

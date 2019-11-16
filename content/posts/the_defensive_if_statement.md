@@ -1,11 +1,10 @@
-{
-  "title": "The Defensive If Statement",
-  "date": "2008-03-03T00:00:00+00:00",
-  "description": "The if statement is probably the most common in any programming language. But using it with a defensive philosphy can make applications more bulletproof and extensible.",
-  "tags": [
-    "Opinion"
-  ]
-}
++++
+date = "2008-03-03T00:00:00+00:00"
+description = "The if statement is probably the most common in any programming language. But using it with a defensive philosphy can make applications more bulletproof and extensible."
+tags = ["Opinion"]
+title = "The Defensive If Statement"
+
++++
 
 ## A hostile environment
 

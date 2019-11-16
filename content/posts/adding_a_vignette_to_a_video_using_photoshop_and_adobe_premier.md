@@ -1,12 +1,11 @@
-{
-  "title": "Adding a vignette to a video using Photoshop",
-  "slug": "adding-a-vignette-to-a-video-using-photoshop",
-  "date": "2010-04-28T00:00:00+01:00",
-  "description": "How to create a vignette frame in Photoshop and add it to a video using Adobe Premier",
-  "tags": [
-    "Photoshop"
-  ]
-}
++++
+date = "2010-04-28T00:00:00+01:00"
+description = "How to create a vignette frame in Photoshop and add it to a video using Adobe Premier"
+slug = "adding-a-vignette-to-a-video-using-photoshop"
+tags = ["Photoshop"]
+title = "Adding a vignette to a video using Photoshop"
+
++++
 
 ## Background
 

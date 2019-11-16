@@ -1,13 +1,10 @@
-{
-  "title": "Reflecting on dConstruct 2008",
-  "date": "2008-09-08T00:00:00+01:00",
-  "description": "My first attendance at dConstruct found a well organised conference and thought-provoking speeches.",
-  "tags": [
-    "dconstruct08",
-    "Conferences",
-    "Opinion"
-  ]
-}
++++
+date = "2008-09-08T00:00:00+01:00"
+description = "My first attendance at dConstruct found a well organised conference and thought-provoking speeches."
+tags = ["dconstruct08", "Conferences", "Opinion"]
+title = "Reflecting on dConstruct 2008"
+
++++
 
 ## Steven Johnson
 

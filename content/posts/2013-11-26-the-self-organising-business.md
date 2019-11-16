@@ -1,10 +1,11 @@
----
-title: The Self-organising Business
-date: '2013-11-26T15:17:00+00:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/the-self-organising-business/
----
++++
+author = "George Ornbo"
+date = "2013-11-26T15:17:00+00:00"
+original = "http://pebblecode.com/blog/the-self-organising-business/"
+tags = []
+title = "The Self-organising Business"
+
++++
 <p>Most businesses are quite capable of self-organising and reducing or removing management layers. With increased autonomy for individuals and a community of employees that contribute innovation back to the business the writing is on the wall for traditional managers.</p>
 
 <h3>Management is increasingly irrelevant</h3>

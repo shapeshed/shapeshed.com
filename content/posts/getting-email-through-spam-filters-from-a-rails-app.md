@@ -1,12 +1,10 @@
-{
-  "title": "Getting email through spam filters from a Rails App",
-  "date": "2010-12-06T00:00:00+00:00",
-  "description": "Recently I did some work on ideapi a Rails app that was consistently delivering email to spam folders of major email providers. After the work email is consistently delivered to Gmail, Google Hosted Accounts, Hotmail, Yahoo and AOL Mail. Here are the details on how it was achieved.",
-  "tags": [
-    "Rails",
-    "UNIX"
-  ]
-}
++++
+date = "2010-12-06T00:00:00+00:00"
+description = "Recently I did some work on ideapi a Rails app that was consistently delivering email to spam folders of major email providers. After the work email is consistently delivered to Gmail, Google Hosted Accounts, Hotmail, Yahoo and AOL Mail. Here are the details on how it was achieved."
+tags = ["Rails", "UNIX"]
+title = "Getting email through spam filters from a Rails App"
+
++++
 
 ## The Skinny
 

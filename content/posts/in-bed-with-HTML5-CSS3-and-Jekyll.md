@@ -1,15 +1,11 @@
-{
-  "slug": "in-bed-with-HTML5-CSS3-and-Jekyll", 
-  "title": "In bed with HTML5, CSS3 and Jekyll",
-  "date": "2009-11-05T00:00:00+00:00",
-  "description": "I've redesigned my portfolio site to take advantage of HTML5, CSS3 and Jekyll, a static site generator.",
-  "tags": [
-    "HTML5",
-    "CSS3",
-    "Ruby",
-    "Personal"
-  ]
-}
++++
+date = "2009-11-05T00:00:00+00:00"
+description = "I've redesigned my portfolio site to take advantage of HTML5, CSS3 and Jekyll, a static site generator."
+slug = "in-bed-with-HTML5-CSS3-and-Jekyll"
+tags = ["HTML5", "CSS3", "Ruby", "Personal"]
+title = "In bed with HTML5, CSS3 and Jekyll"
+
++++
 
 ## Oh no - not again! 
 

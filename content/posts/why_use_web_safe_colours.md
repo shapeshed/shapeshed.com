@@ -1,13 +1,10 @@
-{
-  "title": "Why use Web Safe Colours?",
-  "date": "2006-10-19T00:00:00+01:00",
-  "description": "I've always designed using the web safe colour palette. Recently I realised I didn't actually know why. After a bit of research it would seem it is less relevant than I thought.",
-  "tags": [
-    "Browsers",
-    "Web Standards",
-    "Photoshop"
-  ]
-}
++++
+date = "2006-10-19T00:00:00+01:00"
+description = "I've always designed using the web safe colour palette. Recently I realised I didn't actually know why. After a bit of research it would seem it is less relevant than I thought."
+tags = ["Browsers", "Web Standards", "Photoshop"]
+title = "Why use Web Safe Colours?"
+
++++
 
 ## Background
 

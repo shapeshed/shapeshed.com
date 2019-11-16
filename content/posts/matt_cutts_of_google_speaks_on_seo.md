@@ -1,12 +1,10 @@
-{
-  "title": "Matt Cutts Of Google Speaks On SEO",
-  "date": "2006-08-02T00:00:00+01:00",
-  "description": "Matt Cutts of Google has published six videos where he speaks on SEO from Google's perspective (well his own but he works there). He gives some interesting insights and offers a few recommendations. Most of the recommendations we know about but it is good to hear them from the horse's mouth.",
-  "tags": [
-    "SEO",
-    "Google"
-  ]
-}
++++
+date = "2006-08-02T00:00:00+01:00"
+description = "Matt Cutts of Google has published six videos where he speaks on SEO from Google's perspective (well his own but he works there). He gives some interesting insights and offers a few recommendations. Most of the recommendations we know about but it is good to hear them from the horse's mouth."
+tags = ["SEO", "Google"]
+title = "Matt Cutts Of Google Speaks On SEO"
+
++++
 
 * Make sure your site is crawlable. Use Lynx to see how search engines will see the site and ensure you can navigate it with a text browser.
 * Compelling content is key

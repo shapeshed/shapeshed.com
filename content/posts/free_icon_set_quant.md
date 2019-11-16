@@ -1,13 +1,11 @@
-{
-  "slug" : "free-icon-set-quant",
-  "title": "Free icon set - Quant",
-  "date": "2007-07-26T00:00:00+01:00",
-  "description": "Icon design is something I have wanted to explore for a while. Today I'm releasing a free black and white icon set, the first of many I hope. ",
-  "tags": [
-    "Icons",
-    "Design"
-  ]
-}
++++
+date = "2007-07-26T00:00:00+01:00"
+description = "Icon design is something I have wanted to explore for a while. Today I'm releasing a free black and white icon set, the first of many I hope. "
+slug = "free-icon-set-quant"
+tags = ["Icons", "Design"]
+title = "Free icon set - Quant"
+
++++
 
 ## The Set
 

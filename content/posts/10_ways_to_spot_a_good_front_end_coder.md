@@ -1,14 +1,10 @@
-{
-  "title": "10 ways to spot a good front-end coder",
-  "date": "2007-05-14T00:00:00+01:00",
-  "description": "Front-end coding is certainly a craft and there are some amazing people doing it. When I visit a good site I often rummage around in the undergrowth to learn from the Masters. Here are ten practices I commonly see from the best coders.  ",
-  "tags": [
-    "XHTML",
-    "Opinion",
-    "Web Standards",
-    "CSS"
-  ]
-}
++++
+date = "2007-05-14T00:00:00+01:00"
+description = "Front-end coding is certainly a craft and there are some amazing people doing it. When I visit a good site I often rummage around in the undergrowth to learn from the Masters. Here are ten practices I commonly see from the best coders.  "
+tags = ["XHTML", "Opinion", "Web Standards", "CSS"]
+title = "10 ways to spot a good front-end coder"
+
++++
 
 ## It looks good naked
 

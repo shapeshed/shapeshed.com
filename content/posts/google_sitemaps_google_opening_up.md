@@ -1,13 +1,11 @@
-{
-  "slug": "google-sitemaps-google-opening-up",
-  "title": "Google Sitemaps. Google opening up?",
-  "date": "2006-03-04T00:00:00+00:00",
-  "description": "Google&rsquo;s patent filing started the inevitable process of Google being more transparent in the way it conducts its business. Slowly but surely Google is beginning to help web developers to produce sites that help Google to do its job, namely indexing the internet. The Google Sitemaps site describes clearly what Google would like you to do. After modifying a config file, a bit of root access and a cron job you can be there in minutes.",
-  "tags": [
-    "SEO",
-    "Google"
-  ]
-}
++++
+date = "2006-03-04T00:00:00+00:00"
+description = "Google&rsquo;s patent filing started the inevitable process of Google being more transparent in the way it conducts its business. Slowly but surely Google is beginning to help web developers to produce sites that help Google to do its job, namely indexing the internet. The Google Sitemaps site describes clearly what Google would like you to do. After modifying a config file, a bit of root access and a cron job you can be there in minutes."
+slug = "google-sitemaps-google-opening-up"
+tags = ["SEO", "Google"]
+title = "Google Sitemaps. Google opening up?"
+
++++
 
 I personally think that helping web developers to produce sites that are friendly to what Google is trying to do is good for all parties including customers.
 

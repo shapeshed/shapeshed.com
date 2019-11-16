@@ -1,12 +1,10 @@
-{
-  "title": "Prevent your SSH connection from freezing",
-  "date": "2008-06-11T00:00:00+01:00",
-  "description": "Recently I was finding that my SSH connection to a Media Temple (dv) Centos 5 server was freezing. Creating a local config file fixed it. For anyone else suffering the same problem here's how to do it. ",
-  "tags": [
-    "Media Temple",
-    "Linux"
-  ]
-}
++++
+date = "2008-06-11T00:00:00+01:00"
+description = "Recently I was finding that my SSH connection to a Media Temple (dv) Centos 5 server was freezing. Creating a local config file fixed it. For anyone else suffering the same problem here's how to do it. "
+tags = ["Media Temple", "Linux"]
+title = "Prevent your SSH connection from freezing"
+
++++
 
 ## The Issue
 

@@ -1,12 +1,11 @@
-{
-  "slug": "book-review-dom-scripting-jeremy-keith",
-  "title": "Book Review : DOM Scripting - Jeremy Keith",
-  "date": "2007-02-05T00:00:00+00:00",
-  "description": "Jeremy Keith's book is an excellent, gentle introduction to applying dynamic effects to websites using Javascript and the DOM. Covering best practices and techniques that degrade gracefully this is a must read. ",
-  "tags": [
-    "Book Reviews"
-  ]
-}
++++
+date = "2007-02-05T00:00:00+00:00"
+description = "Jeremy Keith's book is an excellent, gentle introduction to applying dynamic effects to websites using Javascript and the DOM. Covering best practices and techniques that degrade gracefully this is a must read. "
+slug = "book-review-dom-scripting-jeremy-keith"
+tags = ["Book Reviews"]
+title = "Book Review : DOM Scripting - Jeremy Keith"
+
++++
 
 Author: Jeremy Keith
 

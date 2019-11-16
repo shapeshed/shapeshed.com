@@ -1,12 +1,10 @@
-{
-  "title": "Google enters browser market with Google Chrome",
-  "date": "2008-09-02T00:00:00+01:00",
-  "description": "The news that Google is to launch Google Chrome, a web browser is good news for the browser market and web applications in general.",
-  "tags": [
-    "Browsers",
-    "Google"
-  ]
-}
++++
+date = "2008-09-02T00:00:00+01:00"
+description = "The news that Google is to launch Google Chrome, a web browser is good news for the browser market and web applications in general."
+tags = ["Browsers", "Google"]
+title = "Google enters browser market with Google Chrome"
+
++++
 ## Why a new browser?
 
 Pick through this:

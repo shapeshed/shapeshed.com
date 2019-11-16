@@ -1,11 +1,10 @@
-{
-  "title": "Creating Captioned Images in Photoshop",
-  "date": "2006-09-19T00:00:00+01:00",
-  "description": "In creating a website branding is as important as any other discipline. One of the techniques I like to use to evoke brand messages is to use captioned images. Using a photoshop and a bit of knowledge of masks and opacity you can have a powerful brand motif in no time.",
-  "tags": [
-    "Photoshop"
-  ]
-}
++++
+date = "2006-09-19T00:00:00+01:00"
+description = "In creating a website branding is as important as any other discipline. One of the techniques I like to use to evoke brand messages is to use captioned images. Using a photoshop and a bit of knowledge of masks and opacity you can have a powerful brand motif in no time."
+tags = ["Photoshop"]
+title = "Creating Captioned Images in Photoshop"
+
++++
 
 ## Choosing the image
 

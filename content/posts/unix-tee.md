@@ -1,14 +1,12 @@
-{
-  "slug": "unix-tee",
-  "title": "Linux and Unix tee command tutorial with examples",
-  "date": "2016-07-28T00:00:00+00:00",
-  "description": "Tutorial on using tee, a UNIX and Linux command for copying standard input to standard output and making a copy to one or more files. Examples of writing to a file, appending to a file and writing to a privileged file.",
-  "image": "images/articles/tee.png",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-07-28T00:00:00+00:00"
+description = "Tutorial on using tee, a UNIX and Linux command for copying standard input to standard output and making a copy to one or more files. Examples of writing to a file, appending to a file and writing to a privileged file."
+image = "images/articles/tee.png"
+slug = "unix-tee"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix tee command tutorial with examples"
+
++++
 
 ![Tee man page][4]
 

@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-lasso-tool",
-  "title": "Photoshop 101 - The Lasso Tool",
-  "date": "2006-10-17T00:00:00+01:00",
-  "description": "The Lasso Tool is another invaluable tool for making selections. For those with an unsteady hand or a hangover the Magnetic Lasso Tool will also save serious time in cutting out selections. \n",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-10-17T00:00:00+01:00"
+description = "The Lasso Tool is another invaluable tool for making selections. For those with an unsteady hand or a hangover the Magnetic Lasso Tool will also save serious time in cutting out selections. \n"
+slug = "photoshop-101-the-lasso-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Lasso Tool"
+
++++
 
 ## Basics: 
 

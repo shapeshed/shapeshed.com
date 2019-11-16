@@ -1,14 +1,11 @@
-{
-  "slug": "setting-up-puppet-on-ubuntu-10-04",
-  "title": "Setting up Puppet on Ubuntu 10.04",
-  "date": "2011-02-25T00:00:00+00:00",
-  "description": "A walkthrough of setting up a basic Puppet configuration on Ubuntu 10.04 LTS",
-  "tags": [
-    "UNIX",
-    "Puppet",
-    "Ubuntu"
-  ]
-}
++++
+date = "2011-02-25T00:00:00+00:00"
+description = "A walkthrough of setting up a basic Puppet configuration on Ubuntu 10.04 LTS"
+slug = "setting-up-puppet-on-ubuntu-10-04"
+tags = ["UNIX", "Puppet", "Ubuntu"]
+title = "Setting up Puppet on Ubuntu 10.04"
+
++++
 
 ## Overview
 

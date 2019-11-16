@@ -1,13 +1,11 @@
-{
-  "slug": "google-pixel",
-  "title": "Google Pixel isn't a strategy. It is a vanity project.",
-  "date": "2016-10-05T00:00:00+00:00",
-  "description": "Google's play for the top end of the smartphone market looks more of a vanity project than a sound strategy. In a saturated market full of consumer fatigue it would have been better to expand the mid-market range.",
-"tags": [
-    "Opinion",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-05T00:00:00+00:00"
+description = "Google's play for the top end of the smartphone market looks more of a vanity project than a sound strategy. In a saturated market full of consumer fatigue it would have been better to expand the mid-market range."
+slug = "google-pixel"
+tags = ["Opinion", "Linux"]
+title = "Google Pixel isn't a strategy. It is a vanity project."
+
++++
 
 ## s/iPhone/Pixel
 

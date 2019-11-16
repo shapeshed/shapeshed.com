@@ -1,14 +1,11 @@
-{
-  "slug": "illustrator-101-the-blend-tool",
-  "title": "Illustrator 101 - The Blend Tool",
-  "date": "2007-07-18T00:00:00+01:00",
-  "description": "The blend tool is a great way to build out shapes and design elements in Illustrator. Here's a quick overview of how it works and some techniques to apply.",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-07-18T00:00:00+01:00"
+description = "The blend tool is a great way to build out shapes and design elements in Illustrator. Here's a quick overview of how it works and some techniques to apply."
+slug = "illustrator-101-the-blend-tool"
+tags = ["Illustrator 101", "Illustrator", "Design"]
+title = "Illustrator 101 - The Blend Tool"
+
++++
 
 ## What the blend tool does
 

@@ -1,11 +1,12 @@
----
-title: Why we still hack
-author: George Ornbo
-tags: [Hacks, Opinion]
-description: A spirit of experimentation and learning has always been central to our love of hacking. Six years into our business it still underpins our ability to deliver innovation to our clients.
-date: 2016-05-16T00:00:00Z
-original: http://pebblecode.com/blog/why-we-still-hack/
----
++++
+author = "George Ornbo"
+date = "2016-05-16T00:00:00Z"
+description = "A spirit of experimentation and learning has always been central to our love of hacking. Six years into our business it still underpins our ability to deliver innovation to our clients."
+original = "http://pebblecode.com/blog/why-we-still-hack/"
+tags = ["Hacks", "Opinion"]
+title = "Why we still hack"
+
++++
 
 ### Not the illegal hacking
 

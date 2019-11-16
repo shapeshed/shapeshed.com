@@ -1,12 +1,10 @@
-{
-    "title": "Manage SSH connections with a SSH config file",
-    "date": "2016-07-19T06:39:27+01:00",
-    "description": "Using an SSH config file is another way that UNIX can simplify your workflow.",
-    "tags": [
-      "SSH",
-    "UNIX"
-      ]
-}
++++
+date = "2016-07-19T06:39:27+01:00"
+description = "Using an SSH config file is another way that UNIX can simplify your workflow."
+tags = ["SSH", "UNIX"]
+title = "Manage SSH connections with a SSH config file"
+
++++
 ## SSH Connections
 
 If you are making anything on the web before long you will find yourself using `SSH`. SSH allows you to connect to and work on remote servers.

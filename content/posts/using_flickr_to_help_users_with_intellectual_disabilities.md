@@ -1,14 +1,10 @@
-{
-  "title": "Using Flickr to help users with Intellectual Disabilities",
-  "date": "2008-01-30T00:00:00+00:00",
-  "description": "I'm currently taking part in a study at the University of East London looking at making the web more accessible to users with Intellectual Disabilities. Along with Lisa Haskel I'm looking at ways to use image library APIs to help improve accessibility for ID users.\n",
-  "tags": [
-    "AJAX",
-    "JavaScript",
-    "DOM",
-    "Accessibility"
-  ]
-}
++++
+date = "2008-01-30T00:00:00+00:00"
+description = "I'm currently taking part in a study at the University of East London looking at making the web more accessible to users with Intellectual Disabilities. Along with Lisa Haskel I'm looking at ways to use image library APIs to help improve accessibility for ID users.\n"
+tags = ["AJAX", "JavaScript", "DOM", "Accessibility"]
+title = "Using Flickr to help users with Intellectual Disabilities"
+
++++
 
 ## Background
 

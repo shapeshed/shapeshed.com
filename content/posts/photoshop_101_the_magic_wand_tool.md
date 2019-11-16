@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-magic-wand-tool",
-  "title": "Photoshop 101 - The Magic Wand Tool",
-  "date": "2006-10-26T00:00:00+01:00",
-  "description": "Especially for high contrast images the Magic Wand tool makes selection simple. A tool for daily use this example shows how to remove a background quickly and easily.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-10-26T00:00:00+01:00"
+description = "Especially for high contrast images the Magic Wand tool makes selection simple. A tool for daily use this example shows how to remove a background quickly and easily."
+slug = "photoshop-101-the-magic-wand-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Magic Wand Tool"
+
++++
 ## Sample based selection
 
 A little like the Magnetic Lasso tool the Magic Wand does much of the hard work for you. It works by selecting pixels based on settings defined by you. Select the Magic Wand tool by pressing W.

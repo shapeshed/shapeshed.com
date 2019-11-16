@@ -1,13 +1,11 @@
-{
-  "title": "The HTML5 Speech Recognition API",
-  "slug": "html5-speech-recognition-api",
-  "date": "2014-01-21T16:04:36+00:00",
-  "description": "The HTML5 Speech Recognition API allows JavaScript to have access to a browser's audio stream and convert it to text.",
-  "tags": [
-    "HTML",
-    "JavaScript"
-  ]
-}
++++
+date = "2014-01-21T16:04:36+00:00"
+description = "The HTML5 Speech Recognition API allows JavaScript to have access to a browser's audio stream and convert it to text."
+slug = "html5-speech-recognition-api"
+tags = ["HTML", "JavaScript"]
+title = "The HTML5 Speech Recognition API"
+
++++
 
 Chrome version 25 [rolled out speech recognition][1] so you can now invite users to talk to your web applications.
 

@@ -1,13 +1,10 @@
-{
-  "title": "Delivering inclusive websites",
-  "date": "2007-11-05T00:00:00+00:00",
-  "description": "The UK Government has published a consultation document outlining that all government websites must meet W3C AA requirements by 2008. ",
-  "tags": [
-    "Opinion",
-    "Accessibility",
-    "Web Standards"
-  ]
-}
++++
+date = "2007-11-05T00:00:00+00:00"
+description = "The UK Government has published a consultation document outlining that all government websites must meet W3C AA requirements by 2008. "
+tags = ["Opinion", "Accessibility", "Web Standards"]
+title = "Delivering inclusive websites"
+
++++
 
 The UK government is proposing that all [.gov.uk sites must be AA compliant by 2008][1]. This is great news for all users and is a positive step towards improving the Accessibility of the web in general. At this stage it seems that there are no plans to expand to sites outside the gov.uk domain. The recommendation builds on the excellent work carried out in PAS 78 Guide to good practice in commissioning accessible websites. The newly created Equality and Human Rights commission no longer seems to have the document on the website but until that is fixed you may be able to get a free copy from the [BSI website][2].
 

@@ -1,13 +1,10 @@
-{
-  "title": "Ubuntu v OSX smackdown",
-  "date": "2009-02-26T00:00:00+00:00",
-  "description": "In the left corner is my beloved OSX. In the right corner is Ubuntu, the Open Source upstart. Let battle commence..",
-  "tags": [
-    "Ubuntu",
-    "Linux",
-    "Apple"
-  ]
-}
++++
+date = "2009-02-26T00:00:00+00:00"
+description = "In the left corner is my beloved OSX. In the right corner is Ubuntu, the Open Source upstart. Let battle commence.."
+tags = ["Ubuntu", "Linux", "Apple"]
+title = "Ubuntu v OSX smackdown"
+
++++
 
 ## Round one - Appearance
 

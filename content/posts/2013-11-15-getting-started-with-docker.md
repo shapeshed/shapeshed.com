@@ -1,10 +1,11 @@
----
-title: Getting started with Docker
-date: '2013-11-15T14:01:00+00:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/getting-started-with-docker/
----
++++
+author = "George Ornbo"
+date = "2013-11-15T14:01:00+00:00"
+original = "http://pebblecode.com/blog/getting-started-with-docker/"
+tags = []
+title = "Getting started with Docker"
+
++++
 <p>Docker is fantastic wrapper around Linux Containers with a brilliant collaboration workflow. If you do any kind of virtualisation you should seriously consider it.</p>
 
 <p><img src="https://media.tumblr.com/67637761d1293f816ab48c9ac1c1da67/tumblr_inline_mwb588owIP1qz7kgs.png" alt=""/></p>

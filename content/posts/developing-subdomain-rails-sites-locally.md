@@ -1,11 +1,10 @@
-{
-  "title": "Developing subdomain Rails sites locally",
-  "date": "2010-07-29T00:00:00+01:00",
-  "description": "Developing local Rails sites with subdomains can be a pain but thanks to a couple of public URLs it can be much simpler.",
-  "tags": [
-    "Rails"
-  ]
-}
++++
+date = "2010-07-29T00:00:00+01:00"
+description = "Developing local Rails sites with subdomains can be a pain but thanks to a couple of public URLs it can be much simpler."
+tags = ["Rails"]
+title = "Developing subdomain Rails sites locally"
+
++++
 
 ## The problem
 

@@ -1,13 +1,11 @@
-{
-  "slug": "command-line-utilities-with-nodejs",
-  "title": "Command Line Utilities with Node.js",
-  "date": "2014-01-02T17:00:57+00:00",
-  "description": "Node.js is a great platform for creating small command line utilities, especially where I/O occurs.",
-  "tags": [
-    "Node.js",
-    "JavaScript"
-  ]
-}
++++
+date = "2014-01-02T17:00:57+00:00"
+description = "Node.js is a great platform for creating small command line utilities, especially where I/O occurs."
+slug = "command-line-utilities-with-nodejs"
+tags = ["Node.js", "JavaScript"]
+title = "Command Line Utilities with Node.js"
+
++++
 
 ## Write command line utilities with Node.js
 

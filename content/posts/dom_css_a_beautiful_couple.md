@@ -1,13 +1,11 @@
-{
-  "slug": "dom-css-a-beautiful-couple",
-  "title": "DOM + CSS = A beautiful couple",
-  "date": "2006-12-13T00:00:00+00:00",
-  "description": "Understanding how the DOM works and using it in your CSS can help produce mean, lean code. Here's a quick overview of how it works.",
-  "tags": [
-    "DOM",
-    "CSS"
-  ]
-}
++++
+date = "2006-12-13T00:00:00+00:00"
+description = "Understanding how the DOM works and using it in your CSS can help produce mean, lean code. Here's a quick overview of how it works."
+slug = "dom-css-a-beautiful-couple"
+tags = ["DOM", "CSS"]
+title = "DOM + CSS = A beautiful couple"
+
++++
 
 ## What's on earth is the DOM?
 

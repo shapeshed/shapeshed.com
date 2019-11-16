@@ -1,11 +1,10 @@
-{
-  "title": "Why Web Standards Matter",
-  "date": "2006-04-02T00:00:00+01:00",
-  "description": "At Shape Shed we have a philosophy of hand coding websites to International Standards. Why go to the trouble of validating code? This article explains why and outlines the benefits we can give to our clients as a result. ",
-  "tags": [
-    "Web Standards"
-  ]
-}
++++
+date = "2006-04-02T00:00:00+01:00"
+description = "At Shape Shed we have a philosophy of hand coding websites to International Standards. Why go to the trouble of validating code? This article explains why and outlines the benefits we can give to our clients as a result. "
+tags = ["Web Standards"]
+title = "Why Web Standards Matter"
+
++++
 ## The problem
 
 The Internet is growing very quickly. New platforms, technologies and browsers are emerging all the time. With so much innovation going on there is a real danger that a plethora of platforms and technologies will leave web development behind.  In short the web is becoming more complex and less standardised. 

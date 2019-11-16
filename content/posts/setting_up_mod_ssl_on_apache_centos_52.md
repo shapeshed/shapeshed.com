@@ -1,13 +1,11 @@
-{
-  "slug": "setting-up-mod-ssl-on-apache-centos-52",
-  "title": "Setting up mod_ssl on Apache Centos 5.2",
-  "date": "2008-07-28T00:00:00+01:00",
-  "description": "This tutorial will explain how to set up a site over https on Centos 5.2, although it should work on most linux distributions. The tutorial uses a self signed key so will work well for a personal website or testing purposes. This is provided as is so proceed at your own risk and take backups!",
-  "tags": [
-    "Linux",
-    "Apache"
-  ]
-}
++++
+date = "2008-07-28T00:00:00+01:00"
+description = "This tutorial will explain how to set up a site over https on Centos 5.2, although it should work on most linux distributions. The tutorial uses a self signed key so will work well for a personal website or testing purposes. This is provided as is so proceed at your own risk and take backups!"
+slug = "setting-up-mod-ssl-on-apache-centos-52"
+tags = ["Linux", "Apache"]
+title = "Setting up mod_ssl on Apache Centos 5.2"
+
++++
 
 ## Getting the required software
 

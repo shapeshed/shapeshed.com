@@ -1,10 +1,11 @@
----
-title: Do taxis go south of the river?
-date: '2011-10-18T09:49:00+01:00'
-tags: [rails, ruby, projects]
-author: George Ornbo
-original: http://pebblecode.com/blog/do-taxis-go-south-of-the-river/
----
++++
+author = "George Ornbo"
+date = "2011-10-18T09:49:00+01:00"
+original = "http://pebblecode.com/blog/do-taxis-go-south-of-the-river/"
+tags = ["rails", "ruby", "projects"]
+title = "Do taxis go south of the river?"
+
++++
 
 Recently we’ve been engaged by AddApps to help with their start-up [LDNTaxiApp](http://www.londontaxiapp.com/).
 

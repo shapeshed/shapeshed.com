@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-burn-dodge-and-sponge-tools",
-  "title": "Photoshop 101 - Burn, Dodge and Sponge Tools",
-  "date": "2007-02-05T00:00:00+00:00",
-  "description": "More art-working tools that come straight from the darkroom to Photoshop. You can use these to fine tune your images and correct malformed exposure.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2007-02-05T00:00:00+00:00"
+description = "More art-working tools that come straight from the darkroom to Photoshop. You can use these to fine tune your images and correct malformed exposure."
+slug = "photoshop-101-burn-dodge-and-sponge-tools"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - Burn, Dodge and Sponge Tools"
+
++++
 
 ## Straight from the darkroom
 

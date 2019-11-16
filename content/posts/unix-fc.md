@@ -1,14 +1,12 @@
-{
-  "slug": "unix-fc",
-  "title": "Linux and Unix fc command tutorial with examples",
-  "date": "2016-09-28T00:00:00+00:00",
-  "image": "images/articles/fc.png",
-  "description": "Tutorial on using fc, a UNIX and Linux command for editing and re-executing commands previously entered into an interactive shell. Examples of editing and re-executing the last command, editing and executing a previous command, setting the text editor to be used, listing previous commands and executing a command without editing it.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-09-28T00:00:00+00:00"
+description = "Tutorial on using fc, a UNIX and Linux command for editing and re-executing commands previously entered into an interactive shell. Examples of editing and re-executing the last command, editing and executing a previous command, setting the text editor to be used, listing previous commands and executing a command without editing it."
+image = "images/articles/fc.png"
+slug = "unix-fc"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix fc command tutorial with examples"
+
++++
 
 ![Terminal showing fc man page][2]
 

@@ -1,13 +1,11 @@
-{
-  "slug": "HTML5-video-element",
-  "title": "The HTML 5 Video Element",
-  "date": "2009-06-05T00:00:00+01:00",
-  "description": "HTML 5 makes adding video to your site a great deal easier with video tag. Issues of videos codecs, browser support and accessibility need to be resolved but somewhere down the line video will get a whole lot easier. ",
-  "tags": [
-    "HTML5",
-    "Browsers"
-  ]
-}
++++
+date = "2009-06-05T00:00:00+01:00"
+description = "HTML 5 makes adding video to your site a great deal easier with video tag. Issues of videos codecs, browser support and accessibility need to be resolved but somewhere down the line video will get a whole lot easier. "
+slug = "HTML5-video-element"
+tags = ["HTML5", "Browsers"]
+title = "The HTML 5 Video Element"
+
++++
 
 Not interested in the explanation? [Go straight to the example.][1]
 

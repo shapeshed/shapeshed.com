@@ -1,13 +1,10 @@
-{
-  "title": "Populating forms with YQL, jQuery and Microformats",
-  "date": "2009-02-16T00:00:00+00:00",
-  "description": "YQL recently began supporting Microformats. This is great because we can do useful things easily like populate form data without even refreshing the page.",
-  "tags": [
-    "Yahoo",
-    "JavaScript",
-    "Microformats"
-  ]
-}
++++
+date = "2009-02-16T00:00:00+00:00"
+description = "YQL recently began supporting Microformats. This is great because we can do useful things easily like populate form data without even refreshing the page."
+tags = ["Yahoo", "JavaScript", "Microformats"]
+title = "Populating forms with YQL, jQuery and Microformats"
+
++++
 
 ## Demo
 

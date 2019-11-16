@@ -1,12 +1,11 @@
-{
-  "slug": "flock-one-browser-too-far",
-  "title": "Flock - One browser too far?",
-  "date": "2006-05-27T00:00:00+01:00",
-  "description": "After my browser love-in yesterday I was reminded of Flock. It was launched as preview in late 2005. Built on Mozilla's open source code the business model was to gain market share by offering users an excellent experience. What was that excellent experience? Well not much - RSS, easy blogging and maybe instant messaging. Errr.... what's different from most of the other major browsers?",
-  "tags": [
-    "Browsers"
-  ]
-}
++++
+date = "2006-05-27T00:00:00+01:00"
+description = "After my browser love-in yesterday I was reminded of Flock. It was launched as preview in late 2005. Built on Mozilla's open source code the business model was to gain market share by offering users an excellent experience. What was that excellent experience? Well not much - RSS, easy blogging and maybe instant messaging. Errr.... what's different from most of the other major browsers?"
+slug = "flock-one-browser-too-far"
+tags = ["Browsers"]
+title = "Flock - One browser too far?"
+
++++
 
 ![Flock Image][1]
 

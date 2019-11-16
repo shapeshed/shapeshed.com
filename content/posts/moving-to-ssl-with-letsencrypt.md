@@ -1,13 +1,11 @@
-{
-   "date": "2016-07-11T08:08:22+01:00",
-   "description": "changeme",
-  "draft": "true",
-   "tags": [
-      "SSL",
-      "TLS"
-   ],
-   "title": "Moving to SSL with LetsEncrypt"
-}
++++
+date = "2016-07-11T08:08:22+01:00"
+description = "changeme"
+draft = "true"
+tags = ["SSL", "TLS"]
+title = "Moving to SSL with LetsEncrypt"
+
++++
 
 ## 
 

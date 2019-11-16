@@ -1,13 +1,11 @@
-{
-  "title": "Ubuntu 9.04 Jaunty Jackalope Released",
-  "slug": "ubuntu-9.04-jaunty-jackalope-released",
-  "date": "2009-04-23T00:00:00+01:00",
-  "description": "The latest release of Ubuntu is now available, featuring faster boot times, a growl-style notification system and updates to bundled software. ",
-  "tags": [
-    "Linux",
-    "Ubuntu"
-  ]
-}
++++
+date = "2009-04-23T00:00:00+01:00"
+description = "The latest release of Ubuntu is now available, featuring faster boot times, a growl-style notification system and updates to bundled software. "
+slug = "ubuntu-9.04-jaunty-jackalope-released"
+tags = ["Linux", "Ubuntu"]
+title = "Ubuntu 9.04 Jaunty Jackalope Released"
+
++++
 
 ## Desktop Linux + Usability
 

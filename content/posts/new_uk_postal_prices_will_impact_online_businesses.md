@@ -1,11 +1,10 @@
-{
-  "title": "New UK Postal Prices Will Impact Online Businesses",
-  "date": "2006-08-21T00:00:00+01:00",
-  "description": "Recent changes to postal prices in the UK will make online buinesses less competitive. ",
-  "tags": [
-    "Opinion"
-  ]
-}
++++
+date = "2006-08-21T00:00:00+01:00"
+description = "Recent changes to postal prices in the UK will make online buinesses less competitive. "
+tags = ["Opinion"]
+title = "New UK Postal Prices Will Impact Online Businesses"
+
++++
 
 The UK's postal service the [Royal Mail][1] has today moved to [a new pricing model][2]. The model combines both weight and size to calculate the price of the postage.
 

@@ -1,12 +1,10 @@
-{
-  "title": "Mac Browser Love-in",
-  "date": "2006-05-26T00:00:00+01:00",
-  "description": "Although I love Firefox for Mac I can't deny that it is very slow compared to other browsers. After reading of the adventures of the Mac browser pimp Jon Hicks I decided to experiment a bit more in my browser usage. Where did I end up? Well in a multitude of places with multiple browsers open!",
-  "tags": [
-    "Apple",
-    "Browsers"
-  ]
-}
++++
+date = "2006-05-26T00:00:00+01:00"
+description = "Although I love Firefox for Mac I can't deny that it is very slow compared to other browsers. After reading of the adventures of the Mac browser pimp Jon Hicks I decided to experiment a bit more in my browser usage. Where did I end up? Well in a multitude of places with multiple browsers open!"
+tags = ["Apple", "Browsers"]
+title = "Mac Browser Love-in"
+
++++
 
 [Safari][1] is great but there are a number of things it doesn't do. Coupled with the fact that many plugins (including Flash) are not yet formally released for Universal Binary it isn't quite everything I want. I found [this page][2] on browser speeds for the mac which has some interesting results. [Camino][3] is not bad and [Opera][4] would seem to be the Daddy.
 

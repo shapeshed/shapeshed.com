@@ -1,10 +1,11 @@
----
-title: Sending usage stats to Campfire
-date: '2012-04-23T11:08:00+01:00'
-tags: []
-original: http://pebblecode.com/blog/sending-usage-stats-to-campfire/
-author: George Ornbo
----
++++
+author = "George Ornbo"
+date = "2012-04-23T11:08:00+01:00"
+original = "http://pebblecode.com/blog/sending-usage-stats-to-campfire/"
+tags = []
+title = "Sending usage stats to Campfire"
+
++++
 <h3>Automate all the things</h3>
 
 <p>We use Campfire heavily at pebble {code}. After a brief flirtation with IRC we found it was the easiest way to get everyone in the team involved. We post quite a few things to Campfire:</p>

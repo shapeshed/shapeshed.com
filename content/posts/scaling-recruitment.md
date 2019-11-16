@@ -1,13 +1,12 @@
-{
-  "author": "George Ornbo",
-  "tags": [
-    "Recruitment"
-    ],
-  "date": "2016-02-09T00:00:00.000Z",
-  "title": "Scaling Recruitment",
-  "description": "In scaling recruitment at pebble {code} we reinforced a shared identity, accelerated team empowerment and a delivered a continuously improving process.",
-  "original": "http://pebblecode.com/blog/scaling-recruitment/"
-}
++++
+author = "George Ornbo"
+date = "2016-02-09T00:00:00.000Z"
+description = "In scaling recruitment at pebble {code} we reinforced a shared identity, accelerated team empowerment and a delivered a continuously improving process."
+original = "http://pebblecode.com/blog/scaling-recruitment/"
+tags = ["Recruitment"]
+title = "Scaling Recruitment"
+
++++
 
 ## The Goal
 

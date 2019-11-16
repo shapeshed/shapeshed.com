@@ -1,13 +1,11 @@
-{
-  "slug": "html5-geolocation-api",
-  "title": "The HTML5 Geolocation API",
-  "date": "2014-01-07T20:30:56+00:00",
-  "description": "The HTML5 Geolocation API allows you to request geolocation data including longitude, latitude, altitude, speed and direction of travel.",
-  "tags": [
-    "HTML",
-    "JavaScript"
-  ]
-}
++++
+date = "2014-01-07T20:30:56+00:00"
+description = "The HTML5 Geolocation API allows you to request geolocation data including longitude, latitude, altitude, speed and direction of travel."
+slug = "html5-geolocation-api"
+tags = ["HTML", "JavaScript"]
+title = "The HTML5 Geolocation API"
+
++++
 
 The HTML5 Geolocation API is now widely supported and can be used across a range of mobile and desktop browsers. It is even supported from IE9 up in Internet Explorer. It allows you to request the geolocation of a user's browser including altitude, speed and direction of travel.
 

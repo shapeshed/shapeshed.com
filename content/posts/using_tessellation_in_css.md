@@ -1,12 +1,10 @@
-{
-  "title": "Using tessellation in CSS",
-  "date": "2007-06-26T00:00:00+01:00",
-  "description": "Tessellation has been used for many years in wallpaper and other design environments where a large space of indeterminate size needs to be covered. Using CSS similar techniques can be used to deliver designs that look good and stretch to the width of the screen. ",
-  "tags": [
-    "CSS",
-    "Design"
-  ]
-}
++++
+date = "2007-06-26T00:00:00+01:00"
+description = "Tessellation has been used for many years in wallpaper and other design environments where a large space of indeterminate size needs to be covered. Using CSS similar techniques can be used to deliver designs that look good and stretch to the width of the screen. "
+tags = ["CSS", "Design"]
+title = "Using tessellation in CSS"
+
++++
 
 ## What is tessellation?
 

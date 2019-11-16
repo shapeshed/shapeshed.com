@@ -1,12 +1,11 @@
-{
-  "slug": "copy-a-file-in-go",
-  "title": "Copy a file in Go",
-  "date": "2017-09-10T00:00:00+00:00",
-  "description": "How to copy a file in Go. The ioutil package does not offer a shorthand way of copying a file. Instead the os package should be used.",
-  "tags": [
-    "Go"
-  ]
-}
++++
+date = "2017-09-10T00:00:00+00:00"
+description = "How to copy a file in Go. The ioutil package does not offer a shorthand way of copying a file. Instead the os package should be used."
+slug = "copy-a-file-in-go"
+tags = ["Go"]
+title = "Copy a file in Go"
+
++++
 
 ## No shorthand method
 

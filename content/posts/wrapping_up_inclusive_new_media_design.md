@@ -1,11 +1,10 @@
-{
-  "title": "Wrapping up Inclusive New Media Design",
-  "date": "2008-05-20T00:00:00+01:00",
-  "description": "I've been lucky enough to take part in a study aimed at understanding how to make websites more accessible for users with Intellectual Disabilities at the Rix Centre, University of East London. On the final day an expert panel were invited to give their thoughts. Here are some brief notes from the speakers.",
-  "tags": [
-    "Accessibility"
-  ]
-}
++++
+date = "2008-05-20T00:00:00+01:00"
+description = "I've been lucky enough to take part in a study aimed at understanding how to make websites more accessible for users with Intellectual Disabilities at the Rix Centre, University of East London. On the final day an expert panel were invited to give their thoughts. Here are some brief notes from the speakers."
+tags = ["Accessibility"]
+title = "Wrapping up Inclusive New Media Design"
+
++++
 
 Before a Q&A each speaker had five minutes to give their opinion on how to make sites more accessible to Intellectually Disabled Users. Here is a list of the speakers and their main points. I'll be posting again about my learning from the study shortly.
 

@@ -1,13 +1,10 @@
-{
-  "title": "Securing Plesk on a Media Temple (dv)3 server",
-  "date": "2008-01-18T00:00:00+00:00",
-  "description": "By taking a few simple steps with SSH, FTP and the firewall you can make your Plesk server more secure than the default configuration.",
-  "tags": [
-    "Media Temple",
-    "Plesk",
-    "Linux"
-  ]
-}
++++
+date = "2008-01-18T00:00:00+00:00"
+description = "By taking a few simple steps with SSH, FTP and the firewall you can make your Plesk server more secure than the default configuration."
+tags = ["Media Temple", "Plesk", "Linux"]
+title = "Securing Plesk on a Media Temple (dv)3 server"
+
++++
 
 This information is provided as advice only. No responsibility will be taken for following this advice. 
 

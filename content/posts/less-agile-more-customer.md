@@ -1,15 +1,12 @@
----
-author: George Ornbo
-tags:
-- Agile
-- Opinion
-- Lean
-- Innovation
-date: 2016-05-17T00:00:00Z
-title: Less Agile, More Customer
-description: Agile has given us a sound methodology for delivering software. Now it is time to focus on the customer. 
-original: http://pebblecode.com/blog/less-agile-more-customer/
----
++++
+author = "George Ornbo"
+date = "2016-05-17T00:00:00Z"
+description = "Agile has given us a sound methodology for delivering software. Now it is time to focus on the customer."
+original = "http://pebblecode.com/blog/less-agile-more-customer/"
+tags = ["Agile", "Opinion", "Lean", "Innovation"]
+title = "Less Agile, More Customer"
+
++++
 
 ### Agile the great disruptor
 

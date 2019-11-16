@@ -1,13 +1,11 @@
-{
-  "title": "Listening to BBC Radio with mpv",
-  "slug": "listening-to-bbc-radio-with-mpv",
-  "date": "2016-10-21T00:00:00+00:00",
-  "description": "The BBC publishes high quality 320 kbps HLS AAC streams that can be used to listen to radio from the command-line using mpv. Here are the URLs and some aliases to start listening quickly.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-21T00:00:00+00:00"
+description = "The BBC publishes high quality 320 kbps HLS AAC streams that can be used to listen to radio from the command-line using mpv. Here are the URLs and some aliases to start listening quickly."
+slug = "listening-to-bbc-radio-with-mpv"
+tags = ["UNIX", "Linux"]
+title = "Listening to BBC Radio with mpv"
+
++++
 
 ## BBC Radio feeds
 

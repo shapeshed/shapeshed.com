@@ -1,13 +1,10 @@
-{
-  "title": "The New Photoshop Logo",
-  "date": "2007-09-19T00:00:00+01:00",
-  "description": "I'm not often moved to criticise other designers work. It is their livelihood after all. But the new Photoshop logo falls well short of the mark.",
-  "tags": [
-    "Opinion",
-    "Design",
-    "Photoshop"
-  ]
-}
++++
+date = "2007-09-19T00:00:00+01:00"
+description = "I'm not often moved to criticise other designers work. It is their livelihood after all. But the new Photoshop logo falls well short of the mark."
+tags = ["Opinion", "Design", "Photoshop"]
+title = "The New Photoshop Logo"
+
++++
 
 ## Another Photoshop Logo!
 

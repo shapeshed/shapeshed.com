@@ -1,14 +1,11 @@
-{
-  "slug": "ie6-notice-encourage-users-to-upgrade-internet-explorer-6",
-  "title": "IE6 Notice - Encourage users to upgrade IE6",
-  "date": "2009-07-28T00:00:00+01:00",
-  "description": "IE6 is evil and must die so I've created IE6 Notice a 2kb JavaScript file that adds a notice to sites encouraging users to upgrade from IE6. ",
-  "tags": [
-    "Browsers",
-    "Microsoft",
-    "Web Standards"
-  ]
-}
++++
+date = "2009-07-28T00:00:00+01:00"
+description = "IE6 is evil and must die so I've created IE6 Notice a 2kb JavaScript file that adds a notice to sites encouraging users to upgrade from IE6. "
+slug = "ie6-notice-encourage-users-to-upgrade-internet-explorer-6"
+tags = ["Browsers", "Microsoft", "Web Standards"]
+title = "IE6 Notice - Encourage users to upgrade IE6"
+
++++
 ## What it is 
 
 IE6 Notice adds a notice for IE6 users encouraging them to upgrade their browser. Users may choose to hide the notice and their preference will be remembered.

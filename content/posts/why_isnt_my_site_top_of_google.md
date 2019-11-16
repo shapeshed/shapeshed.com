@@ -1,12 +1,10 @@
-{
-  "title": "Why Isn't My Site Top Of Google?",
-  "date": "2006-03-01T00:00:00+00:00",
-  "description": "One of the most common questions asked by clients is 'Why isn't my site top of Google?' This is totally understandable but explaining rankings in search engines can be a mystery. This article attempts to discuss some general principles to improve rankings.",
-  "tags": [
-    "SEO",
-    "Google"
-  ]
-}
++++
+date = "2006-03-01T00:00:00+00:00"
+description = "One of the most common questions asked by clients is 'Why isn't my site top of Google?' This is totally understandable but explaining rankings in search engines can be a mystery. This article attempts to discuss some general principles to improve rankings."
+tags = ["SEO", "Google"]
+title = "Why Isn't My Site Top Of Google?"
+
++++
 ## The mystery of Google
 
 Google do not publish how they rank pages. Google do state that they look at around 100 factors on each page but it is known that the following factors are important:

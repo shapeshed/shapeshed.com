@@ -1,10 +1,11 @@
----
-title: REST Workshop
-date: '2013-04-25T15:01:41+01:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/rest-workshop/
----
++++
+author = "George Ornbo"
+date = "2013-04-25T15:01:41+01:00"
+original = "http://pebblecode.com/blog/rest-workshop/"
+tags = []
+title = "REST Workshop"
+
++++
 <h2>REST API workshop</h2>
 
 <p>We held our first internal workshop today on REST APIs.</p>

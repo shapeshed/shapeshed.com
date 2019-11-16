@@ -1,10 +1,11 @@
----
-title: Open Source Social Responsibility
-date: '2013-11-29T12:53:00+00:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/open-source-social-responsibility/
----
++++
+author = "George Ornbo"
+date = "2013-11-29T12:53:00+00:00"
+original = "http://pebblecode.com/blog/open-source-social-responsibility/"
+tags = []
+title = "Open Source Social Responsibility"
+
++++
 <p>Open Source Social Responsibility should be considered on a par with Corporate Social Responsibility. Businesses that use and rely on Open Source software need to play an active part in Open Source communities. If done correctly there can be huge benefits for businesses that realise this.</p>
 
 <h3>Open Source and Business</h3>

@@ -1,13 +1,11 @@
-{
-  "slug": "html5-vibrate-api",
-  "title": "The HTML5 Vibrate API",
-  "date": "2014-01-03T07:50:56+00:00",
-  "description": "The HTML5 Vibrate API allows you to trigger vibration on a device.",
-  "tags": [
-    "HTML",
-    "JavaScript"
-  ]
-}
++++
+date = "2014-01-03T07:50:56+00:00"
+description = "The HTML5 Vibrate API allows you to trigger vibration on a device."
+slug = "html5-vibrate-api"
+tags = ["HTML", "JavaScript"]
+title = "The HTML5 Vibrate API"
+
++++
 
 ## Make me vibrate
 

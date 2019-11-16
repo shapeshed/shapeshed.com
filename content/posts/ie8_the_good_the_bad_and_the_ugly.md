@@ -1,14 +1,11 @@
-{
-  "slug": "ie8-the-good-the-bad-and-the-ugly",
-  "title": "IE8 - The Good, The Bad and The Ugly",
-  "date": "2008-01-22T00:00:00+00:00",
-  "description": "The news that IE8 is considering using meta tags to determine rendering modes is a bad idea from everyone's perspective and Microsoft should reconsider.  ",
-  "tags": [
-    "Browsers",
-    "Microsoft",
-    "Opinion"
-  ]
-}
++++
+date = "2008-01-22T00:00:00+00:00"
+description = "The news that IE8 is considering using meta tags to determine rendering modes is a bad idea from everyone's perspective and Microsoft should reconsider.  "
+slug = "ie8-the-good-the-bad-and-the-ugly"
+tags = ["Browsers", "Microsoft", "Opinion"]
+title = "IE8 - The Good, The Bad and The Ugly"
+
++++
 ## IE8 - The Good
 
 Encouraging news has been coming out of the IE camp recently. After the vastly improved support for standards in IE7, news emerged that IE8 [renders the Acid2 test][1] in standards mode. This is indeed a giant leap forward for IE which has been an underperforming browser in terms of the product for a number of years.

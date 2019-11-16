@@ -1,13 +1,11 @@
-{
-  "slug": "uncaught-exceptions-in-node",
-  "title": "Uncaught Exceptions in Node.js",
-  "date": "2012-11-14T00:00:00+00:00",
-  "description": "Dealing with uncaught exceptions in Node.js is not straightforward",
-  "tags": [
-    "JavaScript",
-    "Node.js"
-  ]
-}
++++
+date = "2012-11-14T00:00:00+00:00"
+description = "Dealing with uncaught exceptions in Node.js is not straightforward"
+slug = "uncaught-exceptions-in-node"
+tags = ["JavaScript", "Node.js"]
+title = "Uncaught Exceptions in Node.js"
+
++++
 
 ## The problem of uncaught exceptions
 

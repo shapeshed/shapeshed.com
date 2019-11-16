@@ -1,12 +1,11 @@
-{
-  "slug": "usability-the-forgotten-pillar-of-good-design",
-  "title": "Usability - The Forgotten Pillar of Good Design",
-  "date": "2006-06-16T00:00:00+01:00",
-  "description": "Current trends in Web Design are rightly championing Accessibility and building websites to universally recognised standards. This article seeks to give a brief overview of the importance of Usability and suggests that there are many reasons why it is more important than building an Accessible site. ",
-  "tags": [
-    "Usability"
-  ]
-}
++++
+date = "2006-06-16T00:00:00+01:00"
+description = "Current trends in Web Design are rightly championing Accessibility and building websites to universally recognised standards. This article seeks to give a brief overview of the importance of Usability and suggests that there are many reasons why it is more important than building an Accessible site. "
+slug = "usability-the-forgotten-pillar-of-good-design"
+tags = ["Usability"]
+title = "Usability - The Forgotten Pillar of Good Design"
+
++++
 
 ## A quick recap
 

@@ -1,13 +1,10 @@
-{
-  "title": "Contact details in one click",
-  "date": "2007-01-13T00:00:00+00:00",
-  "description": "At some stage everyone has laboriously copied and pasted contact details from a website into their address book. Wouldn't it be nice if you could just click a graphic and see the details turn up in your address book?",
-  "tags": [
-    "Microformats",
-    "CSS",
-    "XHTML"
-  ]
-}
++++
+date = "2007-01-13T00:00:00+00:00"
+description = "At some stage everyone has laboriously copied and pasted contact details from a website into their address book. Wouldn't it be nice if you could just click a graphic and see the details turn up in your address book?"
+tags = ["Microformats", "CSS", "XHTML"]
+title = "Contact details in one click"
+
++++
 
 <p>This tutorial will show how to create a button that will import contact details into an address book. All you need is some knowledge of XHTML and a graphics editor. But before the explanation you want to see it working don't you?</p>
 
@@ -28,7 +25,7 @@
 <p>Microformats sprinkle in some class names to give further semantic meaning to the code. They also allow other programs to access the information contained within the class names.  There is even a handy <a href="http://microformats.org/code/hcard/creator">hcard generator</a> to do the work for you. Otherwise you can review the <a href="http://microformats.org/wiki/hcard">hcard specification</a>. You can attach the class name to any element so you are free to use the full power of XHTML to display it. So now my contact details look like this:</p>
 
     <div class="vcard">
-     <a class="url fn" href="">George Ornbo</a>
+     <a class="url fn" href="/">George Ornbo</a>
      <div class="org">Shape Shed</div>
      <a class="email" href="mailto:george@shapeshed.com">george@shapeshed.com</a>
      <div class="adr">

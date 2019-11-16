@@ -1,11 +1,10 @@
-{
-  "title": "I don't sell sheds!",
-  "date": "2009-02-10T00:00:00+00:00",
-  "description": "About once a month someone contacts me trying to place an order for a shed. A real shed that you can sit in. For once and for all I want to say I don't sell sheds..",
-  "tags": [
-    "Personal"
-  ]
-}
++++
+date = "2009-02-10T00:00:00+00:00"
+description = "About once a month someone contacts me trying to place an order for a shed. A real shed that you can sit in. For once and for all I want to say I don't sell sheds.."
+tags = ["Personal"]
+title = "I don't sell sheds!"
+
++++
 <h3>Just a pseudonym</h3>
 
 <p>When I started freelancing I thought it would be good idea to trade under a pseudoym. Most of the domain names for the great ideas that I came up with were already taken so in the end I settled on Shape Shed. Not a great one but catchy enough and the .com domain was available. In my wildest dreams I couldn't imagine the fun that this would bring me from the World Wide Web.</p>

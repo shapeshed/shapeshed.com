@@ -1,13 +1,10 @@
-{
-  "title": "Installing Passenger 3 with RVM and Nginx on OSX",
-  "date": "2010-10-21T00:00:00+01:00",
-  "description": "A multi-ruby development environment on Nginx is easier than ever with the release of Passenger 3",
-  "tags": [
-    "Rails",
-    "Ruby",
-    "Nginx"
-  ]
-}
++++
+date = "2010-10-21T00:00:00+01:00"
+description = "A multi-ruby development environment on Nginx is easier than ever with the release of Passenger 3"
+tags = ["Rails", "Ruby", "Nginx"]
+title = "Installing Passenger 3 with RVM and Nginx on OSX"
+
++++
 
 ## Nginx
 

@@ -1,7 +1,8 @@
-{
-  "date": "2016-07-06T18:25:22+01:00",
-  "title": "Contact"
-}
++++
+date = "2016-07-06T18:25:22+01:00"
+title = "Contact"
+
++++
 
 * Email george at shapeshed dot com
 * [Github][2]

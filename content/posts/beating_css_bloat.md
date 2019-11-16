@@ -1,11 +1,10 @@
-{
-  "title": "Beating CSS Bloat",
-  "date": "2007-01-03T00:00:00+00:00",
-  "description": "After a hearty festive period I need to trim down my belly. Whilst I'm at it I might as well trim down a few CSS files. ",
-  "tags": [
-    "CSS"
-  ]
-}
++++
+date = "2007-01-03T00:00:00+00:00"
+description = "After a hearty festive period I need to trim down my belly. Whilst I'm at it I might as well trim down a few CSS files. "
+tags = ["CSS"]
+title = "Beating CSS Bloat"
+
++++
 It is easy to get into good practices that will lower the size of your CSS files. You will save on bandwidth and increase the download speed of your site. 
 
 ## Use CSS Shorthand

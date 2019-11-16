@@ -1,13 +1,11 @@
-{
-  "slug": "preparing-for-ie7-limiting-css-hacks",
-  "title": "Preparing for IE7 - Limiting CSS Hacks",
-  "date": "2006-09-28T00:00:00+01:00",
-  "description": "Internet Explorer 7 is just around the corner and there have been warnings from Microsoft that existing hacks will break layouts in IE7. By limiting the use of hacks your CSS can be both backwards and forwards compliant.",
-  "tags": [
-    "Browsers",
-    "CSS"
-  ]
-}
++++
+date = "2006-09-28T00:00:00+01:00"
+description = "Internet Explorer 7 is just around the corner and there have been warnings from Microsoft that existing hacks will break layouts in IE7. By limiting the use of hacks your CSS can be both backwards and forwards compliant."
+slug = "preparing-for-ie7-limiting-css-hacks"
+tags = ["Browsers", "CSS"]
+title = "Preparing for IE7 - Limiting CSS Hacks"
+
++++
 
 ## A sigh of relief
 

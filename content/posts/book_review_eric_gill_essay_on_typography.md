@@ -1,13 +1,11 @@
-{
-  "slug": "book-review-eric-gill-essay-on-typography",
-  "title": "Book Review : Eric Gill - Essay on Typography",
-  "date": "2007-03-24T00:00:00+00:00",
-  "description": "First published in 1931 Eric Gill's short book is as much an essay on culture as it is Typography. A brilliant book this still influences modern design with interesting relevance to the web.  ",
-  "tags": [
-    "Typography",
-    "Book Reviews"
-  ]
-}
++++
+date = "2007-03-24T00:00:00+00:00"
+description = "First published in 1931 Eric Gill's short book is as much an essay on culture as it is Typography. A brilliant book this still influences modern design with interesting relevance to the web.  "
+slug = "book-review-eric-gill-essay-on-typography"
+tags = ["Typography", "Book Reviews"]
+title = "Book Review : Eric Gill - Essay on Typography"
+
++++
 
 Author: Eric Gill
 

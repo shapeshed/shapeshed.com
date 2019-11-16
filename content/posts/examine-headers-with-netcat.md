@@ -1,12 +1,11 @@
-{
-  "slug": "examine-headers-with-netcat",
-  "title": "Examining request headers with netcat",
-  "date": "2014-02-19T08:38:19+00:00",
-  "description": "How to use Netcat to examine request headers from user agents or applications.",
-  "tags": [
-    "Opinion"
-  ]
-}
++++
+date = "2014-02-19T08:38:19+00:00"
+description = "How to use Netcat to examine request headers from user agents or applications."
+slug = "examine-headers-with-netcat"
+tags = ["Opinion"]
+title = "Examining request headers with netcat"
+
++++
 
 ## Outside in Request Headers
 

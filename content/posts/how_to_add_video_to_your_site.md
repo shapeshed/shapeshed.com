@@ -1,11 +1,10 @@
-{
-  "title": "How to add video to your site",
-  "date": "2007-02-04T00:00:00+00:00",
-  "description": "A few people have asked how video is used on this site. So here's an overview of how it is done and the options available to you.",
-  "tags": [
-    "Video"
-  ]
-}
++++
+date = "2007-02-04T00:00:00+00:00"
+description = "A few people have asked how video is used on this site. So here's an overview of how it is done and the options available to you."
+tags = ["Video"]
+title = "How to add video to your site"
+
++++
 
 ## The [insert video site] revolution
 

@@ -1,13 +1,12 @@
-{
-  "slug": "linux-wifi",
-  "title": "Configuring wifi in Linux with wpa_supplicant",
-  "date": "2016-09-12T00:00:00+00:00",
-  "image": "images/articles/wpa_supplicant.png",
-  "description": "Tutorial on configuring wifi in Linux using wpa_supplicant. Examples of scanning for networks, configuring a network, connecting to a network and saving configuration.",
-  "tags": [
-    "Linux"
-  ]
-}
++++
+date = "2016-09-12T00:00:00+00:00"
+description = "Tutorial on configuring wifi in Linux using wpa_supplicant. Examples of scanning for networks, configuring a network, connecting to a network and saving configuration."
+image = "images/articles/wpa_supplicant.png"
+slug = "linux-wifi"
+tags = ["Linux"]
+title = "Configuring wifi in Linux with wpa_supplicant"
+
++++
 
 ![Terminal showing wpa_supplicant man page][2]
 

@@ -1,11 +1,10 @@
-{
-  "title": "Migrating from Slicehost to Linode",
-  "date": "2011-08-29T00:00:00+01:00",
-  "description": "How I moved from Slicehost to Linode and how I did it.",
-  "tags": [
-    "UNIX"
-  ]
-}
++++
+date = "2011-08-29T00:00:00+01:00"
+description = "How I moved from Slicehost to Linode and how I did it."
+tags = ["UNIX"]
+title = "Migrating from Slicehost to Linode"
+
++++
 
 ## Slicehost was a game changer
 

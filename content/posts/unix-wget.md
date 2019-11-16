@@ -1,14 +1,12 @@
-{
-  "slug": "unix-wget",
-  "title": "Linux and Unix wget command tutorial with examples",
-  "date": "2016-09-16T00:00:00+00:00",
-  "image": "images/articles/wget.png",
-  "description": "Tutorial on using wget, a Linux and UNIX command for downloading files from the Internet. Examples of downloading a single file, downloading multiple files, resuming downloads, throttling download speeds and mirroring a remote site.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-09-16T00:00:00+00:00"
+description = "Tutorial on using wget, a Linux and UNIX command for downloading files from the Internet. Examples of downloading a single file, downloading multiple files, resuming downloads, throttling download speeds and mirroring a remote site."
+image = "images/articles/wget.png"
+slug = "unix-wget"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix wget command tutorial with examples"
+
++++
 
 ![Terminal showing wget man page][2]
 

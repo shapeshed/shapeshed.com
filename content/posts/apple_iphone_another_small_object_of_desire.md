@@ -1,12 +1,11 @@
-{
-  "slug": "apple-iphone-another-small-object-of-desire",
-  "title": "Apple iPhone - Another small object of desire",
-  "date": "2006-05-23T00:00:00+01:00",
-  "description": "Whilst on my travels today I came across this photo of an Apple iPod phone.  Yes please is all I can say. It seems that the development is not going too well and that an initial release of Q3 2006 may be delayed until 2007. \n",
-  "tags": [
-    "Apple"
-  ]
-}
++++
+date = "2006-05-23T00:00:00+01:00"
+description = "Whilst on my travels today I came across this photo of an Apple iPod phone.  Yes please is all I can say. It seems that the development is not going too well and that an initial release of Q3 2006 may be delayed until 2007. \n"
+slug = "apple-iphone-another-small-object-of-desire"
+tags = ["Apple"]
+title = "Apple iPhone - Another small object of desire"
+
++++
 
 ![iPhone][1]
 

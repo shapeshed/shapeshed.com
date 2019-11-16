@@ -1,12 +1,10 @@
-{
-  "title": "Curved boxes in CSS",
-  "date": "2007-01-28T00:00:00+00:00",
-  "description": "Curved boxes are straight forward to do in CSS. Here's a quick tutorial of how to achieve curved boxes in CSS and what's to come in CSS 3. ",
-  "tags": [
-    "CSS",
-    "XHTML"
-  ]
-}
++++
+date = "2007-01-28T00:00:00+00:00"
+description = "Curved boxes are straight forward to do in CSS. Here's a quick tutorial of how to achieve curved boxes in CSS and what's to come in CSS 3. "
+tags = ["CSS", "XHTML"]
+title = "Curved boxes in CSS"
+
++++
 
 ## What we want to achieve
 

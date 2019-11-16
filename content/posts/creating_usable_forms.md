@@ -1,12 +1,10 @@
-{
-  "title": "Creating usable forms",
-  "date": "2006-12-21T00:00:00+00:00",
-  "description": "Forms are often overlooked from a design perspective, resulting in frustrated users. With a bit of CSS and minimal effort you can easily make your forms more usable. ",
-  "tags": [
-    "CSS",
-    "Usability"
-  ]
-}
++++
+date = "2006-12-21T00:00:00+00:00"
+description = "Forms are often overlooked from a design perspective, resulting in frustrated users. With a bit of CSS and minimal effort you can easily make your forms more usable. "
+tags = ["CSS", "Usability"]
+title = "Creating usable forms"
+
++++
 
 ## Forms are too often overlooked
 

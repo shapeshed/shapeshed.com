@@ -1,10 +1,11 @@
----
-title: Vistazo goes live!
-date: '2012-04-11T14:58:05+01:00'
-tags: [vistazo]
-author: George Ornbo
-original: http://pebblecode.com/blog/vistazo-goes-live/
----
++++
+author = "George Ornbo"
+date = "2012-04-11T14:58:05+01:00"
+original = "http://pebblecode.com/blog/vistazo-goes-live/"
+tags = ["vistazo"]
+title = "Vistazo goes live!"
+
++++
 <p>Today we are proud to release our latest bouncing baby to the public.</p>
 
 <p><img src="https://media.tumblr.com/tumblr_m29f567g0p1qz7kgs.png" alt=""/></p>

@@ -1,13 +1,11 @@
-{
-  "slug": "illustrator-101-opacity-masks",
-  "title": "Illustrator 101 - Opacity Masks",
-  "date": "2007-08-16T00:00:00+01:00",
-  "description": "Opacity Masks are all over the web. Here's a short tutorial on how they work in Illustrator and how you can use them in your designs.",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator"
-  ]
-}
++++
+date = "2007-08-16T00:00:00+01:00"
+description = "Opacity Masks are all over the web. Here's a short tutorial on how they work in Illustrator and how you can use them in your designs."
+slug = "illustrator-101-opacity-masks"
+tags = ["Illustrator 101", "Illustrator"]
+title = "Illustrator 101 - Opacity Masks"
+
++++
 ## Creating highlights
 
 We are going to create a shape with a highlight using an opacity mask. If you would like to work through the example there is [an illustrator file][1] for this example. 

@@ -1,12 +1,10 @@
-{
-  "title": "How to Sync iCal and Google Calendar",
-  "date": "2007-10-22T00:00:00+01:00",
-  "description": "A short tutorial on syncing iCal with Google Calendar for free with iCal on your Mac being the master calendar.",
-  "tags": [
-    "Apple",
-    "Google"
-  ]
-}
++++
+date = "2007-10-22T00:00:00+01:00"
+description = "A short tutorial on syncing iCal with Google Calendar for free with iCal on your Mac being the master calendar."
+tags = ["Apple", "Google"]
+title = "How to Sync iCal and Google Calendar"
+
++++
 ## The setup
 
 [Google Calendar][1] is great if you want to stay in touch with your calendar when you are on the road or away from your computer. It is free and is a brilliant application. To use it you can [sign up for an account here][2]. Secondly you'll need an [iCal Exchange][3] account. iCal Exchange is a free service that provides a hosted space for your iCal calendars. 

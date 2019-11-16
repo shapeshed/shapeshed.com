@@ -1,10 +1,11 @@
----
-title: Running a designer trial
-date: '2011-10-18T10:25:00+01:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/running-a-designer-trial/
----
++++
+author = "George Ornbo"
+date = "2011-10-18T10:25:00+01:00"
+original = "http://pebblecode.com/blog/running-a-designer-trial/"
+tags = []
+title = "Running a designer trial"
+
++++
 For the last two weeks we’ve been running a paid trial for the position of Designer at pebble.code with [Mark Durrant](http://markdurrant.co.uk/) . Here’s an outline of how we ran the trial.
 
 ### Two weeks

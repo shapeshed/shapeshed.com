@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-history-brush-tool",
-  "title": "Photoshop 101 - The History Brush Tool",
-  "date": "2006-11-24T00:00:00+00:00",
-  "description": "The History Brush Tool allows you to paint and reveal previous states of images. This can be very useful in creating effects.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-11-24T00:00:00+00:00"
+description = "The History Brush Tool allows you to paint and reveal previous states of images. This can be very useful in creating effects."
+slug = "photoshop-101-the-history-brush-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The History Brush Tool"
+
++++
 
 ## Revealing previous states of images
 

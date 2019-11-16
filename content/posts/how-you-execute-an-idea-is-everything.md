@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- Opinion
-date: 2016-07-01T00:00:00Z
-title: How you execute an idea is everything
-description: The time when startups had an uncontested market for their idea is mostly over. In the winner takes all economy how you execute your idea is everything.
-original: http://pebblecode.com/blog/how-you-execute-an-idea-is-everything/
----
++++
+author = "George Ornbo"
+date = "2016-07-01T00:00:00Z"
+description = "The time when startups had an uncontested market for their idea is mostly over. In the winner takes all economy how you execute your idea is everything."
+original = "http://pebblecode.com/blog/how-you-execute-an-idea-is-everything/"
+tags = ["Opinion"]
+title = "How you execute an idea is everything"
+
++++
 
 ## Ideas are cheap
 

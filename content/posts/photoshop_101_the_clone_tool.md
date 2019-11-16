@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-clone-tool",
-  "title": "Photoshop 101 - The Clone Tool",
-  "date": "2006-11-19T00:00:00+00:00",
-  "description": "The clone tool allows you to retouch images and remove blemishes. Understanding how it works will allow you to adapt images to your requirements.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-11-19T00:00:00+00:00"
+description = "The clone tool allows you to retouch images and remove blemishes. Understanding how it works will allow you to adapt images to your requirements."
+slug = "photoshop-101-the-clone-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Clone Tool"
+
++++
 
 ## Cloning parts of images
 

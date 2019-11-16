@@ -1,13 +1,11 @@
-{
-  "slug": "html5-battery-api",
-  "title": "HTML5 Battery Status API",
-  "date": "2014-01-13T21:34:15+00:00",
-  "description": "The HTML5 Battery Status API allows you to access information about the battery status of a machine through a browser.",
-  "tags": [
-    "HTML",
-    "JavaScript"
-  ]
-}
++++
+date = "2014-01-13T21:34:15+00:00"
+description = "The HTML5 Battery Status API allows you to access information about the battery status of a machine through a browser."
+slug = "html5-battery-api"
+tags = ["HTML", "JavaScript"]
+title = "HTML5 Battery Status API"
+
++++
 
 ## How much charge do we have?
 

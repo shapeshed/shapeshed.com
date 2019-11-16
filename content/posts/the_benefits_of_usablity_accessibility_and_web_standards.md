@@ -1,13 +1,10 @@
-{
-  "title": "The Benefits of Usablity, Accessibility and Web Standards",
-  "date": "2006-09-24T00:00:00+01:00",
-  "description": "Sourcing a professional web developer can be daunting task for clients. This article is a guide for clients and outlines the many benefits of employing a professional Agency focussing on Usability, Accessiblity and Web Standards. ",
-  "tags": [
-    "Web Standards",
-    "Accessibility",
-    "Usability"
-  ]
-}
++++
+date = "2006-09-24T00:00:00+01:00"
+description = "Sourcing a professional web developer can be daunting task for clients. This article is a guide for clients and outlines the many benefits of employing a professional Agency focussing on Usability, Accessiblity and Web Standards. "
+tags = ["Web Standards", "Accessibility", "Usability"]
+title = "The Benefits of Usablity, Accessibility and Web Standards"
+
++++
 
 ## Usability
 

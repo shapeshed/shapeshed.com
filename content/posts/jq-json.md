@@ -1,13 +1,12 @@
-{
-  "slug": "jq-json",
-  "title": "JSON on the command line with jq",
-  "date": "2016-08-05T00:00:00+00:00",
-  "image": "images/articles/jq.png",
-  "description": "A series of how to examples on using jq, a command-line JSON processor",
-  "tags": [
-    "UNIX"
-  ]
-}
++++
+date = "2016-08-05T00:00:00+00:00"
+description = "A series of how to examples on using jq, a command-line JSON processor"
+image = "images/articles/jq.png"
+slug = "jq-json"
+tags = ["UNIX"]
+title = "JSON on the command line with jq"
+
++++
 
 ![jq - JSON formatting tool][6]
 

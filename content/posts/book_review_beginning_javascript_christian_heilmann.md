@@ -1,14 +1,11 @@
-{
-  "slug": "book-review-beginning-javascript-christian-heilmann",
-  "title": "Book Review : Beginning Javascript - Christian Heilmann",
-  "date": "2007-04-23T00:00:00+01:00",
-  "description": "Christian Heilmann's book is a great grounding for exploring Javascript further. It covers best practice techniques and solutions to real world problems.  ",
-  "tags": [
-    "JavaScript",
-    "DOM",
-    "Book Reviews"
-  ]
-}
++++
+date = "2007-04-23T00:00:00+01:00"
+description = "Christian Heilmann's book is a great grounding for exploring Javascript further. It covers best practice techniques and solutions to real world problems.  "
+slug = "book-review-beginning-javascript-christian-heilmann"
+tags = ["JavaScript", "DOM", "Book Reviews"]
+title = "Book Review : Beginning Javascript - Christian Heilmann"
+
++++
 
 Author: Christian Heilmann
 

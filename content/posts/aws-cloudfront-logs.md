@@ -1,15 +1,12 @@
-{
-  "slug": "aws-cloudfront-log",
-  "title": "Configuring and working with Cloudfront Logs",
-  "date": "2016-09-20T00:00:00+00:00",
-  "image": "images/articles/aws-lifecycle.png",
-  "description": "Example of how to setup Cloudfront to log to S3, enable log rotation and how to download and work with combined Cloudfront log files.",
-  "tags": [
-    "UNIX",
-    "Linux",
-    "AWS"
-  ]
-}
++++
+date = "2016-09-20T00:00:00+00:00"
+description = "Example of how to setup Cloudfront to log to S3, enable log rotation and how to download and work with combined Cloudfront log files."
+image = "images/articles/aws-lifecycle.png"
+slug = "aws-cloudfront-log"
+tags = ["UNIX", "Linux", "AWS"]
+title = "Configuring and working with Cloudfront Logs"
+
++++
 
 ## Setting up logging on Cloudfront
 

@@ -1,10 +1,11 @@
----
-title: On Technical Debt
-date: '2011-10-18T10:24:00+01:00'
-tags: ['programming']
-author: George Ornbo
-original: http://pebblecode.com/blog/on-technical-debt/
----
++++
+author = "George Ornbo"
+date = "2011-10-18T10:24:00+01:00"
+original = "http://pebblecode.com/blog/on-technical-debt/"
+tags = ["programming"]
+title = "On Technical Debt"
+
++++
 <p>Listening to a <a href="http://rubyrogues.com/technical-debt/">recent Ruby Rogues podcast</a> the topic of Technical Debt came up that really rang true for many of our projects and clients.</p>
 <h3>Making Agile Decisions</h3>
 <p>The discussion notes that the point of Agile is to get a product to market as quickly as possible to prove the business value or otherwise of an idea. In the course of an Agile project decisions are made to facilitate this. It might be a quick and dirty feature, not having full test coverage or hacking together a quick library to support a feature going into production.</p>

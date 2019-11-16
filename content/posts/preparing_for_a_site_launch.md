@@ -1,13 +1,10 @@
-{
-  "title": "Preparing for a site launch",
-  "date": "2007-06-09T00:00:00+01:00",
-  "description": "Creating a website is often a chaotic process. As the deadline looms it is easy to let quality slip. Here is the checklist I follow to ensure things are not left out. ",
-  "tags": [
-    "CSS",
-    "XHTML",
-    "Opinion"
-  ]
-}
++++
+date = "2007-06-09T00:00:00+01:00"
+description = "Creating a website is often a chaotic process. As the deadline looms it is easy to let quality slip. Here is the checklist I follow to ensure things are not left out. "
+tags = ["CSS", "XHTML", "Opinion"]
+title = "Preparing for a site launch"
+
++++
 
 ## Final cross browser test
 

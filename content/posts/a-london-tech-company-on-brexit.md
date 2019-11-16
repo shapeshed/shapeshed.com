@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- Opinion
-date: 2016-06-24T00:00:00Z
-title: A London Tech Company on Brexit
-original: http://pebblecode.com/blog/a-london-tech-company-on-brexit/
-description: A sombre office resounds disbelief and concern for the London Technology Scene.
----
++++
+author = "George Ornbo"
+date = "2016-06-24T00:00:00Z"
+description = "A sombre office resounds disbelief and concern for the London Technology Scene."
+original = "http://pebblecode.com/blog/a-london-tech-company-on-brexit/"
+tags = ["Opinion"]
+title = "A London Tech Company on Brexit"
+
++++
 
 ## A diverse team
 

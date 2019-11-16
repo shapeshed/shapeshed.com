@@ -1,12 +1,10 @@
-{
-  "title": "Batch resizing in Photoshop",
-  "date": "2008-05-22T00:00:00+01:00",
-  "description": "If you have lots of images you want to resize Photoshop can take care of it for you. Using Actions and Automate you can do it once then put your feet up. Here's how it works.",
-  "tags": [
-    "Design",
-    "Photoshop"
-  ]
-}
++++
+date = "2008-05-22T00:00:00+01:00"
+description = "If you have lots of images you want to resize Photoshop can take care of it for you. Using Actions and Automate you can do it once then put your feet up. Here's how it works."
+tags = ["Design", "Photoshop"]
+title = "Batch resizing in Photoshop"
+
++++
 
 ## The scenario
 

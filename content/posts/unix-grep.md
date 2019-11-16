@@ -1,14 +1,12 @@
-{
-  "slug": "unix-grep",
-  "title": "Linux and Unix grep command tutorial with examples",
-  "date": "2016-08-03T00:00:00+00:00",
-  "image": "images/articles/grep.png",
-  "description": "Tutorial using grep, a UNIX and Linux command to print lines matching a pattern. Examples of finding text in a file, printing line numbers, counting the number of matches, searching recursively and ignoring case sensitivity.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-08-03T00:00:00+00:00"
+description = "Tutorial using grep, a UNIX and Linux command to print lines matching a pattern. Examples of finding text in a file, printing line numbers, counting the number of matches, searching recursively and ignoring case sensitivity."
+image = "images/articles/grep.png"
+slug = "unix-grep"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix grep command tutorial with examples"
+
++++
 
 ![grep man page][2]
 

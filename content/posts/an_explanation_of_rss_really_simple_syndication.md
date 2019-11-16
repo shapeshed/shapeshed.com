@@ -1,11 +1,10 @@
-{
-  "title": "An Explanation of RSS (Really Simple Syndication)",
-  "date": "2006-07-04T00:00:00+01:00",
-  "description": "A non-technical explantion of RSS (Really Simple Syndication) for clients and anyone else who is interested.",
-  "tags": [
-    "RSS"
-  ]
-}
++++
+date = "2006-07-04T00:00:00+01:00"
+description = "A non-technical explantion of RSS (Really Simple Syndication) for clients and anyone else who is interested."
+tags = ["RSS"]
+title = "An Explanation of RSS (Really Simple Syndication)"
+
++++
 			
 Really Simple Syndication is a technology that has existed on the web for a few years. This is a non-techincal explanation of what it is and how it works. In short it does two things:
 

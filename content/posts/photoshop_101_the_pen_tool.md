@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-pen-tool",
-  "title": "Photoshop 101 - The Pen Tool",
-  "date": "2007-02-26T00:00:00+00:00",
-  "description": "My favorite tool of all the pen tool allows you maximum control over drawing shapes and paths. It can be a little tricky to master at first but once you are up and running you won't look back. ",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2007-02-26T00:00:00+00:00"
+description = "My favorite tool of all the pen tool allows you maximum control over drawing shapes and paths. It can be a little tricky to master at first but once you are up and running you won't look back. "
+slug = "photoshop-101-the-pen-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Pen Tool"
+
++++
 
 ## A versatile tool
 

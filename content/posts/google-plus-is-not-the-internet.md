@@ -1,12 +1,10 @@
-{
-  "title": "Google Plus is not the Internet",
-  "date": "2013-03-20T12:20:50+00:00",
-  "description": "The mothballing of Google Reader is another sign that the strategy for Google+ is to become an end-to-end content platform. The is a real danger that open technologies could become Google APIs.",
-  "tags": [
-    "Google",
-    "Opinion"
-  ]
-}
++++
+date = "2013-03-20T12:20:50+00:00"
+description = "The mothballing of Google Reader is another sign that the strategy for Google+ is to become an end-to-end content platform. The is a real danger that open technologies could become Google APIs."
+tags = ["Google", "Opinion"]
+title = "Google Plus is not the Internet"
+
++++
 
 ## So long Google Reader
 

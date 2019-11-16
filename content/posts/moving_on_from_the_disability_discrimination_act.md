@@ -1,11 +1,10 @@
-{
-  "title": "Moving On From The Disability Discrimination Act",
-  "date": "2006-07-19T00:00:00+01:00",
-  "description": "An article entitled e-Government, public services and older people by David Sinclair, Senior Policy Manager at Help the Aged outlines how the web continues to fail older people. Not just confined to the Public Sector this raises questions about exisiting legislation in the UK to deal with inaccessible websites.",
-  "tags": [
-    "Accessibility"
-  ]
-}
++++
+date = "2006-07-19T00:00:00+01:00"
+description = "An article entitled e-Government, public services and older people by David Sinclair, Senior Policy Manager at Help the Aged outlines how the web continues to fail older people. Not just confined to the Public Sector this raises questions about exisiting legislation in the UK to deal with inaccessible websites."
+tags = ["Accessibility"]
+title = "Moving On From The Disability Discrimination Act"
+
++++
 
 In a recent article [e-Government, public services and older people][1] by David Sinclair, Senior Policy Manager at Help the Aged writes:
 

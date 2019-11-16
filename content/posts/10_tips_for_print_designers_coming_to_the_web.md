@@ -1,11 +1,10 @@
-{
-  "title": "10 Tips For Print Designers Coming To The Web",
-  "date": "2006-09-08T00:00:00+01:00",
-  "description": "More and more print designers are making the switch to the web which is breathing life and creativity into designs around the web. Often however print designers are unaware that the medium is very different from the print environment. Here are ten tips to get your design for the web on the right track.",
-  "tags": [
-    "Design"
-  ]
-}
++++
+date = "2006-09-08T00:00:00+01:00"
+description = "More and more print designers are making the switch to the web which is breathing life and creativity into designs around the web. Often however print designers are unaware that the medium is very different from the print environment. Here are ten tips to get your design for the web on the right track."
+tags = ["Design"]
+title = "10 Tips For Print Designers Coming To The Web"
+
++++
 
 ## Meet pixels
 

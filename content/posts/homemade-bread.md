@@ -1,11 +1,10 @@
-{
-  "title": "Homemade bread",
-  "date": "2014-01-06T20:30:00+00:00",
-  "description": "Time to make a tasty loaf with a really simple recipe. Roll up your sleeves and get your hands dirty.",
-  "tags": [
-    "Food"
-  ]
-}
++++
+date = "2014-01-06T20:30:00+00:00"
+description = "Time to make a tasty loaf with a really simple recipe. Roll up your sleeves and get your hands dirty."
+tags = ["Food"]
+title = "Homemade bread"
+
++++
 
 ## Make things with your hands
 

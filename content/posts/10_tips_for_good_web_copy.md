@@ -1,11 +1,10 @@
-{
-  "title": "10 Tips for Good Web Copy",
-  "date": "2006-10-11T00:00:00+01:00",
-  "description": "Well written copy is often overlooked but is an integral part of a successful website. Here are 10 tips to tighten up your copy. ",
-  "tags": [
-    "Copy"
-  ]
-}
++++
+date = "2006-10-11T00:00:00+01:00"
+description = "Well written copy is often overlooked but is an integral part of a successful website. Here are 10 tips to tighten up your copy. "
+tags = ["Copy"]
+title = "10 Tips for Good Web Copy"
+
++++
 ## Keep it short
 
 One of the most common mistakes of web copy is that it is too long. There have been several [studies][1] showing people read a lot less on the web and will leave a site if they cannot find what they are looking for. Pages that scroll and scroll are unlikely to be read. Instead place a link to a downloadable .pdf file.

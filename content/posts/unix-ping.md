@@ -1,14 +1,12 @@
-{
-  "slug": "unix-ping",
-  "title": "Linux and Unix ping command tutorial with examples",
-  "date": "2016-08-25T00:00:00+00:00",
-  "image": "images/articles/ping.png",
-  "description": "Tutorial on using ping, a UNIX and Linux command for sending ICMP ECHO_REQUEST packets to network hosts. Examples of checking if a remote host is up and limiting to IPv4 and IPv6 requests.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-08-25T00:00:00+00:00"
+description = "Tutorial on using ping, a UNIX and Linux command for sending ICMP ECHO_REQUEST packets to network hosts. Examples of checking if a remote host is up and limiting to IPv4 and IPv6 requests."
+image = "images/articles/ping.png"
+slug = "unix-ping"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix ping command tutorial with examples"
+
++++
 
 ![Terminal showing ping man page][2]
 

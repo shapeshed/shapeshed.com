@@ -1,13 +1,10 @@
-{
-  "title": "Better coding with Fangs",
-  "date": "2006-04-10T00:00:00+01:00",
-  "description": "Until today I wasn't aware of the Fangs plugin for Firefox. Whilst reading an article on evaluating accessibility over at 456 Berea Street I came across the plugin.",
-  "tags": [
-    "Browsers",
-    "CSS",
-    "XHTML"
-  ]
-}
++++
+date = "2006-04-10T00:00:00+01:00"
+description = "Until today I wasn't aware of the Fangs plugin for Firefox. Whilst reading an article on evaluating accessibility over at 456 Berea Street I came across the plugin."
+tags = ["Browsers", "CSS", "XHTML"]
+title = "Better coding with Fangs"
+
++++
 
 Roger at <a href="http://www.456bereastreet.com/">456 Berea Street</a> recommends that developers use the <a href="http://www.standards-schmandards.com/index.php?2004/11/22/8-fangs-release-05">fangs</a> plugin to assess accessibility and I fully concur with him. What the plugin does is to give you a representation of how screen readers will see your site. I have been using the Lynx browser to try and emulate this but this is much better.
 

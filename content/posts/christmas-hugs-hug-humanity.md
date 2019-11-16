@@ -1,11 +1,12 @@
----
-author: George Ornbo
-tags: ["Christmas"]
-date: 2013-12-16T20:26:00Z
-title: Christmas Hugs - Hug Humanity
-slug: christmas-hugs-hug-humanity
-original: http://pebblecode.com/blog/christmas-hugs-hug-humanity/
----
++++
+author = "George Ornbo"
+date = "2013-12-16T20:26:00Z"
+original = "http://pebblecode.com/blog/christmas-hugs-hug-humanity/"
+slug = "christmas-hugs-hug-humanity"
+tags = ["Christmas"]
+title = "Christmas Hugs - Hug Humanity"
+
++++
 
 <h3>Hugs for everyone</h3>
 

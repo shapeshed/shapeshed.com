@@ -1,12 +1,11 @@
-{
-  "slug": "illustrator-101-the-type-tool",
-  "title": "Illustrator 101 - The Type Tool",
-  "date": "2007-06-22T00:00:00+01:00",
-  "description": "Controlling typography is easy with the Type Tool but there are also some less well known features that can enhance your designs and save time. ",
-  "tags": [
-    "Illustrator 101"
-  ]
-}
++++
+date = "2007-06-22T00:00:00+01:00"
+description = "Controlling typography is easy with the Type Tool but there are also some less well known features that can enhance your designs and save time. "
+slug = "illustrator-101-the-type-tool"
+tags = ["Illustrator 101"]
+title = "Illustrator 101 - The Type Tool"
+
++++
 
 ## The Basics
 

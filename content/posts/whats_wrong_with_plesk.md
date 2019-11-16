@@ -1,14 +1,10 @@
-{
-  "title": "What's wrong with Plesk",
-  "date": "2007-12-05T00:00:00+00:00",
-  "description": "Increasingly I'm growing disillusioned with Plesk and SWsoft the company behind it. For me it is a stagnant product and a lack of competition is the root cause. ",
-  "tags": [
-    "Media Temple",
-    "Plesk",
-    "Linux",
-    "Opinion"
-  ]
-}
++++
+date = "2007-12-05T00:00:00+00:00"
+description = "Increasingly I'm growing disillusioned with Plesk and SWsoft the company behind it. For me it is a stagnant product and a lack of competition is the root cause. "
+tags = ["Media Temple", "Plesk", "Linux", "Opinion"]
+title = "What's wrong with Plesk"
+
++++
 
 ## The good part
 

@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-eraser-tool",
-  "title": "Photoshop 101 - The Eraser Tool",
-  "date": "2006-12-06T00:00:00+00:00",
-  "description": "A common task in Photoshop is to remove pixels entirely from images. The Eraser tool offers a number of techniques to achieve this. ",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-12-06T00:00:00+00:00"
+description = "A common task in Photoshop is to remove pixels entirely from images. The Eraser tool offers a number of techniques to achieve this. "
+slug = "photoshop-101-the-eraser-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Eraser Tool"
+
++++
 
 ## Removing sections of images
 

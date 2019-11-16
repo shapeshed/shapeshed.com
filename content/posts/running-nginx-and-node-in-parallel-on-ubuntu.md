@@ -1,14 +1,11 @@
-{
-  "slug": "running-nginx-and-node-in-parallel-on-ubuntu",
-  "title": "Running Nginx and Node.js in parallel on Ubuntu",
-  "date": "2012-05-31T00:00:00+01:00",
-  "description": "How to run Nginx and Node.js in parallel on Ubuntu",
-  "tags": [
-    "Node.js",
-    "Nginx",
-    "UNIX"
-  ]
-}
++++
+date = "2012-05-31T00:00:00+01:00"
+description = "How to run Nginx and Node.js in parallel on Ubuntu"
+slug = "running-nginx-and-node-in-parallel-on-ubuntu"
+tags = ["Node.js", "Nginx", "UNIX"]
+title = "Running Nginx and Node.js in parallel on Ubuntu"
+
++++
 
 ## Nginx and Node.js
 

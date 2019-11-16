@@ -1,13 +1,10 @@
-{
-  "title": "Sass is a beautiful thing",
-  "date": "2009-11-16T00:00:00+00:00",
-  "description": "Sass, or Syntactically Awesome Stylesheets, is a great tool to make managing CSS files more intelligent and easier to maintain.",
-  "tags": [
-    "Rails",
-    "Ruby",
-    "CSS"
-  ]
-}
++++
+date = "2009-11-16T00:00:00+00:00"
+description = "Sass, or Syntactically Awesome Stylesheets, is a great tool to make managing CSS files more intelligent and easier to maintain."
+tags = ["Rails", "Ruby", "CSS"]
+title = "Sass is a beautiful thing"
+
++++
 
 ## Managing CSS Files
 

@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-healing-brush-tool",
-  "title": "Photoshop 101 - The Healing Brush Tool",
-  "date": "2006-11-05T00:00:00+00:00",
-  "description": "Primarily an artworking and retouching tool, the Healing Brush allows you to correct blemishes and errors and remove parts of your photos and images. \n",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-11-05T00:00:00+00:00"
+description = "Primarily an artworking and retouching tool, the Healing Brush allows you to correct blemishes and errors and remove parts of your photos and images. \n"
+slug = "photoshop-101-the-healing-brush-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Healing Brush Tool"
+
++++
 
 The Healing Brush is similar to the Clone Stamp Tool in that it is used to sample from an image to correct or enhance other areas of the image. It samples the colour, luminosity and texture of the source area separately and blends it with the destination area. This means you can get excellent results without having to do things manually. 
 

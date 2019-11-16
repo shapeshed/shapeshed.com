@@ -1,13 +1,10 @@
-{
-  "title": "Web Standards in Email Clients",
-  "date": "2007-11-28T00:00:00+00:00",
-  "description": "Fed up of writing Web 0.1 HTML for emails? You are not alone. Join the campaign to sort out standards support in HTML clients.",
-  "tags": [
-    "XHTML",
-    "Web Standards",
-    "CSS"
-  ]
-}
++++
+date = "2007-11-28T00:00:00+00:00"
+description = "Fed up of writing Web 0.1 HTML for emails? You are not alone. Join the campaign to sort out standards support in HTML clients."
+tags = ["XHTML", "Web Standards", "CSS"]
+title = "Web Standards in Email Clients"
+
++++
 ## Back to the Old Skool
 
 If you've ever coded an HTML email you'll be aware that you have to throw all the things you learned at Web Standards school out of the window. Forget the following:

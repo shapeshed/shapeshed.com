@@ -1,13 +1,11 @@
-{
-  "slug": "illustrator-101-the-lasso-tool",
-  "title": "Illustrator 101 - The Lasso Tool",
-  "date": "2007-05-22T00:00:00+01:00",
-  "description": "The final selection tool this allows you to select using a freehand shape. Very useful for intricate drawings it can be much quicker than the other selection tools.",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator"
-  ]
-}
++++
+date = "2007-05-22T00:00:00+01:00"
+description = "The final selection tool this allows you to select using a freehand shape. Very useful for intricate drawings it can be much quicker than the other selection tools."
+slug = "illustrator-101-the-lasso-tool"
+tags = ["Illustrator 101", "Illustrator"]
+title = "Illustrator 101 - The Lasso Tool"
+
++++
 
 ## Freehand selection
 

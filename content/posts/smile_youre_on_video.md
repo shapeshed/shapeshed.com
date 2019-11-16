@@ -1,12 +1,10 @@
-{
-  "title": "Smile You're on Video",
-  "date": "2010-05-20T00:00:00+01:00",
-  "description": "In a big step for the open web Google open sourced the VP8 video codec yesterday at the I/O conference in San Francisco.",
-  "tags": [
-    "Google",
-    "HTML5"
-  ]
-}
++++
+date = "2010-05-20T00:00:00+01:00"
+description = "In a big step for the open web Google open sourced the VP8 video codec yesterday at the I/O conference in San Francisco."
+tags = ["Google", "HTML5"]
+title = "Smile You're on Video"
+
++++
 
 ## An attempt to solve the video issue
 

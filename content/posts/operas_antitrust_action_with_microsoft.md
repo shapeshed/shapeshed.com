@@ -1,14 +1,10 @@
-{
-  "title": "Opera's Antitrust Action With Microsoft",
-  "date": "2007-12-14T00:00:00+00:00",
-  "description": "Opera have filed an antitrust complaint with the European Commission stating that Microsoft is abusing its market position by selling the Windows operating system together with its Internet Explorer browser.",
-  "tags": [
-    "Browsers",
-    "Microsoft",
-    "Opinion",
-    "Web Standards"
-  ]
-}
++++
+date = "2007-12-14T00:00:00+00:00"
+description = "Opera have filed an antitrust complaint with the European Commission stating that Microsoft is abusing its market position by selling the Windows operating system together with its Internet Explorer browser."
+tags = ["Browsers", "Microsoft", "Opinion", "Web Standards"]
+title = "Opera's Antitrust Action With Microsoft"
+
++++
 
 Opera have fired the latest salvo in the Browser Wars by [filing a complaint][1] with the European Commission.
 

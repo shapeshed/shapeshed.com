@@ -1,12 +1,10 @@
-{
-  "title": "Book Review: Prioritizing Web Usability",
-  "date": "2007-09-21T00:00:00+01:00",
-  "description": "Neilsen delivers another brilliant book full of timely advice to help avoid common usability mistakes. A must read.",
-  "tags": [
-    "Book Reviews",
-    "Usability"
-  ]
-}
++++
+date = "2007-09-21T00:00:00+01:00"
+description = "Neilsen delivers another brilliant book full of timely advice to help avoid common usability mistakes. A must read."
+tags = ["Book Reviews", "Usability"]
+title = "Book Review: Prioritizing Web Usability"
+
++++
 
 Author: Jakob Nielsen & Hoa Loranger
 

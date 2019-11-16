@@ -1,12 +1,10 @@
-{
-  "title": "Vim eighteen months on",
-  "date": "2011-03-21T00:00:00+00:00",
-  "description": "I switched to Vim for editing text about 18 months ago. Here's an overview of my experience.",
-  "tags": [
-    "UNIX",
-    "Vim"
-  ]
-}
++++
+date = "2011-03-21T00:00:00+00:00"
+description = "I switched to Vim for editing text about 18 months ago. Here's an overview of my experience."
+tags = ["UNIX", "Vim"]
+title = "Vim eighteen months on"
+
++++
 
 ## Goodbye TextMate?
 

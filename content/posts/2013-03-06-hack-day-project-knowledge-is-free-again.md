@@ -1,10 +1,11 @@
----
-title: 'Hack Day Project: Knowledge is free again'
-date: '2013-03-06T09:46:31+00:00'
-tags: [hacks]
-author: George Ornbo
-original: http://pebblecode.com/blog/hack-day-project-knowledge-is-free-again/
----
++++
+author = "George Ornbo"
+date = "2013-03-06T09:46:31+00:00"
+original = "http://pebblecode.com/blog/hack-day-project-knowledge-is-free-again/"
+tags = ["hacks"]
+title = "Hack Day Project: Knowledge is free again"
+
++++
 <p><img src="https://media.tumblr.com/28c3a2564a9b25655113beb15ae2630b/tumblr_inline_mj8gcmPEvf1qz4rgp.png" alt=""/></p>
 
 <h2>The idea(s)</h2>

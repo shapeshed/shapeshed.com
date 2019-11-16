@@ -1,12 +1,10 @@
-{
-  "title": "Deploying ExpressionEngine with Git and Capistrano",
-  "date": "2009-03-16T00:00:00+00:00",
-  "description": "A tutorial on how to publish an ExpressionEngine website using Git and Capistrano.",
-  "tags": [
-    "Linux",
-    "ExpressionEngine"
-  ]
-}
++++
+date = "2009-03-16T00:00:00+00:00"
+description = "A tutorial on how to publish an ExpressionEngine website using Git and Capistrano."
+tags = ["Linux", "ExpressionEngine"]
+title = "Deploying ExpressionEngine with Git and Capistrano"
+
++++
 
 ## Prerequisites
 

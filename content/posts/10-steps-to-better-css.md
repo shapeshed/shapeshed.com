@@ -1,12 +1,11 @@
-{
-  "slug": "10-steps-to-better-css",
-  "title": "10 Steps to Better CSS",
-  "date": "2006-11-15T00:00:00+00:00",
-  "description": "Coding CSS can quickly get out of control. By following a few simple guidelines you can make your life a lot easier.",
-  "tags": [
-    "CSS"
-  ]
-}
++++
+date = "2006-11-15T00:00:00+00:00"
+description = "Coding CSS can quickly get out of control. By following a few simple guidelines you can make your life a lot easier."
+slug = "10-steps-to-better-css"
+tags = ["CSS"]
+title = "10 Steps to Better CSS"
+
++++
 
 ## Organise your stylesheets
 

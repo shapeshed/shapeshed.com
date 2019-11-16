@@ -1,12 +1,10 @@
-{
-  "title": "Websites on mobile phones",
-  "date": "2006-05-16T00:00:00+01:00",
-  "description": "With mobile access to the web becoming more prolific it may well be the time for businesses to ensure that their online presence covers delivery over mobile platforms. The good news is that if the site is build using modern methods it is relatively easy and cheap to do.",
-  "tags": [
-    "XHTML",
-    "CSS"
-  ]
-}
++++
+date = "2006-05-16T00:00:00+01:00"
+description = "With mobile access to the web becoming more prolific it may well be the time for businesses to ensure that their online presence covers delivery over mobile platforms. The good news is that if the site is build using modern methods it is relatively easy and cheap to do."
+tags = ["XHTML", "CSS"]
+title = "Websites on mobile phones"
+
++++
 
 The display of websites are typically controlled by stylesheets. Stylesheets tell the browsers how and where to display elements on a page. To create a mobile site it is simply a case of creating a new stylesheet for delivery on mobile platforms.
 

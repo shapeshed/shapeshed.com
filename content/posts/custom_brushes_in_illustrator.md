@@ -1,12 +1,10 @@
-{
-  "title": "Custom brushes in Illustrator",
-  "date": "2007-07-06T00:00:00+01:00",
-  "description": "Custom Brushes in Illustrator are an excellent way to add to designs. Here's a short tutorial how they work and how to use them.",
-  "tags": [
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-07-06T00:00:00+01:00"
+description = "Custom Brushes in Illustrator are an excellent way to add to designs. Here's a short tutorial how they work and how to use them."
+tags = ["Illustrator", "Design"]
+title = "Custom brushes in Illustrator"
+
++++
 
 In this tutorial we are going to show how to create a simple brush that will create a starry sky for a nighttime illustration. This tutorial will focus on scatter brushes.
 

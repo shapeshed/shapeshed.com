@@ -1,11 +1,10 @@
-{
-  "title": "My life, my data",
-  "date": "2008-01-11T00:00:00+00:00",
-  "description": "Data portability is one of the biggest issues facing the web in the next year or so. Applications need to concede that users own their information and should be able to share it and move it between applications easily. ",
-  "tags": [
-    "Opinion"
-  ]
-}
++++
+date = "2008-01-11T00:00:00+00:00"
+description = "Data portability is one of the biggest issues facing the web in the next year or so. Applications need to concede that users own their information and should be able to share it and move it between applications easily. "
+tags = ["Opinion"]
+title = "My life, my data"
+
++++
 
 ## Web Applications
 

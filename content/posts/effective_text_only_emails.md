@@ -1,11 +1,10 @@
-{
-  "title": "Effective text only emails",
-  "date": "2008-04-03T00:00:00+01:00",
-  "description": "Text only emails are a reliable alternative to HTML emails. They work in any email client and can be read by all. Here are some tips on how to make text only emails more user friendly. ",
-  "tags": [
-    "Usability"
-  ]
-}
++++
+date = "2008-04-03T00:00:00+01:00"
+description = "Text only emails are a reliable alternative to HTML emails. They work in any email client and can be read by all. Here are some tips on how to make text only emails more user friendly. "
+tags = ["Usability"]
+title = "Effective text only emails"
+
++++
 
 ## Structure content
 

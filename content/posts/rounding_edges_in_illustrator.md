@@ -1,12 +1,10 @@
-{
-  "title": "Rounding edges in Illustrator",
-  "date": "2007-07-07T00:00:00+01:00",
-  "description": "Using a simple technique you can round the edges of pretty much anything in Illustrator. Furthermore with the Graphic Styles Panel you can reuse your style over and over again.",
-  "tags": [
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-07-07T00:00:00+01:00"
+description = "Using a simple technique you can round the edges of pretty much anything in Illustrator. Furthermore with the Graphic Styles Panel you can reuse your style over and over again."
+tags = ["Illustrator", "Design"]
+title = "Rounding edges in Illustrator"
+
++++
 
 Here's the [Illustrator file][1] for these examples
 

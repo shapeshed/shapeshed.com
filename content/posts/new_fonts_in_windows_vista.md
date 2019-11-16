@@ -1,12 +1,10 @@
-{
-  "title": "New fonts in Windows Vista",
-  "date": "2007-01-29T00:00:00+00:00",
-  "description": "A tour of the new fonts in Windows Vista. We can use more fonts!",
-  "tags": [
-    "Microsoft",
-    "Typography"
-  ]
-}
++++
+date = "2007-01-29T00:00:00+00:00"
+description = "A tour of the new fonts in Windows Vista. We can use more fonts!"
+tags = ["Microsoft", "Typography"]
+title = "New fonts in Windows Vista"
+
++++
 
 Here they are:
 

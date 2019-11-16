@@ -1,12 +1,10 @@
-{
-  "title": "Realistic highlights in Illustrator",
-  "date": "2008-01-17T00:00:00+00:00",
-  "description": "A short tutorial on creating realistic highlights in Illustrator using clipping masks. The tutorial covers creating a path, adding a gradient and then creating a clipping mask. ",
-  "tags": [
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2008-01-17T00:00:00+00:00"
+description = "A short tutorial on creating realistic highlights in Illustrator using clipping masks. The tutorial covers creating a path, adding a gradient and then creating a clipping mask. "
+tags = ["Illustrator", "Design"]
+title = "Realistic highlights in Illustrator"
+
++++
 
 ## An example
 

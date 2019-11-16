@@ -1,14 +1,12 @@
-{
-  "slug": "unix-shuf",
-  "title": "Linux and Unix shuf command tutorial with examples",
-  "date": "2016-08-09T00:00:00+00:00",
-  "image": "images/articles/shuf.png",
-  "description": "Tutorial on using shuf, a UNIX and Linux command for generating random permutations. Examples of shuffling the lines in a file, picking a random line and shuffling standard input.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-08-09T00:00:00+00:00"
+description = "Tutorial on using shuf, a UNIX and Linux command for generating random permutations. Examples of shuffling the lines in a file, picking a random line and shuffling standard input."
+image = "images/articles/shuf.png"
+slug = "unix-shuf"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix shuf command tutorial with examples"
+
++++
 
 ![shuf man page][1]
 

@@ -1,11 +1,10 @@
-{
-  "title": "Looking through grid-tinted glasses",
-  "date": "2008-06-04T00:00:00+01:00",
-  "description": "Grids are everywhere in the world. Appreciating grids can give you a visual language to understand how many designs work and in my opinion can help you greatly improve your own designs.",
-  "tags": [
-    "Design"
-  ]
-}
++++
+date = "2008-06-04T00:00:00+01:00"
+description = "Grids are everywhere in the world. Appreciating grids can give you a visual language to understand how many designs work and in my opinion can help you greatly improve your own designs."
+tags = ["Design"]
+title = "Looking through grid-tinted glasses"
+
++++
 
 ## Grids, Grids, Grids
 

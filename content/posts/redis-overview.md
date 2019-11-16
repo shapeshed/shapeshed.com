@@ -1,12 +1,11 @@
-{
-  "slug": "redis-overview",
-  "title": "An overview of Redis",
-  "date": "2010-09-03T00:00:00+01:00",
-  "description": "Redis has moved to a 2.0.0 release and is a serious solution for building high-performance, scalable web applications.",
-  "tags": [
-    "redis"
-  ]
-}
++++
+date = "2010-09-03T00:00:00+01:00"
+description = "Redis has moved to a 2.0.0 release and is a serious solution for building high-performance, scalable web applications."
+slug = "redis-overview"
+tags = ["redis"]
+title = "An overview of Redis"
+
++++
 ## A key-value store and more
 
 The 2.0.0 release of Redis is out and offers a super-fast key value store that stores data in-memory. It offers a persistent data store along with support for sets, string values and hashes. Performance wise it is [extremely][1] [fast][7] and offers replication without too much fuss. As a developer it is a joy to use. On OSX you can install it using homebrew:

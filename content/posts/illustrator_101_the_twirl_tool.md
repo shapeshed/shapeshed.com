@@ -1,14 +1,11 @@
-{
-  "slug": "illustrator-101-the-twirl-tool",
-  "title": "Illustrator 101 - The Twirl Tool",
-  "date": "2007-08-19T00:00:00+01:00",
-  "description": "The twirl tool is a great tool that can make complex and eye-catching objects in no time. Here's one way to use it. ",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-08-19T00:00:00+01:00"
+description = "The twirl tool is a great tool that can make complex and eye-catching objects in no time. Here's one way to use it. "
+slug = "illustrator-101-the-twirl-tool"
+tags = ["Illustrator 101", "Illustrator", "Design"]
+title = "Illustrator 101 - The Twirl Tool"
+
++++
 
 Here's what we are going to get to. It is a simple wallpaper design.
 

@@ -1,13 +1,11 @@
-{
-  "slug": "illustrator-101-the-magic-wand-tool",
-  "title": "Illustrator 101 - The Magic Wand Tool",
-  "date": "2007-05-14T00:00:00+01:00",
-  "description": "No wizards just a solid tool that allows you to select objects based on defined criteria and make quick changes to your drawings and illustrations.",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator"
-  ]
-}
++++
+date = "2007-05-14T00:00:00+01:00"
+description = "No wizards just a solid tool that allows you to select objects based on defined criteria and make quick changes to your drawings and illustrations."
+slug = "illustrator-101-the-magic-wand-tool"
+tags = ["Illustrator 101", "Illustrator"]
+title = "Illustrator 101 - The Magic Wand Tool"
+
++++
 
 <h3>Les Dawson - a great comedian</h3>
 

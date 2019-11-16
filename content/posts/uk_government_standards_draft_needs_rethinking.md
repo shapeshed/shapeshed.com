@@ -1,13 +1,10 @@
-{
-  "title": "UK Government standards draft needs rethinking",
-  "date": "2008-09-17T00:00:00+01:00",
-  "description": "The UK Govenrnment's Central Office of Information has published a <a href=\"http://www.coi.gov.uk/documents/guidance/browser-standards-draft-v0-13.pdf\">Browser Standards Draft</a> suggesting browser support should be based on usage. The draft document has misinterpreted the browser market and needs to be reconsidered.",
-  "tags": [
-    "Browsers",
-    "Opinion",
-    "Yahoo"
-  ]
-}
++++
+date = "2008-09-17T00:00:00+01:00"
+description = "The UK Govenrnment's Central Office of Information has published a <a href=\"http://www.coi.gov.uk/documents/guidance/browser-standards-draft-v0-13.pdf\">Browser Standards Draft</a> suggesting browser support should be based on usage. The draft document has misinterpreted the browser market and needs to be reconsidered."
+tags = ["Browsers", "Opinion", "Yahoo"]
+title = "UK Government standards draft needs rethinking"
+
++++
 
 ## Much to admire
 

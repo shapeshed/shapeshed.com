@@ -1,14 +1,12 @@
-{
-  "slug": "unix-more",
-  "title": "Linux and Unix more command tutorial with examples",
-  "date": "2016-10-19T00:00:00+00:00",
-  "image": "images/articles/more.png",
-  "description": "Tutorial on using more, a UNIX and Linux command for viewing the contents of a file or files one screen at a time. Examples of viewing a file, viewing multiple files, searching using regular expressions and opening the file in a text editor.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-19T00:00:00+00:00"
+description = "Tutorial on using more, a UNIX and Linux command for viewing the contents of a file or files one screen at a time. Examples of viewing a file, viewing multiple files, searching using regular expressions and opening the file in a text editor."
+image = "images/articles/more.png"
+slug = "unix-more"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix more command tutorial with examples"
+
++++
 
 ![Terminal showing more man page][2]
 

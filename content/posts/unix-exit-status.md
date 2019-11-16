@@ -1,14 +1,12 @@
-{
-  "slug": "unix-exit-codes",
-  "title": "Linux and Unix exit code tutorial with examples",
-  "date": "2016-08-07T00:00:00+00:00",
-  "image": "images/articles/unix-exit-code.png",
-  "description": "Tutorial on using exit codes from Linux or UNIX commands. Examples of how to get the exit code of a command, how to set the exit code and how to suppress exit codes.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-08-07T00:00:00+00:00"
+description = "Tutorial on using exit codes from Linux or UNIX commands. Examples of how to get the exit code of a command, how to set the exit code and how to suppress exit codes."
+image = "images/articles/unix-exit-code.png"
+slug = "unix-exit-codes"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix exit code tutorial with examples"
+
++++
 
 ![UNIX exit code][7]
 

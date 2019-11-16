@@ -1,15 +1,11 @@
-{
-  "slug": "cloud-foundry-a-ruby-and-nodejs-developers-perspective",
-  "title": "Cloud Foundry - a Ruby and Node.js developer's perspective",
-  "date": "2011-04-15T00:00:00+01:00",
-  "description": "This week VMware announced Cloud Foundry, their open source PaaS offering. Here's my take.",
-  "tags": [
-    "JavaScript",
-    "Node.js",
-    "Ruby",
-    "Rails"
-  ]
-}
++++
+date = "2011-04-15T00:00:00+01:00"
+description = "This week VMware announced Cloud Foundry, their open source PaaS offering. Here's my take."
+slug = "cloud-foundry-a-ruby-and-nodejs-developers-perspective"
+tags = ["JavaScript", "Node.js", "Ruby", "Rails"]
+title = "Cloud Foundry - a Ruby and Node.js developer's perspective"
+
++++
 
 ## Open Source PaaS
 

@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- Opinion
-date: 2016-02-22T00:00:00Z
-title: Tech is looking like banking in the 80s
-description: Lack of women, tax avoidance, inflated salaries and an increasing disconnect with mainstream society. It is like Gordan Gecko but in a hoodie. 
-original: http://pebblecode.com/blog/tech-is-looking-like-banking-in-the-80s/
----
++++
+author = "George Ornbo"
+date = "2016-02-22T00:00:00Z"
+description = "Lack of women, tax avoidance, inflated salaries and an increasing disconnect with mainstream society. It is like Gordan Gecko but in a hoodie."
+original = "http://pebblecode.com/blog/tech-is-looking-like-banking-in-the-80s/"
+tags = ["Opinion"]
+title = "Tech is looking like banking in the 80s"
+
++++
 
 
 ![Gordan Gecko](/images/articles/twitter.png)

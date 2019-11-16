@@ -1,11 +1,10 @@
-{
-  "title": "Camera RAW or JPEG?",
-  "date": "2008-04-30T00:00:00+01:00",
-  "description": "If your camera can shoot in RAW format should you be using it? Here's a quick overview of the difference and what you can do with the RAW format in Photoshop.\n",
-  "tags": [
-    "Photoshop"
-  ]
-}
++++
+date = "2008-04-30T00:00:00+01:00"
+description = "If your camera can shoot in RAW format should you be using it? Here's a quick overview of the difference and what you can do with the RAW format in Photoshop.\n"
+tags = ["Photoshop"]
+title = "Camera RAW or JPEG?"
+
++++
 
 ## What is RAW?
 

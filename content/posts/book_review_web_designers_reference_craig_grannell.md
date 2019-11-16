@@ -1,12 +1,11 @@
-{
-  "slug": "book-review-web-designers-reference-craig-grannell",
-  "title": "Book Review: Web Designer's Reference - Craig Grannell",
-  "date": "2006-09-05T00:00:00+01:00",
-  "description": "If you are looking to understand almost everything you will need to run a small web design agency then this is the book for you. The Web Designer's Reference covers a staggering array of topics from XHTML editors to CSS layout to forms and multimedia. ",
-  "tags": [
-    "Book Reviews"
-  ]
-}
++++
+date = "2006-09-05T00:00:00+01:00"
+description = "If you are looking to understand almost everything you will need to run a small web design agency then this is the book for you. The Web Designer's Reference covers a staggering array of topics from XHTML editors to CSS layout to forms and multimedia. "
+slug = "book-review-web-designers-reference-craig-grannell"
+tags = ["Book Reviews"]
+title = "Book Review: Web Designer's Reference - Craig Grannell"
+
++++
 
 Author: Craig Grannell
 

@@ -1,14 +1,12 @@
-{
-  "slug": "unix-cp",
-  "title": "Linux and Unix cp command tutorial with examples",
-  "date": "2016-10-12T00:00:00+00:00",
-  "image": "images/articles/cp.png",
-"description": "Tutorial on using cp, a UNIX and Linux command for copying files and directories. Examples of copying a file, copying multiple files, copying a directory, taking a backup when copying and preserving file attributes when copying.",
-"tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-12T00:00:00+00:00"
+description = "Tutorial on using cp, a UNIX and Linux command for copying files and directories. Examples of copying a file, copying multiple files, copying a directory, taking a backup when copying and preserving file attributes when copying."
+image = "images/articles/cp.png"
+slug = "unix-cp"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix cp command tutorial with examples"
+
++++
 
 ![Terminal showing cp man page][2]
 

@@ -1,14 +1,12 @@
-{
-  "slug": "unix-ls",
-  "title": "Linux and Unix ls command tutorial with examples",
-  "date": "2016-10-04T00:00:00+00:00",
-  "image": "images/articles/ls.png",
-"description": "Tutorial on using ls, a UNIX and Linux command for listing directory contents. Examples of listing a directory, showing hidden files, showing long listings, sorting on various items and showing recursive listings.",
-"tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-04T00:00:00+00:00"
+description = "Tutorial on using ls, a UNIX and Linux command for listing directory contents. Examples of listing a directory, showing hidden files, showing long listings, sorting on various items and showing recursive listings."
+image = "images/articles/ls.png"
+slug = "unix-ls"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix ls command tutorial with examples"
+
++++
 
 ![Terminal showing ls man page][2]
 

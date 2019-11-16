@@ -1,14 +1,12 @@
-{
-  "slug": "unix-rm",
-  "title": "Linux and Unix rm command tutorial with examples",
-  "date": "2016-10-07T01:00:00+00:00",
-  "image": "images/articles/rm.png",
-  "description": "Tutorial on using rm, a UNIX and Linux command for removing files or directories. Examples of removing a file, removing multiple files, prompting for confirmation, removing recursively and forcing removal.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-07T01:00:00+00:00"
+description = "Tutorial on using rm, a UNIX and Linux command for removing files or directories. Examples of removing a file, removing multiple files, prompting for confirmation, removing recursively and forcing removal."
+image = "images/articles/rm.png"
+slug = "unix-rm"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix rm command tutorial with examples"
+
++++
 
 ![Terminal showing rm man page][2]
 

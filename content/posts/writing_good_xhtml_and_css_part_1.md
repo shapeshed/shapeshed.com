@@ -1,12 +1,10 @@
-{
-  "title": "Writing good XHTML and CSS Part 1",
-  "date": "2006-09-26T00:00:00+01:00",
-  "description": "In two articles I&rsquo;m going to outline my opinion on what you need to understand and write high quality XTHML and CSS. The articles will focus on producing code that stands up to the rigors of the web and future proofs code. The articles are aimed at coders starting out and looking to get to grips with writing professional front end code. Of course if you don&rsquo;t agree with something the comments box is there for you to add your opinion. In part 1 I&rsquo;m going to look at what you need to get off the ground. \n",
-  "tags": [
-    "CSS",
-    "XHTML"
-  ]
-}
++++
+date = "2006-09-26T00:00:00+01:00"
+description = "In two articles I&rsquo;m going to outline my opinion on what you need to understand and write high quality XTHML and CSS. The articles will focus on producing code that stands up to the rigors of the web and future proofs code. The articles are aimed at coders starting out and looking to get to grips with writing professional front end code. Of course if you don&rsquo;t agree with something the comments box is there for you to add your opinion. In part 1 I&rsquo;m going to look at what you need to get off the ground. \n"
+tags = ["CSS", "XHTML"]
+title = "Writing good XHTML and CSS Part 1"
+
++++
 
 ## Understand your environment
 

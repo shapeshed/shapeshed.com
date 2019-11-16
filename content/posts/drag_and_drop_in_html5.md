@@ -1,11 +1,10 @@
-{
-  "title": "Drag and drop in HTML5",
-  "date": "2009-07-02T00:00:00+01:00",
-  "description": "HTML 5 has the ability to create drag and drop events. This example only works in Firefox 3.5 and Safari 4 but here's a quick tour of how it works. ",
-  "tags": [
-    "HTML5"
-  ]
-}
++++
+date = "2009-07-02T00:00:00+01:00"
+description = "HTML 5 has the ability to create drag and drop events. This example only works in Firefox 3.5 and Safari 4 but here's a quick tour of how it works. "
+tags = ["HTML5"]
+title = "Drag and drop in HTML5"
+
++++
 
 Not interested in the explanation? Go straight to the [demo page][1] or [download the source code][2] from Github
 

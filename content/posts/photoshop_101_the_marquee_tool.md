@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-marquee-tool",
-  "title": "Photoshop 101 - The Marquee Tool",
-  "date": "2006-09-26T00:00:00+01:00",
-  "description": "The first in a new series on Photoshop Tools from a web perspective. The Marquee Tool is undoubtedly one of the most useful at your disposal and holds some unexpected capabilities.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-09-26T00:00:00+01:00"
+description = "The first in a new series on Photoshop Tools from a web perspective. The Marquee Tool is undoubtedly one of the most useful at your disposal and holds some unexpected capabilities."
+slug = "photoshop-101-the-marquee-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Marquee Tool"
+
++++
 
 ## A Tool for Daily Use
 

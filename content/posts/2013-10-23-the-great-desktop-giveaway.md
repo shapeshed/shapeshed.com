@@ -1,10 +1,11 @@
----
-title: The Great Desktop Giveaway
-date: '2013-10-23T18:00:49+01:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/the-great-desktop-giveaway/
----
++++
+author = "George Ornbo"
+date = "2013-10-23T18:00:49+01:00"
+original = "http://pebblecode.com/blog/the-great-desktop-giveaway/"
+tags = []
+title = "The Great Desktop Giveaway"
+
++++
 <p>Apple&rsquo;s decision to give away Mavericks will lead to analysis that the Desktop is dead. But it is probably a bit more complicated than that.</p>
 
 <h3>The Windows XP era</h3>

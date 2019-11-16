@@ -1,11 +1,12 @@
----
-title: Hack Day - WFH Bot
-date: '2015-06-09T12:31:08+01:00'
-tags: [hacks]
-author: George Ornbo
-slug: hack-day-wfh-bot
-original: http://pebblecode.com/blog/hack-day-wfh-bot/
----
++++
+author = "George Ornbo"
+date = "2015-06-09T12:31:08+01:00"
+original = "http://pebblecode.com/blog/hack-day-wfh-bot/"
+slug = "hack-day-wfh-bot"
+tags = ["hacks"]
+title = "Hack Day - WFH Bot"
+
++++
 <h2>What was problem you originally pitched?</h2>
 
 <p>It is hard for pebble staff to know where people are working from on each day. Some staff are in the office for some of the day and others work remotely for most of the time. We currently use a WFH email chain to let the company know if you are working from home but with the bigger number of people working at pebble this is getting less scalable.</p>

@@ -1,10 +1,11 @@
----
-title: Fetching and caching Google Calendar data in Rails
-date: '2011-10-18T10:28:35+01:00'
-tags: [Google Calendar, Rails]
-author: George Ornbo
-original: http://pebblecode.com/blog/fetching-and-caching-google-calendar-data-in-rails/
----
++++
+author = "George Ornbo"
+date = "2011-10-18T10:28:35+01:00"
+original = "http://pebblecode.com/blog/fetching-and-caching-google-calendar-data-in-rails/"
+tags = ["Google Calendar", "Rails"]
+title = "Fetching and caching Google Calendar data in Rails"
+
++++
 <p>Recently we had a requirement to show Google Calendar data for a client on a Rails intranet project. The requirements were a bit outside what&rsquo;s offered by the embedded iFrame option so we needed a better solution to retrieve Google calendar data.</p>
 
 <h3>Options for getting data from Google Calendar</h3>

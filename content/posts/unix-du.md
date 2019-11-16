@@ -1,14 +1,12 @@
-{
-  "slug": "unix-du",
-  "title": "Linux and Unix du command tutorial with examples",
-  "date": "2016-09-26T00:00:00+00:00",
-  "image": "images/articles/du.png",
-  "description": "Tutorial on using du, a UNIX and Linux command for estimating file space usage. Examples of showing a disk usage summary, outputting a human readable format, showing the size of a directory and showing the ten largest files or folders on a system.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-09-26T00:00:00+00:00"
+description = "Tutorial on using du, a UNIX and Linux command for estimating file space usage. Examples of showing a disk usage summary, outputting a human readable format, showing the size of a directory and showing the ten largest files or folders on a system."
+image = "images/articles/du.png"
+slug = "unix-du"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix du command tutorial with examples"
+
++++
 
 ![Terminal showing du man page][2]
 

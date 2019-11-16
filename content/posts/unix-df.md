@@ -1,14 +1,12 @@
-{
-  "slug": "unix-df",
-  "title": "Linux and Unix df command tutorial with examples",
-  "date": "2016-09-19T00:00:00+00:00",
-  "image": "images/articles/df.png",
-  "description": "Tutorial on using df, a UNIX and Linux command for reporting file system disk space usage. Examples of viewing free disk space, viewing in human readable format, showing filesystem types and including and excluding specific filesystem types.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-09-19T00:00:00+00:00"
+description = "Tutorial on using df, a UNIX and Linux command for reporting file system disk space usage. Examples of viewing free disk space, viewing in human readable format, showing filesystem types and including and excluding specific filesystem types."
+image = "images/articles/df.png"
+slug = "unix-df"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix df command tutorial with examples"
+
++++
 
 ![Terminal showing df man page][2]
 

@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-transparent-fills",
-  "title": "Photoshop 101 - Transparent Fills",
-  "date": "2007-10-03T00:00:00+01:00",
-  "description": "Photoshop doesn't come with the same one-click ability as Illustrator to make the fill of shapes or objects transparent. Here's a workaround.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2007-10-03T00:00:00+01:00"
+description = "Photoshop doesn't come with the same one-click ability as Illustrator to make the fill of shapes or objects transparent. Here's a workaround."
+slug = "photoshop-101-transparent-fills"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - Transparent Fills"
+
++++
 
 ## What we want to achieve
 

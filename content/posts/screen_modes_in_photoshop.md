@@ -1,12 +1,10 @@
-{
-  "title": "Screen Modes in Photoshop",
-  "date": "2008-05-07T00:00:00+01:00",
-  "description": "When designing in Photoshop there are a couple of options that allow you to review your design without noise around it. Here's a quick overview of how you can take a step back from the digital canvas. ",
-  "tags": [
-    "Design",
-    "Photoshop"
-  ]
-}
++++
+date = "2008-05-07T00:00:00+01:00"
+description = "When designing in Photoshop there are a couple of options that allow you to review your design without noise around it. Here's a quick overview of how you can take a step back from the digital canvas. "
+tags = ["Design", "Photoshop"]
+title = "Screen Modes in Photoshop"
+
++++
 
 ## Step away from the canvas
 

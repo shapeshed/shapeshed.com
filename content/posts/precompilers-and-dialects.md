@@ -1,11 +1,10 @@
-{
-  "title": "Precompilers and dialects",
-  "date": "2012-10-02T00:00:00+01:00",
-  "description": "Opinion on TypeScript and precompilers in general.",
-  "tags": [
-    "JavaScript"
-  ]
-}
++++
+date = "2012-10-02T00:00:00+01:00"
+description = "Opinion on TypeScript and precompilers in general."
+tags = ["JavaScript"]
+title = "Precompilers and dialects"
+
++++
 
 ## Microsoft Open Source
 

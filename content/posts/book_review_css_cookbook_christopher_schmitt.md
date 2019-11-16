@@ -1,13 +1,11 @@
-{
-  "slug": "book-review-css-cookbook-christopher-schmitt",
-  "title": "Book Review: CSS Cookbook - Christopher Schmitt",
-  "date": "2007-02-22T00:00:00+00:00",
-  "description": "CSS Cookbook is a solid practical guide to using CSS on a day to day basis.  A great book for a beginners, it shows how to resolve common CSS problems. ",
-  "tags": [
-    "CSS",
-    "Book Reviews"
-  ]
-}
++++
+date = "2007-02-22T00:00:00+00:00"
+description = "CSS Cookbook is a solid practical guide to using CSS on a day to day basis.  A great book for a beginners, it shows how to resolve common CSS problems. "
+slug = "book-review-css-cookbook-christopher-schmitt"
+tags = ["CSS", "Book Reviews"]
+title = "Book Review: CSS Cookbook - Christopher Schmitt"
+
++++
 
 Author: Christopher Schmitt
 

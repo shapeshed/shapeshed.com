@@ -1,13 +1,10 @@
-{
-  "title": "Wallpaper for websites",
-  "date": "2007-01-31T00:00:00+00:00",
-  "description": "Here's a quick look about how you can give your site some wallpaper. Whilst you are moving the furniture around there is also some traditional wallpaper design for inspiration.",
-  "tags": [
-    "CSS",
-    "XHTML",
-    "Design"
-  ]
-}
++++
+date = "2007-01-31T00:00:00+00:00"
+description = "Here's a quick look about how you can give your site some wallpaper. Whilst you are moving the furniture around there is also some traditional wallpaper design for inspiration."
+tags = ["CSS", "XHTML", "Design"]
+title = "Wallpaper for websites"
+
++++
 
 ## Adding wallpaper to a site
 

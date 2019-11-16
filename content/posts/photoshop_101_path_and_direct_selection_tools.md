@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-path-and-direct-selection-tools",
-  "title": "Photoshop 101 - Path and Direct Selection Tools",
-  "date": "2007-02-10T00:00:00+00:00",
-  "description": "The path and selection tools let you quickly move and manipulate any shape with a path. Part of the workhorse tools of Photoshop they will let you shift and change shapes quickly.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2007-02-10T00:00:00+00:00"
+description = "The path and selection tools let you quickly move and manipulate any shape with a path. Part of the workhorse tools of Photoshop they will let you shift and change shapes quickly."
+slug = "photoshop-101-path-and-direct-selection-tools"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - Path and Direct Selection Tools"
+
++++
 
 ## Not very sexy but very useful
 

@@ -1,12 +1,10 @@
-{
-  "title": "Controlling font size using CSS",
-  "date": "2007-01-11T00:00:00+00:00",
-  "description": "CSS offers designers a great deal of control over text and has good browser support. Many web designers overlook Typography, a crucial element of design. This article looks at a best practice method for controlling font size on your website. ",
-  "tags": [
-    "Typography",
-    "CSS"
-  ]
-}
++++
+date = "2007-01-11T00:00:00+00:00"
+description = "CSS offers designers a great deal of control over text and has good browser support. Many web designers overlook Typography, a crucial element of design. This article looks at a best practice method for controlling font size on your website. "
+tags = ["Typography", "CSS"]
+title = "Controlling font size using CSS"
+
++++
 
 ## Controlling typography - a solid base
 

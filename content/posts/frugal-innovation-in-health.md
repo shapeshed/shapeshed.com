@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- Health
-date: 2016-02-19T00:00:00Z
-title: Frugal Innovation in Health
-original: http://pebblecode.com/blog/frugal-innovation-in-health/
-description: A summary of the February Global Health Forum event
----
++++
+author = "George Ornbo"
+date = "2016-02-19T00:00:00Z"
+description = "A summary of the February Global Health Forum event"
+original = "http://pebblecode.com/blog/frugal-innovation-in-health/"
+tags = ["Health"]
+title = "Frugal Innovation in Health"
+
++++
 
 On 18th February 2016 I attended the [Global Health Forum][17] session at Imperial College, London on Frugal Innovation. Here are my notes on a fascinating afternoon.
 

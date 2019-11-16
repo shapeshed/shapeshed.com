@@ -1,14 +1,12 @@
-{
-  "slug": "unix-tail",
-  "title": "Linux and Unix tail command tutorial with examples",
-  "date": "2016-10-03T00:00:00+00:00",
-  "image": "images/articles/tail.png",
-  "description": "Tutorial on using tail, a UNIX and Linux command for outputting the last part of files. Examples of outputting the last ten lines of a file, limiting the number of lines, limiting the number of bytes, showing multiple files, watching a file for changes and using pipes.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-03T00:00:00+00:00"
+description = "Tutorial on using tail, a UNIX and Linux command for outputting the last part of files. Examples of outputting the last ten lines of a file, limiting the number of lines, limiting the number of bytes, showing multiple files, watching a file for changes and using pipes."
+image = "images/articles/tail.png"
+slug = "unix-tail"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix tail command tutorial with examples"
+
++++
 
 ![Terminal showing tail man page][6]
 

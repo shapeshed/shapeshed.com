@@ -1,13 +1,10 @@
-{
-  "title": "IE6 not going anywhere soon",
-  "date": "2008-04-24T00:00:00+01:00",
-  "description": "I've been monitoring browser statistics on clients over the last few months in order to understand the effects of the IE7 forced update by Microsoft. Among corporate clients it doesn't seem to have had much effect and IE6 looks set to be around for a while.  ",
-  "tags": [
-    "Browsers",
-    "Microsoft",
-    "Opinion"
-  ]
-}
++++
+date = "2008-04-24T00:00:00+01:00"
+description = "I've been monitoring browser statistics on clients over the last few months in order to understand the effects of the IE7 forced update by Microsoft. Among corporate clients it doesn't seem to have had much effect and IE6 looks set to be around for a while.  "
+tags = ["Browsers", "Microsoft", "Opinion"]
+title = "IE6 not going anywhere soon"
+
++++
 
 ## The Sample
 

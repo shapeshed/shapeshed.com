@@ -1,11 +1,12 @@
----
-title: Innovation != technology
-date: '2014-03-07T15:18:00+00:00'
-tags: []
-author: George Ornbo
-slug: innovation-technology
-original: http://pebblecode.com/blog/innovation-technology/
----
++++
+author = "George Ornbo"
+date = "2014-03-07T15:18:00+00:00"
+original = "http://pebblecode.com/blog/innovation-technology/"
+slug = "innovation-technology"
+tags = []
+title = "Innovation != technology"
+
++++
 <p>Businesses are increasingly looking to technology to solve a requirement to innovate. Hack days are now the domain of corporations looking to generate ideas and creativity quickly. But for businesses to really embrace innovation cultural change is far more important than technology.</p>
 
 <h3>Offer the freedom to play</h3>

@@ -1,12 +1,11 @@
-{
-  "slug": "elements-of-typographic-style-bringhurst",
-  "title": "Book Review: The Elements of Typographic Style - Bringhurst",
-  "date": "2006-11-05T00:00:00+00:00",
-  "description": "Bringhurst's book on Typography is a joy to read and savour. It offers inpsiration and insight into typography on the web.",
-  "tags": [
-    "Book Reviews"
-  ]
-}
++++
+date = "2006-11-05T00:00:00+00:00"
+description = "Bringhurst's book on Typography is a joy to read and savour. It offers inpsiration and insight into typography on the web."
+slug = "elements-of-typographic-style-bringhurst"
+tags = ["Book Reviews"]
+title = "Book Review: The Elements of Typographic Style - Bringhurst"
+
++++
 
 Author: Robert Bringhurst
 

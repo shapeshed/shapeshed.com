@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- Opinion
-date: 2016-03-03T00:00:00Z
-title: The Investigatory Powers Bill Is Junk
-description: The UK Investigatory Powers Bill lacks a basic understanding of VPNs and should be thrown out.  
-original: http://pebblecode.com/blog/investigatory-powers-bill/
----
++++
+author = "George Ornbo"
+date = "2016-03-03T00:00:00Z"
+description = "The UK Investigatory Powers Bill lacks a basic understanding of VPNs and should be thrown out."
+original = "http://pebblecode.com/blog/investigatory-powers-bill/"
+tags = ["Opinion"]
+title = "The Investigatory Powers Bill Is Junk"
+
++++
 
 ## Back again
 

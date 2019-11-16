@@ -1,13 +1,12 @@
-{
-  "slug": "expressionengine-2-addon-status",
-  "title": "ExpressionEngine 2 add-on status",
-  "date": "2009-11-30T00:00:00+00:00",
-  "description": "An overview of the compatibility of my ExpressionEngine add-ons for the 2.0 release",
-  "tags": [
-    "ExpressionEngine"
-  ],
-  "published": true
-}
++++
+date = "2009-11-30T00:00:00+00:00"
+description = "An overview of the compatibility of my ExpressionEngine add-ons for the 2.0 release"
+published = true
+slug = "expressionengine-2-addon-status"
+tags = ["ExpressionEngine"]
+title = "ExpressionEngine 2 add-on status"
+
++++
 
 After the mighty <a href="http://brandon-kelly.com/">Brandon Kelly</a> and the ever talented <a href="http://loweblog.com/">Lodewijk Schulte</a> announced <a href="http://brandon-kelly.com/blog/transitions">their</a> <a href="http://loweblog.com/freelance/article/ee20-addon-roadmap/">roadmaps</a> for add-ons here is mine. 
 

@@ -1,12 +1,10 @@
-{
-  "title": "Glossy badges in Illustrator",
-  "date": "2007-08-14T00:00:00+01:00",
-  "description": "The star tool and opacity masks make it easy to make eye-catching glossy badges for websites and user interface designs. Here's an example of how to do it, including a downloadable Illustrator file to work with. ",
-  "tags": [
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-08-14T00:00:00+01:00"
+description = "The star tool and opacity masks make it easy to make eye-catching glossy badges for websites and user interface designs. Here's an example of how to do it, including a downloadable Illustrator file to work with. "
+tags = ["Illustrator", "Design"]
+title = "Glossy badges in Illustrator"
+
++++
 
 Here's what we are going to get to:
 

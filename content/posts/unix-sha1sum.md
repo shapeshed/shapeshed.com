@@ -1,14 +1,12 @@
-{
-  "slug": "unix-sha1sum",
-  "title": "Linux and Unix sha1sum command tutorial with examples",
-  "date": "2016-09-21T00:00:00+00:00",
-  "image": "images/articles/sha1sum.png",
-  "description": "Tutorial on using sha1sum, a UNIX and Linux command to compute and check a SHA-1 message digest. Examples of reading a SHA-1 message digest, writing a SHA-1 message digest to a file, and checking a SHA-1 message digest.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-09-21T00:00:00+00:00"
+description = "Tutorial on using sha1sum, a UNIX and Linux command to compute and check a SHA-1 message digest. Examples of reading a SHA-1 message digest, writing a SHA-1 message digest to a file, and checking a SHA-1 message digest."
+image = "images/articles/sha1sum.png"
+slug = "unix-sha1sum"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix sha1sum command tutorial with examples"
+
++++
 
 ![Terminal showing sha1sum man page][2]
 

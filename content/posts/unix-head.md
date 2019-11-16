@@ -1,15 +1,13 @@
-{
-  "slug": "unix-head",
-  "title": "Linux and Unix head command tutorial with examples",
-  "date": "2010-11-03T00:00:00+00:00",
-  "lastmod": "2016-10-03T00:00:00+00:00",
-  "image": "images/articles/head.png",
-  "description": "Tutorial on using head, a UNIX and Linux command for outputting the first part of files. Examples of outputting the first ten lines of a file, limiting the number of lines, limiting the number of bytes, showing multiple files and using pipes.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2010-11-03T00:00:00+00:00"
+description = "Tutorial on using head, a UNIX and Linux command for outputting the first part of files. Examples of outputting the first ten lines of a file, limiting the number of lines, limiting the number of bytes, showing multiple files and using pipes."
+image = "images/articles/head.png"
+lastmod = "2016-10-03T00:00:00+00:00"
+slug = "unix-head"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix head command tutorial with examples"
+
++++
 
 ![Terminal showing head man page][6]
 

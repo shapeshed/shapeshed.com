@@ -1,13 +1,10 @@
-{
-  "title": "All magic comes with a price",
-  "date": "2012-04-24T00:00:00+01:00",
-  "description": "Leaning on abstractions is powerful but you should know what it means",
-  "tags": [
-    "Opinion",
-    "Node.js",
-    "Rails"
-  ]
-}
++++
+date = "2012-04-24T00:00:00+01:00"
+description = "Leaning on abstractions is powerful but you should know what it means"
+tags = ["Opinion", "Node.js", "Rails"]
+title = "All magic comes with a price"
+
++++
 
 ## Sunday night viewing
 

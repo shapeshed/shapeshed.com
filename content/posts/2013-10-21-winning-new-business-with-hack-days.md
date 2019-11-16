@@ -1,10 +1,11 @@
----
-title: Winning new business with Hack Days
-date: '2013-10-21T21:23:10+01:00'
-tags: [hacks]
-author: George Ornbo
-original: http://pebblecode.com/blog/winning-new-business-with-hack-days/
----
++++
+author = "George Ornbo"
+date = "2013-10-21T21:23:10+01:00"
+original = "http://pebblecode.com/blog/winning-new-business-with-hack-days/"
+tags = ["hacks"]
+title = "Winning new business with Hack Days"
+
++++
 <p>Hack Days are a central part of pebble {code}&rsquo;s culture. About every three months everyone at the company stops working on client work for a day and participates in a Hack Day. The theme for the day is given out a few days in advance giving designers and developers the chance to think about what they would like to work on. Previous themes have been &lsquo;The Olympics&rsquo;, 'Art&rsquo; and 'Games&rsquo;. Some of the projects created on these hack days can been seen on the <a href="http://pebblecode.com/labs">Labs</a> page.</p>
 
 <p>Hack Days give developers the chance to explore a new technology, collaborate with people from other teams and most importantly the chance to play. Hack Days are a great experience. There is a frenzy of creative energy and at the end of the day each project shows what they have created over a few beers. Normally about four or five different technologies have been used. In essence the day exists for itself but often developers take what they have learned during the day back into their projects or even take their hack forward.</p>

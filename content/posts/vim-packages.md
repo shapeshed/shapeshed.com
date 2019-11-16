@@ -1,12 +1,11 @@
-{
-  "slug": "vim-packages",
-  "title": "Vim: So long Pathogen, hello native package loading",
-  "date": "2016-10-20T00:00:00+00:00",
-  "description": "Vim 8 added a native way to load third-party packages. This means, for me at least, there is no longer any need to use a third party plugin helper like Pathogen.",
-  "tags": [
-    "vim"
-  ]
-}
++++
+date = "2016-10-20T00:00:00+00:00"
+description = "Vim 8 added a native way to load third-party packages. This means, for me at least, there is no longer any need to use a third party plugin helper like Pathogen."
+slug = "vim-packages"
+tags = ["vim"]
+title = "Vim: So long Pathogen, hello native package loading"
+
++++
 
 ## Vim 8 brings native third-party package loading
 

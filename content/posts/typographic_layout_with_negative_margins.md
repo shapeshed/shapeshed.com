@@ -1,12 +1,10 @@
-{
-  "title": "Typographic layout with negative margins",
-  "date": "2007-04-16T00:00:00+01:00",
-  "description": "Negative margins in CSS have good cross-browser support and are underused. Using negative margins you can improve typographic layouts without compromising the semantics of your document. ",
-  "tags": [
-    "Typography",
-    "CSS"
-  ]
-}
++++
+date = "2007-04-16T00:00:00+01:00"
+description = "Negative margins in CSS have good cross-browser support and are underused. Using negative margins you can improve typographic layouts without compromising the semantics of your document. "
+tags = ["Typography", "CSS"]
+title = "Typographic layout with negative margins"
+
++++
 
 [You can see the example in action here][1]
 

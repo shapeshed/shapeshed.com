@@ -1,12 +1,10 @@
-{
-  "title": "Internet Explorer 7",
-  "date": "2006-03-02T00:00:00+00:00",
-  "description": "I've been testing out the new Internet Explorer 7 Beta for a while now and I must say that most if not all of it is very good. For a start the security is much better but as a designer I can't get over the quality of the rendering. It is near Mac like in quality.",
-  "tags": [
-    "Microsoft",
-    "Browsers"
-  ]
-}
++++
+date = "2006-03-02T00:00:00+00:00"
+description = "I've been testing out the new Internet Explorer 7 Beta for a while now and I must say that most if not all of it is very good. For a start the security is much better but as a designer I can't get over the quality of the rendering. It is near Mac like in quality."
+tags = ["Microsoft", "Browsers"]
+title = "Internet Explorer 7"
+
++++
 
 From the perspective of things looking good it certainly performs very well. It also seems to be very good at interpreting CSS. This will raise some (un)happy dilhemas for web developers who have produced numerous workarounds for the not so great IE 6. Once this browser is rolled out web developers will have to account for legacy versions of Internet Explorer displaying things poorly and IE 7 doing it near perfectly. This could lead to some tricky action in stylesheets.
 

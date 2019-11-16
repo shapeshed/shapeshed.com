@@ -1,13 +1,10 @@
-{
-  "title": "Abstracting the design layer",
-  "date": "2011-02-02T00:00:00+00:00",
-  "description": "Abstracting the entire front-end layer may seem like a drastic measure but with some excellent tools available there are compelling reasons to do it.",
-  "tags": [
-    "HTML",
-    "CSS",
-    "JavaScript"
-  ]
-}
++++
+date = "2011-02-02T00:00:00+00:00"
+description = "Abstracting the entire front-end layer may seem like a drastic measure but with some excellent tools available there are compelling reasons to do it."
+tags = ["HTML", "CSS", "JavaScript"]
+title = "Abstracting the design layer"
+
++++
 
 ## Overview
 

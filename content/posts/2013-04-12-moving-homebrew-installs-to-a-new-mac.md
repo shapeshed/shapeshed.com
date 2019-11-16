@@ -1,10 +1,11 @@
----
-title: Moving homebrew installs to a new Mac
-date: '2013-04-12T09:29:00+01:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/moving-homebrew-installs-to-a-new-mac/
----
++++
+author = "George Ornbo"
+date = "2013-04-12T09:29:00+01:00"
+original = "http://pebblecode.com/blog/moving-homebrew-installs-to-a-new-mac/"
+tags = []
+title = "Moving homebrew installs to a new Mac"
+
++++
 <p>You are a homebrew user and you have a new Mac. If you don&rsquo;t want to use Apple&rsquo;s migration tool to copy over everything you might be faced with running <code>brew install [formula]</code> for everything you have installed.</p>
 
 <p>Unless you have a spare afternoon to do this you can achieve the same things with a few commands and be done in minutes, leaving you to get on with something more interesting.</p>

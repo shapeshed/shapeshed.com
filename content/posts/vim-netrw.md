@@ -1,13 +1,12 @@
-{
-  "slug": "vim-netrw",
-  "title": "Vim: you don't need NERDtree or (maybe) netrw",
-  "date": "2016-10-18T00:00:00+00:00",
-  "image": "images/articles/vim-netrw.png",
-  "description": "Vim's netrw file browser is good enough. With a few tweaks there is no need for plugin like NERDtree. For many tasks you may not even need netrw.",
-  "tags": [
-    "vim"
-  ]
-}
++++
+date = "2016-10-18T00:00:00+00:00"
+description = "Vim's netrw file browser is good enough. With a few tweaks there is no need for plugin like NERDtree. For many tasks you may not even need netrw."
+image = "images/articles/vim-netrw.png"
+slug = "vim-netrw"
+tags = ["vim"]
+title = "Vim: you don't need NERDtree or (maybe) netrw"
+
++++
 
 ![Screenshot of netrw directory browser][2]
 

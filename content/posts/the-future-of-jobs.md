@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- Opinion
-date: 2016-05-16T00:00:00Z
-title: The Future of Jobs
-original: http://pebblecode.com/blog/the-future-of-jobs/
-description: What will the workforce look like in the Fourth Industrial Revolution?
----
++++
+author = "George Ornbo"
+date = "2016-05-16T00:00:00Z"
+description = "What will the workforce look like in the Fourth Industrial Revolution?"
+original = "http://pebblecode.com/blog/the-future-of-jobs/"
+tags = ["Opinion"]
+title = "The Future of Jobs"
+
++++
 
 
 A recent [World Economic Forum report][1] asked chief human resources and strategy officers from leading global employers what the current shifts mean, specifically for employment, skills and recruitment across industries and geographies.

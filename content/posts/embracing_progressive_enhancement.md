@@ -1,13 +1,10 @@
-{
-  "title": "Embracing progressive enhancement",
-  "date": "2007-11-23T00:00:00+00:00",
-  "description": "Striving to make sites the same cross-browser at the presentation and behaviour layers is a bad philosophy for the web and for the browser market. Instead designers and developers should embrace Progressive Enhancement and accept a lesser experience for less capable browsers.",
-  "tags": [
-    "Browsers",
-    "Opinion",
-    "Web Standards"
-  ]
-}
++++
+date = "2007-11-23T00:00:00+00:00"
+description = "Striving to make sites the same cross-browser at the presentation and behaviour layers is a bad philosophy for the web and for the browser market. Instead designers and developers should embrace Progressive Enhancement and accept a lesser experience for less capable browsers."
+tags = ["Browsers", "Opinion", "Web Standards"]
+title = "Embracing progressive enhancement"
+
++++
 
 ## What is progressive enhancement?
 

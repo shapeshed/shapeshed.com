@@ -1,12 +1,11 @@
-{
-  "slug": "a-framework-for-creating-a-digital-strategy-for-a-growing-business",
-  "title": "Creating A Digital Strategy For A Growing Business",
-  "date": "2006-04-11T00:00:00+01:00",
-  "description": "Forming an online strategy can be a daunting task. Typically the task is given to individuals who do not have a huge amount of experience in the digital environment. But by following a simple process good results can be achieved without the need for technical expertise.",
-  "tags": [
-    "Strategy"
-  ]
-}
++++
+date = "2006-04-11T00:00:00+01:00"
+description = "Forming an online strategy can be a daunting task. Typically the task is given to individuals who do not have a huge amount of experience in the digital environment. But by following a simple process good results can be achieved without the need for technical expertise."
+slug = "a-framework-for-creating-a-digital-strategy-for-a-growing-business"
+tags = ["Strategy"]
+title = "Creating A Digital Strategy For A Growing Business"
+
++++
 ## The process
 
 Firstly and most importantly get all stakeholders together and consider your audience:

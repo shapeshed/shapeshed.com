@@ -1,12 +1,10 @@
-{
-  "title": "CSS Font Size not inherited in IE tables",
-  "date": "2006-08-16T00:00:00+01:00",
-  "description": "I recently came across a problem that I couldn't find a solution to. In IE6, IE5.5 and IE5 text within tables was not inheriting the font declarations from my CSS. I declared the font size on the body tag and for all other elements it works fine:\n",
-  "tags": [
-    "XHTML",
-    "CSS"
-  ]
-}
++++
+date = "2006-08-16T00:00:00+01:00"
+description = "I recently came across a problem that I couldn't find a solution to. In IE6, IE5.5 and IE5 text within tables was not inheriting the font declarations from my CSS. I declared the font size on the body tag and for all other elements it works fine:\n"
+tags = ["XHTML", "CSS"]
+title = "CSS Font Size not inherited in IE tables"
+
++++
 
     body { 
       font: 72%/160%, "Lucida Grande", "Lucida Sans", "Trebuchet MS", Tahoma, Verdana, sans-serif; 

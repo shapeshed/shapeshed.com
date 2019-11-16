@@ -1,12 +1,10 @@
-{
-  "title": "Creating grunge effects in Photoshop",
-  "date": "2007-03-21T00:00:00+00:00",
-  "description": "Designing with grids is commonplace in design but the danger is that everything looks a bit ordered. Using grunge effects you can keep your grid and mess up your hair to look a bit cooler.",
-  "tags": [
-    "Design",
-    "Photoshop"
-  ]
-}
++++
+date = "2007-03-21T00:00:00+00:00"
+description = "Designing with grids is commonplace in design but the danger is that everything looks a bit ordered. Using grunge effects you can keep your grid and mess up your hair to look a bit cooler."
+tags = ["Design", "Photoshop"]
+title = "Creating grunge effects in Photoshop"
+
++++
 
 ## Designing with grids
 

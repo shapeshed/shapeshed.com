@@ -1,14 +1,11 @@
-{
-  "slug": "custom-vim-bindings-in-tmux-2-4",
-  "title": "Custom Vim Bindings in tmux 2.4",
-  "date": "2017-05-05T01:00:00+00:00",
-  "description": "tmux 2.4 made a significant change to key bindings. Here is how to support custom keybindings for versions before and after tmux 2.4",
-  "tags": [
-    "Vim",
-    "tmux",
-    "UNIX"
-  ]
-}
++++
+date = "2017-05-05T01:00:00+00:00"
+description = "tmux 2.4 made a significant change to key bindings. Here is how to support custom keybindings for versions before and after tmux 2.4"
+slug = "custom-vim-bindings-in-tmux-2-4"
+tags = ["Vim", "tmux", "UNIX"]
+title = "Custom Vim Bindings in tmux 2.4"
+
++++
 
 ## Changes in tmux 2.4 
 

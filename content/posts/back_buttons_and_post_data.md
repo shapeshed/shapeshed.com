@@ -1,11 +1,10 @@
-{
-  "title": "Back Buttons and POST data",
-  "date": "2006-08-11T00:00:00+01:00",
-  "description": "An overview of how to stop browser warning messages appearing to users",
-  "tags": [
-    "PHP"
-  ]
-}
++++
+date = "2006-08-11T00:00:00+01:00"
+description = "An overview of how to stop browser warning messages appearing to users"
+tags = ["PHP"]
+title = "Back Buttons and POST data"
+
++++
 
 I had a problem whereby users were returning to a page to which POST data had already been submitted and were receiving an ugly message from the browser saying that their POST data had expired. 
 

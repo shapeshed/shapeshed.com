@@ -1,14 +1,11 @@
-{
-  "slug": "photoshop-101-the-type-tools",
-  "title": "Photoshop 101 - The Type Tool",
-  "date": "2007-02-20T00:00:00+00:00",
-  "description": "Adding type to designs is a daily task in Photoshop. Especially if you are interested in Typography mastering this tool is a must. ",
-  "tags": [
-    "Typography",
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2007-02-20T00:00:00+00:00"
+description = "Adding type to designs is a daily task in Photoshop. Especially if you are interested in Typography mastering this tool is a must. "
+slug = "photoshop-101-the-type-tools"
+tags = ["Typography", "Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Type Tool"
+
++++
 
 <h3>Horizontal type tool</h3>
 

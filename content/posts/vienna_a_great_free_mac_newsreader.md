@@ -1,13 +1,11 @@
-{
-  "slug": "vienna-a-great-free-mac-newsreader",
-  "title": "Vienna - A Great Free Mac Newsreader",
-  "date": "2006-06-14T00:00:00+01:00",
-  "description": "I have been looking around for a good Newsreader for the Mac for a while now. There are many out there on the market. Here's a quick overview",
-  "tags": [
-    "Apple",
-    "RSS"
-  ]
-}
++++
+date = "2006-06-14T00:00:00+01:00"
+description = "I have been looking around for a good Newsreader for the Mac for a while now. There are many out there on the market. Here's a quick overview"
+slug = "vienna-a-great-free-mac-newsreader"
+tags = ["Apple", "RSS"]
+title = "Vienna - A Great Free Mac Newsreader"
+
++++
 
 ![Vienna Screenshot][1]
 

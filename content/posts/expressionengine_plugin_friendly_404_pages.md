@@ -1,13 +1,11 @@
-{
-  "slug": "expressionengine-plugin-friendly-404-pages",
-  "title": "ExpressionEngine plugin - Friendly 404 pages",
-  "date": "2008-11-01T00:00:00+00:00",
-  "description": "I've written a simple plugin for ExpressionEngine that suggests valid pages to users based on the final segement of a 404 page.",
-  "tags": [
-    "ExpressionEngine",
-    "PHP"
-  ]
-}
++++
+date = "2008-11-01T00:00:00+00:00"
+description = "I've written a simple plugin for ExpressionEngine that suggests valid pages to users based on the final segement of a 404 page."
+slug = "expressionengine-plugin-friendly-404-pages"
+tags = ["ExpressionEngine", "PHP"]
+title = "ExpressionEngine plugin - Friendly 404 pages"
+
++++
 ## Where am I?
 
 ExpressionEngine [can serve 404 pages][1] but once the user reaches the 404 page there isn't much to help them recover from the error. You could of place a [simple search form][2] in the template but wouldn't it be quicker if we could do it for the user?

@@ -1,13 +1,11 @@
-{
-  "slug": "setting-up-nodejs-and-npm-on-mac-osx",
-  "title": "Setting up Node.js and npm on Mac OSX",
-  "date": "2010-08-30T00:00:00+01:00",
-  "description": "Node.js is gaining a lot of speed and is an exciting new development framework. Here's a quick overview of how to get Node.js working on OSX along with npm, the package manager for node.",
-  "tags": [
-    "Node.js",
-    "JavaScript"
-  ]
-}
++++
+date = "2010-08-30T00:00:00+01:00"
+description = "Node.js is gaining a lot of speed and is an exciting new development framework. Here's a quick overview of how to get Node.js working on OSX along with npm, the package manager for node."
+slug = "setting-up-nodejs-and-npm-on-mac-osx"
+tags = ["Node.js", "JavaScript"]
+title = "Setting up Node.js and npm on Mac OSX"
+
++++
 
 Update: There are now [packages available][12] for OSX and Windows if you prefer a one click install for Node.js and NPM. To install from source you probably know what you are doing but this [article might help][13]. 
 

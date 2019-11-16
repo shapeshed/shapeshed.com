@@ -1,12 +1,10 @@
-{
-  "title": "Chroot SFTP users on Ubuntu Intrepid",
-  "date": "2009-03-31T00:00:00+01:00",
-  "description": "Newer versions of OpenSSH come with the ChrootDirectory directive that makes it easy to jail SFTP users to a directory. I've written about <a href=\"/journal/adding_sftp_users_with_a_limited_shell_in_centos_5.2/\">giving users a limited shell with older versions of OpenSSH</a> but if you can run OpenSSH 4.9 or greater I recommend using this method. ",
-  "tags": [
-    "Ubuntu",
-    "Linux"
-  ]
-}
++++
+date = "2009-03-31T00:00:00+01:00"
+description = "Newer versions of OpenSSH come with the ChrootDirectory directive that makes it easy to jail SFTP users to a directory. I've written about <a href=\"/journal/adding_sftp_users_with_a_limited_shell_in_centos_5.2/\">giving users a limited shell with older versions of OpenSSH</a> but if you can run OpenSSH 4.9 or greater I recommend using this method. "
+tags = ["Ubuntu", "Linux"]
+title = "Chroot SFTP users on Ubuntu Intrepid"
+
++++
 
 ## Usual warning
 

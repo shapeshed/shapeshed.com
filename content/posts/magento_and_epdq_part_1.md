@@ -1,13 +1,11 @@
-{
-  "slug": "magento-and-epdq-part-1",
-  "title": "Magento and ePDQ - Part 1",
-  "date": "2009-02-25T00:00:00+00:00",
-  "description": "I am currently working on an ePDQ integration with Magento, the Open Source eCommerce platform. I'm going to be documenting the process on this blog outlining any recommendations or issues that come up.",
-  "tags": [
-    "ePDQ",
-    "Magento"
-  ]
-}
++++
+date = "2009-02-25T00:00:00+00:00"
+description = "I am currently working on an ePDQ integration with Magento, the Open Source eCommerce platform. I'm going to be documenting the process on this blog outlining any recommendations or issues that come up."
+slug = "magento-and-epdq-part-1"
+tags = ["ePDQ", "Magento"]
+title = "Magento and ePDQ - Part 1"
+
++++
 
 If you are looking for a payment gateway for ePDQ I'm not releasing my module commercially but there is now an <a href="http://www.magentocommerce.com/extension/2050/barclaycard-epdq-cpi-payment-module">offical ePDQ module available</a>
 

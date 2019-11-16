@@ -1,12 +1,11 @@
-{
-  "slug": "writing-cross-platform-node",
-  "title": "Writing cross-platform Node.js",
-  "date": "2014-03-25T11:53:07+00:00",
-  "description": "A major strength of Node.js is great cross-platform support. With a little effort you can make sure your code will run on Windows, Linux and OSX.",
-  "tags": [
-    "Node.js"
-  ]
-}
++++
+date = "2014-03-25T11:53:07+00:00"
+description = "A major strength of Node.js is great cross-platform support. With a little effort you can make sure your code will run on Windows, Linux and OSX."
+slug = "writing-cross-platform-node"
+tags = ["Node.js"]
+title = "Writing cross-platform Node.js"
+
++++
 
 ## Cross-platform if you want
 

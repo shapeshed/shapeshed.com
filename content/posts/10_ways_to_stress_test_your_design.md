@@ -1,12 +1,10 @@
-{
-  "title": "10 ways to stress test your design",
-  "date": "2007-09-13T00:00:00+01:00",
-  "description": "Usability, or making your site easy to use, is the holy grail of web design. Here are a few tips that to help ensure that your design isn't missing the mark.",
-  "tags": [
-    "Opinion",
-    "Usability"
-  ]
-}
++++
+date = "2007-09-13T00:00:00+01:00"
+description = "Usability, or making your site easy to use, is the holy grail of web design. Here are a few tips that to help ensure that your design isn't missing the mark."
+tags = ["Opinion", "Usability"]
+title = "10 ways to stress test your design"
+
++++
 ## Note common tasks
 
 Typically there are 3-4 tasks that users want to perform on a site. Ideally you should do this before you start designing but note down what these are. Does the design help users to perform these tasks? Is it clear what they need to do? Focus first on tasks and then add design elements rather than the other way round. 

@@ -1,13 +1,11 @@
-{
-  "slug": "background-job-nirvana-with-redis-resque-and-god",
-  "title": "Background job nirvana with Resque, Redis and God",
-  "date": "2010-09-08T00:00:00+01:00",
-  "description": "Recently a requirement came up to add a background job queue to a Rails application. Thanks to a couple of excellent open source libraries I was up and running in no time.",
-  "tags": [
-    "Ruby",
-    "Rails"
-  ]
-}
++++
+date = "2010-09-08T00:00:00+01:00"
+description = "Recently a requirement came up to add a background job queue to a Rails application. Thanks to a couple of excellent open source libraries I was up and running in no time."
+slug = "background-job-nirvana-with-redis-resque-and-god"
+tags = ["Ruby", "Rails"]
+title = "Background job nirvana with Resque, Redis and God"
+
++++
 
 ## Resque
 

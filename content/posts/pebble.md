@@ -1,14 +1,13 @@
-{
-  "slug": "pebble-code",
-  "title": "Starting up, going mad, closing down",
-  "draft": true,
-  "date": "2016-08-10T18:16:59+01:00",
-  "description": "The story of founding a consultancy, growing a small to medium sized business, going mad and shutting things down.",
-  "image": "images/articles/pebble-logo.png",
-  "tags": [
-    "UNIX"
-  ]
-}
++++
+date = "2016-08-10T18:16:59+01:00"
+description = "The story of founding a consultancy, growing a small to medium sized business, going mad and shutting things down."
+draft = true
+image = "images/articles/pebble-logo.png"
+slug = "pebble-code"
+tags = ["UNIX"]
+title = "Starting up, going mad, closing down"
+
++++
 
 ![pebble code logo][9]
 

@@ -1,13 +1,11 @@
-{
-  "slug": "photoshop-101-the-move-tool",
-  "title": "Photoshop 101 - The Move Tool",
-  "date": "2006-09-30T00:00:00+01:00",
-  "description": "The second in a series on Photoshop Tools from a web perspective. The Move Tool is simple but has some advanced features that can save you serious time.",
-  "tags": [
-    "Photoshop",
-    "Photoshop 101"
-  ]
-}
++++
+date = "2006-09-30T00:00:00+01:00"
+description = "The second in a series on Photoshop Tools from a web perspective. The Move Tool is simple but has some advanced features that can save you serious time."
+slug = "photoshop-101-the-move-tool"
+tags = ["Photoshop", "Photoshop 101"]
+title = "Photoshop 101 - The Move Tool"
+
++++
 
 ## More than just moving elements
 

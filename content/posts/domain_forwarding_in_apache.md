@@ -1,12 +1,10 @@
-{
-  "title": "Domain forwarding in Apache",
-  "date": "2008-02-16T00:00:00+00:00",
-  "description": "Here's a short tutorial on one way to forward one domain to another in Apache, keeping Google happy as we go along.",
-  "tags": [
-    "Linux",
-    "Apache"
-  ]
-}
++++
+date = "2008-02-16T00:00:00+00:00"
+description = "Here's a short tutorial on one way to forward one domain to another in Apache, keeping Google happy as we go along."
+tags = ["Linux", "Apache"]
+title = "Domain forwarding in Apache"
+
++++
 
 ## The disclaimer bit
 

@@ -1,11 +1,10 @@
-{
-  "title": "Safer Linux administration with sudo",
-  "date": "2008-06-13T00:00:00+01:00",
-  "description": "The root account is all powerful in Linux. As humans make mistakes it is very dangerous to use root on a regular basis. By using sudo you can limit the risk of human error and prevent mistakes from happening. ",
-  "tags": [
-    "Linux"
-  ]
-}
++++
+date = "2008-06-13T00:00:00+01:00"
+description = "The root account is all powerful in Linux. As humans make mistakes it is very dangerous to use root on a regular basis. By using sudo you can limit the risk of human error and prevent mistakes from happening. "
+tags = ["Linux"]
+title = "Safer Linux administration with sudo"
+
++++
 
 ## Using root in Linux
 

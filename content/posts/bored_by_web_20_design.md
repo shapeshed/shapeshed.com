@@ -1,13 +1,11 @@
-{
-  "slug": "bored-by-web-20-design",
-  "title": "Bored by Web 2.0 Design",
-  "date": "2007-02-13T00:00:00+00:00",
-  "description": "Glossy buttons, reflective logos and beta buttons are everywhere. Designers have become magpies taking anything shiny and using it without thinking whether it makes a website better. ",
-  "tags": [
-    "Opinion",
-    "Design"
-  ]
-}
++++
+date = "2007-02-13T00:00:00+00:00"
+description = "Glossy buttons, reflective logos and beta buttons are everywhere. Designers have become magpies taking anything shiny and using it without thinking whether it makes a website better. "
+slug = "bored-by-web-20-design"
+tags = ["Opinion", "Design"]
+title = "Bored by Web 2.0 Design"
+
++++
 
 ## Web 2.0 design 
 

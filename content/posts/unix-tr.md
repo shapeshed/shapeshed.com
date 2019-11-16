@@ -1,14 +1,12 @@
-{
-  "slug": "unix-tr",
-  "title": "Linux and Unix tr command tutorial with examples",
-  "date": "2010-07-23T00:00:00+01:00",
-  "image": "images/articles/tr.png",
-  "description": "Tutorial on using tr, a UNIX and Linux command for translating or deleting characters. Examples of converting uppercase to lowercase, deleting specific characters, squeezing repeating patterns and basic finding and replacing. ",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2010-07-23T00:00:00+01:00"
+description = "Tutorial on using tr, a UNIX and Linux command for translating or deleting characters. Examples of converting uppercase to lowercase, deleting specific characters, squeezing repeating patterns and basic finding and replacing. "
+image = "images/articles/tr.png"
+slug = "unix-tr"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix tr command tutorial with examples"
+
++++
 
 ![tr man page](/images/articles/tr.png)
 

@@ -1,12 +1,12 @@
----
-author: George Ornbo
-tags:
-- Programming
-date: 2016-02-17T00:00:00Z
-title: The importance of a good bug report
-description: Good bug reports offer significant time and cost savings. Not to mention happier developers.
-original: http://pebblecode.com/blog/the-importance-of-a-good-bug-report/
----
++++
+author = "George Ornbo"
+date = "2016-02-17T00:00:00Z"
+description = "Good bug reports offer significant time and cost savings. Not to mention happier developers."
+original = "http://pebblecode.com/blog/the-importance-of-a-good-bug-report/"
+tags = ["Programming"]
+title = "The importance of a good bug report"
+
++++
 
 ## It doesn't work
 

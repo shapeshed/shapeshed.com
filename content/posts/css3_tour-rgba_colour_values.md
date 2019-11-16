@@ -1,12 +1,11 @@
-{
-  "slug": "css3-tour-rgba-colour-values",
-  "title": "CSS3 Tour - RGBa Colour Values",
-  "date": "2009-02-24T00:00:00+00:00",
-  "description": "RGBa adds the alpha channel to colour declarations in CSS3. This is great news for designers who are now able to declare an alpha channel percentage on individual elements. ",
-  "tags": [
-    "CSS"
-  ]
-}
++++
+date = "2009-02-24T00:00:00+00:00"
+description = "RGBa adds the alpha channel to colour declarations in CSS3. This is great news for designers who are now able to declare an alpha channel percentage on individual elements. "
+slug = "css3-tour-rgba-colour-values"
+tags = ["CSS"]
+title = "CSS3 Tour - RGBa Colour Values"
+
++++
 Not interested in the explanation? Go straight to [the demonstration.][1]
 
 ## Why not opacity?

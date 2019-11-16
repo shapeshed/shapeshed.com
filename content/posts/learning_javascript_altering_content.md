@@ -1,13 +1,11 @@
-{
-  "slug": "learning-javascript-altering-content",
-  "title": "Learning Javascript - Altering Content",
-  "date": "2007-03-29T00:00:00+01:00",
-  "description": "Using unobtrusive Javascript you can simply change content and styles on your page without returning to the server. Done right you can also keep it accessible and maintainable. ",
-  "tags": [
-    "JavaScript",
-    "DOM"
-  ]
-}
++++
+date = "2007-03-29T00:00:00+01:00"
+description = "Using unobtrusive Javascript you can simply change content and styles on your page without returning to the server. Done right you can also keep it accessible and maintainable. "
+slug = "learning-javascript-altering-content"
+tags = ["JavaScript", "DOM"]
+title = "Learning Javascript - Altering Content"
+
++++
 
 This is the third in a series of articles about my experience of Learning Javascript. I am a beginner at learning Javascript, although I am a proficient XHTML and CSS coder. These articles are meant to help others like me learn so if you don't understand anything or have any insight to offer please chip in.
 

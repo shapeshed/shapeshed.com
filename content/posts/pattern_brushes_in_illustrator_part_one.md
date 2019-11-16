@@ -1,12 +1,10 @@
-{
-  "title": "Pattern Brushes in Illustrator Part One",
-  "date": "2007-08-07T00:00:00+01:00",
-  "description": "Pattern Brushes in Illustrator are a great way to create complicated designs in no time. Part one shows an example of how to use Pattern Brushes with circles.",
-  "tags": [
-    "Illustrator",
-    "Design"
-  ]
-}
++++
+date = "2007-08-07T00:00:00+01:00"
+description = "Pattern Brushes in Illustrator are a great way to create complicated designs in no time. Part one shows an example of how to use Pattern Brushes with circles."
+tags = ["Illustrator", "Design"]
+title = "Pattern Brushes in Illustrator Part One"
+
++++
 
 ## A simple start
 

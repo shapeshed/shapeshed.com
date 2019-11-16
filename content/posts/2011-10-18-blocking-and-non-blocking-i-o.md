@@ -1,11 +1,12 @@
----
-title: Blocking and non-blocking I/O
-date: '2011-10-18T10:25:04+01:00'
-tags: [ruby, rails, nodejs, io, async]
-author: George Ornbo
-slug: blocking-and-non-blocking-io/
-original: http://pebblecode.com/blog/blocking-and-non-blocking-i-o/
----
++++
+author = "George Ornbo"
+date = "2011-10-18T10:25:04+01:00"
+original = "http://pebblecode.com/blog/blocking-and-non-blocking-i-o/"
+slug = "blocking-and-non-blocking-io/"
+tags = ["ruby", "rails", "nodejs", "io", "async"]
+title = "Blocking and non-blocking I/O"
+
++++
 <p>A theoretical look at non-blocking and blocking I/O</p>
 
 <h2>What is blocking I/O on the web?</h2>

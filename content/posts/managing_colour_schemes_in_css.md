@@ -1,13 +1,10 @@
-{
-  "title": "Managing colour schemes in CSS",
-  "date": "2007-05-08T00:00:00+01:00",
-  "description": "Managing colour schemes in CSS can be difficult. With a bit of PHP you can take control of colour schemes in your stylesheets.",
-  "tags": [
-    "CSS",
-    "Design",
-    "PHP"
-  ]
-}
++++
+date = "2007-05-08T00:00:00+01:00"
+description = "Managing colour schemes in CSS can be difficult. With a bit of PHP you can take control of colour schemes in your stylesheets."
+tags = ["CSS", "Design", "PHP"]
+title = "Managing colour schemes in CSS"
+
++++
 
 ## Why bother?
 

@@ -1,14 +1,12 @@
-{
-  "slug": "unix-pwd",
-  "title": "Linux and Unix pwd command tutorial with examples",
-  "date": "2016-09-20T01:00:00+00:00",
-  "image": "images/articles/pwd.png",
-  "description": "Tutorial on using pwd, a UNIX and Linux command for printing the name of the current working directory. Examples of printing the current working directory, avoiding symlinks and how to get the current working directory in shell scripts.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-09-20T01:00:00+00:00"
+description = "Tutorial on using pwd, a UNIX and Linux command for printing the name of the current working directory. Examples of printing the current working directory, avoiding symlinks and how to get the current working directory in shell scripts."
+image = "images/articles/pwd.png"
+slug = "unix-pwd"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix pwd command tutorial with examples"
+
++++
 
 ![Terminal showing pwd man page][2]
 

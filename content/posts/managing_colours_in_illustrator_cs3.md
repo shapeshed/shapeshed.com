@@ -1,11 +1,10 @@
-{
-  "title": "Managing colours in Illustrator CS3",
-  "date": "2007-07-23T00:00:00+01:00",
-  "description": "Illustrator CS3 makes it easier than ever to create and manage colours in your illustrations. Here's a short tutorial exploring what's available and how to use it. ",
-  "tags": [
-    "Illustrator"
-  ]
-}
++++
+date = "2007-07-23T00:00:00+01:00"
+description = "Illustrator CS3 makes it easier than ever to create and manage colours in your illustrations. Here's a short tutorial exploring what's available and how to use it. "
+tags = ["Illustrator"]
+title = "Managing colours in Illustrator CS3"
+
++++
 
 ## Creating colour schemes
 

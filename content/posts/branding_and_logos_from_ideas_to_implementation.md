@@ -1,13 +1,11 @@
-{
-  "slug": "branding-and-logos-from-ideas-to-implementation",
-  "title": "Branding and logos - from ideas to implementation",
-  "date": "2006-04-05T00:00:00+01:00",
-  "description": "Getting branding right is a difficult process. Often both clients and designers fail to understand what each party needs or is looking for. This article seeks to give some advice on how to issue a brief and issues to consider for small to medium sized enterprises.",
-  "tags": [
-    "Design",
-    "Strategy"
-  ]
-}
++++
+date = "2006-04-05T00:00:00+01:00"
+description = "Getting branding right is a difficult process. Often both clients and designers fail to understand what each party needs or is looking for. This article seeks to give some advice on how to issue a brief and issues to consider for small to medium sized enterprises."
+slug = "branding-and-logos-from-ideas-to-implementation"
+tags = ["Design", "Strategy"]
+title = "Branding and logos - from ideas to implementation"
+
++++
 
 ## Before you contact a designer
 

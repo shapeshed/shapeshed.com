@@ -1,12 +1,11 @@
-{
-  "slug": "html5-video-for-all-well-almost",
-  "title": "HTML5 video for all (well almost)",
-  "date": "2009-11-09T00:00:00+00:00",
-  "description": "How to use HTML5 video and make it work for Internet Explorer",
-  "tags": [
-    "HTML5"
-  ]
-}
++++
+date = "2009-11-09T00:00:00+00:00"
+description = "How to use HTML5 video and make it work for Internet Explorer"
+slug = "html5-video-for-all-well-almost"
+tags = ["HTML5"]
+title = "HTML5 video for all (well almost)"
+
++++
 
 Can't wait? You can view the <a href="/examples/video-for-all/">example here</a> or <a href="http://cdn.shapeshed.com/downloads/video-for-all.zip">download</a> it here. Excuse my ugly mug..
 

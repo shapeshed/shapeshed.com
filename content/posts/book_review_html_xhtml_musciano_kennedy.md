@@ -1,13 +1,11 @@
-{
-  "slug": "book-review-html-xhtml-musciano-kennedy",
-  "title": "Book Review - HTML & XHTML - Musciano & Kennedy",
-  "date": "2007-02-14T00:00:00+00:00",
-  "description": "Although a good introduction to HTML this book suffers from its age but turns up some unexplored parts of HTML even for an experienced reader.  ",
-  "tags": [
-    "XHTML",
-    "Book Reviews"
-  ]
-}
++++
+date = "2007-02-14T00:00:00+00:00"
+description = "Although a good introduction to HTML this book suffers from its age but turns up some unexplored parts of HTML even for an experienced reader.  "
+slug = "book-review-html-xhtml-musciano-kennedy"
+tags = ["XHTML", "Book Reviews"]
+title = "Book Review - HTML & XHTML - Musciano & Kennedy"
+
++++
 
 Authors: Chuck Musciano and Bill Kennedy
 

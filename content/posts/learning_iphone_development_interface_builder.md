@@ -1,13 +1,11 @@
-{
-  "slug": "learning-iphone-development-interface-builder",
-  "title": "Learning iPhone Development - Interface Builder",
-  "date": "2010-04-27T00:00:00+01:00",
-  "description": "I'm following along with the Stanford University iPhone development Winter 2009 course. In this article I walk-through assignment 1A and create a simple view using Interface Builder.",
-  "tags": [
-    "iPhone",
-    "Objective-C"
-  ]
-}
++++
+date = "2010-04-27T00:00:00+01:00"
+description = "I'm following along with the Stanford University iPhone development Winter 2009 course. In this article I walk-through assignment 1A and create a simple view using Interface Builder."
+slug = "learning-iphone-development-interface-builder"
+tags = ["iPhone", "Objective-C"]
+title = "Learning iPhone Development - Interface Builder"
+
++++
 
 ## Assigment 1A
 

@@ -1,12 +1,10 @@
-{
-  "title": "Educating clients about browsers",
-  "date": "2008-02-26T00:00:00+00:00",
-  "description": "Recently I have had some success in changing browser usage within a client network. Here's a short summary of what I have learnt. ",
-  "tags": [
-    "Browsers",
-    "Opinion"
-  ]
-}
++++
+date = "2008-02-26T00:00:00+00:00"
+description = "Recently I have had some success in changing browser usage within a client network. Here's a short summary of what I have learnt. "
+tags = ["Browsers", "Opinion"]
+title = "Educating clients about browsers"
+
++++
 
 ## A disclaimer
 

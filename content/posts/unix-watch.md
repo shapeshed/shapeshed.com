@@ -1,14 +1,12 @@
-{
-  "slug": "unix-watch",
-  "title": "Linux and Unix watch command tutorial with examples",
-  "date": "2017-07-12T00:00:00+00:00",
-  "image": "images/articles/watch.png",
-  "description": "Tutorial on using watch, a UNIX and Linux command for executing a program periodically and showing a fullscreen output. Examples of watching a file download, a network interface come up, and showing the five most CPU intensive processes.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2017-07-12T00:00:00+00:00"
+description = "Tutorial on using watch, a UNIX and Linux command for executing a program periodically and showing a fullscreen output. Examples of watching a file download, a network interface come up, and showing the five most CPU intensive processes."
+image = "images/articles/watch.png"
+slug = "unix-watch"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix watch command tutorial with examples"
+
++++
 
 ![Terminal showing ps man page][2]
 

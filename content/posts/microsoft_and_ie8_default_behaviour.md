@@ -1,13 +1,10 @@
-{
-  "title": "Microsoft and IE8 default behaviour",
-  "date": "2008-03-04T00:00:00+00:00",
-  "description": "Microsoft has changed its mind about the proposal to use a meta tag to trigger IE8 to use the standards rendering mode. ",
-  "tags": [
-    "Browsers",
-    "Microsoft",
-    "Opinion"
-  ]
-}
++++
+date = "2008-03-04T00:00:00+00:00"
+description = "Microsoft has changed its mind about the proposal to use a meta tag to trigger IE8 to use the standards rendering mode. "
+tags = ["Browsers", "Microsoft", "Opinion"]
+title = "Microsoft and IE8 default behaviour"
+
++++
 ## A change of mind
 
 Back in January like many others [I blogged][1] about Microsoft's decision to use 

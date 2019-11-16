@@ -1,15 +1,13 @@
-{
-  "slug": "unix-sort",
-  "title": "Linux and Unix sort command tutorial with examples",
-  "date": "2011-03-21T00:00:00+00:00",
-  "lastmod": "2016-07-26T00:00:00+00:00",
-  "image": "images/articles/sort.png",
-  "description": "Tutorial on using sort, a UNIX and Linux command for sorting lines of text files. Examples of alphabetical sorting, reverse order sorting, sorting by number and mixed case sorting.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2011-03-21T00:00:00+00:00"
+description = "Tutorial on using sort, a UNIX and Linux command for sorting lines of text files. Examples of alphabetical sorting, reverse order sorting, sorting by number and mixed case sorting."
+image = "images/articles/sort.png"
+lastmod = "2016-07-26T00:00:00+00:00"
+slug = "unix-sort"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix sort command tutorial with examples"
+
++++
 
 ![Terminal showing sort man page][7]
 

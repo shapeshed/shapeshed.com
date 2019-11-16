@@ -1,13 +1,11 @@
-{
-  "slug": "illustrator-101-line-tools",
-  "title": "Illustrator 101 - Line Tools",
-  "date": "2007-06-23T00:00:00+01:00",
-  "description": "The line tools offer you flexibility to draw anything from straight lines to spirals. Hidden within the menu you will also find tools to draw rectangles and polar grids.",
-  "tags": [
-    "Illustrator 101",
-    "Illustrator"
-  ]
-}
++++
+date = "2007-06-23T00:00:00+01:00"
+description = "The line tools offer you flexibility to draw anything from straight lines to spirals. Hidden within the menu you will also find tools to draw rectangles and polar grids."
+slug = "illustrator-101-line-tools"
+tags = ["Illustrator 101", "Illustrator"]
+title = "Illustrator 101 - Line Tools"
+
++++
 
 ## A simple line
 

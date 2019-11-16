@@ -1,14 +1,12 @@
-{
-  "slug": "unix-ln",
-  "title": "Linux and Unix ln command tutorial with examples",
-  "date": "2016-10-10T01:00:00+00:00",
-  "image": "images/articles/ln.png",
-  "description": "Tutorial on using ln, a UNIX and Linux command to make links between files. Examples of creating a hard link, creating a symbolic link, and a broken symbolic link.",
-  "tags": [
-    "UNIX",
-    "Linux"
-  ]
-}
++++
+date = "2016-10-10T01:00:00+00:00"
+description = "Tutorial on using ln, a UNIX and Linux command to make links between files. Examples of creating a hard link, creating a symbolic link, and a broken symbolic link."
+image = "images/articles/ln.png"
+slug = "unix-ln"
+tags = ["UNIX", "Linux"]
+title = "Linux and Unix ln command tutorial with examples"
+
++++
 
 ![Terminal showing ln man page][2]
 

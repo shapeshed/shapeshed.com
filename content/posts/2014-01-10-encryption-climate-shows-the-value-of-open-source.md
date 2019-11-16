@@ -1,10 +1,11 @@
----
-title: Encryption climate shows the value of Open Source
-date: '2014-01-10T12:22:00+00:00'
-tags: []
-author: George Ornbo
-original: http://pebblecode.com/blog/encryption-climate-shows-the-value-of-open-source/
----
++++
+author = "George Ornbo"
+date = "2014-01-10T12:22:00+00:00"
+original = "http://pebblecode.com/blog/encryption-climate-shows-the-value-of-open-source/"
+tags = []
+title = "Encryption climate shows the value of Open Source"
+
++++
 
 The [Snowden revelations](http://www.theguardian.com/world/edward-snowden) have thrown the surveillance climate wide open and some have suggested that the behaviour of the NSA has [broken the web’s security model](http://arstechnica.com/tech-policy/2013/11/schneier-tells-washington-nsa-broke-internets-security-for-everyone/) for everyone.
 

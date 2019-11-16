@@ -1,15 +1,12 @@
----
-author: George Ornbo
-tags:
-- Opinion
-- Deployment
-- Devops
-- Webops
-date: 2016-05-17T00:00:00Z
-title: Optimising Development Environments in SOAs
-description: As development environments move off single desktops and Service Orientated Architectures become more common we need to think about how to maximise efficiency and morale in development environments. 
-original: http://pebblecode.com/blog/optimising-development-environments-in-soas/
----
++++
+author = "George Ornbo"
+date = "2016-05-17T00:00:00Z"
+description = "As development environments move off single desktops and Service Orientated Architectures become more common we need to think about how to maximise efficiency and morale in development environments."
+original = "http://pebblecode.com/blog/optimising-development-environments-in-soas/"
+tags = ["Opinion", "Deployment", "Devops", "Webops"]
+title = "Optimising Development Environments in SOAs"
+
++++
 
 ### The deep sigh of a developer
 

@@ -1,11 +1,12 @@
----
-title: Titanium - native mobile apps with JavaScript
-date: '2011-10-18T10:28:12+01:00'
-tags: [android, iOS, iPad, iPhone, mobile]
-author: George Ornbo
-slug: titanium-native-mobile-apps-with-javascript/
-original: http://pebblecode.com/blog/titanium-native-mobile-apps-with-javascript/
----
++++
+author = "George Ornbo"
+date = "2011-10-18T10:28:12+01:00"
+original = "http://pebblecode.com/blog/titanium-native-mobile-apps-with-javascript/"
+slug = "titanium-native-mobile-apps-with-javascript/"
+tags = ["android", "iOS", "iPad", "iPhone", "mobile"]
+title = "Titanium - native mobile apps with JavaScript"
+
++++
 <p>At pebble.it the development team have been working hard to get up to speed with <a href="http://www.apple.com/ios/">iOS</a> so that we can support our clients&rsquo; growing requirements for mobile applications.</p>
 
 <p>The team have reached a good level of understanding on iOS even diving into <a href="http://www.opengl.org/">OpenGL</a> to create a complex drawing application.</p>
