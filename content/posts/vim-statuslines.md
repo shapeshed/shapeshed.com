@@ -74,7 +74,7 @@ Vim has a number of variables that may be used in status lines. The `f` characte
     
 ## Colour
 
-Colour is perhaps the hardest part to configure in statuslines. [The documentation][7] is harder to decipher here but offers the highlight colour names that may be used to change the colour of the statusline. These colors are named highlights so it is difficult to understand what the colour will be without playing around with them. The syntax for using these colors is as follows.
+Colour is perhaps the hardest part to configure in statuslines. [The documentation][7] is harder to decipher here but offers the highlight colour names that may be used to change the colour of the statusline. These colors are named highlights and will vary with your colorscheme, you can preview all highlight groups with `:so $VIMRUNTIME/syntax/hitest.vim`. The syntax for using these color groups is as follows:
 
     set statusline=
     set statusline+=%#LineNr#
@@ -126,7 +126,7 @@ Of course it may be easier for many people to use [powerline][8] or [airline][9]
 [4]: http://vimdoc.sourceforge.net/htmldoc/options.html#'statusline'
 [5]: http://alvinalexander.com/linux/vi-vim-editor-color-scheme-syntax#possible-highlight-groups
 [6]: http://learnvimscriptthehardway.stevelosh.com/chapters/17.html
-[7]: http://docs.huihoo.com/vim/7.2/syntax.html7
+[7]: http://vimdoc.sourceforge.net/htmldoc/syntax.html
 [8]: https://github.com/Lokaltog/vim-powerline
 [9]: https://github.com/vim-airline/vim-airline
 [10]: /images/articles/vim-default-statusline.png
