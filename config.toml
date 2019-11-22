@@ -7,6 +7,7 @@ metaDataFormat = "json"
 rssLimit = "20"
 sitemap = "sitemap.xml"
 googleAnalytics= "UA-324369-3"
+enableGitInfo = true
 
 [permalinks]
   posts = "/:slug/"
