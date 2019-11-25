@@ -28,7 +28,7 @@ To fix it run the following commands
 
 Once this happened more than twice I made a script to fix the issue. The following is saved in my `~/bin` folder as `zsh_history_fix` and this folder [is in my `$PATH`][3].
 
-    #!/usr/bin/env sh
+    #!/usr/bin/env zsh
     # George Ornbo (shapeshed) http://shapeshed.com
     # License - http://unlicense.org
     #
