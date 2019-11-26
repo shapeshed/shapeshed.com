@@ -1,10 +1,10 @@
 language: minimal
 before_script: 
-  - "wget https://github.com/tdewolff/minify/releases/download/v2.5.0/minify_2.5.0_linux_amd64.tar.gz"
-  - "tar -xvzf minify_2.5.0_linux_amd64.tar.gz"
+  - "wget https://github.com/tdewolff/minify/releases/download/v2.5.0/minify_2.5.2_linux_amd64.tar.gz"
+  - "tar -xvzf minify_2.5.2_linux_amd64.tar.gz"
   - "sudo mv ./minify /usr/local/bin/"
-  - "wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz"
-  - "tar -xvzf hugo_0.55.6_Linux-64bit.tar.gz"
+  - "wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.tar.gz"
+  - "tar -xvzf hugo_0.59.1_Linux-64bit.tar.gz"
   - "sudo mv ./hugo /usr/local/bin/"
   - "git clone https://github.com/shapeshed/shapeshed-minimal.git themes/shapeshed-minimal"
   - "sudo pip install s3cmd"
