@@ -2,7 +2,7 @@
 SHELL := /bin/bash
 CSSMD5 = $(shell md5sum ./public/css/styles.css | awk '{ print $$1 }')
 
-build: clean hugo css minify-html gzip-static validate
+build: clean hugo css minify-html gzip-static
 
 install:
 	wget "https://github.com/tdewolff/minify/releases/download/v2.5.2/minify_2.5.0_linux_amd64.tar.gz"
