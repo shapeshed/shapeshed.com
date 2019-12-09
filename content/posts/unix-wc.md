@@ -32,21 +32,21 @@ To print the number of lines in a file (or more specifically newline counts) use
 
 ## How to print the number of characters in a file
 
-To print the number of characters in a file (or more specifically newline counts) use the `-m` option.
+To print the number of characters in a file use the `-m` option.
 
     wc -m /usr/share/dict/words
     2493109 /usr/share/dict/words
 
 ## How to print the number of bytes in a file
 
-To print the number of bytes in a file (or more specifically newline counts) use the `-c` option.
+To print the number of bytes in a file use the `-c` option.
 
     wc -c /usr/share/dict/words
     2493109 /usr/share/dict/words
 
 ## How to print the number of words in a file
 
-To print the number of bytes in a file (or more specifically newline counts) use the `-w` option.
+To print the number of words in a file use the `-w` option.
 
     wc -w /usr/share/dict/words
     235886 /usr/share/dict/words
