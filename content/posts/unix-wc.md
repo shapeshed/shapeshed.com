@@ -46,7 +46,7 @@ To print the number of bytes in a file use the `-c` option.
 
 ## How to print the number of words in a file
 
-To print the number of bytes in a file use the `-w` option.
+To print the number of words in a file use the `-w` option.
 
     wc -w /usr/share/dict/words
     235886 /usr/share/dict/words
