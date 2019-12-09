@@ -8,7 +8,7 @@ title = "Creating grunge effects in Photoshop"
 
 ## Designing with grids
 
-Grids are everywhere in design. Have a look at newspapers for example. The content is ordered in columns and rows so that the eye can easily scan the content. Mark Boulton has written a great [series of articles on designing with grids][1]. In it he shows how to use grids to organise information. Speak to any designer and they will tell you that Apple + R is a common shortcut in Photoshop. It brings up rulers which allows you to create your grid in your Photoshop document. You then use rulers as the backbone of the design. Indeed [www.markboulton.co.uk][2] is a great example of a clean design using a strong grid.
+Grids are everywhere in design. Have a look at newspapers for example. The content is ordered in columns and rows so that the eye can easily scan the content. Mark Boulton has written a great [series of articles on designing with grids][1]. In it he shows how to use grids to organise information. Speak to any designer and they will tell you that Apple + R is a common shortcut in Photoshop. It brings up rulers which allows you to create your grid in your Photoshop document. You then use rulers as the backbone of the design. Indeed <https://www.markboulton.co.uk> is a great example of a clean design using a strong grid.
 
 ## Some clients don't like straight lines
 

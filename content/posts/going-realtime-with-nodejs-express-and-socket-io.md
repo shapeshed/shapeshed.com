@@ -15,7 +15,7 @@ This is a walkthrough on how to create a simple realtime counter of visitors to 
 
 [![Simple counter][2]][11]
 
-[http://counter.nodester.com][11]
+<http://counter.nodester.com>
 
 ## Pulling the pieces together
 

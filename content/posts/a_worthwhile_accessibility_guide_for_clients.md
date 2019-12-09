@@ -29,7 +29,7 @@ To order a copy of PAS 78, contact BSI Customer Services quoting marketing refer
 Tel: 020 8996 9001  
 Fax: 020 8996 7001  
 Email: <orders@bsi-global.com>  
-Online: [www.bsi-global.com/pas78][2]
+Online: <http://www.bsi-global.com/pas78>
 
  [1]: /why_web_standards_matter/
  [2]: http://www.bsi-global.com/pas78

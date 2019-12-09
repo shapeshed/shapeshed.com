@@ -28,7 +28,7 @@ If your HTML isn't valid your site is less likely to achieve good rankings. Test
 
 ## Submit your site to search engines
 
-Visit the major search engine and see if your site is in their index. If it is not there is often a manual link entry form where you can submit your site. DMOZ [www.dmoz.org][1] is a human based search engine. Getting into the catalogue can be hard but your rankings will improve if you are accepted.
+Visit the major search engine and see if your site is in their index. If it is not there is often a manual link entry form where you can submit your site. [DMOZ][1] is a human based search engine. Getting into the catalogue can be hard but your rankings will improve if you are accepted.
 
 ## Pay Google to rank your link highly
 
@@ -38,4 +38,4 @@ Google has a paid service called Adwords. In some cases this can lead to excelle
 
 Do not expect immediate results. It will take at least a month before you notice any improvement to your ranking. Monitoring your search engine position will be an ongoing process so be prepared to devote some time to it. Eventually you should see your site climb the rankings though and all the effort will be worth it.
 
- [1]: http://www.dmoz.org/
+[1]: http://www.dmoz.org/
