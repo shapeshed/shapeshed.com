@@ -92,13 +92,13 @@ To only move files that are newer than the destination pass the `-u` option. If 
 
     tree -F .
     .
-    ├── foo/
+    ├── bar/
     │   ├── bar.txt
     │   └── foo.txt
     ├── bar.txt
     └── foo.txt
 
-Looking at the timestamps of these files we can see that the file `foo.txt` in the current directory is newer than the file `foo.txt` in the directory `bar`.
+Looking at the timestamps of these files we can see that the file `foo.txt` in the current directory is older than the file `foo.txt` in the directory `bar`.
 
     ls -l
     total 4
@@ -112,7 +112,7 @@ Looking at the timestamps of these files we can see that the file `foo.txt` in t
 
 Using the `-u` option means that only newer files will be moved.
 
-    mv foo.txt bar.txt bar
+    mv -u foo.txt bar.txt bar
     ls 
     bar foo.txt
 
