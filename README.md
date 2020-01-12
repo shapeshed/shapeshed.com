@@ -1,5 +1,7 @@
 # Source code for shapeshed.com
 
+![ci](https://github.com/shapeshed/shapeshed.com/workflows/Continuous%20Integration/badge.svg)
+
 This is the source code for [shapeshed.com][1].
 
 ## Installation
