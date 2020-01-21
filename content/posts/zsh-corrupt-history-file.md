@@ -46,7 +46,7 @@ Now if I see the `zsh: corrupt history file` error again I just run the command 
 If you'd like the script you can download it directly from Github, put it somewhere in your `$PATH` and make it executable.
 
     cd ~/bin # or somewhere in your $PATH
-    wget https://github.com/shapeshed/dotfiles/blob/master/bin/zsh_history_fix
+    wget https://raw.githubusercontent.com/shapeshed/dotfiles/master/bin/zsh_history_fix
     chmod +x zsh_history_fix
 
 [1]: http://www.zsh.org/
