@@ -20,4 +20,3 @@ jobs:
       run: make build
     - name: make validate
       run: make validate
-
