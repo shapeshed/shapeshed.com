@@ -15,6 +15,7 @@ install:
 	tar -xzf hugo_0.62.2_Linux-64bit.tar.gz
 	chmod +x hugo
 	sudo mv hugo /usr/local/bin/
+	pip install -r requirements.txt
 
 clean: 
 	@rm -Rf ./public
@@ -40,4 +41,4 @@ deploy:
 	@rsync -az -e "ssh" --delete ./public/ static1.shapeshed.com:/srv/http/shapeshed.com
 
 validate:
-	@validatornu public/*/index.html
+	@html5validator --ignore --ignore-re "public/examples*|public/google*|public/y_key*|public/images/articles/index.html" --root public

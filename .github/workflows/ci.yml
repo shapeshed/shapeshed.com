@@ -4,11 +4,20 @@ on: ["push", "pull_request"]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@v2.0.0
+    - uses: actions/setup-python@v1
+    - uses: actions/cache@v1
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
     - name: make install
       run: make install
     - name: make build
       run: make build
+    - name: make validate
+      run: make validate
 
