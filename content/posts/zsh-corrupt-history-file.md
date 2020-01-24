@@ -9,7 +9,7 @@ title = "How to fix a corrupt zsh history file"
 
 ## Corrupt ZSH history file
 
-If you use  [`zsh`][1] for your shell very occasionally you may find the following message appearing indicating a corrupt history file. This is normally after a reboot.
+If you use [`zsh`][1] for your shell very occasionally you may find the following message appearing indicating a corrupt history file. This is normally after a reboot.
 
     zsh: corrupt history file /home/george/.zsh_history
 
