@@ -1,0 +1,45 @@
+name: Deploy
+
+on:
+  push:
+    branches:    
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@v2.0.0
+      with:
+        fetch-depth: 0
+
+    - name: Add deploy key
+      run: |
+        mkdir -p ~/.ssh
+        chmod 700 ~/.ssh
+        echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+        echo "$SSH_CONFIG" > ~/.ssh/config
+        echo "$DEPLOY_KEY" > ~/.ssh/id_ed25519
+        chmod 600 ~/.ssh/id_ed25519
+        chmod 644 ~/.ssh/known_hosts
+        chmod 600 ~/.ssh/config
+      env:
+        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+        SSH_CONFIG: ${{ secrets.SSH_CONFIG }}
+
+    - name: make install
+      run: make install
+
+    - name: make build
+      run: make build
+
+    - name: Deploy
+      run: | 
+        FILES=`rsync -ancz -e "ssh" --delete --out-format="%n" ./public/ $SSH_SERVER | tail -n +2 | sed '/\/$/d' | awk '{print "/"$0}' | tr '\n' ' '`
+        rsync -acz -e "ssh" --delete ./public/ $SSH_SERVER 
+        [ -n "$FILES" ] && aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONT_DIST_ID }} --paths $FILES
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        SSH_SERVER: ${{ secrets.SSH_SERVER }}
