@@ -1,6 +1,6 @@
 +++
 date = "2017-09-13T00:00:00+01:00"
-description = "How to use HashiCorp Vault to setup an LDAP backed secret store with read-only access for users in groups and read-write access for specific users"
+description = "How to use setup HashiCorp Vault using LDAP for authentication. Includes read-only access for users in groups and read-write access for specific users"
 slug = "hashicorp-vault-ldap"
 tags = ["UNIX", "Linux"]
 title = "Using HashiCorp Vault with LDAP"
