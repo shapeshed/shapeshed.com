@@ -24,7 +24,7 @@ By default `xargs` reads items from standard input as separated by blanks and ex
 
 ## How to use xargs with find
 
-The most common usage of `xargs` is to use it with the [`find`][4] command. This uses `find` to search for files or directories and then uses `xargs` to operate on the results. Typical examples of this are removing files, changing the ownership of files or moving files.
+The most common usage of `xargs` is to use it with the [`find`][4] command. This uses `find` to search for files or directories and then uses `xargs` to operate on the results. Typical examples of this are changing the ownership of files or moving files.
 
 `find` and `xargs` can be used together to operate on files that match certain attributes. In the following example files older than two weeks in the temp folder are found and then piped to the xargs command which runs the `rm` command on each file and removes them. 
 
@@ -32,7 +32,7 @@ The most common usage of `xargs` is to use it with the [`find`][4] command. This
 
 ## xargs v exec {}
 
-The `find` command supports the `-exec` option that allows arbitrary commands to be found on files that are found. The following are equivalent.
+The `find` command supports the `-exec` option that allows arbitrary commands to be performed on found files. The following are equivalent.
 
     find ./foo -type f -name "*.txt" -exec rm {} \; 
     find ./foo -type f -name "*.txt" | xargs rm
@@ -64,7 +64,7 @@ l
 
 ## How to run multiple commands with xargs
 
-It is possible to run multiple commands with `xargs` by using the `-I` flag. This replaces occurrences of the argument with the argument passed to xargs. The following prints echos a string and creates a folder. 
+It is possible to run multiple commands with `xargs` by using the `-I` flag. This replaces occurrences of the argument with the argument passed to xargs. The following echos a string and creates a folder. 
 
     cat foo.txt
     one
