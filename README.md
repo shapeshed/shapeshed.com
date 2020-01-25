@@ -1,7 +1,7 @@
 # Source code for shapeshed.com
 
 ![ci](https://github.com/shapeshed/shapeshed.com/workflows/Continuous%20Integration/badge.svg)
-![deployment](https://github.com/shapeshed/shapeshed.com/workflows/Deployment/badge.svg)
+![deployment](https://github.com/shapeshed/shapeshed.com/workflows/Deploy/badge.svg)
 
 This is the source code for [shapeshed.com][1].
 
