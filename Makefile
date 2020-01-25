@@ -2,7 +2,7 @@
 SHELL := /bin/bash
 CSSMD5 = $(shell md5sum ./public/css/styles.css | awk '{ print $$1 }')
 HUGO_VERSION=0.63.0
-MINIFY_VERSION=2.7.0
+MINIFY_VERSION=2.5.2
 
 build: clean hugo css minify-html gzip-static
 
