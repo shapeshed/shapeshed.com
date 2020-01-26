@@ -41,7 +41,7 @@ First of all put the flour into the mixing bowl. On one side add the yeast, on t
 
 ## Combine the ingredients and kneed
 
-Add some of the water to the bowl. This is where things get fun and you start to use your hands! Get your hands in there and start combining all the ingredients. Turn it around, mush it up until it starts to form a ball. You want it to be soft so that you can kneed it but not to wet. You have a bit of play - if it gets too wet add more flour and it is too dry add more water. 
+Add some of the water to the bowl. This is where things get fun and you start to use your hands! Get your hands in there and start combining all the ingredients. Turn it around, mush it up until it starts to form a ball. You want it to be soft so that you can kneed it but not too wet. You have a bit of play - if it gets too wet add more flour and it is too dry add more water. 
 
 ![Combined Ingredients][8] 
 
