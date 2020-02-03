@@ -36,7 +36,7 @@ jobs:
 
     - name: Deploy
       run: | 
-        FILES=`rsync -anczz -e "ssh" --delete --out-format="%n" ./public/ $SSH_SERVER | tail -n +2 | sed '/\/$/d' | awk '{print "/"$0}' | tr '\n' ' '`
+        FILES=`rsync -anc -e "ssh" --delete --out-format="%n" ./public/ $SSH_SERVER | tail -n +2 | sed '/\/$/d' | awk '{print "/"$0}' | tr '\n' ' '`
         rsync -aczz -e "ssh" --delete ./public/ $SSH_SERVER 
         [ -n "$FILES" ] && aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONT_DIST_ID }} --paths $FILES
       env:
