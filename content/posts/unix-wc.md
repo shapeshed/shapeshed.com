@@ -63,7 +63,7 @@ Done. There are 1866 records across the 5 files.
 
 ## How to count the number files in a directory 
 
-To count the number of folders and files in a directory `wc` can be combined with the `ls` command. By passing the `-l` options to `ls` it will each folder or line on a new line. This can be piped to `wc` to give a count. 
+To count the number of folders and files in a directory `wc` can be combined with the `ls` command. By passing the `-1` options to `ls` it will list one file per line. This can be piped to `wc` to give a count. 
 
     ls -1 | wc -l
     21
