@@ -33,7 +33,7 @@ The `rm` command can remove multiple files at once either by passing it more tha
     rm foo.txt bar.txt
     ls
 
-In the following example a pattern is used to remove all filenames ending in '.txt'.
+In the following example a pattern is used to remove all filenames ending in '.zip'.
 
     ls 
     foo.txt bar.txt baz.zip
