@@ -38,7 +38,7 @@ Now the cluster is running an image can be deployed into it. I used a Hello Worl
 
 ### Deploy an image
 
-    kubectl run hello-go --image=shapeshed/hello-go --port=8080
+    kubectl run hello-go --image=shapeshed/hello-go --port=8000
 
 ### Expose the deployment
 
