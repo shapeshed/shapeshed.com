@@ -181,6 +181,6 @@ If you'd like to download a copy of my default files you can [get them here.][5]
  [2]: http://www.andybudd.com/
  [3]: http://www.cssmastery.com/
  [4]: http://clagnut.com/blog/348/
- [5]: http://cdn.shapeshed.com/downloads/default_css.zip
+ [5]: https://shapeshed.com/downloads/default_css.zip
  [6]: http://dotpress.wordpress.com/2007/04/04/css-estilos-por-defecto/
 
