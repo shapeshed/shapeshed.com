@@ -33,13 +33,22 @@ The file `foo.txt` can be located with the `find` by using the `-name` option.
 
 ## How to find and delete a file
 
-To find and delete a file pass the `--delete` option to `find`. This will delete the file with no undo so be careful.
+To find and delete a file pass the `-delete` option to `find`. This will delete the file with no undo so be careful.
 
-    find ./foo -name foo.txt --delete
+    find ./foo -name foo.txt -delete
 
 To be prompted to confirm deletion combine `-exec` with `rm -i`.
 
     find ./foo -name foo.txt -exec rm -i {} \;
+
+Comparing the efficiency of these methods when operating on 10000 files we can see that using `-delete` is far more efficient.
+
+    touch {0..10000}.txt
+    time find ./ -type f -name "*.txt" -exec rm {} \;
+    find ./ -type f -name "*.txt" -exec rm {} \;  3.95s user 1.44s system 99% cpu 5.402 total
+    touch {0..10000}.txt
+    time find ./ -type f -name '*.txt' -delete
+    find ./ -type f -name '*.txt' -delete  0.03s user 0.06s system 98% cpu 0.090 total
 
 ## How to find a directory
 
