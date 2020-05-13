@@ -38,7 +38,7 @@ css:
 	@find ./public -name index.html | xargs sed -i "s/styles\.css/$(CSSMD5)\.css/"
 
 deploy: 
-	@rsync -az -e "ssh" --delete ./public/ static1.shapeshed.com:/srv/http/shapeshed.com
+	@rsync -azz -e "ssh" --delete ./public/ moxie.shapeshed.com:/srv/http/shapeshed.com
 
 validate:
 	@html5validator --ignore --ignore-re "public/examples*|public/google*|public/y_key*|public/images/articles/index.html" --root public
