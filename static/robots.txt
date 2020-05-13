@@ -1,4 +1,3 @@
-# This is overwritten by cloudfront 
-# Disallow all to prevent the origin being indexed
 User-agent: *
-Disallow: / 
+Disallow:  
+Sitemap: https://shapeshed.com/sitemap.xml
