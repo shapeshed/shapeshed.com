@@ -64,7 +64,7 @@ Multiple fields can be cut by passing a comma separated list.
 
 ## How to cut by complement pattern
 
-To cut by complement us the `--complement` option. Note this option is not available on the BSD version of `cut`. The `--complement` option selects the _inverse_ of the options passed to sort.
+To cut by complement us the `--complement` option. Note this option is not available on the BSD version of `cut`. The `--complement` option selects the _inverse_ of the options passed to cut.
 
 In the following example the `-c` option is used to select the first character. Because the `--complement` option is also passed to `cut` the second and third characters are cut.
 
