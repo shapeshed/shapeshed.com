@@ -1,5 +1,5 @@
 +++
-date = "2016-08-10T00:00:00+00:00"
+date = "2020-05-05T00:00:00+00:00"
 description = "Tutorial on using comm, a UNIX and Linux command for comparing two sorted files line by line. Examples of showing specific comparisons and ignoring case sensitivity."
 image = "images/articles/comm.png"
 slug = "unix-comm"
@@ -54,7 +54,7 @@ The following example shows lines that are unique to `set1.txt`.
 
 The following example shows lines that are unique to `set2.txt`.
 
-    comm -23 <(sort set1.txt) <(sort set2.txt)
+    comm -13 <(sort set1.txt) <(sort set2.txt)
     8
 
 ## How to ignore case sensitivity 
