@@ -53,7 +53,7 @@ To use exit codes in scripts an `if` statement can be used to see if an operatio
       exit 1
     fi
 
-If the command was unsuccessful the exit code will be `0` and 'The script ran ok' will be printed to the terminal. 
+If the command was successful the exit code will be `0` and 'The script ran ok' will be printed to the terminal. 
 
 ## How to set an exit code
 
