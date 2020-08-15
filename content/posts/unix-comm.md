@@ -1,5 +1,5 @@
 +++
-date = "2020-05-05T00:00:00+00:00"
+date = "2016-08-10T00:00:00+00:00"
 description = "Tutorial on using comm, a UNIX and Linux command for comparing two sorted files line by line. Examples of showing specific comparisons and ignoring case sensitivity."
 image = "images/articles/comm.png"
 slug = "unix-comm"
