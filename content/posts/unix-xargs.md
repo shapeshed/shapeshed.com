@@ -22,6 +22,12 @@ By default `xargs` reads items from standard input as separated by blanks and ex
     ls
     one two three
 
+When filenames contains spaces you need to use -d option to change delimiter
+
+   ls
+   'one two three.txt' 'four.txt'
+   find . -name '*.txt' | xargs -d '\n' rm
+
 ## How to use xargs with find
 
 The most common usage of `xargs` is to use it with the [`find`][4] command. This uses `find` to search for files or directories and then uses `xargs` to operate on the results. Typical examples of this are changing the ownership of files or moving files.
