@@ -21,7 +21,7 @@ To fix it run the following commands
 
     cd ~
     mv .zsh_history .zsh_history_bad
-    strings .zsh_history_bad > .zsh_history
+    strings -eS .zsh_history_bad > .zsh_history
     fc -R .zsh_history
 
 ## Making it a script
@@ -35,7 +35,7 @@ Once this happened more than twice I made a script to fix the issue. The followi
     # Fixes a corrupt .zsh_history file
 
     mv ~/.zsh_history ~/.zsh_history_bad
-    strings ~/.zsh_history_bad > ~/.zsh_history
+    strings -eS ~/.zsh_history_bad > ~/.zsh_history
     fc -R ~/.zsh_history
     rm ~/.zsh_history_bad
 
