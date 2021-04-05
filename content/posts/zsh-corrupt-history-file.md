@@ -48,6 +48,30 @@ If you'd like the script you can download it directly from Github, put it somewh
     cd ~/bin # or somewhere in your $PATH
     wget https://raw.githubusercontent.com/shapeshed/dotfiles/master/bin/zsh_history_fix
     chmod +x zsh_history_fix
+    
+In the alternative, a ZSH function can be defined in place of using a script. This may be useful if, e.g., you prefer to maintain a single file containing multiple user-defined functions that is sourced on ZSH startup. Be advised that this approach will consume more memory, as sourcing the file containing the function will cause the function to stay resident in memory even when not in use.
+
+This version of the function assumes the history file is located at the globally defined variable $HISTFILE, which means it should be able to find the history file on any system where this variable is defined. This approach should also work in a shell script.
+
+Also note that this function includes extra print statements and comments that are not necessary, but that help demonstrate what is going on and may be useful if you are just learning shell/ZSH programming. Everything before the mv command and after the rm command is optional.
+
+    function fixCorruptHistoryFile
+    {
+        local historyPath=$HISTFILE:h               # Get file path without file name
+        local historyFile=$HISTFILE:t               # Get file name
+
+        print -P "Repairing corrupt ZSH History File at:" $historyPath "..."
+        print -P "ZSH History File is:" $historyFile
+
+        # Repair logic
+        print -P "Starting repair..."
+        mv $historyPath"/"$historyFile $historyPath"/"$historyFile"_corrupted"
+        strings $historyPath"/"$historyFile"_corrupted" > $historyPath"/"$historyFile
+        fc -R $historyPath"/"$historyFile
+        print -P "Repair complete."
+        rm $historyPath"/"$historyFile"_corrupted"
+        print -P "Temporary repair file deleted. Function terminated."
+    }
 
 [1]: http://www.zsh.org/
 [2]: https://shapeshed.com/unix-fc/
