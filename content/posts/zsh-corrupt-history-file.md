@@ -53,7 +53,7 @@ In the alternative, a ZSH function can be defined in place of using a script. Th
 
 This version of the function assumes the history file is located at the globally defined variable $HISTFILE, which means it should be able to find the history file on any system where this variable is defined. This approach should also work in a shell script.
 
-Also note that this function includes extra print statements and comments that are not necessary, but that help demonstrate what is going on and may be useful if you are just learning shell/ZSH programming. Everything before the mv command and after the rm command is optional.
+Also note that this function includes extra print statements and comments that are not necessary, but that help demonstrate what is going on and may be useful if you are just learning shell/ZSH programming. Except for the local variable definitions, everything before the mv command and after the rm command is optional.
 
     function fixCorruptHistoryFile
     {
