@@ -7,7 +7,7 @@ title = "Renewal"
 +++
 
 Mist envelops the soft hills,\
-Smothering the quiet, monochromatic hues.\
+Smothering the quiet, monochrome hues.\
 I watch life evaporating from the leaves,\
 As they prepare to fall, and end this cycle.
 
