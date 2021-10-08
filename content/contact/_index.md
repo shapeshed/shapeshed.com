@@ -4,10 +4,7 @@ title = "Contact"
 
 +++
 
-* Email george at shapeshed dot com
-* [Github][2]
-* [Twitter][3]
-* [Instagram][4]
+Email george at shapeshed dot com
 
 [2]: https://github.com/shapeshed
 [3]: https://twitter.com/shapeshed
