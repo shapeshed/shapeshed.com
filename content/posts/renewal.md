@@ -16,12 +16,12 @@ As coldness enters my bones.\
 My breath will illuminate the air,\
 Exhaling a time that is gone.
 
-Storms will arrive and shake the earth.\
+Storms will arrive and shake the earth,\
 Lashing grey doors and smoking chimneys.\
 They will twist this broken soul,\
 Crashing high seas into indelible memories.
 
-But slowly and and with certainly,\
+But slowly and with certainly,\
 The aching winds will yield to warmth.\
 Buds will push over bleeding sap,\
 And beautiful, verdant life will return.
