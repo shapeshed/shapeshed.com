@@ -21,7 +21,7 @@ Lashing grey doors and smoking chimneys.\
 They will twist this broken soul,\
 Crashing high seas into indelible memories.
 
-But slowly and with certainly,\
+But slowly and with certainty,\
 The aching winds will yield to warmth.\
 Buds will push over bleeding sap,\
 And beautiful, verdant life will return.
