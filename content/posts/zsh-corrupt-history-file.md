@@ -36,7 +36,8 @@ Once this happened more than twice I made a script to fix the issue. The followi
 
     mv ~/.zsh_history ~/.zsh_history_bad
     strings -eS ~/.zsh_history_bad > ~/.zsh_history
-    fc -R ~/.zsh_history
+    #R in capital gives an error so the solution
+    fc -r ~/.zsh_history
     rm ~/.zsh_history_bad
 
 Now if I see the `zsh: corrupt history file` error again I just run the command get back to work.
