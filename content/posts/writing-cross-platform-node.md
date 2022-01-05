@@ -15,7 +15,7 @@ Node.js is cross-platform meaning it works on Windows, OSX and Linux. A large nu
 
 The biggest issue you will run into is paths. Node.js does a great job of taking care of most of this for you but if you build paths in the wrong way you'll run into problems on Windows.
 
-Consider you are doing some string concatantion to build a path for example.
+Consider you are doing some string concatention to build a path for example.
 
     var foo = 'foo';
     var bar = 'bar';
