@@ -76,6 +76,9 @@ Now you can do this and you should see foo printed
 
 This is really powerful as it opens up a wealth of other tools to your Node.js script. You might want to pipe data from a system command, a Ruby script, whatever.
 
+Add node path to the top of your file
+SEE: https://stackoverflow.com/a/66154836/4317201
+
 ## UNIX signals
 
 Node.js has great UNIX support including for Signals. This means you can send a script a signal and get it to do something. In the following example the script does nothing but idle until it gets a SIGINT.
