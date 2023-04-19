@@ -14,7 +14,6 @@ enableGitInfo = true
 [params]
   author = "George Ornbo"
   description = "Articles by George Ornbo, a London-based technologist"
-  GoogleAnalytics = "UA-324369-3"
 
 [outputs]
   home = ["HTML", "RSS"]
