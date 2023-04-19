@@ -8,3 +8,4 @@ public
 .Trashes
 ehthumbs.db
 Thumbs.db
+.hugo_build.lock
