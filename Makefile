@@ -4,7 +4,7 @@ CSSMD5 = $(shell md5sum ./public/css/styles.css | awk '{ print $$1 }')
 HUGO_VERSION=0.63.0
 MINIFY_VERSION=2.5.2
 
-build: clean hugo css minify-html gzip-static
+build: clean hugo css minify-html
 
 install:
 	wget "https://github.com/tdewolff/minify/releases/download/v$(MINIFY_VERSION)/minify_$(MINIFY_VERSION)_linux_amd64.tar.gz"
@@ -18,7 +18,7 @@ install:
 	chmod +x hugo
 	sudo mv hugo /usr/local/bin/
 
-clean: 
+clean:
 	@rm -Rf ./public
 
 hugo:
@@ -28,16 +28,16 @@ gzip-static:
 	@find ./public -type f \( -name "*.html" -o -name "*.css" -o -name "*.xml" \) -exec gzip -n -k -f -9 {} \;
 
 optimize-images:
-	find ./static/images/articles -mtime -1 -name '*.png' | xargs optipng -o7 -strip all 
+	find ./static/images/articles -mtime -1 -name '*.png' | xargs optipng -o7 -strip all
 
 minify-html:
 	@minify -r --match=\.html public -o public
 
-css: 
-	@mv ./public/css/styles.css ./public/css/$(CSSMD5).css 
+css:
+	@mv ./public/css/styles.css ./public/css/$(CSSMD5).css
 	@find ./public -name index.html | xargs sed -i "s/styles\.css/$(CSSMD5)\.css/"
 
-deploy: 
+deploy:
 	@rsync -azz -e "ssh" --delete ./public/ finney.shapeshed.com:/srv/http/shapeshed.com
 
 validate:
