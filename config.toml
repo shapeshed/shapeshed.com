@@ -6,7 +6,7 @@ copyright = "Shape Shed"
 metaDataFormat = "json"
 rssLimit = "20"
 sitemap = "sitemap.xml"
-googleAnalytics= "UA-324369-3"
+googleAnalytics= "G-ZF9SLMN89W"
 enableGitInfo = true
 
 [permalinks]
