@@ -1,14 +1,14 @@
 .DEFAULT_GOAL := build
 SHELL := /bin/bash
 CSSMD5 = $(shell md5sum ./public/css/styles.css | awk '{ print $$1 }')
-HUGO_VERSION=0.63.0
-MINIFY_VERSION=2.5.2
+HUGO_VERSION=0.111.3
+MINIFY_VERSION=2.12.5
 
 build: clean hugo css minify-html
 
 install:
-	wget "https://github.com/tdewolff/minify/releases/download/v$(MINIFY_VERSION)/minify_$(MINIFY_VERSION)_linux_amd64.tar.gz"
-	tar -xzf minify_$(MINIFY_VERSION)_linux_amd64.tar.gz
+	wget "https://github.com/tdewolff/minify/releases/download/v$(MINIFY_VERSION)/minify_linux_amd64.tar.gz"
+	tar -xzf minify_linux_amd64.tar.gz
 	chmod +x minify
 	sudo mv minify /usr/local/bin/
 	mkdir themes
@@ -31,7 +31,7 @@ optimize-images:
 	find ./static/images/articles -mtime -1 -name '*.png' | xargs optipng -o7 -strip all
 
 minify-html:
-	@minify -r --match=\.html public -o public
+	@minify -r --match=\.html public -o .
 
 css:
 	@mv ./public/css/styles.css ./public/css/$(CSSMD5).css
