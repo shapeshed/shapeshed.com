@@ -4,7 +4,7 @@ CSSMD5 = $(shell md5sum ./public/css/styles.css | awk '{ print $$1 }')
 HUGO_VERSION=0.111.3
 MINIFY_VERSION=2.12.5
 
-build: clean hugo css minify-html
+build: clean hugo
 
 install:
 	wget "https://github.com/tdewolff/minify/releases/download/v$(MINIFY_VERSION)/minify_linux_amd64.tar.gz"
