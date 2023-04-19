@@ -2,29 +2,30 @@ name: Deploy
 
 on:
   push:
-    branches:    
+    branches:
       - main
 
 jobs:
-  build:
-    runs-on: ubuntu-20.04
+  deploy:
+    name: Deploy to AWS
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
     steps:
-    - uses: actions/checkout@v2.0.0
-      with:
-        fetch-depth: 0
-
-    - name: make install
-      run: make install
-
-    - name: make build
-      run: make build
-
-    - name: Deploy
-      run: | 
-        FILES=`aws s3 sync --size-only --dryrun public/ s3://${{ secrets.S3_BUCKET }} | awk '{print $3;}' | cut -c 7- | tr '\n' ' '`
-        aws s3 sync --size-only --delete public/ s3://${{ secrets.S3_BUCKET }}
-        if [ -n "${FILES}" ]; then aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONT_DIST_ID }} --paths $FILES; fi
-      env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: make install
+        run: make install
+      - name: make build
+        run: make build
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+      - name: Sync with S3 and invalidate cache
+        run: |
+          # FILES=`aws s3 sync --size-only --dryrun public/ s3://${{ secrets.S3_BUCKET }} | awk '{print $3;}' | cut -c 7- | tr '\n' ' '`
+          aws s3 sync --size-only --delete public/ s3://${{ secrets.S3_BUCKET }}
+          # if [ -n "${FILES}" ]; then aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONT_DIST_ID }} --paths $FILES; fi
