@@ -4,25 +4,35 @@ description = "The release of ExpressionEngine 1.6 is imminent. To celebrate Exp
 slug = "expression-engine-16"
 tags = ["ExpressionEngine"]
 title = "Expression Engine 1.6"
-
 +++
 
-[ExpressionEngine][1] is an off the shelf Content Management System with a small price tag but with a long list of features. I've used it for many projects now and have found it to be an excellent and flexible piece of software. The next release is 1.6 and features a new multi-site manager, allowing multiple sites to be run from a single install. 
+[ExpressionEngine][1] is an off the shelf Content Management System with a small
+price tag but with a long list of features. I've used it for many projects now
+and have found it to be an excellent and flexible piece of software. The next
+release is 1.6 and features a new multi-site manager, allowing multiple sites to
+be run from a single install.
+
 ## My entry
 
-EE are running a competition to win a copy of the multi-site manager so here's my entry with apologies to [Rodin][2]. If you'd like to enter the competition to you can find out about it [here.][3]
+EE are running a competition to win a copy of the multi-site manager so here's
+my entry with apologies to [Rodin][2]. If you'd like to enter the competition to
+you can find out about it [here.][3]
 
-![Rick Ellis][4] 
+![Rick Ellis][4]
 
 ## New features in EE 1.6
 
-EE 1.6 will see the introduction of a multi-site manager allowing more than one site to be managed from one install. You can read about the forthcoming release [here.][3]
+EE 1.6 will see the introduction of a multi-site manager allowing more than one
+site to be managed from one install. You can read about the forthcoming release
+[here.][3]
 
 ## Hold your breath
 
-Although no time frames are given EE2.0 is on the horizon with an ecommerce module rumoured to be one of the main features.
+Although no time frames are given EE2.0 is on the horizon with an ecommerce
+module rumoured to be one of the main features.
 
- [1]: http://expressionengine.com
- [2]: http://en.wikipedia.org/wiki/Auguste_Rodin
- [3]: http://expressionengine.com/blog/entry/160_preview_and_multiple_rick_manager_birthday_contest/
- [4]: /images/articles/rick.jpg "Rick Ellis"
+[1]: http://expressionengine.com
+[2]: http://en.wikipedia.org/wiki/Auguste_Rodin
+[3]:
+  http://expressionengine.com/blog/entry/160_preview_and_multiple_rick_manager_birthday_contest/
+[4]: /images/articles/rick.jpg "Rick Ellis"

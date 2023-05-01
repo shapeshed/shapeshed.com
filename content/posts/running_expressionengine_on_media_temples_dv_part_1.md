@@ -3,14 +3,24 @@ date = "2007-11-22T00:00:00+00:00"
 description = "In a series of articles I'm going to look at running ExpressionEngine on Media Temple's (dv) Base Server and optimising both ExpressionEngine and the server for optimum performance."
 tags = ["Apache", "ExpressionEngine", "Media Temple"]
 title = "Running ExpressionEngine on Media Temple's (dv) Part 1"
-
 +++
 
-Like many web developers I use [Plesk][1] on Media Temple's [(dv) Base server][2]. Owing to growing popularity of this blog the server is straining a little. I've followed the excellent articles over at [David Seah's site][3] and also the [performance optimsation tips][4] on the Media Temple site with good results. But I was still getting memory issues. Whilst the tips are specific to a Media Temple (dv) 3 server they should be good for most linux distros. I must stress I take no responsibility for using this article. Use at your own risk. Everyone is here to learn so if you feel you can add something please do so by leaving a comment. 
+Like many web developers I use [Plesk][1] on Media Temple's [(dv) Base
+server][2]. Owing to growing popularity of this blog the server is straining a
+little. I've followed the excellent articles over at [David Seah's site][3] and
+also the [performance optimsation tips][4] on the Media Temple site with good
+results. But I was still getting memory issues. Whilst the tips are specific to
+a Media Temple (dv) 3 server they should be good for most linux distros. I must
+stress I take no responsibility for using this article. Use at your own risk.
+Everyone is here to learn so if you feel you can add something please do so by
+leaving a comment.
 
 ## Optimising ExpressionEngine
 
-In Part 1 we're going to look at [ExpressionEngine][5] and making sure your site is set up to be lean, mean and fast. Out of the box EE does a good job of managing performance. The [ExpressionEngine documentation][6] explains the caching options available to you. 
+In Part 1 we're going to look at [ExpressionEngine][5] and making sure your site
+is set up to be lean, mean and fast. Out of the box EE does a good job of
+managing performance. The [ExpressionEngine documentation][6] explains the
+caching options available to you.
 
 <dl>
 <dt>Query caching</dt>
@@ -31,20 +41,24 @@ In Part 1 we're going to look at [ExpressionEngine][5] and making sure your site
 
 <dt>Query disabling</dt>
 
-<dd>As you create your weblog tags be sure to turn off anything that you are not using. So if your weblog tag has no requirement for tags turn it off or EE will check for it. I tend to use: disable="tags|member_data|pagination|trackbacks"</dd> 
+<dd>As you create your weblog tags be sure to turn off anything that you are not using. So if your weblog tag has no requirement for tags turn it off or EE will check for it. I tend to use: disable="tags|member_data|pagination|trackbacks"</dd>
 
 <dt>Gzip</dt>
 
-<dd>If you have GZIP enabled on your server you should use it and tell ExpressionEngine. Go to Admin > Output and Debugging Preferences and Check "Yes" for Enable GZIP output. You can find out if you have got GZIP enabled by going to the PHP Info page found in Admin > Utilities. Search for SERVER["HTTP_ACCEPT_ENCODING"] and if you see GZIP you are good to go. Using GZIP compresses much of what gets sent to browsers. In my tests for example my stylesheet went from 18k to 4k after GZipping was enabled.</dd> 
+<dd>If you have GZIP enabled on your server you should use it and tell ExpressionEngine. Go to Admin > Output and Debugging Preferences and Check "Yes" for Enable GZIP output. You can find out if you have got GZIP enabled by going to the PHP Info page found in Admin > Utilities. Search for SERVER["HTTP_ACCEPT_ENCODING"] and if you see GZIP you are good to go. Using GZIP compresses much of what gets sent to browsers. In my tests for example my stylesheet went from 18k to 4k after GZipping was enabled.</dd>
 </dl>
 
 ## Sending it to the browser
 
-One area where EE is a little weak (probably so it is easy to install and use on many different platforms) is in the information it sends to the browser. If you are on a Apache server on Linux and [AllowOverride][7] is on you'll be able to speed up things further using an .htaccess file or better still modifying the Apache configuration.
+One area where EE is a little weak (probably so it is easy to install and use on
+many different platforms) is in the information it sends to the browser. If you
+are on a Apache server on Linux and [AllowOverride][7] is on you'll be able to
+speed up things further using an .htaccess file or better still modifying the
+Apache configuration.
 
-Here's an the default file I use for .htaccess 
+Here's an the default file I use for .htaccess
 
-    FileETag none  # Turn off ETag 
+    FileETag none  # Turn off ETag
 
     # Set Language and Character Set
     AddDefaultCharset utf-8
@@ -54,11 +68,11 @@ Here's an the default file I use for .htaccess
     php_value output_handler ob_gzhandler
 
     # Cache images and set default on everything else
-    ExpiresActive on 
+    ExpiresActive on
     ExpiresDefault A259200
-    ExpiresByType image/gif A1209600 
-    ExpiresByType image/png A1209600 
-    ExpiresByType image/jpeg A1209600 
+    ExpiresByType image/gif A1209600
+    ExpiresByType image/png A1209600
+    ExpiresByType image/jpeg A1209600
     ExpiresByType image/gif A1209600
 
     # Set css and js so they can be gzipped
@@ -74,20 +88,31 @@ Here's an the default file I use for .htaccess
     AcceptPathInfo On
     Options +FollowSymLinks
 
-Let's go through this a little. Firstly we turn off [ETags][8]. You can find out about why ETags should be off at the [Yahoo Performance site][9]. Secondly I set the default character set and language. Then we make sure GZIP compression is on. Now the important bit. ExpressionEngine is poor at sending Expiry Headers (I'm sure there is a good reason) so often the browser will reload things it could easily cache. These rules set a short default expiry and a longer one for images. Next we want CSS and Javascript to be GZipped. To keep Firefox happy you need to add these lines to the top of your CSS files. 
+Let's go through this a little. Firstly we turn off [ETags][8]. You can find out
+about why ETags should be off at the [Yahoo Performance site][9]. Secondly I set
+the default character set and language. Then we make sure GZIP compression is
+on. Now the important bit. ExpressionEngine is poor at sending Expiry Headers
+(I'm sure there is a good reason) so often the browser will reload things it
+could easily cache. These rules set a short default expiry and a longer one for
+images. Next we want CSS and Javascript to be GZipped. To keep Firefox happy you
+need to add these lines to the top of your CSS files.
 
     <?php header("Content-type: text/css"); ?>
 
-Finally I want to make absolutely sure PHP errors are not shown and I turn on a couple of settings for EE. If you get an internal server error it is likely your host does not allow you to override certain settings. Get in touch with you host and ask. These work ok on (mt)(dv)3.
+Finally I want to make absolutely sure PHP errors are not shown and I turn on a
+couple of settings for EE. If you get an internal server error it is likely your
+host does not allow you to override certain settings. Get in touch with you host
+and ask. These work ok on (mt)(dv)3.
 
-In part two I'll be looking at optimising the hardware side of things on the (dv) 3.
+In part two I'll be looking at optimising the hardware side of things on the
+(dv) 3.
 
- [1]: http://www.swsoft.com/plesk/
- [2]: http://www.mediatemple.net/webhosting/dv/
- [3]: http://davidseah.com/
- [4]: http://kb.mediatemple.net/article.php?id=771
- [5]: http://expressionengine.com/
- [6]: http://expressionengine.com/docs/general/caching.html
- [7]: http://httpd.apache.org/docs/2.2/mod/core.html#allowoverride
- [8]: http://en.wikipedia.org/wiki/HTTP_ETag
- [9]: http://developer.yahoo.com/performance/rules.html#etags
+[1]: http://www.swsoft.com/plesk/
+[2]: http://www.mediatemple.net/webhosting/dv/
+[3]: http://davidseah.com/
+[4]: http://kb.mediatemple.net/article.php?id=771
+[5]: http://expressionengine.com/
+[6]: http://expressionengine.com/docs/general/caching.html
+[7]: http://httpd.apache.org/docs/2.2/mod/core.html#allowoverride
+[8]: http://en.wikipedia.org/wiki/HTTP_ETag
+[9]: http://developer.yahoo.com/performance/rules.html#etags

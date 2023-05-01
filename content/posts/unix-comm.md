@@ -5,95 +5,128 @@ image = "images/articles/comm.png"
 slug = "unix-comm"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix comm command tutorial with examples"
-
 +++
 
 ![comm man page][1]
 
 ## What is the comm command in UNIX?
 
-The `comm` command compares two sorted files line by line and writes three columns to standard output. These columns show lines that are unique to files one, lines that are unique to file two and lines that are shared by both files. It also supports suppressing column outputs and comparing lines without case sensitivity.
-
+The `comm` command compares two sorted files line by line and writes three
+columns to standard output. These columns show lines that are unique to files
+one, lines that are unique to file two and lines that are shared by both files.
+It also supports suppressing column outputs and comparing lines without case
+sensitivity.
 
 ## How to compare the compare two files line by line
 
-To compare two files line by line using `comm` it is a prerequisite that files are first sorted. For this example we will be comparing two files with numbers in that are saved as `set1.txt` and `set2.txt`. The following is the contents of `set1.txt`.
+To compare two files line by line using `comm` it is a prerequisite that files
+are first sorted. For this example we will be comparing two files with numbers
+in that are saved as `set1.txt` and `set2.txt`. The following is the contents of
+`set1.txt`.
 
-    1
-    2
-    3
+```sh
+1
+2
+3
+```
 
 The following is the contents of `set2.txt`.
 
-    8
-    3 
-    2
+```sh
+8
+3
+2
+```
 
 As theses files are not sorted [sort][3] can be used to accomplish this
 
-    comm <(sort set1.txt) <(sort set2.txt)
-    1
-                    2
-                    3
-            8
+```sh
+comm <(sort set1.txt) <(sort set2.txt)
+1
+2
+3
+8
+```
 
-The output is in three columns. The first is lines that are only in file one (`set1.txt`), the second is lines only in file two (`set2.txt`), the third is line that are in both files.
+The output is in three columns. The first is lines that are only in file one
+(`set1.txt`), the second is lines only in file two (`set2.txt`), the third is
+line that are in both files.
 
-## How to show specific comparisons 
+## How to show specific comparisons
 
-To show specific comparisons using `comm` pass the option of the column that should be suppressed. In the following example only column three, or the lines that are common to both files are shown. 
+To show specific comparisons using `comm` pass the option of the column that
+should be suppressed. In the following example only column three, or the lines
+that are common to both files are shown.
 
-    comm -12 <(sort set1.txt) <(sort set2.txt)
-    2
-    3
+```sh
+comm -12 <(sort set1.txt) <(sort set2.txt)
+2
+3
+```
 
 The following example shows lines that are unique to `set1.txt`.
-    
-    comm -23 <(sort set1.txt) <(sort set2.txt)
-    1
+
+```sh
+comm -23 <(sort set1.txt) <(sort set2.txt)
+1
+```
 
 The following example shows lines that are unique to `set2.txt`.
 
-    comm -13 <(sort set1.txt) <(sort set2.txt)
-    8
+```sh
+comm -13 <(sort set1.txt) <(sort set2.txt)
+8
+```
 
-## How to ignore case sensitivity 
+## How to ignore case sensitivity
 
-To ignore case sensitivity when using `comm` pass the `-i` option. This will ignore case sensitivity in the comparison. Consider the two following files that have been sorted.
+To ignore case sensitivity when using `comm` pass the `-i` option. This will
+ignore case sensitivity in the comparison. Consider the two following files that
+have been sorted.
 
-    cat words1.txt
-    Apple
-    Banana
-    Orange
+```sh
+cat words1.txt
+Apple
+Banana
+Orange
+```
 
-    cat words2.txt
-    apple
-    banana
-    orange
+```sh
+cat words2.txt
+apple
+banana
+orange
+```
 
-If these files are compared using `comm` there will be nothing common to these two files.
+If these files are compared using `comm` there will be nothing common to these
+two files.
 
-    comm words comm words1.txt words2.txt
-    Apple
-    Banana
-    Orange
-            apple
-            banana
-            orange
+```sh
+comm words comm words1.txt words2.txt
+Apple
+Banana
+Orange
+apple
+banana
+orange
+```
 
-If case sensitivity is ignore with `-i` option the words will be shown as common to both files. Note that the uppercase words is shown as it is from the first file.
+If case sensitivity is ignore with `-i` option the words will be shown as common
+to both files. Note that the uppercase words is shown as it is from the first
+file.
 
-    comm -i words1.txt words2.txt
-                Apple
-                Banana
-                Orange
+```sh
+comm -i words1.txt words2.txt
+Apple
+Banana
+Orange
+```
 
 ## Further reading
 
-* [comm man page][2]
-* [comm - The beautiful comparison][4]
-* [comm Wikipedia page][5]
-
+- [comm man page][2]
+- [comm - The beautiful comparison][4]
+- [comm Wikipedia page][5]
 
 [1]: /images/articles/comm.png
 [2]: http://linux.die.net/man/1/comm

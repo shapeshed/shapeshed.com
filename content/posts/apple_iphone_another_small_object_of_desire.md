@@ -4,12 +4,13 @@ description = "Whilst on my travels today I came across this photo of an Apple i
 slug = "apple-iphone-another-small-object-of-desire"
 tags = ["Apple"]
 title = "Apple iPhone - Another small object of desire"
-
 +++
 
 ![iPhone][1]
 
-I suspect that it will be a long time before this actually makes into the public domain but if Apple can get it right this is surely going to be the next big thing.
+I suspect that it will be a long time before this actually makes into the public
+domain but if Apple can get it right this is surely going to be the next big
+thing.
 
 Nokia you have been warned!
 

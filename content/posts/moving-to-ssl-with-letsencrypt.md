@@ -4,15 +4,13 @@ description = "changeme"
 draft = "true"
 tags = ["SSL", "TLS"]
 title = "Moving to SSL with LetsEncrypt"
-
 +++
 
-## 
+##
 
 [LetsEncrypt][1]
 
-
-## Installing the client 
+## Installing the client
 
 ## Generating the certificate
 
@@ -20,6 +18,6 @@ title = "Moving to SSL with LetsEncrypt"
 
 ## Useful resources
 
-* [Update Letsencrypt to Certbot on Nginx and Ubuntu][2]
+- [Update Letsencrypt to Certbot on Nginx and Ubuntu][2]
 
 [2]: https://nwlinux.com/update-letsencrypt-to-certbot-on-nginx-and-ubuntu/
