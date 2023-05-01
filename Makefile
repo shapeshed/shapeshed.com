@@ -2,17 +2,12 @@
 SHELL := /bin/bash
 CSSMD5 = $(shell md5sum ./public/css/styles.css | awk '{ print $$1 }')
 HUGO_VERSION=0.111.3
-MINIFY_VERSION=2.12.5
 
 build: clean hugo
 
 install:
-	wget "https://github.com/tdewolff/minify/releases/download/v$(MINIFY_VERSION)/minify_linux_amd64.tar.gz"
-	tar -xzf minify_linux_amd64.tar.gz
-	chmod +x minify
-	sudo mv minify /usr/local/bin/
 	mkdir themes
-	git clone https://github.com/shapeshed/shapeshed-minimal.git themes/shapeshed-minimal
+	git clone https://github.com/shapeshed/tufte-catppuccin.git themes/tufte-catppuccin
 	wget -q "https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_$(HUGO_VERSION)_Linux-64bit.tar.gz"
 	tar -xzf hugo_$(HUGO_VERSION)_Linux-64bit.tar.gz
 	chmod +x hugo
