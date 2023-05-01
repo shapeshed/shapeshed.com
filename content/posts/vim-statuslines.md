@@ -163,7 +163,7 @@ set statusline+=\
 
 ## Neovim
 
-The Neovim community has plugins a number of plugins written in Lua.
+The Neovim community has a number of plugins written in Lua.
 
 - [lualine.nvim][14]
 - [galaxyline.nvim][15]
