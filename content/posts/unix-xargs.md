@@ -55,7 +55,7 @@ Clearly using xargs is far more efficient. In fact [several][5] [benchmarks][6] 
 
 ## How to print commands that are executed
 
-The `-t` option prints each command that will be executed to the terminal. This can be helpful when debugging scripts. 
+The `-t` option prints each command that will be executed to the terminal. This can be helpful when debugging scripts. The command is still executed, however.  `-t` is an alias for `--verbose`.
 
     echo 'one two three' | xargs -t rm
     rm one two three
