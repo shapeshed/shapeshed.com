@@ -16,7 +16,10 @@ representation of where you are in the file. For many people the default
 behaviour of vim is enough and you can get on with your life without having to
 configure anything.
 
-![Default Vim Statusline][10]
+<figure>
+<img src="/images/articles/vim-default-statusline.webp" />
+<figcaption>Figure 1: <em>The out of the box vim statusline</em></figcaption>
+</figure>
 
 ## Showing the statusline
 
@@ -52,7 +55,10 @@ set statusline=helloworld
 
 Reload Vim and a not so useful hello world status bar will show.
 
-![Hello World Vim Statusline][11]
+<figure>
+<img src="/images/articles/statusline-helloworld.webp" />
+<figcaption>Figure 2: <em>The hello world statusline</em></figcaption>
+</figure>
 
 ## Building a statusline
 
@@ -93,7 +99,10 @@ set statusline=
 set statusline+=%{StatuslineGit()}
 ```
 
-![Git branch on statusline][12]
+<figure>
+<img src="/images/articles/git-branch-statusline.webp" />
+<figcaption>Figure 3: <em>A statusline showing the current git branch</em></figcaption>
+</figure>
 
 ## Showing data
 
@@ -205,11 +214,14 @@ end
 vim.opt.statusline = statusline()
 ```
 
-![My statusline][13]
+<figure>
+<img src="/images/articles/my-statusline.webp" />
+<figcaption>Figure 4: <em>A vim statusbar with no plugins</em></figcaption>
+</figure>
 
-Of course it may be easier for many people to use [powerline][8] or
-[airline][9]. Personally 22 lines of code is enough to have a working statusline
-and I have one fewer dependency.
+Of course it may be easier for you to use [powerline][8], [airline][9] or
+[lualine][14]. Personally 22 lines of code is enough to have a working
+statusline and I have one fewer dependency.
 
 ## References
 
@@ -232,7 +244,7 @@ and I have one fewer dependency.
 [10]: /images/articles/vim-default-statusline.png
 [11]: /images/articles/statusline-helloworld.png
 [12]: /images/articles/git-branch-statusline.png
-[13]: /images/articles/my-statusline.png
+[13]: /images/articles/my-statusline.webp
 [14]: https://github.com/nvim-lualine/lualine.nvim
 [15]: https://github.com/nvimdev/galaxyline.nvim
 [16]: https://github.com/famiu/feline.nvim
