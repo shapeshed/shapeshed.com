@@ -51,3 +51,22 @@ enableGitInfo = true
     name = "Contact"
     url = "/contact/"
     weight = 3
+
+
+
+[related]
+    includeNewer = false
+    threshold = 50
+    toLower = true
+[[related.indices]]
+    name = 'tags'
+    weight = 100
+    toLower = true
+[[related.indices]]
+    name = 'date'
+    weight = 10
+[[related.indices]]
+    name        = "fragmentrefs"
+    type        = "fragments"
+    applyFilter = false
+    weight = 50
