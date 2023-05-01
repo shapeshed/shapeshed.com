@@ -76,6 +76,10 @@ The following returns the current branch and an empty string if there is no git
 repository.
 
 ```vim
+function! GitBranch()
+  return system("git rev-parse --abbrev-ref HEAD 2>/dev/null | tr -d '\n'")
+endfunction
+
 function! StatuslineGit()
   let l:branchname = GitBranch()
   return strlen(l:branchname) > 0?'  '.l:branchname.' ':''
@@ -148,6 +152,59 @@ set statusline+=\ %l:%c
 set statusline+=\
 ```
 
+## Neovim
+
+The Neovim community has plugins a number of plugins written in Lua.
+
+- [lualine.nvim][14]
+- [galaxyline.nvim][15]
+- [feline.nvim][16]
+
+You can also create your own status line in Lua. Here is the same custom status
+line ported from Vimscript to Lua.
+
+```lua
+local function git_branch()
+    local branch = vim.fn.system("git rev-parse --abbrev-ref HEAD 2>/dev/null | tr -d '\n'")
+    if string.len(branch) > 0 then
+        return branch
+    else
+        return ":"
+    end
+end
+
+local function statusline()
+    local set_color_1 = "%#PmenuSel#"
+    local branch = git_branch()
+    local set_color_2 = "%#LineNr#"
+    local file_name = " %f"
+    local modified = "%m"
+    local align_right = "%="
+    local fileencoding = " %{&fileencoding?&fileencoding:&encoding}"
+    local fileformat = " [%{&fileformat}]"
+    local filetype = " %y"
+    local percentage = " %p%%"
+    local linecol = " %l:%c"
+
+    return string.format(
+        "%s %s %s%s%s%s%s%s%s%s%s",
+        set_color_1,
+        branch,
+        set_color_2,
+        file_name,
+        modified,
+        align_right,
+        filetype,
+        fileencoding,
+        fileformat,
+        percentage,
+        linecol
+    )
+end
+
+vim.opt.statusline = statusline()
+```
+
 ![My statusline][13]
 
 Of course it may be easier for many people to use [powerline][8] or
@@ -176,3 +233,6 @@ and I have one fewer dependency.
 [11]: /images/articles/statusline-helloworld.png
 [12]: /images/articles/git-branch-statusline.png
 [13]: /images/articles/my-statusline.png
+[14]: https://github.com/nvim-lualine/lualine.nvim
+[15]: https://github.com/nvimdev/galaxyline.nvim
+[16]: https://github.com/famiu/feline.nvim
