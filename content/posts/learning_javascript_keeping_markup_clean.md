@@ -159,7 +159,3 @@ here please leave a comment. This is meant to help people learn.
 [2]: http://cdn.shapeshed.com/downloads/keeping-markup-clean.zip
 [3]: /dom_css_a_beautiful_couple/
 [4]: http://simonwillison.net/2004/May/26/addLoadEvent/
-
-```
-
-```
