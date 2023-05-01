@@ -195,10 +195,10 @@ Suppose a file exists with a list of cheeses that is saved as `cheese.csv`.
 The file may be sorted by the name of the cheese using a combination of the `-k` and `-t` options.
 
     sort -k 2 -t , cheese.csv
-    2,Maroilles,1.13
-    3,Stinking Bishop,1.65
     1,Brie de Meaux,1.99
+    2,Maroilles,1.13
     4,Munster,1.29
+    3,Stinking Bishop,1.65
 
 To sort on the most expensive cheese the numeric and reverse options can be used.
 
