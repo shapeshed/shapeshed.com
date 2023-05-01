@@ -1,11 +1,6 @@
 themes
 public
-*.sw?
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+resources/_gen
+assets/jsconfig.json
+hugo_stats.json
 .hugo_build.lock

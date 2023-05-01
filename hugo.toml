@@ -1,0 +1,53 @@
+baseURL = "https://shapeshed.com/"
+languageCode = "en-gb"
+theme = "tufte-catppuccin"
+title = "George Ornbo"
+copyright = "Shape Shed"
+metaDataFormat = "json"
+rssLimit = "20"
+sitemap = "sitemap.xml"
+googleAnalytics= "G-ZF9SLMN89W"
+enableGitInfo = true
+
+[permalinks]
+  posts = "/:slug/"
+[params]
+  author = "George Ornbo"
+  description = "UK-based technologist"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[markup]
+  [markup.highlight]
+    style = 'catppuccin-mocha'
+    noclasses = false
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+    [[menu.nav]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+    [[menu.nav]]
+    identifier = "posts"
+    name = "All Posts"
+    url = "/posts/"
+    weight = 2
+
+    [[menu.nav]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3

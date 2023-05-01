@@ -4,76 +4,83 @@ date = "2013-04-25T15:01:41+01:00"
 original = "http://pebblecode.com/blog/rest-workshop/"
 tags = []
 title = "REST Workshop"
-
 +++
-<h2>REST API workshop</h2>
 
-<p>We held our first internal workshop today on REST APIs.</p>
+## REST API workshop
 
-<p>The <a href="https://www.youtube.com/watch?v=Ydc5QPFS92M">video</a> and <a href="http://gist.io/5458283">slides</a> are below and a link to the apiary.io discussion project can be <a href="http://docs.workshop.apiary.io/">found here</a>.</p>
+We held our first internal workshop today on REST APIs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ydc5QPFS92M" allowfullscreen></iframe>
+The [video](https://www.youtube.com/watch?v=Ydc5QPFS92M) and
+[slides](http://gist.io/5458283) are below and a link to the apiary.io
+discussion project can be [found here](http://docs.workshop.apiary.io/).
 
-<h3>What is REST?</h3>
+### What is REST?
 
-<ul><li>Roy Fielding</li>
-<li>HTTP </li>
-<li>Distributed data</li>
-<li>Web APIs (GitHub, Twitter etc)</li>
-</ul><h3>tl;dr</h3>
+- Roy Fielding
+- HTTP
+- Distributed data
+- Web APIs (GitHub, Twitter etc)
 
-<pre><code>GET     /users              -&gt;  index
-GET     /users/new          -&gt;  new
-POST    /users              -&gt;  create
-GET     /users/:user        -&gt;  show
-PUT     /users/:user        -&gt;  update
-DELETE  /users/:user        -&gt;  destroy
-</code></pre>
+### tl;dr
 
-<h3>Convention Not Standard</h3>
+```sh
+GET     /users              ->  index
+GET     /users/new          ->  new
+POST    /users              ->  create
+GET     /users/:user        ->  show
+PUT     /users/:user        ->  update
+DELETE  /users/:user        ->  destroy
+```
 
-<ul><li>Convention is an interpretation</li>
-<li>Yoda</li>
-<li>Missing patterns</li>
-<li>You will be annoyed</li>
-</ul><h3>Why this convention?</h3>
+### Convention Not Standard
 
-<ul><li>SOAP etc</li>
-<li>Clients</li>
-<li>Standardisation</li>
-<li>Frameworks</li>
-<li>pebble case study - TaxiApp</li>
-</ul><h3>What to think about</h3>
+- Convention is an interpretation
+- Yoda
+- Missing patterns
+- You will be annoyed
 
-<ul><li>Data</li>
-<li>Documentation </li>
-<li>Versioning </li>
-<li>Authentication </li>
-<li>Deprecation</li>
-</ul><h3>What&rsquo;s the best way to learn?</h3>
+### Why this convention?
 
-<ul><li>HTTP specification</li>
-<li>Build a client</li>
-<li>Resources</li>
-<li>Work with clients</li>
-<li>Be pragmatic</li>
-</ul><h3>REST.next or Hypermedia</h3>
+- SOAP etc
+- Clients
+- Standardisation
+- Frameworks
+- pebble case study - TaxiApp
 
-<ul><li>HATEOAS</li>
-<li>Discoverability</li>
-<li>Smart clients</li>
-<li>Work in progress</li>
-</ul><h3>REST doesn&rsquo;t work for everything</h3>
+### What to think about
 
-<ul><li>Event driven-apis</li>
-<li>WebSockets</li>
-<li>Messaging</li>
-</ul><h3>Conclusion</h3>
+- Data
+- Documentation
+- Versioning
+- Authentication
+- Deprecation
 
-<ul><li>On the web? Use REST. Use JSON.</li>
-<li>Prepare for frustration</li>
-<li>Be a pragmatist</li>
-<li>Be responsible</li>
-<li>Love your clients </li>
-<li>Free your data</li>
-</ul>
+### What’s the best way to learn?
+
+- HTTP specification
+- Build a client
+- Resources
+- Work with clients
+- Be pragmatic
+
+### REST.next or Hypermedia
+
+- HATEOAS
+- Discoverability
+- Smart clients
+- Work in progress
+
+### REST doesn’t work for everything
+
+- Event driven-apis
+- WebSockets
+- Messaging
+
+### Conclusion
+
+- On the web? Use REST. Use JSON.
+- Prepare for frustration
+- Be a pragmatist
+- Be responsible
+- Love your clients
+- Free your data
