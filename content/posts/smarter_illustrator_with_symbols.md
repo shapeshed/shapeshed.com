@@ -91,9 +91,9 @@ library of symbols allowing you re-use symbols on projects and save time. Maybe
 you could go and lie on the beach instead...
 
 [1]: http://cdn.shapeshed.com/downloads/symbols.ai
-[2]: /images/articles/symbol_final.png
-[3]: /images/articles/symbols_1.png
-[4]: /images/articles/symbols_2.png
-[5]: /images/articles/symbols_4.png
-[6]: /images/articles/sprayer_tool_options.png
-[7]: /images/articles/first_spray.png
+[2]: /images/articles/symbol_final.webp
+[3]: /images/articles/symbols_1.webp
+[4]: /images/articles/symbols_2.webp
+[5]: /images/articles/symbols_4.webp
+[6]: /images/articles/sprayer_tool_options.webp
+[7]: /images/articles/first_spray.webp

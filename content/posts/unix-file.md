@@ -92,6 +92,6 @@ bar.txt.gz: ASCII text (gzip compressed data, was "bar.txt", last modified: Wed 
 - [file (command) Wikipedia page][4]
 
 [1]: http://linux.die.net/man/1/file
-[2]: /images/articles/file.png "Linux and Unix file command"
+[2]: /images/articles/file.webp "Linux and Unix file command"
 [3]: http://alvinalexander.com/unix/edu/examples/file.shtml
 [4]: https://en.wikipedia.org/wiki/File_(command)

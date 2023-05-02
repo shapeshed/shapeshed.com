@@ -154,7 +154,7 @@ available via `kill -L`. In this case it is the `TERM` signal.
 - [kill Wikipedia page][4]
 
 [1]: http://linux.die.net/man/1/kill
-[2]: /images/articles/kill.png "Linux and Unix kill command"
+[2]: /images/articles/kill.webp "Linux and Unix kill command"
 [3]: https://en.wikipedia.org/wiki/Shell_builtin
 [4]: https://en.wikipedia.org/wiki/Kill_(command)#Unix_and_Unix-like
 [5]: https://shapeshed.com/unix-ps/

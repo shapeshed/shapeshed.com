@@ -191,6 +191,6 @@ What are you waiting for? [Give it a go][2], or [fork it][8].
 [15]: http://redis.io/
 [16]:
   http://support.cloudfoundry.com/entries/505133-deploying-a-node-js-app-with-npm-dependencies
-[17]: /images/articles/cloud_foundry.jpg
+[17]: /images/articles/cloud_foundry.webp
 [18]: http://www.ruby-lang.org/en/
 [19]: http://nodejs.org/

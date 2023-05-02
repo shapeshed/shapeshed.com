@@ -181,6 +181,6 @@ fc -l
 - [Linux and Unix fc and history commands][4]
 
 [1]: https://linux.die.net/man/1/fc
-[2]: /images/articles/fc.png "Linux and Unix fc command"
+[2]: /images/articles/fc.webp "Linux and Unix fc command"
 [3]: https://en.wikipedia.org/wiki/Fc_(Unix)
 [4]: http://www.computerhope.com/unix/uhistory.htm

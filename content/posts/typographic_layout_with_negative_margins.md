@@ -82,4 +82,4 @@ progressive typographic layouts without sacrificing semantics.
 Still haven't seen the example? You can [view it here][1]
 
 [1]: /examples/negative-margins-typography
-[2]: /images/articles/layout.png
+[2]: /images/articles/layout.webp

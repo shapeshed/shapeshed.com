@@ -126,6 +126,6 @@ where a folder is mounted.
 - [How much disk space?][4]
 
 [1]: http://linux.die.net/man/1/df
-[2]: /images/articles/df.png "Linux and Unix df command"
+[2]: /images/articles/df.webp "Linux and Unix df command"
 [3]: https://en.wikipedia.org/wiki/Df_(Unix)
 [4]: http://docstore.mik.ua/orelly/unix3/upt/ch15_08.htm

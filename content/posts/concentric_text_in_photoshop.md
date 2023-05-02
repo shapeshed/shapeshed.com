@@ -42,6 +42,6 @@ and then reducing the font size.
 
 ![Concentric text example][3]
 
-[1]: /images/articles/guide.png
-[2]: /images/articles/guide_paths.png
-[3]: /images/articles/concentric_text.png
+[1]: /images/articles/guide.webp
+[2]: /images/articles/guide_paths.webp
+[3]: /images/articles/concentric_text.webp

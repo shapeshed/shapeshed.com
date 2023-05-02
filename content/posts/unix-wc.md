@@ -96,4 +96,4 @@ ls -1 | wc -l
 
 [1]: http://linux.die.net/man/1/wc
 [2]: http://alvinalexander.com/unix/edu/examples/wc.shtml
-[3]: /images/articles/wc.png
+[3]: /images/articles/wc.webp

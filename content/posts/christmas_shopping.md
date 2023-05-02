@@ -58,5 +58,5 @@ Christmas. I've already taken my business elsewhere.
 [2]: https://www.jomalone.co.uk/rs.nsf/fmRegister?openform
 [3]: http://www.mozilla.com/en-US/firefox/
 [4]: http://www.w3schools.com/browsers/browsers_stats.asp
-[5]: /images/articles/verify_password.jpg
-[6]: /images/articles/malone_continue.jpg
+[5]: /images/articles/verify_password.webp
+[6]: /images/articles/malone_continue.webp

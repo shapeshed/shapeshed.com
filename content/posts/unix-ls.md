@@ -204,7 +204,7 @@ tree/folder2:
 - [20 Linux ls Command Examples to Display the Entries of Directory][5]
 
 [1]: http://linux.die.net/man/1/ls
-[2]: /images/articles/ls.png "Linux and Unix ls command"
+[2]: /images/articles/ls.webp "Linux and Unix ls command"
 [3]: https://en.wikipedia.org/wiki/Ls
 [4]: https://www.gnu.org/software/coreutils/manual/html_node/ls-invocation.html
 [5]: http://linoxide.com/linux-command/linux-ls-command/

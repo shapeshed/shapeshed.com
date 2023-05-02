@@ -28,5 +28,5 @@ through 5 or 6 stylesheets. This is all well and good until the next tear your
 hair out moment in IE but my intention from now on is to say goodbye to IE
 hacks! Famous last words....
 
-[1]: /images/articles/ie7.jpg
+[1]: /images/articles/ie7.webp
 [2]: http://blogs.msdn.com/ie/archive/2005/10/12/480242.aspx

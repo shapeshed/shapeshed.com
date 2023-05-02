@@ -142,4 +142,4 @@ cat 'doesnotexist.txt' 2>/dev/null || exit 0
 [4]: http://tldp.org/LDP/abs/html/exit-status.html
 [5]: http://docstore.mik.ua/orelly/unix3/upt/ch35_12.htm
 [6]: http://www.thegeekstuff.com/2010/03/bash-shell-exit-status
-[7]: /images/articles/unix-exit-code.png
+[7]: /images/articles/unix-exit-code.webp

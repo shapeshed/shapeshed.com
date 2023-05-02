@@ -80,9 +80,9 @@ Set the default size first. The concentric dividers are the number of circles
 that will be on the polar grid. The radial dividers are the lines that will come
 out from the centre.
 
-[1]: /images/articles/arc_segment_tools.png
-[2]: /images/articles/spiral_options.png
-[3]: /images/articles/different_spirals.png
+[1]: /images/articles/arc_segment_tools.webp
+[2]: /images/articles/spiral_options.webp
+[3]: /images/articles/different_spirals.webp
 [4]: http://veerle.duoh.com/blog/comments/swirly_curls_in_adobe_illustrator/
-[5]: /images/articles/rectangular_grid.png
-[6]: /images/articles/polar_grid.png
+[5]: /images/articles/rectangular_grid.webp
+[6]: /images/articles/polar_grid.webp

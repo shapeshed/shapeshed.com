@@ -106,4 +106,4 @@ I seriously hope the COI will reconsider this position. There are [many][7]
 [9]: http://www.wait-till-i.com/2008/09/08/ukbrowserguidance/
 [10]: http://www.coi.gov.uk/documents/guidance/browser-standards-draft-v0-13.pdf
 [11]: http://www.coi.gov.uk/contact.php?contact=48
-[12]: /images/articles/gbs.jpg
+[12]: /images/articles/gbs.webp

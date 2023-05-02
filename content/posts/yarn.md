@@ -147,4 +147,4 @@ of packages remain problems waiting to happen.
 [11]: http://blog.npmjs.org/post/76320673650/funding
 [12]: https://www.npmjs.com/package/nlf
 [13]: https://github.com/marcello3d/node-licensecheck
-[14]: /images/articles/yarn-dependencies.png "Yarn dependency tree"
+[14]: /images/articles/yarn-dependencies.webp "Yarn dependency tree"

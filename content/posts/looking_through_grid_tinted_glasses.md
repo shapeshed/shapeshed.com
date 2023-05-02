@@ -45,9 +45,9 @@ nature, packaging, maps. You will find that there are grids everywhere. Grids
 that you can learn from, interpret and understand.
 
 [1]: http://www.flickr.com/photos/justusthane/
-[2]: /images/articles/honeycomb.jpg
+[2]: /images/articles/honeycomb.webp
 [3]: http://www.flickr.com/photos/seewah/
-[4]: /images/articles/british_library.jpg
-[5]: /images/articles/map.jpg
+[4]: /images/articles/british_library.webp
+[5]: /images/articles/map.webp
 [6]: /designing_with_grids_in_photoshop/
-[7]: /images/articles/guardian_grid.jpg
+[7]: /images/articles/guardian_grid.webp

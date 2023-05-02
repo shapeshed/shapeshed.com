@@ -72,6 +72,6 @@ So I am going to use the Direct Selection tool to fix a few things.
 <a href="https://vimeo.com/shapeshed">George Ornbo</a> on
 <a href="https://vimeo.com">Vimeo</a>.
 
-[1]: /images/articles/pen_line.jpg
-[2]: /images/articles/pen_curve_copy.jpg
+[1]: /images/articles/pen_line.webp
+[2]: /images/articles/pen_curve_copy.webp
 [3]: http://www.creativetechs.com/iq/adobe_pen_tool_cheatsheet.html

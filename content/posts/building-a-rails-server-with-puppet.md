@@ -131,7 +131,7 @@ have a look.
 [16]: http://docs.puppetlabs.com/guides/tests_smoke.html
 [17]: http://projects.puppetlabs.com/projects/1/wiki/Branch_Testing
 [18]: http://docs.puppetlabs.com/guides/installing_dashboard.html
-[19]: /images/articles/puppet_dashboard.jpg
+[19]: /images/articles/puppet_dashboard.webp
 [20]: http://puppetlabs.com/
 [21]: http://pebblecode.com/
 [22]: http://www.heroku.com/

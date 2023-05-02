@@ -94,7 +94,7 @@ This code has been tested and works in the following browsers
 - Mac Opera 9
 
 [1]: http://www.rickmann-design.co.uk/
-[2]: /images/articles/pizza_quote.png
+[2]: /images/articles/pizza_quote.webp
 [3]: http://www.w3.org/TR/html4/struct/text.html#edef-Q
 [4]: http://www.w3.org/TR/html4/struct/text.html#edef-BLOCKQUOTE
 [5]: http://www.w3.org/TR/html4/struct/text.html#edef-CITE

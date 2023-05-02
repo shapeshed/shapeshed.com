@@ -55,4 +55,4 @@ important.
 [2]: http://clagnut.com/blog/348/
 [3]: http://24ways.org/
 [4]: http://24ways.org/2006/compose-to-a-vertical-rhythm
-[5]: /images/articles/zoom.jpg
+[5]: /images/articles/zoom.webp

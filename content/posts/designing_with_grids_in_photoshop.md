@@ -78,8 +78,8 @@ design and change the visibility or opacity as you wish. Job done!
 
 ![The final grid][5]
 
-[1]: /images/articles/guardian_grid.jpg
-[2]: /images/articles/grid_rectangle.jpg
-[3]: /images/articles/grid_merge.jpg
-[4]: /images/articles/grid_new_fill.jpg
-[5]: /images/articles/grid_final.png
+[1]: /images/articles/guardian_grid.webp
+[2]: /images/articles/grid_rectangle.webp
+[3]: /images/articles/grid_merge.webp
+[4]: /images/articles/grid_new_fill.webp
+[5]: /images/articles/grid_final.webp

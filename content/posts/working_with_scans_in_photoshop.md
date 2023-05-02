@@ -37,7 +37,7 @@ I can use the sketch as a guide in either Photoshop or Illustrator.
 It is not always 100% perfect but I usually find it is worth a try before using
 a more time consuming technique.
 
-[1]: /images/articles/photos.jpg
-[2]: /images/articles/cropped_photos.jpg
-[3]: /images/articles/icon_ideas.jpg
-[4]: /images/articles/cropped_ideas.jpg
+[1]: /images/articles/photos.webp
+[2]: /images/articles/cropped_photos.webp
+[3]: /images/articles/icon_ideas.webp
+[4]: /images/articles/cropped_ideas.webp

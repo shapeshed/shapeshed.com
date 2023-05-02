@@ -55,6 +55,6 @@ desaturate.
 
 ![Example of the Sponge Tool][3]
 
-[1]: /images/articles/dodge_tool.jpg
+[1]: /images/articles/dodge_tool.webp
 [2]: http://www.flickr.com/photos/barbararich/380912249/
-[3]: /images/articles/saturated_boat.jpg
+[3]: /images/articles/saturated_boat.webp

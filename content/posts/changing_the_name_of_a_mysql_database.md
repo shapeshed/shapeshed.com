@@ -40,6 +40,6 @@ use the new database. Do this in the normal way by clicking Accounts and then
 assigning rights to the user.
 
 [1]: http://dev.mysql.com/downloads/gui-tools/5.0.html
-[2]: /images/articles/select_backup.jpg
+[2]: /images/articles/select_backup.webp
 [3]: http://macromates.com/
-[4]: /images/articles/rename_database.png
+[4]: /images/articles/rename_database.webp

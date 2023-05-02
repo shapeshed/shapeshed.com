@@ -65,4 +65,4 @@ few adjustment layers will do the trick. If not you can explore the many options
 available under Image > Adjustments. The options are too many to list here but
 they are worth exploring!
 
-[1]: /images/articles/auto_levels.jpg
+[1]: /images/articles/auto_levels.webp

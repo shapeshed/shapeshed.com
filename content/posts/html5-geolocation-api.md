@@ -185,4 +185,4 @@ For the latest browser support please consult [caniuse.com][4]
 [2]: http://html5demos.com/geo
 [3]: http://diveintohtml5.info/geolocation.html
 [4]: http://caniuse.com/#feat=geolocation
-[5]: /images/articles/geolocation-permission.png
+[5]: /images/articles/geolocation-permission.webp

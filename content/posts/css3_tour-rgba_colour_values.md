@@ -133,7 +133,7 @@ from Github.][8]
 [1]: /examples/css3-rgba/
 [2]: http://www.w3.org/TR/css3-color/#rgba-color
 [3]: http://www.w3.org/TR/css3-color/
-[4]: /images/articles/rgba.png
+[4]: /images/articles/rgba.webp
 [5]: http://www.w3.org/TR/CSS21/syndata.html#color-units
 [6]: http://css-tricks.com/rgba-browser-support/
 [7]: http://en.wikipedia.org/wiki/Progressive_enhancement

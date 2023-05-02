@@ -191,10 +191,10 @@ life and striving for simplicity is a good thing.
 - [Make netrw really behave like Nerdtree][13]
 
 [1]: http://linux.die.net/man/1/ls
-[2]: /images/articles/vim-netrw.png "vim netrw directory browser"
+[2]: /images/articles/vim-netrw.webp "vim netrw directory browser"
 [3]: https://github.com/tpope/vim-vinegar/issues/21#issuecomment-39447112
 [4]: https://github.com/scrooloose/nerdtree
-[5]: /images/articles/vim-netrw-tree.png "vim netrw tree view"
+[5]: /images/articles/vim-netrw-tree.webp "vim netrw tree view"
 [6]:
   /images/articles/vim-netrw-nerdtree.png
   "vim netrw nerdtree like experience"

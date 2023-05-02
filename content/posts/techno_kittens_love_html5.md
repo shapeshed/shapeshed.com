@@ -32,7 +32,7 @@ Explorer you are probably in the wrong place anyway.
 
 [1]: /examples/techno-kittens/
 [2]: http://github.com/shapeshed/HTML-5/tree/master
-[3]: /images/articles/techno-kittens.jpg
+[3]: /images/articles/techno-kittens.webp
 [4]: http://get.adobe.com/flashplayer/
 [5]: http://silverlight.net/
 [6]: http://en.wikipedia.org/wiki/Open_standard

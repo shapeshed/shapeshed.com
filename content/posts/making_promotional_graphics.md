@@ -71,9 +71,9 @@ Be aware that Google will not spider the text that is on your image. If the copy
 is very important you may with to use a background image and keep the text. At
 least you should specify ALT text for the image.
 
-[1]: /images/articles/glossy_button_final.jpg
-[2]: /images/articles/blending.jpg
-[3]: /images/articles/gradiant.jpg
-[4]: /images/articles/button_gradiant.jpg
-[5]: /images/articles/strawberry.jpg
-[6]: /images/articles/gloss.jpg
+[1]: /images/articles/glossy_button_final.webp
+[2]: /images/articles/blending.webp
+[3]: /images/articles/gradiant.webp
+[4]: /images/articles/button_gradiant.webp
+[5]: /images/articles/strawberry.webp
+[6]: /images/articles/gloss.webp

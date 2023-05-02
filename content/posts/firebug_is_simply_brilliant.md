@@ -78,8 +78,8 @@ Two things you should do after reading this
 
 [1]: http://www.getfirebug.com/
 [2]: http://www.mozilla.com/en-US/firefox/
-[3]: /images/articles/box_model.png
-[4]: /images/articles/pageload.jpg
-[5]: /images/articles/html_css_editor.jpg
+[3]: /images/articles/box_model.webp
+[4]: /images/articles/pageload.webp
+[5]: /images/articles/html_css_editor.webp
 [6]: http://chrispederick.com/work/webdeveloper/
-[7]: /images/articles/toolbar_errors.jpg
+[7]: /images/articles/toolbar_errors.webp

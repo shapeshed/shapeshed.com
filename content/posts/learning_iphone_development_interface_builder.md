@@ -74,8 +74,8 @@ anyone.
 [1]:
   http://www.stanford.edu/class/cs193p/cgi-bin/drupal/system/files/assignments/Assignment1A_0.pdf
 [2]: http://github.com/shapeshed/StanfordExamples
-[3]: /images/articles/assignment_1a_choose_project.png
-[4]: /images/articles/assignment_1a_select_project.png
-[5]: /images/articles/assignment_1a_main_window.png
-[6]: /images/articles/assignement_1a_label_attributes.png
-[7]: /images/articles/assignment_1a_application.png
+[3]: /images/articles/assignment_1a_choose_project.webp
+[4]: /images/articles/assignment_1a_select_project.webp
+[5]: /images/articles/assignment_1a_main_window.webp
+[6]: /images/articles/assignement_1a_label_attributes.webp
+[7]: /images/articles/assignment_1a_application.webp

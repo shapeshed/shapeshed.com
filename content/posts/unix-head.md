@@ -149,4 +149,4 @@ passwd
 [3]: http://www.linfo.org/head.html
 [4]: https://en.wikipedia.org/wiki/Head_(Unix)
 [5]: http://www.computerhope.com/unix/uhead.htm
-[6]: /images/articles/head.png "Linux and Unix head command"
+[6]: /images/articles/head.webp "Linux and Unix head command"

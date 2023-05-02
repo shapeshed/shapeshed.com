@@ -63,6 +63,6 @@ Guides and angles and snapping tolerance.
 
 ![Smart Guide Options][3]
 
-[1]: /images/articles/illustrator_rulers.jpg
-[2]: /images/articles/illustrator_paths_guides.jpg
-[3]: /images/articles/smart_guide_options.jpg
+[1]: /images/articles/illustrator_rulers.webp
+[2]: /images/articles/illustrator_paths_guides.webp
+[3]: /images/articles/smart_guide_options.webp

@@ -42,4 +42,4 @@ anchor points we have selected.
 <iframe src="https://player.vimeo.com/video/33020788?title=0&amp;byline=0&amp;portrait=0" width="400" height="328" allowFullScreen></iframe>
 
 [1]: /journal/illustrator_101_selection_tools/
-[2]: /images/articles/selected.png
+[2]: /images/articles/selected.webp
