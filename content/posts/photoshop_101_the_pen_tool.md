@@ -68,5 +68,5 @@ icons. It is well worth putting the time in to understand how the tool works as
 you will find you use it more and more, and then you won't know how you ever
 lived without it.
 
-[1]: /images/articles/rubber_band.jpg
-[2]: /images/articles/drawing_path.png
+[1]: /images/articles/rubber_band.webp
+[2]: /images/articles/drawing_path.webp

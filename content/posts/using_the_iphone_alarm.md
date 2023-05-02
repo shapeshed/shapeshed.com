@@ -30,4 +30,4 @@ You still have to remember to turn Airplane Mode off in the morning but until
 there is a better solution other than buying yourself an alarm clock this will
 do!
 
-[1]: /images/articles/iphone_alarm.jpg
+[1]: /images/articles/iphone_alarm.webp

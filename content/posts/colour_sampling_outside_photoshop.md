@@ -49,4 +49,4 @@ colour out.
 
 [1]: http://en.wikipedia.org/wiki/DigitalColor_Meter
 [2]: http://www.timesonline.co.uk/tol/global/
-[3]: /images/articles/time_sample.jpg
+[3]: /images/articles/time_sample.webp

@@ -40,7 +40,7 @@ tool][3].
 Using pattern brushes in this way is another great way to create complex looking
 designs in no time.
 
-[1]: /images/articles/add_brush.jpg
-[2]: /images/articles/add_pattern_options.jpg
+[1]: /images/articles/add_brush.webp
+[2]: /images/articles/add_pattern_options.webp
 [3]: /journal/illustrator_101_the_blend_tool/
-[4]: /images/articles/circles_pattern_brush.png
+[4]: /images/articles/circles_pattern_brush.webp

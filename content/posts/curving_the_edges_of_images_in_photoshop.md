@@ -88,9 +88,9 @@ photograph or shape.
 Photoshop</a> from <a href="https://vimeo.com/shapeshed">George Ornbo</a> on
 <a href="https://vimeo.com">Vimeo</a>.
 
-[1]: /images/articles/rectangle_tool.jpg
-[2]: /images/articles/curved_rectangles.png
-[3]: /images/articles/draw_curve.jpg
-[4]: /images/articles/select_shape.jpg
-[5]: /images/articles/add_vector_mask.jpg
-[6]: /images/articles/final_curved_shape.jpg
+[1]: /images/articles/rectangle_tool.webp
+[2]: /images/articles/curved_rectangles.webp
+[3]: /images/articles/draw_curve.webp
+[4]: /images/articles/select_shape.webp
+[5]: /images/articles/add_vector_mask.webp
+[6]: /images/articles/final_curved_shape.webp

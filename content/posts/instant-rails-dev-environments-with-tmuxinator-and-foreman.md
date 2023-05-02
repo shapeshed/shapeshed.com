@@ -126,4 +126,4 @@ you can still use it.
 [10]: https://github.com/ddollar/foreman
 [11]: https://github.com/jondruse/screeninator
 [12]: https://github.com/achiu/terminitor
-[13]: /images/articles/tmuxinator.jpg
+[13]: /images/articles/tmuxinator.webp

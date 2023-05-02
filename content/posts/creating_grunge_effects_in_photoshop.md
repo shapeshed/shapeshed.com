@@ -68,5 +68,5 @@ constrained by them.
 [2]: http://www.markboulton.co.uk/
 [3]: http://www.photoshopbrushes.com/brushes/39.htm
 [4]: http://www.fontriver.com/font/neoprint_m319/
-[5]: /images/articles/load_brushes.jpg
-[6]: /images/articles/distressed_example.png
+[5]: /images/articles/load_brushes.webp
+[6]: /images/articles/distressed_example.webp

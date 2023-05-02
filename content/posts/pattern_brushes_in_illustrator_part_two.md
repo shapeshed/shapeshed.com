@@ -66,8 +66,8 @@ appearing at the end of the path.
 ![Open Paths with Patterns][6]
 
 [1]: /journal/pattern_brushes_in_illustrator_part_one/
-[2]: /images/articles/half_circles.jpg
-[3]: /images/articles/art_deco_frame.jpg
-[4]: /images/articles/border_with_corners.jpg
-[5]: /images/articles/ends_of_paths_patterns.jpg
-[6]: /images/articles/path_with_pattern.jpg
+[2]: /images/articles/half_circles.webp
+[3]: /images/articles/art_deco_frame.webp
+[4]: /images/articles/border_with_corners.webp
+[5]: /images/articles/ends_of_paths_patterns.webp
+[6]: /images/articles/path_with_pattern.webp

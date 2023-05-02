@@ -70,5 +70,5 @@ the video here][5].
 [2]:
   http://en.wikipedia.org/wiki/F-number#Stops.2C_f-stop_conventions.2C_and_exposure
 [3]: http://en.wikipedia.org/wiki/Shutter_speed
-[4]: /images/articles/open_as_raw.jpg
+[4]: /images/articles/open_as_raw.webp
 [5]: https://www.youtube.com/watch?v=-CXJYhf8Np4

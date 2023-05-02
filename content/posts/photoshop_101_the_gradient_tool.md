@@ -58,7 +58,7 @@ You can alter the opacity to affect how transparent the colour is just as you
 can in the gradient layer. Tolerance affects how broadly the paint will fill
 after your click. All pretty straightforward really!
 
-[1]: /images/articles/gradient_options.jpg
-[2]: /images/articles/gradiant_examples.jpg
-[3]: /images/articles/background_example.jpg
+[1]: /images/articles/gradient_options.webp
+[2]: /images/articles/gradiant_examples.webp
+[3]: /images/articles/background_example.webp
 [4]: /examples/background-gradients/

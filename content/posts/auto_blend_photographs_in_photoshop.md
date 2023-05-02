@@ -46,11 +46,11 @@ Photography][11]. The first episode was brilliant!
 [1]: http://creativecommons.org/
 [2]: http://www.flickr.com/photos/11005317@N02/1287838997/
 [3]: http://www.flickr.com/photos/11005317@N02/
-[4]: /images/articles/after_the_rain.jpg
+[4]: /images/articles/after_the_rain.webp
 [5]: http://www.flickr.com/photos/joachim_s_mueller/799380093/
 [6]: http://www.flickr.com/photos/joachim_s_mueller/
-[7]: /images/articles/st_pauls_kirche.jpg
-[8]: /images/articles/stage_1.jpg
-[9]: /images/articles/stage_2.jpg
-[10]: /images/articles/stage3.jpg
+[7]: /images/articles/st_pauls_kirche.webp
+[8]: /images/articles/stage_1.webp
+[9]: /images/articles/stage_2.webp
+[10]: /images/articles/stage3.webp
 [11]: http://www.bbc.co.uk/photography/genius/

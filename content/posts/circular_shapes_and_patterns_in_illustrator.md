@@ -38,4 +38,4 @@ Thanks to the technique it took about five minutes.
 
 ![Flower Pattern in Illustration][1]
 
-[1]: /images/articles/circle_pattern.png
+[1]: /images/articles/circle_pattern.webp

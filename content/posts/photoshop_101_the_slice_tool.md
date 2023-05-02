@@ -65,5 +65,5 @@ persist in using tables it is likely that you are not going to be getting much
 work in the future!
 
 [1]: /journal/photoshop_101_the_marquee_tool/
-[2]: /images/articles/slice_from_guides.jpg
-[3]: /images/articles/slice_tool_options.jpg
+[2]: /images/articles/slice_from_guides.webp
+[3]: /images/articles/slice_tool_options.webp

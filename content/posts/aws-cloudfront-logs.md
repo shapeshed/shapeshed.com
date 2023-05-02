@@ -148,6 +148,6 @@ grep -c 'Miss' combined.log
 [4]: http://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
 [5]: http://docs.aws.amazon.com/cli/latest/userguide/installing.html
 [6]: https://gist.github.com/shapeshed/e25bdf3b1116899fa8c47c16db9aa8e0
-[7]: /images/articles/cf-log-settings.png "Setting up Cloudfront logging"
-[8]: /images/articles/aws-lifecycle.png "Setting up S3 Lifecycle Management"
-[9]: /images/articles/aws-object-action.png "Setting up S3 Object Actions"
+[7]: /images/articles/cf-log-settings.webp "Setting up Cloudfront logging"
+[8]: /images/articles/aws-lifecycle.webp "Setting up S3 Lifecycle Management"
+[9]: /images/articles/aws-object-action.webp "Setting up S3 Object Actions"

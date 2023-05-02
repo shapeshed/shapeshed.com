@@ -44,7 +44,7 @@ touches to designs.
 
 ![Cider Flyer][4]
 
-[1]: /images/articles/selection.jpg
-[2]: /images/articles/make_path.jpg
-[3]: /images/articles/fill_path.jpg
-[4]: /images/articles/cider_festival.jpg
+[1]: /images/articles/selection.webp
+[2]: /images/articles/make_path.webp
+[3]: /images/articles/fill_path.webp
+[4]: /images/articles/cider_festival.webp

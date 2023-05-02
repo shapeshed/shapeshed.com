@@ -86,7 +86,7 @@ source][6] from Github.
 
 [1]: /examples/border-radius/
 [2]: http://www.cssjuice.com/25-rounded-corners-techniques-with-css/
-[3]: /images/articles/rounded-corner.png
-[4]: /images/articles/rounded-corner2.jpg
+[3]: /images/articles/rounded-corner.webp
+[4]: /images/articles/rounded-corner2.webp
 [5]: http://en.wikipedia.org/wiki/Progressive_Enhancement
 [6]: http://github.com/shapeshed/border-radius-demo/tree/master

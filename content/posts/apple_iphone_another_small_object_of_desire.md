@@ -14,4 +14,4 @@ thing.
 
 Nokia you have been warned!
 
-[1]: /images/articles/apple_mobile.jpg "iPhone"
+[1]: /images/articles/apple_mobile.webp "iPhone"

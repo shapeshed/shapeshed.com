@@ -78,9 +78,9 @@ Then just add the text. I've used [Folks][6] which is a great free font.
 That's it - a simple resizable badge in Illustrator. If you haven't got [the
 illustrator file yet you can grab it here][2].
 
-[1]: /images/articles/glossy_badge_final.png
+[1]: /images/articles/glossy_badge_final.webp
 [2]: http://cdn.shapeshed.com/downloads/glossy_badge.ai
-[3]: /images/articles/star_tool_options.jpg
-[4]: /images/articles/scale_options.jpg
-[5]: /images/articles/glossy_button_stage_2.png
+[3]: /images/articles/star_tool_options.webp
+[4]: /images/articles/scale_options.webp
+[5]: /images/articles/glossy_button_stage_2.webp
 [6]: http://www.dafont.com/folks.font

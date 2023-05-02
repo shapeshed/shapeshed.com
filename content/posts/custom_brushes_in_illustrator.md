@@ -49,9 +49,9 @@ the canvas so this is an excellent way to fine tune the effect you want.
 
 ![Brush options][6]
 
-[1]: /images/articles/nightscape.png
+[1]: /images/articles/nightscape.webp
 [2]: http://cdn.shapeshed.com/downloads/custom_brushes.ai
-[3]: /images/articles/brushes_pathfinder.png
-[4]: /images/articles/brushes_window.png
+[3]: /images/articles/brushes_pathfinder.webp
+[4]: /images/articles/brushes_window.webp
 [5]: /smarter_illustrator_with_symbols/
-[6]: /images/articles/brushes_options.png
+[6]: /images/articles/brushes_options.webp

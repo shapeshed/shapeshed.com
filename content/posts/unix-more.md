@@ -180,5 +180,5 @@ To exit from `more` press `q` or `Q`. This returns you to the terminal prompt.
 - [more Wikipedia page][3]
 
 [1]: http://linux.die.net/man/1/more
-[2]: /images/articles/more.png "Linux and Unix more command"
+[2]: /images/articles/more.webp "Linux and Unix more command"
 [3]: https://en.wikipedia.org/wiki/More

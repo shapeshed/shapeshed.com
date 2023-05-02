@@ -298,7 +298,7 @@ but recursion is disabled -- not retrieving.
 - [wget Wikipedia page][7]
 
 [1]: http://linux.die.net/man/1/wget
-[2]: /images/articles/wget.png "Linux and Unix ps command"
+[2]: /images/articles/wget.webp "Linux and Unix ps command"
 [3]: http://www.useragentstring.com/
 [4]: http://www.labnol.org/software/wget-command-examples/28750/
 [5]: http://www.editcorp.com/personal/lars_appel/wget/v1/wget_7.html

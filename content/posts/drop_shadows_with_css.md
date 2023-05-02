@@ -159,8 +159,8 @@ Mac
 CSS3 will make this all much easier with border-image but for now we will have
 to wait...
 
-[1]: /images/articles/drop_shadow_goal.jpg
+[1]: /images/articles/drop_shadow_goal.webp
 [2]: /examples/drop-shadows-css/
-[3]: /images/articles/drop_shadow.jpg
+[3]: /images/articles/drop_shadow.webp
 [4]: /images/fitzroy.jpg
 [5]: http://cdn.shapeshed.com/downloads/drop-shadows-css.zip

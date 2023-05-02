@@ -131,8 +131,8 @@ Commons 2.0 license][9]. The code is provided as is and no support is implied or
 given.
 
 [1]: /examples/overlapping-tabs/
-[2]: /images/articles/overlapping_nav_example.png
-[3]: /images/articles/all_states.png
+[2]: /images/articles/overlapping_nav_example.webp
+[3]: /images/articles/all_states.webp
 [4]: #
 [5]: about/index.html
 [6]: services/index.html

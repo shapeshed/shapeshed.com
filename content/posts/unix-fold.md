@@ -97,7 +97,7 @@ rhoncus at.
 - [Fold files using fold command][3]
 - [fold: Wrap Text File / Line / Words To Fit in Specified Width][4]
 
-[1]: /images/articles/fold.png
+[1]: /images/articles/fold.webp
 [2]: http://linux.die.net/man/1/fold
 [3]: http://www.theunixschool.com/2011/08/fold-files-using-fold-command.html
 [4]: http://www.cyberciti.biz/tips/linux-unix-word-wrap-command.html

@@ -151,7 +151,7 @@ You can literally bend time with the `touch` command.
 - [Touch Wikipedia page][4]
 
 [1]: http://linux.die.net/man/1/touch
-[2]: /images/articles/touch.png "Linux and Unix touch command"
+[2]: /images/articles/touch.webp "Linux and Unix touch command"
 [3]: http://www.linfo.org/touch.html
 [4]: https://en.wikipedia.org/wiki/Touch_(Unix)
-[5]: /images/articles/mcfly.jpg "Bending time with the touch command"
+[5]: /images/articles/mcfly.webp "Bending time with the touch command"

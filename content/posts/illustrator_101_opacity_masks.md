@@ -64,9 +64,9 @@ effects in Illustrator.
 If you haven't yet got a copy of the illustrator file you can [get it here.][1]
 
 [1]: http://cdn.shapeshed.com/downloads/opacity_mask.ai
-[2]: /images/articles/with_mask.png
-[3]: /images/articles/base_circle.png
-[4]: /images/articles/highlight.png
-[5]: /images/articles/gradient.png
-[6]: /images/articles/opacity_mask_3d.png
-[7]: /images/articles/make_opacity_mask.jpg
+[2]: /images/articles/with_mask.webp
+[3]: /images/articles/base_circle.webp
+[4]: /images/articles/highlight.webp
+[5]: /images/articles/gradient.webp
+[6]: /images/articles/opacity_mask_3d.webp
+[7]: /images/articles/make_opacity_mask.webp

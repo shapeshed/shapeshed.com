@@ -24,7 +24,7 @@ will all be lost in headlines of the [IE7 release][4].
 
 Perhaps I'll be proved wrong but I wouldn't put my money into it.
 
-[1]: /images/articles/flockLogo.png
+[1]: /images/articles/flockLogo.webp
 [2]: http://www.flock.com
 [3]: http://www.mozilla.com/firefox/
 [4]: http://www.microsoft.com/windows/ie/

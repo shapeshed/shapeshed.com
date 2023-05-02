@@ -93,4 +93,4 @@ echo "foo" | sudo tee -a file
 [1]: http://man7.org/linux/man-pages/man1/tee.1.html
 [2]: https://linuxaria.com/pills/linux-terminal-the-tee-command
 [3]: http://www.computerhope.com/unix/utee.htm
-[4]: /images/articles/tee.png
+[4]: /images/articles/tee.webp

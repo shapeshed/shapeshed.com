@@ -64,9 +64,9 @@ clicking on your saved style.
 ![Character Styles in Illustrator][7]
 
 [1]: /journal/photoshop_101_the_type_tools/
-[2]: /images/articles/il_text_tool_options.jpg
-[3]: /images/articles/character_options.jpg
-[4]: /images/articles/circular_text.png
-[5]: /images/articles/text_on_a_path.jpg
-[6]: /images/articles/following_path.jpg
-[7]: /images/articles/character_style.jpg
+[2]: /images/articles/il_text_tool_options.webp
+[3]: /images/articles/character_options.webp
+[4]: /images/articles/circular_text.webp
+[5]: /images/articles/text_on_a_path.webp
+[6]: /images/articles/following_path.webp
+[7]: /images/articles/character_style.webp

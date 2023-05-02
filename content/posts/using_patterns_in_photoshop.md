@@ -51,8 +51,8 @@ using patterns? Why not share how you use yours and leave a comment.
 
 ![An example using patterns][5]
 
-[1]: /images/articles/pattern.jpg
-[2]: /images/articles/pattern_options.jpg
-[3]: /images/articles/patten_background.jpg
-[4]: /images/articles/blending_options.jpg
-[5]: /images/articles/patterns-example.png
+[1]: /images/articles/pattern.webp
+[2]: /images/articles/pattern_options.webp
+[3]: /images/articles/patten_background.webp
+[4]: /images/articles/blending_options.webp
+[5]: /images/articles/patterns-example.webp

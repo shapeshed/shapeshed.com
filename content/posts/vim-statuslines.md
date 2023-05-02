@@ -241,9 +241,9 @@ statusline and I have one fewer dependency.
 [7]: http://vimdoc.sourceforge.net/htmldoc/syntax.html
 [8]: https://github.com/Lokaltog/vim-powerline
 [9]: https://github.com/vim-airline/vim-airline
-[10]: /images/articles/vim-default-statusline.png
-[11]: /images/articles/statusline-helloworld.png
-[12]: /images/articles/git-branch-statusline.png
+[10]: /images/articles/vim-default-statusline.webp
+[11]: /images/articles/statusline-helloworld.webp
+[12]: /images/articles/git-branch-statusline.webp
 [13]: /images/articles/my-statusline.webp
 [14]: https://github.com/nvim-lualine/lualine.nvim
 [15]: https://github.com/nvimdev/galaxyline.nvim

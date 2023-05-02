@@ -85,4 +85,4 @@ please feel free to leave a comment.
 [5]:
   http://deimos3.apple.com/WebObjects/Core.woa/Browse/itunes.stanford.edu.3124430053.03124430055.3145764870?i=1399672464
 [6]: http://developer.apple.com/iphone/program/
-[7]: /images/articles/hello_world_iphone.png
+[7]: /images/articles/hello_world_iphone.webp

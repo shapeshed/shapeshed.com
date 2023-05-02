@@ -57,6 +57,6 @@ it looks to you?
 [2]: http://www.lynda.com/
 [3]: http://www.lynda.com/hex.asp
 [4]: http://www.morecrayons.com/palettes/webSmart/
-[5]: /images/articles/256.jpg
+[5]: /images/articles/256.webp
 [6]: /images/articles/web_safe_experiment.psd
-[7]: /images/articles/web_safe_experiment.jpg
+[7]: /images/articles/web_safe_experiment.webp

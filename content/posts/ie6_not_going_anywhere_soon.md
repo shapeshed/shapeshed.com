@@ -39,5 +39,5 @@ need to continue supporting IE6 for a while yet. I wonder what other people's
 experience of the results of the forced update are?
 
 [1]: http://support.microsoft.com/default.aspx/kb/946202
-[2]: /images/articles/browser_usage.jpg
-[3]: /images/articles/ie_split.jpg
+[2]: /images/articles/browser_usage.webp
+[3]: /images/articles/ie_split.webp

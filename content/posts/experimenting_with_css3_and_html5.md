@@ -51,7 +51,7 @@ site repository and play with it, or even enhance it.
 You can view [the site here][6] and see what's under the hood at [the Github
 repository][7].
 
-[1]: /images/articles/github_site.jpg
+[1]: /images/articles/github_site.webp
 [2]: http://shapeshed.github.com/
 [3]: http://icant.co.uk/
 [4]: http://www.whatwg.org/specs/web-apps/current-work/multipage/

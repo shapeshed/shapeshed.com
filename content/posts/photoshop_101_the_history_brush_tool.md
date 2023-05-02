@@ -37,4 +37,4 @@ the details and edges of the Kingfisher.
 [1]: http://www.flickr.com/photos/64684201@N00/
 [2]: http://www.flickr.com/
 [3]: /images/articles/history_brush.gif
-[4]: /images/articles/history_brush_example.jpg
+[4]: /images/articles/history_brush_example.webp

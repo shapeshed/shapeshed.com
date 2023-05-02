@@ -55,4 +55,4 @@ these tools. This shape was created using the Pen tool.
 Particularly for adding fine details and fine tuning the paths you have drawn
 this is an invaluable tool.
 
-[1]: /images/articles/path_example.png
+[1]: /images/articles/path_example.webp

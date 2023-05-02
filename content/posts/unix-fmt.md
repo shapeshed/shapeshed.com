@@ -121,6 +121,6 @@ this has different spaces
 
 [1]: /unix-cat/
 [2]: http://linux.die.net/man/1/fmt
-[3]: /images/articles/fmt.png "Linux and Unix fmt command"
+[3]: /images/articles/fmt.webp "Linux and Unix fmt command"
 [4]: http://landoflinux.com/linux_fmt_command.html
 [5]: http://www.sanfoundry.com/fmt-command-usage-examples-linux/
