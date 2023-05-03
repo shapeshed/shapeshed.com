@@ -19,7 +19,7 @@ which make it even more difficult. We then found Mark Durrant, a talented young
 designer from Swindon. We were impressed enough by interviews and his work to
 offer him a two week paid trial. Here’s one example from his portfolio:
 
-![](https://media.tumblr.com/tumblr_lq6jtcPhdy1qz7kgs.jpg)
+![](/images/articles/tumblr_lq6jtcPhdy1qz7kgs.jpg)
 
 We decided that running a two week trial was a good amount of time to really
 test Mark’s capabilities and to run him through all of the skills that we were
@@ -38,7 +38,7 @@ ability to present designs, receive feedback and to iterate designs.
 By 3pm on Tuesday Mark had produced three concepts and presented them strongly
 too.
 
-![](https://media.tumblr.com/tumblr_lq6jvdh2fI1qz7kgs.jpg)
+![](/images/articles/tumblr_lq6jvdh2fI1qz7kgs.jpg)
 
 We were immediately impressed. Feedback came for Mark in all forms. Sketches on
 paper, verbal feedback and emails. We were looking for how Mark would manage
@@ -50,7 +50,7 @@ accompanying website design by the end of the week. We are likely to use the
 branding and website that he produced so within the first week he had exceeded
 our expectations.
 
-![](https://media.tumblr.com/tumblr_lq6icfHpEB1qz7kgs.png)
+![](/images/articles/tumblr_lq6icfHpEB1qz7kgs.png)
 
 ### Bread and butter
 
@@ -68,7 +68,7 @@ production but allows users to trickle out tweets over time. Mark did a great
 job here, really enhancing the existing design and proving his iconography on
 the homepage.
 
-![](https://media.tumblr.com/tumblr_lq6i7uRO9X1qz7kgs.png)
+![](/images/articles/tumblr_lq6i7uRO9X1qz7kgs.png)
 
 On Wednesday we moved Mark onto some UX work, asking him to close Creative
 Suite. We asked him to consider [ideapi](http://ideapi.com), one of our web
@@ -80,7 +80,7 @@ We were impressed with how he went right back to basics, assessing the process
 of how an idea is created on paper. He spoke the language of UX very well and
 produced some good wireframes exploring a response to the problem.
 
-![](https://media.tumblr.com/tumblr_lq6iow8bIF1qz7kgs.jpg)
+![](/images/articles/tumblr_lq6iow8bIF1qz7kgs.jpg)
 
 After some feedback Mark continued to work on this on Thursday and delivered
 some impressive wireframes that gave us complete confidence he could deliver

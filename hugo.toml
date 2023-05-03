@@ -70,3 +70,27 @@ enableGitInfo = true
     type        = "fragments"
     applyFilter = false
     weight = 50
+
+[deployment]
+  [[deployment.targets]]
+    name = "aws-s3"
+    URL = "s3://static.shapeshed.com"
+    # cloudFrontDistributionID = "EOEO7HZP7EIIC"
+
+  [[deployment.matchers]]
+    pattern = "^sitemap\\.xml$"
+    cacheControl = "public, s-maxage=604800, max-age=86400" #7d,1d
+    contentType = "application/xml"
+
+  [[deployment.matchers]]
+    pattern = "^.+\\.(css|js)$"
+    cacheControl = "public, immutable, max-age=31536000" #1y
+
+  [[deployment.matchers]]
+    pattern = "(?i)^.+\\.(jpg|jpeg|gif|png|webp|avif|mp4|woff|woff2)$"
+    cacheControl = "public, s-maxage=7776000, max-age=604800" #90d,7d
+
+  [[deployment.matchers]]
+    pattern = "^.+\\.(html|xml|json|txt)$"
+    cacheControl = "public, s-maxage=604800, max-age=3600" #7d,1h
+

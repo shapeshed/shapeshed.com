@@ -11,7 +11,7 @@ pebble {code}’s latest hack day theme was hardware. It happened to fall on
 Halloween. So the natural thing to do was to combine Halloween and hardware. So
 why not put a Raspberry Pi in a pumpkin and make it make some scary sounds?
 
-![](https://31.media.tumblr.com/92d4d992253bb941abe19f89ea486d4b/tumblr_inline_nel2kiawb91qz7kgs.jpg)
+![](/images/articles/tumblr_inline_nel2kiawb91qz7kgs.jpg)
 
 ## Making an LED flash
 

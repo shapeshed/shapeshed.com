@@ -6,7 +6,7 @@ tags = []
 title = "Recruitment Consultants Knightmare"
 +++
 
-![](https://media.tumblr.com/tumblr_majwei2PXP1qz7kgs.jpg)
+![](/images/articles/tumblr_majwei2PXP1qz7kgs.jpg)
 
 pebble {code} is a pretty good candidate for using Recruitment Consultants. We
 are working on some long term projects that are growing fast and it is likely

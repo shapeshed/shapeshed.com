@@ -15,9 +15,9 @@ LDNTaxiApp is a mobile app that matches London’s Black Cabs with Londoners
 needing to go places. The idea is that you open the app on your mobile, hail a
 cab and one will magically arrive. Here are a few screenshots.
 
-![](https://media.tumblr.com/tumblr_lp3jonAWgW1qz7kgs.jpg)
+![](/images/articles/tumblr_lp3jonAWgW1qz7kgs.jpg)
 
-![](https://media.tumblr.com/tumblr_lp3jpoGH4w1qz7kgs.jpg)
+![](/images/articles/tumblr_lp3jpoGH4w1qz7kgs.jpg)
 
 The app is in the
 [app store](http://itunes.apple.com/gb/app/ldntaxiapp/id427543366) and has been
@@ -64,7 +64,7 @@ the day is most busy? This of course is all valuable data that LDNTaxiApp is
 building up. We could see pretty quickly though that the adage that taxis don’t
 go south of the river is true.
 
-![](https://media.tumblr.com/tumblr_lp3jryw2od1qz7kgs.png)
+![](/images/articles/tumblr_lp3jryw2od1qz7kgs.png)
 
 ### Start-ups need pragmatism
 

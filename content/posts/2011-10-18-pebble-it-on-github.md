@@ -6,7 +6,7 @@ tags = ["git"]
 title = "pebble.it on github"
 +++
 
-![pebblecode on github](https://media.tumblr.com/tumblr_lqw97kYnrf1qld9wg.jpg)
+![pebblecode on github](/images/articles/tumblr_lqw97kYnrf1qld9wg.jpg)
 
 The dev team at pebble.it are proud to announce that we finally
 [have a home on github](http://github.com/pebblecode)!

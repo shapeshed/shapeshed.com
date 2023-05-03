@@ -8,7 +8,7 @@ title = "Getting a startup off the ground"
 
 ### Following the yellow brick road
 
-![](https://media.tumblr.com/tumblr_l69juj4maT1qz7kgs.jpg)
+![](/images/articles/tumblr_l69juj4maT1qz7kgs.jpg)
 
 Photo by [Chris Devers](http://www.flickr.com/photos/cdevers/4602805654/)
 

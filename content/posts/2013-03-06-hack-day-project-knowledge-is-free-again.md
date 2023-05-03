@@ -44,7 +44,7 @@ By the end of the day we had a semi working application that we were able to
 demonstrate to the other teams but with much functionality incomplete. This was
 somewhat disappointing given the purity of John’s vision.
 
-![](https://media.tumblr.com/dadf56adbb939366e3f0955254668d6d/tumblr_inline_mj8ge0QQqR1qz4rgp.png)
+![](/images/articles/tumblr_inline_mj8ge0QQqR1qz4rgp.png)
 
 ## The idea in a nutshell
 

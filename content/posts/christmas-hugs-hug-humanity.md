@@ -21,7 +21,13 @@ a hug in two seconds.
 This isn’t an app that is going to make you feel sexy or rich. It will make you
 smile though. Here’s what some people made.
 
-![](https://31.media.tumblr.com/936f5cf444a1e728112d056fb86811e9/tumblr_inline_mxwvki657q1qz7kgs.gif)![](https://31.media.tumblr.com/3973d7cfd6511965d9eeb9f5b9b4a483/tumblr_inline_mxwvljLikA1qz7kgs.gif)![](https://31.media.tumblr.com/6dd0d26a726ecf7e97d4266141b4e70a/tumblr_inline_mxx117pu8J1qz7kgs.gif)![](https://31.media.tumblr.com/b77b14c0d42fa18ba331b38927973c13/tumblr_inline_mxwvmaWXOZ1qz7kgs.gif)
+![](/images/articles/hugs1.gif)
+
+![](/images/articles/hugs2.gif)
+
+![](/images/articles/hugs3.gif)
+
+![](/images/articles/hugs4.gif)
 
 The project is different because the video and the creation of the hug is all
 done in the browser through HTML5 APIs and JavaScript. It showcases what is

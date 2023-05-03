@@ -18,7 +18,7 @@ for a while in Chrome and Firefox via the Readability Extension
 users the option to reformat the page in a more readable format. Here’s the
 pebble blog reformated using Readability.
 
-!['pebble Blog Reformatted'](https://media.tumblr.com/tumblr_l41z0k3U7d1qz7kgs.jpg)
+!['pebble Blog Reformatted'](/images/articles/tumblr_l41z0k3U7d1qz7kgs.jpg)
 
 At pebble we’ve really been enjoying using these tools to get rid of unnecessary
 navigation and adverts, and correct poor typography.

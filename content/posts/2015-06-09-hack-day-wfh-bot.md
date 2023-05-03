@@ -19,7 +19,7 @@ this is getting less scalable.
 
 We created five streams of work.
 
-![WFH Architecture](http://static.tumblr.com/syeid8e/BTmnpod1e/hackday_-_wtfaiwft.001.jpg)
+![WFH Architecture](/images/articles/hackday_-_wtfaiwft.001.jpg)
 
 The first was a RESTful API to allow different clients to update the status of a
 pebble employee.
@@ -32,11 +32,11 @@ holidays and set the status correctly for that.
 An email daemon was also created to send a single mail at 10 am to all of the
 company.
 
-![Email Daemon](http://static.tumblr.com/syeid8e/Kzwnpod7f/screen_shot_2015-06-08.png)
+![Email Daemon](/images/articles/screen_shot_2015-06-08.png)
 
 Finally a front end was created to allow the status of people to be shown on a
 big screen.
-![WFH Front-end](http://static.tumblr.com/syeid8e/ILtnpodam/screen_shot_2015-06-08_at_15.57.35.png)![WFH Front-end](http://static.tumblr.com/syeid8e/ncunpod95/screen_shot_2015-06-08_at_15.57.54.png)
+![WFH Front-end](/images/articles/screen_shot_2015-06-08_at_15.57.35.png)![WFH Front-end](/images/articles/screen_shot_2015-06-08_at_15.57.54.png)
 
 ## What tech / magic / sorcery did you use to make this awesomeness?
 

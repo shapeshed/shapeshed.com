@@ -6,7 +6,7 @@ tags = ["node.js", "apis"]
 title = "Hacking APIs with Node.js"
 +++
 
-![The A Team](https://media.tumblr.com/tumblr_m9x5blJ6Jh1qz7kgs.jpg)
+![The A Team](/images/articles/tumblr_m9x5blJ6Jh1qz7kgs.jpg)
 
 > If you have a problem, if no one else can help, and if you can find them,
 > maybe you can hire the A-Team.

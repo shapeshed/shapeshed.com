@@ -115,5 +115,5 @@ Produce for them. E.g. Symbol world. Symbol news.
 [5]: http://www.pixeldiva.co.uk/
 [6]: http://www.paddingtonarts.org.uk/
 [7]: http://www.wait-till-i.com
-[8]: http://farm1.static.flickr.com/169/412734816_af9de40b48.jpg
+[8]: /images/articles/toilet.jpg
 [9]: http://www.isaac-online.org/en/home.shtml

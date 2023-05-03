@@ -8,7 +8,7 @@ title = "Vistazo goes live!"
 
 Today we are proud to release our latest bouncing baby to the public.
 
-![](https://media.tumblr.com/tumblr_m29f567g0p1qz7kgs.png)
+![](/images/articles/tumblr_m29f567g0p1qz7kgs.png)
 
 Vistazo is a lightweight web application to help small teams keep track of who
 is working on what and when they are working on it.

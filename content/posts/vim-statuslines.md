@@ -16,10 +16,7 @@ representation of where you are in the file. For many people the default
 behaviour of vim is enough and you can get on with your life without having to
 configure anything.
 
-<figure>
-<img src="/images/articles/vim-default-statusline.webp" />
-<figcaption>Figure 1: <em>The out of the box vim statusline</em></figcaption>
-</figure>
+![The default vim statusline][10]
 
 ## Showing the statusline
 
@@ -55,10 +52,7 @@ set statusline=helloworld
 
 Reload Vim and a not so useful hello world status bar will show.
 
-<figure>
-<img src="/images/articles/statusline-helloworld.webp" />
-<figcaption>Figure 2: <em>The hello world statusline</em></figcaption>
-</figure>
+![A hello world statusline][11]
 
 ## Building a statusline
 
@@ -99,10 +93,7 @@ set statusline=
 set statusline+=%{StatuslineGit()}
 ```
 
-<figure>
-<img src="/images/articles/git-branch-statusline.webp" />
-<figcaption>Figure 3: <em>A statusline showing the current git branch</em></figcaption>
-</figure>
+![A statusline showing the current git branch][12]
 
 ## Showing data
 
@@ -214,10 +205,7 @@ end
 vim.opt.statusline = statusline()
 ```
 
-<figure>
-<img src="/images/articles/my-statusline.webp" />
-<figcaption>Figure 4: <em>A vim statusbar with no plugins</em></figcaption>
-</figure>
+![A vim statusbar with no plugins][13]
 
 Of course it may be easier for you to use [powerline][8], [airline][9] or
 [lualine][14]. Personally 22 lines of code is enough to have a working
@@ -244,7 +232,7 @@ statusline and I have one fewer dependency.
 [10]: /images/articles/vim-default-statusline.png
 [11]: /images/articles/statusline-helloworld.png
 [12]: /images/articles/git-branch-statusline.png
-[13]: /images/articles/my-statusline.webp
+[13]: /images/articles/my-statusline.png
 [14]: https://github.com/nvim-lualine/lualine.nvim
 [15]: https://github.com/nvimdev/galaxyline.nvim
 [16]: https://github.com/famiu/feline.nvim

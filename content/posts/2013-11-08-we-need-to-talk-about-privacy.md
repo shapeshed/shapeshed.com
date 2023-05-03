@@ -24,7 +24,7 @@ society.
 
 ### Prism
 
-![](https://media.tumblr.com/022b811f976620f2300840d91657fcc5/tumblr_inline_mvy51gzsOJ1qz7kgs.jpg)
+![](/images/articles/tumblr_inline_mvy51gzsOJ1qz7kgs.jpg)
 
 Prism was the first program to be exposed and allows the NSA to request data
 from Internet businesses via agreed back doors into the data of major Internet
@@ -40,7 +40,7 @@ Intelligence Agencies have direct access to the data is not.
 
 ### MUSCULAR - The Smiley Face
 
-![](https://media.tumblr.com/c842cfa5f1a37dd0a6254487086a6d92/tumblr_inline_mvy4p18exg1qz7kgs.png)
+![](/images/articles/tumblr_inline_mvy4p18exg1qz7kgs.png)
 
 The [MUSCULAR project](http://www.theguardian.com/world/edward-snowden) was
 exposed as a way for the NSA to harvest entire data flows passing through fibre
@@ -58,7 +58,7 @@ business for fears around privacy. Several staff are migrating off Google Apps.
 
 ### Lavabit
 
-![](https://media.tumblr.com/9eac495a05bec842232da7506f3af9f5/tumblr_inline_mvy5k1i7cH1qz7kgs.jpg)
+![](/images/articles/tumblr_inline_mvy5k1i7cH1qz7kgs.jpg)
 
 After the initial leaks were published [Lavabit](https://lavabit.com/) became a
 target for Intelligence Agencies. It is thought Snowden had used the service to

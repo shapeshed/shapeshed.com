@@ -10,7 +10,7 @@ Docker is fantastic wrapper around Linux Containers with a brilliant
 collaboration workflow. If you do any kind of virtualisation you should
 seriously consider it.
 
-![](https://media.tumblr.com/67637761d1293f816ab48c9ac1c1da67/tumblr_inline_mwb588owIP1qz7kgs.png)
+![](/images/articles/tumblr_inline_mwb588owIP1qz7kgs.png)
 
 ### What is Docker?
 
@@ -110,7 +110,7 @@ sudo docker run -d -p 49002:80 jbfink/wordpress:latest
 On your host machine open your browser at http://localhost:49002. There it is.
 Amazing.
 
-![](https://media.tumblr.com/092ec6fcd4bad6de5d981080d7fa2021/tumblr_inline_mwb55zdNHQ1qz7kgs.png)
+![](/images/articles/tumblr_inline_mwb55zdNHQ1qz7kgs.png)
 
 Because it is a container you can be very certain that it will run reliably
 through docker. The start up time is minimal too.

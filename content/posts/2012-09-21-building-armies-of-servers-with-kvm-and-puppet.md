@@ -6,7 +6,7 @@ tags = ["Puppet"]
 title = "Building armies of servers with kvm and puppet"
 +++
 
-![](https://media.tumblr.com/tumblr_man7d7tNog1qz7kgs.jpg)
+![](/images/articles/tumblr_man7d7tNog1qz7kgs.jpg)
 
 Our infrastructure requirements at pebble {code} are growing. We’ve got pretty
 far with an original Ubuntu 8.04 -> 10.04 Linux server. It has been a workhorse

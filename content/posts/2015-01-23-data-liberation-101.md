@@ -10,7 +10,7 @@ As part of pebble {code}’s upcoming Visualisation Hack Day we look at the life
 blood of Visualisations and how organisations can position themselves to take
 advantage of unlocking value and meaning through open data.
 
-![](https://31.media.tumblr.com/0f02de3de2e1172d1ef56dd039e34040/tumblr_inline_nihhiiN8BU1qz7kgs.png)
+![](/images/articles/tumblr_inline_nihhiiN8BU1qz7kgs.png)
 
 ## The end of the excel era
 

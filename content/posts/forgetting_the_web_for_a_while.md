@@ -16,4 +16,4 @@ had some great weather on the back of a miserable winter.
 
 With weather this good who cares about AJAX, DOM and CSS?
 
-[1]: http://farm1.static.flickr.com/57/187935299_d09a170246_m.jpg
+[1]: /images/articles/summer.jpg
