@@ -164,7 +164,7 @@ traceroute -i wlp3s0b1 google.com
 - [Using traceroute][6]
 
 [1]: http://linux.die.net/man/8/traceroute
-[2]: /images/articles/traceroute.webp "Linux and Unix ps command"
+[2]: /images/articles/traceroute.png "Linux and Unix ps command"
 [3]: https://en.wikipedia.org/wiki/Traceroute
 [4]:
   https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html

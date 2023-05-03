@@ -97,10 +97,10 @@ welcome its arrival.
 [4]: http://www.google.com/reader
 [5]: http://ejohn.org/blog/javascript-performance-rundown/
 [6]: http://www.hicksdesign.co.uk/journal/initial-thoughts-on-google-chrome
-[7]: /images/articles/contextual.webp
-[8]: /images/articles/fisher-price.webp
+[7]: /images/articles/contextual.jpg
+[8]: /images/articles/fisher-price.jpg
 [9]: http://ben-ward.co.uk/
-[10]: /images/articles/most_visited.webp
+[10]: /images/articles/most_visited.jpg
 [11]: http://www.microsoft.com/windows/internet-explorer/beta/default.aspx
 [12]: http://www.mozilla.com/firefox
 [13]: http://www.opera.com/

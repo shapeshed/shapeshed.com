@@ -74,7 +74,7 @@ relation to market data this looks like a vanity project from Google.
 [1]:
   https://www.theguardian.com/technology/2016/apr/26/apple-iphone-first-revenue-decline-13-years
 [2]: https://www.statista.com/
-[3]: /images/articles/iphone-sales-statista.webp "iPhone sales 2007-16"
+[3]: /images/articles/iphone-sales-statista.png "iPhone sales 2007-16"
 [4]:
   /images/articles/smart-phone-shipments-apple.jpg
   "Smartphone shipments Q1 2015 and Q1 2016"

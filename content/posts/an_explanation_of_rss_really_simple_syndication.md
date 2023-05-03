@@ -45,8 +45,8 @@ you wish.
 
 ![Articles][5]
 
-[1]: /images/articles/copy_link.webp
+[1]: /images/articles/copy_link.png
 [2]: http://www.mozilla.com/thunderbird/
 [3]: http://www.opencommunity.co.uk/vienna2.html
-[4]: /images/articles/new_sub.webp
-[5]: /images/articles/articles.webp
+[4]: /images/articles/new_sub.png
+[5]: /images/articles/articles.png

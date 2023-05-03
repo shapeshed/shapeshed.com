@@ -57,9 +57,9 @@ to denote your user actions.
 Why not [download the illustrator file][6] and work through the example
 yourself?
 
-[1]: /images/articles/comment_stage_5.webp
-[2]: /images/articles/comment_stage_1.webp
-[3]: /images/articles/comment_stage_2.webp
-[4]: /images/articles/comment_stage_3.webp
-[5]: /images/articles/comment_stage_6.webp
+[1]: /images/articles/comment_stage_5.png
+[2]: /images/articles/comment_stage_1.png
+[3]: /images/articles/comment_stage_2.png
+[4]: /images/articles/comment_stage_3.png
+[5]: /images/articles/comment_stage_6.png
 [6]: http://cdn.shapeshed.com/downloads/comment_icon.ai

@@ -58,7 +58,7 @@ you find easier to use? I suspect Tiger would win every time. Which menu bar is
 easier to read? Again Tiger for me is better. Do you really care about the
 shiney dock? Not really no - I just want something that is easy to use.
 
-[1]: /images/articles/leopard_folders.webp
-[2]: /images/articles/folders.webp
-[3]: /images/articles/menu_bar.webp
-[4]: /images/articles/dock.webp
+[1]: /images/articles/leopard_folders.png
+[2]: /images/articles/folders.png
+[3]: /images/articles/menu_bar.jpg
+[4]: /images/articles/dock.jpg

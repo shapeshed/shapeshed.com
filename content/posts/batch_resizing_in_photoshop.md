@@ -52,7 +52,7 @@ version you'll have to [watch it on Vimeo.][4]
 <a href="https://vimeo.com/shapeshed">George Ornbo</a> on
 <a href="https://vimeo.com">Vimeo</a>.
 
-[1]: /images/articles/create_new_action.webp
-[2]: /images/articles/stop_action.webp
-[3]: /images/articles/automate_batch.webp
+[1]: /images/articles/create_new_action.jpg
+[2]: /images/articles/stop_action.jpg
+[3]: /images/articles/automate_batch.jpg
 [4]: https://www.vimeo.com/1050103

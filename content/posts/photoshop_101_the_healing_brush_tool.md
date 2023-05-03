@@ -72,10 +72,10 @@ correcting. It should correct the red eye. Simple!
 ![Removing Red Eye][8]
 
 [1]: http://www.flickr.com/photos/jurvetson/
-[2]: /images/articles/raptor_removed.webp
-[3]: /images/articles/blemish_books.webp
-[4]: /images/articles/fixed_blemish.webp
-[5]: /images/articles/patch_tool_options.webp
+[2]: /images/articles/raptor_removed.jpg
+[3]: /images/articles/blemish_books.jpg
+[4]: /images/articles/fixed_blemish.jpg
+[5]: /images/articles/patch_tool_options.png
 [6]: http://www.flickr.com/photos/fasteddie42/
-[7]: /images/articles/removing_figure.webp
-[8]: /images/articles/red_eye.webp
+[7]: /images/articles/removing_figure.jpg
+[8]: /images/articles/red_eye.jpg

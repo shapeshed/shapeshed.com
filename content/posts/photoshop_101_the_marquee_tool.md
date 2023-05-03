@@ -98,7 +98,7 @@ don't like your selection hit escape.
 
 ![The Marquee Tool with Free Transform][4]
 
-[1]: /images/articles/select_save_image.webp
-[2]: /images/articles/marquee_toolbar.webp
-[3]: /images/articles/marquee_feather.webp
-[4]: /images/articles/marquee_transform.webp
+[1]: /images/articles/select_save_image.jpg
+[2]: /images/articles/marquee_toolbar.png
+[3]: /images/articles/marquee_feather.jpg
+[4]: /images/articles/marquee_transform.jpg

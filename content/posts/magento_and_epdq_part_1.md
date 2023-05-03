@@ -114,4 +114,4 @@ customisation.
 [6]:
   http://www.magentocommerce.com/wiki/groups/227/installing_magento_via_shell_ssh
 [7]: http://www.magentocommerce.com/download
-[8]: /images/articles/magento.webp
+[8]: /images/articles/magento.jpg

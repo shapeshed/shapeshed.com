@@ -87,4 +87,4 @@ What do you think? Is this a total non-starter or is this worth persuing?
 [7]: /examples/inmd/
 [8]: http://cdn.shapeshed.com/downloads/inmd_0.1.zip
 [9]: http://creativecommons.org/licenses/by-nc-sa/3.0/
-[10]: /images/articles/inmd_alpha.webp
+[10]: /images/articles/inmd_alpha.jpg

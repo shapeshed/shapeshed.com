@@ -50,7 +50,7 @@ Here's how mine ended up.
 This works with lots of other tools including all the tools within the rectangle
 tool and line segment tool so get experimenting!
 
-[1]: /images/articles/some_on_some_off.webp
-[2]: /images/articles/gradient.webp
+[1]: /images/articles/some_on_some_off.jpg
+[2]: /images/articles/gradient.jpg
 [3]: http://www.bittbox.com/freebies/free-illustrator-brushes-teardrop-foliage/
-[4]: /images/articles/gradient_brushes.webp
+[4]: /images/articles/gradient_brushes.jpg

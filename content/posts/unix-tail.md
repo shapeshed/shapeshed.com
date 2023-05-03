@@ -177,4 +177,4 @@ pcmcia
 [3]: http://www.linfo.org/tail.html
 [4]: https://en.wikipedia.org/wiki/Tail_(Unix)
 [5]: https://www.linux.com/blog/14-tail-and-head-commands-linuxunix
-[6]: /images/articles/tail.webp "Linux and Unix tail command"
+[6]: /images/articles/tail.png "Linux and Unix tail command"

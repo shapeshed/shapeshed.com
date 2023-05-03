@@ -139,4 +139,4 @@ find ./ -type f -name "*.md" -exec grep 'foo'  {} \;
 [3]: http://www.folkstalk.com/2011/12/101-examples-of-using-find-command-in.html
 [4]:
   http://www.ling.ohio-state.edu/~kyoon/tts/unix-help/unix-find-command-examples.htm
-[5]: /images/articles/find.webp
+[5]: /images/articles/find.png

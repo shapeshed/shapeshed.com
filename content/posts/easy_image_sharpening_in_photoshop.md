@@ -33,7 +33,7 @@ Here's the before and after
 
 A simple tip but one I found I have already used over and over again.
 
-[1]: /images/articles/original_desk.webp "Original Image of Desk"
-[2]: /images/articles/high_pass_normal.webp "High Pass Original"
-[3]: /images/articles/high_pass_overlay.webp "Applying Overlay to the High Pass"
-[4]: /images/articles/high_pass_before_after.webp "High Pass Before and After"
+[1]: /images/articles/original_desk.jpg "Original Image of Desk"
+[2]: /images/articles/high_pass_normal.jpg "High Pass Original"
+[3]: /images/articles/high_pass_overlay.jpg "Applying Overlay to the High Pass"
+[4]: /images/articles/high_pass_before_after.jpg "High Pass Before and After"

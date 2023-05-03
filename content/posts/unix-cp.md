@@ -203,7 +203,7 @@ cp -R -v foo bar
 - [The cp command][5]
 
 [1]: http://linux.die.net/man/1/cp
-[2]: /images/articles/cp.webp "Linux and Unix cp command"
+[2]: /images/articles/cp.png "Linux and Unix cp command"
 [3]: https://en.wikipedia.org/wiki/Cp_(Unix)
 [4]: https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html
 [5]: http://linfo.org/cp.html

@@ -355,7 +355,7 @@ the post.
 [28]: http://haml-lang.com/
 [29]: http://expressjs.com/guide.html
 [30]: http://sass-lang.com/
-[31]: /images/articles/express_example.webp
+[31]: /images/articles/express_example.jpg
 [32]: http://www.nodejitsu.com/
 [33]: https://no.de/
 [34]: http://www.cloudfoundry.com/

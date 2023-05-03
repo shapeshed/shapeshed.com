@@ -92,7 +92,7 @@ Currently supported in Camino 1+, Firefox 1+, NOT IE. The code degrades
 gracefully so if it is not supported there will be no curves but it will still
 render. Check out [the example to see it in action.][4]
 
-[1]: /images/articles/curved_box.webp "Curved box in CSS"
-[2]: /images/articles/cutting_the_curve.webp "Cutting the curve in Photoshop"
+[1]: /images/articles/curved_box.png "Curved box in CSS"
+[2]: /images/articles/cutting_the_curve.png "Cutting the curve in Photoshop"
 [3]: /examples/curved-boxes-in-css
 [4]: /examples/curved-boxes-in-css#css3

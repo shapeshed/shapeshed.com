@@ -114,7 +114,7 @@ rtt min/avg/max/mdev = 1.371/1.413/1.456/0.056 ms
 - [Linux and Unix ping command][4]
 
 [1]: http://linux.die.net/man/8/ping
-[2]: /images/articles/ping.webp "Linux and Unix ping command"
+[2]: /images/articles/ping.png "Linux and Unix ping command"
 [3]:
   http://www.thegeekstuff.com/2009/11/ping-tutorial-13-effective-ping-command-examples/
 [4]: http://www.computerhope.com/unix/uping.htm

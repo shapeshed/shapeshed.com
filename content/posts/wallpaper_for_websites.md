@@ -83,7 +83,7 @@ inspiration
 Or you could just fire up Photoshop and start creating!
 
 [1]: /examples/wallpaper-for-websites/
-[2]: /images/articles/morris.webp
-[3]: /images/articles/Jasmine.webp
+[2]: /images/articles/morris.jpg
+[3]: /images/articles/Jasmine.jpg
 [4]: http://k10k.net/pixelpatterns/
 [5]: http://www.squidfingers.com/patterns/

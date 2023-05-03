@@ -74,5 +74,5 @@ This will remove the path you have selected.
   high contrast, a low value is good when the background is in poor contrast.
 
 [1]: /photoshop_101_the_marquee_tool/
-[2]: /images/articles/freehand_lasso.webp
-[3]: /images/articles/tracing_shape.webp
+[2]: /images/articles/freehand_lasso.jpg
+[3]: /images/articles/tracing_shape.jpg

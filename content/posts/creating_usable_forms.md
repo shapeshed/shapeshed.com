@@ -109,7 +109,7 @@ line.
 
 Leave a comment and join the form fun!
 
-[1]: /images/articles/forms_breathe.webp
+[1]: /images/articles/forms_breathe.png
 [2]: /images/articles/progress_bar.gif
 [3]: /examples/creating-usable-forms/
-[4]: /images/articles/warning_message.webp
+[4]: /images/articles/warning_message.png

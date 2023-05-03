@@ -35,4 +35,4 @@ module rumoured to be one of the main features.
 [2]: http://en.wikipedia.org/wiki/Auguste_Rodin
 [3]:
   http://expressionengine.com/blog/entry/160_preview_and_multiple_rick_manager_birthday_contest/
-[4]: /images/articles/rick.webp "Rick Ellis"
+[4]: /images/articles/rick.jpg "Rick Ellis"

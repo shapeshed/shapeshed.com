@@ -50,33 +50,25 @@ git user.
 Gitosis allows access using public keys so (assuming you are on OSX or Linux)
 you need to generate one if you don't have one
 
-```sh
-ssh-keygen -t rsa
-```
+    ssh-keygen -t rsa
 
 This generates a public key on your local machine that you'll find in
 ./.ssh/id_rsa.pub
 
 Then you need to copy this file to the remote server (where you installed
-gitosis). The gitosis documentation recommends copying it to the `/tmp` folder
-so lets do that. Replace 'myuser@7123.456.789.0' with your server details.
+gitosis). The gitosis documentation recommends copying it to the /tmp folder so
+lets do that. Replace 'myuser@7123.456.789.0' with your server details.
 
-```sh
-scp ~/.ssh/id_rsa.pub myuser@7123.456.789.0:~/tmp
-```
+    scp ~/.ssh/id_rsa.pub myuser@7123.456.789.0:~/tmp
 
 Once copied over on the remote machine import the key for the git user
 
-```sh
-sudo -H -u git gitosis-init < /tmp/id_rsa.pub
-```
+    sudo -H -u git gitosis-init < /tmp/id_rsa.pub
 
 Finally the documentation advises use to make sure the post-update hook is
 executable
 
-```sh
-sudo chmod 755 /home/git/repositories/gitosis-admin.git/hooks/post-update
-```
+    sudo chmod 755 /home/git/repositories/gitosis-admin.git/hooks/post-update
 
 ## Administration
 
@@ -84,9 +76,7 @@ So far we've set up gitosis, added a git user and added our public key to the
 git user. So now on our local machine we can clone the repository that defines
 access to other git repositories.
 
-```sh
-git clone git@YOUR_SERVER_HOSTNAME:gitosis-admin.git
-```
+    git clone git@YOUR_SERVER_HOSTNAME:gitosis-admin.git
 
 If everything has gone to plan this will pull down a git repository.
 
@@ -96,32 +86,29 @@ the gitosis.conf file defines what users can do. Simple.
 
 Your gitosis.conf file might look something like this
 
-```sh
-[gitosis]
+    [gitosis]
 
-[group gitosis-admin]
-writable = gitosis-admin
-members = george_ornbo an_other_developer
+    [group gitosis-admin]
+    writable = gitosis-admin
+    members = george_ornbo an_other_developer
 
-[group myproject]
-writable = myproject
-members = george_ornbo an_other_developer third_developer
-```
+    [group myproject]
+    writable = myproject
+    members = george_ornbo an_other_developer third_developer
 
 The first group defines who can edit the gitosis-admin repository. This means
 anyone in this group can grant access to repositories. The second group
 'myproject' defines who can acess the myproject repository. The members refers
 to the names of keys in the the 'keydir' directory. So 'george_ornbo.pub'
-becomes 'george_ornbo'. Repositories need to sit inside
-`/home/git/repositories`. You can change the home directory of the git user if
-you wish to something like /var/git/. This would mean repositories would sit in
-`/var/git/repositories`.
+becomes 'george_ornbo'. Repositories need to sit inside /home/git/repositories.
+You can change the home directory of the git user if you wish to something like
+/var/git/. This would mean repositories would sit in /var/git/repositories.
 
 So now if a new developer comes on board we can just add the key to the 'keydir'
 directory, update the group members, push the git repository and it is done.
 
 In the above example the 'myproject' repo would be available at
-`git@YOUR_SERVER_HOSTNAME:myproject.git`.
+git@YOUR_SERVER_HOSTNAME:myproject.git
 
 ## Limited documentation
 
@@ -137,19 +124,15 @@ is working really well for me. Highly recommended!
 
 ## Solution 3
 
-Edit `.git/config` and add:
+Edit .git/config and add:
 
-```sh
 sharedRepository = group
-```
 
 or
 
-```sh
 sharedRepository = 0660
-```
 
-to `[core]`
+to [core]
 
 as mentioned in https://www.kernel.org/pub/software/scm/git/docs/git-config.html
 

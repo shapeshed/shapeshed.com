@@ -173,4 +173,4 @@ cat -T tabs.txt
 [3]: http://www.linfo.org/cat.html
 [4]: http://www.tecmint.com/13-basic-cat-command-examples-in-linux/
 [5]: http://www.tldp.org/LDP/abs/html/io-redirection.html
-[6]: /images/articles/cat.webp
+[6]: /images/articles/cat.png

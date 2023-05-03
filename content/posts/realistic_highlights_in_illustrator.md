@@ -56,8 +56,8 @@ are other ways to do it but for now I like this one.
 
 ![Police Siren][1]
 
-[1]: /images/articles/police-light.webp
-[2]: /images/articles/highlight_path.webp
-[3]: /images/articles/siren_gradient.webp
-[4]: /images/articles/siren_gradient_options.webp
-[5]: /images/articles/siren_clipping_mask.webp
+[1]: /images/articles/police-light.png
+[2]: /images/articles/highlight_path.jpg
+[3]: /images/articles/siren_gradient.jpg
+[4]: /images/articles/siren_gradient_options.jpg
+[5]: /images/articles/siren_clipping_mask.jpg

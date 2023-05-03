@@ -84,5 +84,5 @@ I find there are many benefits to using this method:
 - I have always found large CSS files are difficult to wade through. Using this
   method solves the problem for colour at least.
 
-[1]: /images/articles/color_scheme.webp
+[1]: /images/articles/color_scheme.png
 [2]: http://httpd.apache.org/docs/1.3/howto/htaccess.html

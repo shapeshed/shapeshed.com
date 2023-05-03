@@ -73,7 +73,7 @@ provide a sustainable model for the economics of creating an online system.
 It seems odd to me that this situation exists. I just hope by the next time I
 move things have improved.
 
-[1]: /images/articles/identity.webp
-[2]: /images/articles/indentity_new.webp
+[1]: /images/articles/identity.png
+[2]: /images/articles/indentity_new.png
 [3]: http://simonwillison.net/
 [4]: http://openid.net/

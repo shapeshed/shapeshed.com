@@ -147,10 +147,10 @@ Vim a massive ringing endorsement.
 [14]:
   http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
 [15]: https://vimeo.com/user1690209/videos
-[16]: /images/articles/vim_screenshot.webp
+[16]: /images/articles/vim_screenshot.png
 [17]: https://github.com/mxcl/homebrew
 [18]: https://github.com/mislav/dotfiles
-[19]: /images/articles/lowercase_vim_help.webp
-[20]: /images/articles/express_screenshot.webp
+[19]: /images/articles/lowercase_vim_help.png
+[20]: /images/articles/express_screenshot.png
 [21]: https://github.com/carlhuda/janus
 [22]: http://www.fatcow.com/edu/eighteen-months-bg/

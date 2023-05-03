@@ -120,7 +120,7 @@ Mo Tu We Th Fr Sa Su  Mo Tu We Th Fr Sa Su  Mo Tu We Th Fr Sa Su
 - [Calendar (cal) on Linux command line][5]
 
 [1]: https://linux.die.net/man/1/cal
-[2]: /images/articles/cal.webp "Linux and Unix cal command"
+[2]: /images/articles/cal.png "Linux and Unix cal command"
 [3]: https://en.wikipedia.org/wiki/Cal_(Unix)
 [4]:
   http://www.csd.uwo.ca/~magi/personal/humour/Computer_Audience/'cal%209%201752'%20explained.html

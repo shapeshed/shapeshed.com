@@ -70,9 +70,9 @@ I've removed my selection by hitting CTRL + X
 
 ![Using the Magic Wand to Remove the Background][4]
 
-[1]: /images/articles/magic_wand_optoins.webp "Magic Wand Settings"
-[2]: /images/articles/wand_first_selection.webp "Magic Wand Selection"
-[3]: /images/articles/wand_final_selection.webp "Magic Wand Final Selection"
+[1]: /images/articles/magic_wand_optoins.jpg "Magic Wand Settings"
+[2]: /images/articles/wand_first_selection.jpg "Magic Wand Selection"
+[3]: /images/articles/wand_final_selection.jpg "Magic Wand Final Selection"
 [4]:
   /images/articles/wand_no_background.jpg
   "Using the Magic Wand to Remove the Background"

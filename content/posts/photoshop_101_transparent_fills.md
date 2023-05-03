@@ -46,7 +46,7 @@ transparent fills!
 
 ![Transparent overlaps][1]
 
-[1]: /images/articles/transparent_overlaps.webp
-[2]: /images/articles/photoshop_blending_options.webp
-[3]: /images/articles/layer_style.webp
-[4]: /images/articles/opacity_fill.webp
+[1]: /images/articles/transparent_overlaps.png
+[2]: /images/articles/photoshop_blending_options.jpg
+[3]: /images/articles/layer_style.jpg
+[4]: /images/articles/opacity_fill.jpg

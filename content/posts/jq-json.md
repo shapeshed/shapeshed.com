@@ -227,4 +227,4 @@ however you want to. For more run `man jq`.
 [3]: http://blog.librato.com/posts/jq-json
 [4]: http://www.compciv.org/recipes/cli/jq-for-parsing-json/
 [5]: https://stedolan.github.io/jq/manual/
-[6]: /images/articles/jq.webp
+[6]: /images/articles/jq.png

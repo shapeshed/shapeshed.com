@@ -81,7 +81,7 @@ Since learning about Smart Filters I have used them heavily to improve my
 workflow and to accomodate changes from clients more efficiently. If you don't
 use them already I strongly suggest you do!
 
-[1]: /images/articles/search_icon.webp
-[2]: /images/articles/convert_to_smart.webp
-[3]: /images/articles/edit_smart_object.webp
-[4]: /images/articles/completed_edit.webp
+[1]: /images/articles/search_icon.jpg
+[2]: /images/articles/convert_to_smart.jpg
+[3]: /images/articles/edit_smart_object.jpg
+[4]: /images/articles/completed_edit.jpg

@@ -62,7 +62,7 @@ Up to you which way round you do it!
 [1]: http://www.google.com/calendar
 [2]: https://www.google.com/accounts/NewAccount
 [3]: http://www.icalx.com/
-[4]: /images/articles/icalx.webp
-[5]: /images/articles/ical_publish.webp
-[6]: /images/articles/auto_publish.webp
-[7]: /images/articles/manage_calendars.webp
+[4]: /images/articles/icalx.jpg
+[5]: /images/articles/ical_publish.jpg
+[6]: /images/articles/auto_publish.jpg
+[7]: /images/articles/manage_calendars.jpg

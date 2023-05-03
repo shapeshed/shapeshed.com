@@ -78,7 +78,7 @@ stream live data from a third party API to a page. I'm excited about what people
 are going to make with these libraries!
 
 [1]: http://nodejs.org
-[2]: /images/articles/counter.webp
+[2]: /images/articles/counter.jpg
 [3]: http://socket.io/
 [4]: http://expressjs.com/
 [5]: /creating-a-basic-site-with-node-and-express/

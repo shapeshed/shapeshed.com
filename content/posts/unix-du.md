@@ -122,7 +122,7 @@ du -a / | sort -n -r | head -n 10
 - [How to use the du command][5]
 
 [1]: http://linux.die.net/man/1/du
-[2]: /images/articles/du.webp "Linux and Unix du command"
+[2]: /images/articles/du.png "Linux and Unix du command"
 [3]: https://en.wikipedia.org/wiki/Du_(Unix)
 [4]: http://www.thegeekstuff.com/2012/06/du-command-examples
 [5]: http://www.linfo.org/du.html

@@ -212,7 +212,7 @@ wpa_supplicant -B -i wlp3s0b1 -c /etc/wpa_supplicant/example.conf
 - [wpa_supplicant Wikipedia page][4]
 
 [1]: http://linux.die.net/man/8/wpa_supplicant
-[2]: /images/articles/wpa_supplicant.webp "Linux wpa_supplicant command"
+[2]: /images/articles/wpa_supplicant.png "Linux wpa_supplicant command"
 [3]: http://linux.die.net/man/8/ip
 [4]: https://wiki.archlinux.org/index.php/WPA_supplicant
 [5]: https://en.wikipedia.org/wiki/Wpa_supplicant

@@ -70,6 +70,6 @@ Watch the whole process in the video below
 
 <iframe src="https://player.vimeo.com/video/33020843?title=0&amp;byline=0&amp;portrait=0" width="400" height="279" allowFullScreen></iframe>
 
-[1]: /images/articles/heart_shape.webp
-[2]: /images/articles/left_heart.webp
-[3]: /images/articles/reflection_target.webp
+[1]: /images/articles/heart_shape.png
+[2]: /images/articles/left_heart.png
+[3]: /images/articles/reflection_target.png

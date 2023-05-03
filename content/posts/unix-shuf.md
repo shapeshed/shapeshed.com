@@ -83,7 +83,7 @@ Bea make the tea!
 - [Linux shuf command - generate random permutations][3]
 - [Shuffle speed comparison][4]
 
-[1]: /images/articles/shuf.webp "Linux and Unix shuf command"
+[1]: /images/articles/shuf.png "Linux and Unix shuf command"
 [2]: http://linux.die.net/man/1/shuf
 [3]: http://www.unixcl.com/2009/10/linux-shuf-command-generate-random.html
 [4]:

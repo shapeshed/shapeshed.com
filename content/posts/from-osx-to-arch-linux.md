@@ -170,7 +170,7 @@ as possible. Arch and dwm is exactly what I was looking for.
 [18]: http://openbox.org/
 [19]: http://awesome.naquadah.org/
 [20]: http://i3wm.org/
-[21]: /images/articles/i3-9.bigthumb.webp
+[21]: /images/articles/i3-9.bigthumb.png
 [22]: http://suckless.org/
 [23]: http://st.suckless.org/
 [24]: http://www.chromium.org/Home

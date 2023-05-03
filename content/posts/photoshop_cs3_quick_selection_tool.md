@@ -50,7 +50,7 @@ Of course you could also use the Color Replacement Tool but I like this way!
 
 [1]: http://www.flickr.com/photos/stevewilde/189604745/
 [2]: http://www.flickr.com/photos/stevewilde/
-[3]: /images/articles/doors_original.webp
-[4]: /images/articles/quick_select.webp
-[5]: /images/articles/adjustment_layer.webp
-[6]: /images/articles/doors_final.webp
+[3]: /images/articles/doors_original.jpg
+[4]: /images/articles/quick_select.jpg
+[5]: /images/articles/adjustment_layer.jpg
+[6]: /images/articles/doors_final.jpg

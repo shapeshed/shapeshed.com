@@ -121,8 +121,8 @@ The final option is Show Transform Controls. This is the same as hitting Apple +
 T (CTRL + T on Windows) and allows you to reshape your selection by dragging one
 of the 8 selection points.
 
-[1]: /images/articles/move_tool_copy.webp
-[2]: /images/articles/align_example.webp
-[3]: /images/articles/select_layers.webp
-[4]: /images/articles/move_tool_options.webp
-[5]: /images/articles/align_top.webp
+[1]: /images/articles/move_tool_copy.jpg
+[2]: /images/articles/align_example.png
+[3]: /images/articles/select_layers.png
+[4]: /images/articles/move_tool_options.png
+[5]: /images/articles/align_top.png

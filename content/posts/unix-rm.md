@@ -233,10 +233,10 @@ out and smash it to smithereens. Wooo destruction!
 - [Linux and Unix find alias tutorial with examples][4]
 
 [1]: http://linux.die.net/man/1/rm
-[2]: /images/articles/rm.webp "Linux and Unix rm command"
+[2]: /images/articles/rm.png "Linux and Unix rm command"
 [3]: https://shapeshed.com/unix-shell-aliases/
 [4]: https://shapeshed.com/unix-find/
-[5]: /images/articles/smashed-up-hard-drive.webp "A destroyed hard drive"
+[5]: /images/articles/smashed-up-hard-drive.jpg "A destroyed hard drive"
 [6]:
   http://unix.stackexchange.com/questions/10883/where-do-files-go-when-the-rm-command-is-issued
 [7]: https://en.wikipedia.org/wiki/Rm_(Unix)

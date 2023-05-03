@@ -105,4 +105,4 @@ to have been associated with it.
 [6]: https://en.wikipedia.org/wiki/Mindfulness
 [7]: https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy
 [8]: http://pebblecode.com
-[9]: /images/articles/pebble-logo.webp
+[9]: /images/articles/pebble-logo.png

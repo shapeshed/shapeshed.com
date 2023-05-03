@@ -119,7 +119,7 @@ cd: no such file or directory mydrive
 - [The ln command][5]
 
 [1]: http://linux.die.net/man/1/ln
-[2]: /images/articles/ln.webp "Linux and Unix ln command"
+[2]: /images/articles/ln.png "Linux and Unix ln command"
 [3]: https://en.wikipedia.org/wiki/Ln_(Unix)
 [4]: http://www.computerhope.com/unix/uln.htm
 [5]: http://linfo.org/ln.html

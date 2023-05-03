@@ -82,7 +82,7 @@ Explorer - [The Web Accessibility Toolbar][15].
 Now you have a development and testing environment we will move onto writing
 code in [Part 2][16] of How to Write Good XHTML and CSS
 
-[1]: /images/articles/bbedit.webp
+[1]: /images/articles/bbedit.png
 [2]: http://www.barebones.com/products/bbedit/
 [3]: http://www.adobe.com/products/homesite/
 [4]: http://www.pspad.com/

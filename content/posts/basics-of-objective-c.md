@@ -90,7 +90,7 @@ practice code.
 [1]:
   http://www.stanford.edu/class/cs193p/cgi-bin/drupal/system/files/assignments/Assignment1B_0.pdf
 [2]: http://en.wikipedia.org/wiki/NeXTSTEP
-[3]: /images/articles/creating_a_foundation_command_line_tool.webp
+[3]: /images/articles/creating_a_foundation_command_line_tool.jpg
 [4]:
   http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html
 [5]:
@@ -109,5 +109,5 @@ practice code.
   http://developer.apple.com/mac/library/documentation/cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html#//apple_ref/occ/intfm/NSObject/respondsToSelector:
 [12]:
   http://developer.apple.com/mac/library/documentation/cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html#//apple_ref/occ/intfm/NSObject/conformsToProtocol:
-[13]: /images/articles/xcode_console.webp
+[13]: /images/articles/xcode_console.png
 [14]: http://github.com/shapeshed/StanfordExamples

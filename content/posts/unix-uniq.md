@@ -192,4 +192,4 @@ uniq -f 2 -c cricketers.txt | sed 's/^\s*//' | cut -d ' ' -f 1,4
 [2]: http://www.thegeekstuff.com/2013/05/uniq-command-examples
 [3]: http://www.computerhope.com/unix/uuniq.htm
 [4]: /unix-sort/
-[5]: /images/articles/uniq.webp
+[5]: /images/articles/uniq.png

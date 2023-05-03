@@ -137,7 +137,7 @@ computer out of the window.
 [5]: http://validator.w3.org/
 [6]: http://jigsaw.w3.org/css-validator/
 [7]: /photoshop_101_the_marquee_tool/
-[8]: /images/articles/checking_layouts.webp
+[8]: /images/articles/checking_layouts.png
 [9]: http://www.w3.org/TR/xhtml1/
 [10]: http://www.w3.org/TR/REC-CSS2/
 [11]: http://www.w3.org/TR/WAI-WEBCONTENT/

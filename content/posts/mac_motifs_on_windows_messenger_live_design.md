@@ -15,5 +15,5 @@ Mac motifs is more proof that Apple got it right a long time ago!
 
 [Windows Messenger Live][2]
 
-[1]: /images/articles/mac.webp
+[1]: /images/articles/mac.png
 [2]: http://windows.microsoft.com/en-us/messenger/home

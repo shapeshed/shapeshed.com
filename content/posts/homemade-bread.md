@@ -106,12 +106,12 @@ seeing something in front of you that you made with your hands.
 
 ![Sliced][7]
 
-[1]: /images/articles/ingredients.webp
-[2]: /images/articles/mixed_in_bowl.webp
-[3]: /images/articles/proved.webp
-[4]: /images/articles/second_proving.webp
-[5]: /images/articles/scored.webp
-[6]: /images/articles/baked.webp
-[7]: /images/articles/sliced.webp
-[8]: /images/articles/combined_ingredients.webp
+[1]: /images/articles/ingredients.jpg
+[2]: /images/articles/mixed_in_bowl.jpg
+[3]: /images/articles/proved.jpg
+[4]: /images/articles/second_proving.jpg
+[5]: /images/articles/scored.jpg
+[6]: /images/articles/baked.jpg
+[7]: /images/articles/sliced.jpg
+[8]: /images/articles/combined_ingredients.jpg
 [9]: http://www.bbc.co.uk/food/recipes/paul_hollywoods_crusty_83536

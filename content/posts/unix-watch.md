@@ -98,7 +98,7 @@ watch "ps aux | sort -nrk 3,3 | head -n 5"
 - [How to use the watch command][3]
 
 [1]: https://linux.die.net/man/1/watch
-[2]: /images/articles/watch.webp "Linux and Unix watch command"
+[2]: /images/articles/watch.png "Linux and Unix watch command"
 [3]: http://www.linfo.org/watch.html
 [4]: https://shapeshed.com/unix-ps/
 [5]: https://shapeshed.com/unix-sort/

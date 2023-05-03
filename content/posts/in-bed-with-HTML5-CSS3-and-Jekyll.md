@@ -116,4 +116,4 @@ My first ever talk is next week at the
 <a href="http://www.meetup.com/londoneers/calendar/11667855/">London
 ExpressionEngine Meetup</a>. Come along!
 
-[1]: /images/articles/border_radius_comparison.webp
+[1]: /images/articles/border_radius_comparison.png

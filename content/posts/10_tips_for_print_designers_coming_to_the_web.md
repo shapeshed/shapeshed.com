@@ -108,14 +108,14 @@ Website the Right Way][14].
 
 [![image][16]][16]
 
-[1]: /images/articles/pixels.webp "Pixels"
+[1]: /images/articles/pixels.png "Pixels"
 [2]: http://www.bbc.co.uk/
 [3]: http://www.slashdot.com/
 [4]: http://joshuaink.com/blog/282
 [5]: http://alistapart.com/articles/elastic/
 [6]: http://www.codestyle.org/css/font-family/sampler-WindowsResults.shtml
 [7]: http://www.codestyle.org/css/font-family/sampler-MacResults.shtml
-[8]: /images/articles/web_safe_colours.webp "Web safe colours"
+[8]: /images/articles/web_safe_colours.png "Web safe colours"
 [9]: http://www.stylegala.com/
 [10]: http://www.netdiver.net/
 [11]: http://www.cssdrive.com/

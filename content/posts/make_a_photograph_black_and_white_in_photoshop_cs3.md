@@ -44,7 +44,7 @@ to black and white. No more!
 
 [1]: http://www.flickr.com/photos/steffe/462926489/
 [2]: http://www.flickr.com/photos/steffe/
-[3]: /images/articles/tree_colour.webp
-[4]: /images/articles/create_new_fill.webp
-[5]: /images/articles/black_white_options.webp
-[6]: /images/articles/tree_bw.webp
+[3]: /images/articles/tree_colour.jpg
+[4]: /images/articles/create_new_fill.jpg
+[5]: /images/articles/black_white_options.jpg
+[6]: /images/articles/tree_bw.jpg

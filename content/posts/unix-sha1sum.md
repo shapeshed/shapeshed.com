@@ -98,7 +98,7 @@ same so when a hashing algorithm changes it is a drop-in replacement.
 - [GNU Coreutils: sha1sum invocation][8]
 
 [1]: https://linux.die.net/man/1/sha1sum
-[2]: /images/articles/sha1sum.webp "Linux and Unix sha1sum command"
+[2]: /images/articles/sha1sum.png "Linux and Unix sha1sum command"
 [3]: https://en.wikipedia.org/wiki/SHA-1
 [4]: https://www.schneier.com/blog/archives/2005/02/cryptanalysis_o.html
 [5]:

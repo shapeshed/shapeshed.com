@@ -76,8 +76,8 @@ hinder the accessibility and search engine optimisation of your site.
 
 ![The Finished Image][5]
 
-[1]: /images/articles/original_file.webp
-[2]: /images/articles/adding_text.webp
-[3]: /images/articles/breaking_the_box.webp
-[4]: /images/articles/yourimage.webp
-[5]: /images/articles/final_graphic_text.webp
+[1]: /images/articles/original_file.jpg
+[2]: /images/articles/adding_text.jpg
+[3]: /images/articles/breaking_the_box.jpg
+[4]: /images/articles/yourimage.jpg
+[5]: /images/articles/final_graphic_text.jpg

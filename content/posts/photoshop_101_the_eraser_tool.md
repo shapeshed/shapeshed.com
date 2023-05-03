@@ -66,10 +66,10 @@ me to replace it with something else.
 ![Magic Eraser Tool][8]
 
 [1]: /photoshop_101_the_brush_tool/
-[2]: /images/articles/eraser_optoins.webp "Eraser image options"
+[2]: /images/articles/eraser_optoins.jpg "Eraser image options"
 [3]: /photoshop_101_the_history_brush_tool/
 [4]: /photoshop_101_the_healing_brush_tool/
 [5]: /photoshop_101_the_magic_wand_tool/
 [6]: http://www.flickr.com/photos/mlpdesign/
 [7]: http://www.flickr.com
-[8]: /images/articles/magic_eraser_tool.webp "Magic Eraser Tool"
+[8]: /images/articles/magic_eraser_tool.jpg "Magic Eraser Tool"

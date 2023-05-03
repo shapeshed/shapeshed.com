@@ -190,7 +190,7 @@ bar.txt  bar.txt.bak
 - [mv (rename) files][5]
 
 [1]: http://linux.die.net/man/1/mv
-[2]: /images/articles/mv.webp "Linux and Unix mv command"
+[2]: /images/articles/mv.png "Linux and Unix mv command"
 [3]: https://en.wikipedia.org/wiki/Mv
 [4]: http://linfo.org/mv.html
 [5]: https://www.gnu.org/software/coreutils/manual/coreutils.html#mv-invocation

@@ -41,7 +41,7 @@ flower, drag it into the swatches and then quickly fill the t-shirt. Easy.
 
 ![Flower power t-shirt][4]
 
-[1]: /images/articles/t-shirt_one.webp
-[2]: /images/articles/add_pattern_swatch.webp
-[3]: /images/articles/t_shirt_two.webp
-[4]: /images/articles/t_shirt_three.webp
+[1]: /images/articles/t-shirt_one.png
+[2]: /images/articles/add_pattern_swatch.jpg
+[3]: /images/articles/t_shirt_two.png
+[4]: /images/articles/t_shirt_three.png

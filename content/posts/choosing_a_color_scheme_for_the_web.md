@@ -56,8 +56,8 @@ Instead of scribbling the colours on a piece of paper you now have them in a
 swatch that you can refer to at any point. Clicking a colour in the swatch makes
 it the primary colour so it should make things much easier!
 
-[1]: /images/articles/kuler_home.webp
+[1]: /images/articles/kuler_home.jpg
 [2]: http://kuler.adobe.com/
 [3]: /journal/why_use_web_safe_colours/
-[4]: /images/articles/download.webp
-[5]: /images/articles/fly_out.webp
+[4]: /images/articles/download.jpg
+[5]: /images/articles/fly_out.jpg

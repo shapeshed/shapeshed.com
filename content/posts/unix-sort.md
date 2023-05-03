@@ -287,6 +287,6 @@ sort -k 3 -t , -n -r  cheese.csv
 [4]: https://en.wikipedia.org/wiki/Sort_(Unix)
 [5]: http://www.theunixschool.com/2012/08/linux-sort-command-examples.html
 [6]: http://alvinalexander.com/unix/edu/examples/sort.shtml
-[7]: /images/articles/sort.webp "Linux and Unix sort command"
+[7]: /images/articles/sort.png "Linux and Unix sort command"
 [8]: https://www.ibidemgroup.com/edu/tutorial-sort-linux-unix/
 [9]: https://www.ibidemgroup.com/

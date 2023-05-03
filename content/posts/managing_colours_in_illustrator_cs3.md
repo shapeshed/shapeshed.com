@@ -58,8 +58,8 @@ Labs > Kuler. You can browse Swatches from inside Illustrator.
 The colour creation and management tools are a powerful addition to Illustrator
 CS3 and are certainly worth learning about and using.
 
-[1]: /images/articles/colour_guide.webp
-[2]: /images/articles/live_color_edit.webp
-[3]: /images/articles/adding_to_swatch.webp
+[1]: /images/articles/colour_guide.jpg
+[2]: /images/articles/live_color_edit.jpg
+[3]: /images/articles/adding_to_swatch.jpg
 [4]: http://kuler.adobe.com/
-[5]: /images/articles/adobe_labs.webp
+[5]: /images/articles/adobe_labs.jpg

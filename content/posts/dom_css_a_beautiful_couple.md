@@ -106,5 +106,5 @@ including XML and Javascript. So all together... ahhhh what a beautiful couple.
 I'm off for a beer.
 
 [1]: http://www.w3.org/TR/DOM-Level-2-Core/introduction.html
-[2]: /images/articles/dom_tree.webp
+[2]: /images/articles/dom_tree.png
 [3]: /examples/css-dom/

@@ -98,5 +98,5 @@ experiment with exploring more of what Kubernetes can do.
 [5]: https://aur.archlinux.org/packages/minikube/
 [6]: https://github.com/kubernetes/minikube/blob/master/README.md
 [7]: https://kubernetes.io/docs/
-[8]: /images/articles/kubernetes-dashboard.webp "Kubernetes dashboard"
-[9]: /images/articles/hello-go.webp "Hello Go web server"
+[8]: /images/articles/kubernetes-dashboard.png "Kubernetes dashboard"
+[9]: /images/articles/hello-go.png "Hello Go web server"

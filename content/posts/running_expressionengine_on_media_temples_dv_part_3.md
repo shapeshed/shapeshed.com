@@ -87,8 +87,8 @@ not serve you very well for running responsive websites using ExpressionEngine.
 [3]: http://www.getfirebug.com/
 [4]: http://developer.yahoo.com/yslow/
 [5]: https://addons.mozilla.org/en-US/firefox/addon/60
-[6]: /images/articles/document_size.webp
-[7]: /images/articles/firebug_load_time.webp
+[6]: /images/articles/document_size.jpg
+[7]: /images/articles/firebug_load_time.jpg
 [8]: http://uk.video.yahoo.com/video/play?vid=1040890&fr=
 [9]: /running_expressionengine_on_media_temples_dv_part_1/
 [10]: /running_expressionengine_on_media_temples_dv_part_2/

@@ -57,9 +57,9 @@ Increasingly I'm feeling that stripping a site back to its bare bones can help
 to understand the product better and can inform the full web version and
 sometimes even usurp it.
 
-[1]: /images/articles/bbc.webp
-[2]: /images/articles/cnn.webp
-[3]: /images/articles/pownce.webp
-[4]: /images/articles/flickr.webp
-[5]: /images/articles/twitter.webp
+[1]: /images/articles/bbc.jpg
+[2]: /images/articles/cnn.jpg
+[3]: /images/articles/pownce.jpg
+[4]: /images/articles/flickr.jpg
+[5]: /images/articles/twitter.jpg
 [6]: http://m.twitter.com/

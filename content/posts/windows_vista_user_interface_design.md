@@ -32,9 +32,9 @@ mimicked their closest rival a little too closely for comfort?
 
 ![Vista Aqua][6]
 
-[1]: /images/articles/expwinvista_highlight_aero.webp
+[1]: /images/articles/expwinvista_highlight_aero.png
 [2]: http://www.microsoft.com/windowsvista/experiences/aero.mspx
-[3]: /images/articles/AeroMint.webp
+[3]: /images/articles/AeroMint.jpg
 [4]: /journal/mac_motifs_on_windows_messenger_live_design/
 [5]: http://www.apple.com/macosx/overview/aquauserinterface.html
-[6]: /images/articles/vista_aqua.webp
+[6]: /images/articles/vista_aqua.jpg

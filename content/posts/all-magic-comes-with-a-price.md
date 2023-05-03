@@ -142,8 +142,8 @@ of my head.
 [5]: http://www.imdb.com/name/nm0001015/
 [6]: http://beta.abc.go.com/shows/once-upon-a-time
 [7]: https://github.com/mikeal/request
-[8]: /images/articles/rumpelstiltskin.webp
-[9]: /images/articles/rails_middleware.webp
+[8]: /images/articles/rumpelstiltskin.jpg
+[9]: /images/articles/rails_middleware.png
 [10]: http://expressjs.com/
 [11]: http://geddyjs.org/
 [12]: https://github.com/mikeal/tako

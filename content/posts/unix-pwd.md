@@ -111,7 +111,7 @@ may not be there. If you are really paranoid use `CWD=$(pwd)` but in most cases
 - [HowTo: Use pwd Command In Linux / UNIX][6]
 
 [1]: http://linux.die.net/man/1/pwd
-[2]: /images/articles/pwd.webp "Linux and Unix pwd command"
+[2]: /images/articles/pwd.png "Linux and Unix pwd command"
 [3]: https://en.wikipedia.org/wiki/Pwd
 [4]: https://en.wikipedia.org/wiki/Shell_builtin
 [5]:

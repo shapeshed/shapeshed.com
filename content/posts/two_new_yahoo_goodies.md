@@ -61,9 +61,9 @@ yet or haven't visited for a while have a look at the [3.x preview][4].
 [2]: http://code.google.com/
 [3]: https://en.wikipedia.org/wiki/Fire_Eagle
 [4]: https://en.wikipedia.org/wiki/YUI_Library
-[5]: /images/articles/fireeagle.webp
+[5]: /images/articles/fireeagle.png
 [6]: http://oauth.net/
-[7]: /images/articles/yui.webp
+[7]: /images/articles/yui.png
 [8]: https://en.wikipedia.org/wiki/YUI_Library
 [9]: https://en.wikipedia.org/wiki/YUI_Library
 [10]: https://en.wikipedia.org/wiki/YUI_Library

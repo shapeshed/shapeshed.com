@@ -64,8 +64,8 @@ has its roots in tessellation. It works very well for screens of all dimensions
 and shows how fluid designs can use tessellation to great effect.
 
 [1]: /images/articles/escher05.jpeg
-[2]: /images/articles/22345-large.webp
+[2]: /images/articles/22345-large.jpg
 [3]: http://www.w3schools.com/css/css_background.asp
 [4]: http://www.google.com/ig
-[5]: /images/articles/header_tile.webp
-[6]: /images/articles/header_bg.webp
+[5]: /images/articles/header_tile.jpg
+[6]: /images/articles/header_bg.jpg

@@ -37,7 +37,7 @@ from a standard solid fill.
 
 ![Final Background][4]
 
-[1]: /images/articles/background_pattern.webp
-[2]: /images/articles/background_layer_style.webp
-[3]: /images/articles/background_layer_gradient.webp
-[4]: /images/articles/background_example.webp
+[1]: /images/articles/background_pattern.jpg
+[2]: /images/articles/background_layer_style.png
+[3]: /images/articles/background_layer_gradient.png
+[4]: /images/articles/background_example.png

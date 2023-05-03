@@ -35,8 +35,8 @@ world.
 [2]: http://www.howtocreate.co.uk/browserSpeed.html#macspeed
 [3]: http://www.caminobrowser.org
 [4]: http://www.opera.com/
-[5]: /images/articles/camino.webp
+[5]: /images/articles/camino.jpg
 [6]: http://www.mozilla.com/firefox
 [7]: http://www.microsoft.com/windows/ie
 [8]: http://pimpmysafari.com
-[9]: /images/articles/safari.webp
+[9]: /images/articles/safari.jpg

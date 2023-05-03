@@ -68,8 +68,8 @@ though.
 
 ![I'm bored][5]
 
-[1]: /images/articles/ridiculous.webp
+[1]: /images/articles/ridiculous.png
 [2]: http://www.basecamphq.com/
 [3]: http://www.flickr.com/
-[4]: /images/articles/alpha.webp
-[5]: /images/articles/bored.webp
+[4]: /images/articles/alpha.png
+[5]: /images/articles/bored.png

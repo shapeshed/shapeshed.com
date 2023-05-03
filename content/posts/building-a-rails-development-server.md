@@ -164,7 +164,7 @@ If you are not interested in doing any sys admin work use [Heroku][12],
 
 If you are rolling your own servers and using Apache switch to Nginx!
 
-[1]: /images/articles/nginx_proxy_diagram.webp
+[1]: /images/articles/nginx_proxy_diagram.png
 [2]: http://pebblecode.com/
 [3]: http://www.apache.org/
 [4]: http://www.modrails.com/

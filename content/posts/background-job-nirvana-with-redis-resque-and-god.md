@@ -94,5 +94,5 @@ open source libraries!
 [6]: http://github.com/mxcl/homebrew
 [7]: http://code.google.com/p/redis/
 [8]: http://github.com/defunkt/resque/blob/master/README.markdown
-[9]: /images/articles/resque_workers.webp
+[9]: /images/articles/resque_workers.png
 [10]: http://github.com

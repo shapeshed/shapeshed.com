@@ -128,7 +128,7 @@ Orange
 - [comm - The beautiful comparison][4]
 - [comm Wikipedia page][5]
 
-[1]: /images/articles/comm.webp
+[1]: /images/articles/comm.png
 [2]: http://linux.die.net/man/1/comm
 [3]: /unix-sort/
 [4]: http://www.theunixschool.com/2011/03/comm-beautiful-comparison.html
