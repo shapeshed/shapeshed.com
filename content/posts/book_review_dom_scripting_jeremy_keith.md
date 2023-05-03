@@ -13,7 +13,6 @@ title = "Book Review : DOM Scripting - Jeremy Keith"
 [Buy from Amazon](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1590595335)
 
 ![Five out of Five](/images/books/five_stars.gif "Five out of Five")
-<span class="rating">5</span>
 
 I was lucky enough to get a foot in the door at a web agency around four years
 ago. It was there that I learnt about Web Standards, Accessibility and most of

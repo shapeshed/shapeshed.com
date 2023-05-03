@@ -33,10 +33,11 @@ The image below contains a blemish on the spine of the green book. To correct it
 select the Healing Brush Tool. If you are using keyboard shortcuts hit J to
 select the tool.
 
-![Book image with a blemish][3] You will need to select an appropriate brush
-size. Beware that the Healing Brush Tool spreads by around 10 pixels. In this
-example I chose a small brush so that the two books either side of the green one
-were not selected.
+![Book image with a blemish][3]
+
+You will need to select an appropriate brush size. Beware that the Healing Brush
+Tool spreads by around 10 pixels. In this example I chose a small brush so that
+the two books either side of the green one were not selected.
 
 Find an area of the picture that is similar to the blemished area and then hold
 down alt. You will see the icon change to a target. Click the mouse to define

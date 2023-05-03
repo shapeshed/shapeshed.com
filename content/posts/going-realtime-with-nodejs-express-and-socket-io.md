@@ -14,9 +14,7 @@ simple but could easily be extended to a range of applications.
 
 ## Just show me the app
 
-[![Simple counter][2]][11]
-
-<http://counter.nodester.com>
+![Simple counter][2]
 
 ## Pulling the pieces together
 
@@ -87,4 +85,3 @@ are going to make with these libraries!
 [8]: http://redis.io/
 [9]: http://munin-monitoring.org/
 [10]: https://github.com/shapeshed/counter
-[11]: http://counter.nodester.com

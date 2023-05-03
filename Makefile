@@ -36,4 +36,4 @@ deploy:
 	@rsync -azz -e "ssh" --delete ./public/ finney.shapeshed.com:/srv/http/shapeshed.com
 
 validate:
-	@html5validator --ignore --ignore-re "public/examples*|public/google*|public/y_key*|public/images/articles/index.html" --root public
+	@html5validator --ignore --ignore-re "loading|public/examples*|public/google*|public/y_key*|public/images/articles/index.html" --root public

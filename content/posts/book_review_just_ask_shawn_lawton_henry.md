@@ -13,7 +13,6 @@ title = "Book Review: Just Ask - Shawn Lawton Henry"
 [Buy from Amazon](http://www.amazon.com/Just-Ask-Integrating-Accessibility-Throughout/dp/1430319526)
 
 ![Three out of Five](/images/books/three_stars.gif "Three out of Five")
-<span class="rating">3</span>
 
 This review is based on the
 [free online version](http://www.uiaccess.com/accessucd/) of Just Ask

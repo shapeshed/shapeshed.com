@@ -1,15 +1,15 @@
 +++
 date = "2009-08-14T00:00:00+01:00"
-description = "I've been creating more and more code examples and increasingly using GitHub for sharing code. I wanted to experiment with a few things so I <a href=\"http://shapeshed.github.com/\">created a site</a> on <a href=\"http://pages.github.com/\">GitHub pages</a>."
+description = "I've been creating more and more code examples and increasingly using GitHub for sharing code. I wanted to experiment with a few things so I created a site on GitHub pages."
 tags = ["CSS3", "HTML5", "JavaScript", "CSS", "Design"]
 title = "Experimenting with CSS3 and HTML5"
 +++
 
-[![Experimental Site on Github Pages][1]][2]
+![Experimental Site on Github Pages][1]
 
 ## No Database
 
-With Github pages you are not able to use a database. This was actually an
+With [Github pages][2] you are not able to use a database. This was actually an
 attraction for me. Increasingly the data that I want to show is distributed
 around various part of the internet. [Christian Heilmann][2] has demonstrated
 how it is possible to create a site almost entirely from APIs. Through

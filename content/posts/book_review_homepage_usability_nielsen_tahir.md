@@ -13,7 +13,6 @@ title = "Book Review: Homepage Usability - Nielsen & Tahir"
 [Buy from Amazon](http://www.amazon.co.uk/exec/obidos/ASIN/073571102X/useit-21/)
 
 ![Four out of Five](/images/books/four_stars.gif "Four out of Five")
-<span class="rating">4</span>
 
 If you haven't heard of Jakob Nielsen you probably haven't looked very far on
 the web. The godfather of usability has a [homepage](http://www.useit.com/) that

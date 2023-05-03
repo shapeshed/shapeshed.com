@@ -13,7 +13,6 @@ title = "Book Review: Cascading Style Sheets - Eric Meyer"
 [Buy from Amazon](http://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330)
 
 ![Four out of Five](/images/books/four_stars.gif "Four out of Five")
-<span class="rating">4</span>
 
 Eric Meyer is seen by many as the James Brown of CSS. A Godfather who was doing
 it before it was trendy; the hardest working man in CSS. He has written

@@ -13,7 +13,6 @@ title = "Book Review: The Elements of Typographic Style - Bringhurst"
 [Buy from Amazon](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326)
 
 ![Five out of Five](/images/books/five_stars.gif "Five out of Five")
-<span class="rating">5</span>
 
 If you are looking for a book that explains typography on th web then this book
 is not for you. The Elements of Typographic Style is a thorough journey through

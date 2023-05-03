@@ -9,8 +9,6 @@ This tutorial will show how to create a button that will import contact details
 into an address book. All you need is some knowledge of XHTML and a graphics
 editor. But before the explanation you want to see it working don't you?
 
-[![Add me to your address book](/images/articles/hcard_example.jpg "Add me to your address book")](http://suda.co.uk/projects/X2V/get-vcard.php?uri=/examples/hcard/)
-
 ### How is it done? Meet Microformats
 
 Unless you have been hiding for the last year you will probably have heard of
@@ -67,7 +65,7 @@ the script with the link:
 http://suda.co.uk/projects/X2V/get-vcard.php?uri=/examples/hcard/. The user
 doesn't care of course and they get my contact details in just one click.
 
-[![Add me to your address book](/images/articles/hcard_example.jpg "Add me to your address book")](http://suda.co.uk/projects/X2V/get-vcard.php?uri=/examples/hcard/)
+![Add me to your address book](/images/articles/hcard_example.jpg)
 
 ### Amazed? This is just the beginning
 

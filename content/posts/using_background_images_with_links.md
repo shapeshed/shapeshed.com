@@ -10,7 +10,9 @@ use icons on links sparingly icons can greatly improve the usability of a site.
 In this example we have a link that goes to a journal entry page. Make an icon
 using Illustrator, Photoshop or your favorite imaging software. Make sure that
 it relates well to the size of the text it appears next to. Here I've made a
-simple pencil: ![Pencil icon][1]
+simple pencil:
+
+![Pencil icon][1]
 
 ## The Markup
 

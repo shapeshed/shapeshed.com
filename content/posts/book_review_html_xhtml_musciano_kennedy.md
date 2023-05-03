@@ -13,7 +13,6 @@ title = "Book Review - HTML & XHTML - Musciano & Kennedy"
 [Buy from Amazon](http://www.amazon.com/HTML-XHTML-Definitive-Guide-Fifth/dp/059600382X)
 
 ![Two out of Five](/images/books/two_stars.gif "Two out of Five")
-<span class="rating">2</span>
 
 Finding this book in my local library I decided to have a read. I suspected that
 it might be seriously dated and I was not wrong in that assumption. I had the

@@ -2,6 +2,7 @@
 author = "George Ornbo"
 date = "2015-06-09T12:31:08+01:00"
 original = "http://pebblecode.com/blog/hack-day-wfh-bot/"
+description = "Are you WFH or WFO?"
 slug = "hack-day-wfh-bot"
 tags = ["hacks"]
 title = "Hack Day - WFH Bot"
@@ -36,7 +37,10 @@ company.
 
 Finally a front end was created to allow the status of people to be shown on a
 big screen.
-![WFH Front-end](/images/articles/screen_shot_2015-06-08_at_15.57.35.png)![WFH Front-end](/images/articles/screen_shot_2015-06-08_at_15.57.54.png)
+
+![WFH Front-end](/images/articles/screen_shot_2015-06-08_at_15.57.35.png)
+
+![WFH Front-end](/images/articles/screen_shot_2015-06-08_at_15.57.54.png)
 
 ## What tech / magic / sorcery did you use to make this awesomeness?
 

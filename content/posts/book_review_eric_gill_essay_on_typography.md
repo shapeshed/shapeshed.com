@@ -13,7 +13,6 @@ title = "Book Review : Eric Gill - Essay on Typography"
 [Buy from Amazon](http://www.amazon.com/Essay-Typography-Eric-Gill/dp/0879239506)
 
 ![Five out of Five](/images/books/five_stars.gif "Five out of Five")
-<span class="rating">5</span>
 
 Gill begins his books with a chapter entitled "Time and Place". This chapter is
 more about culture in general than typography. The chapter compares

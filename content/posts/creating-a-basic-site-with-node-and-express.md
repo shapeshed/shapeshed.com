@@ -20,7 +20,7 @@ like he was ten men.
 Here is [the site][13] we are going to create. You might also want to grab the
 [source code][18].
 
-[![Example Express website][31]][13]
+![Example Express website][31]
 
 ## Setup
 

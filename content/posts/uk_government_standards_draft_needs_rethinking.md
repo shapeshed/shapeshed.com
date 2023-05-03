@@ -78,7 +78,7 @@ are details on the [Yahoo's Graded Browser Support][6] page.
 In the GBS We have an excellent framework we can use that covers the
 overwhelming majority of the browser market based on browser capability.
 
-[![Yahoo's Graded Browser Support Matrix][12]][7]
+![Yahoo Graded Browser Support Matrix][12]
 
 ## Conclusion
 

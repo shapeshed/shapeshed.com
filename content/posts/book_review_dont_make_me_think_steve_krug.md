@@ -13,7 +13,6 @@ title = "Book Review: Don't Make Me Think - Steve Krug"
 [Buy from Amazon](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0789723107)
 
 ![Five out of Five](/images/books/five_stars.gif "Five out of Five")
-<span class="rating">5</span>
 
 Steve Krug's Don't Make Me Think is not a new book in web design terms, but it
 is one that is still as relevant today as the day it was published. The subtitle

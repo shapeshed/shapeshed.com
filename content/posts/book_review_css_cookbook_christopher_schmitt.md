@@ -13,7 +13,6 @@ title = "Book Review: CSS Cookbook - Christopher Schmitt"
 [Buy from Amazon](http://www.amazon.com/CSS-Cookbook-Christopher-Schmitt/dp/0596005768)
 
 ![Four out of Five](/images/books/four_stars.gif "Four out of Five")
-<span class="rating">4</span>
 
 CSS Cookbook is an up to date practical guide to using CSS on your site.
 Primarily aimed at coders who haven't made the transition to CSS layouts the

@@ -10,7 +10,9 @@ title = "Illustrator 101 - Guides and Smart Guides"
 
 To show rules hit Apple R or Ctrl R on Windows. If you are working on the web
 you will probably want the dimensions to be pixels so right click on the ruler
-and chose pixels. ![Illustrator ruler units][1]
+and chose pixels.
+
+![Illustrator ruler units][1]
 
 To create a guide simply click hold and drag (just as you would in Photoshop).
 To align your guides with a point in the ruler hold down shift and it will snap

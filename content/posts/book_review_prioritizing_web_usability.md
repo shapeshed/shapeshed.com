@@ -12,7 +12,6 @@ title = "Book Review: Prioritizing Web Usability"
 [Buy from Amazon](http://www.amazon.com/Prioritizing-Web-Usability-Jakob-Nielsen/dp/0321350316/ref=sr_1_1/026-0711400-0839662?ie=UTF8&s=books&qid=1190361529&sr=1-1)
 
 ![Five out of Five](/images/books/five_stars.gif "Five out of Five")
-<span class="rating">5</span>
 
 ### Usability anyone?
 

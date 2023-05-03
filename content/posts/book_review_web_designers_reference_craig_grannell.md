@@ -13,7 +13,6 @@ title = "Book Review: Web Designer's Reference - Craig Grannell"
 [Buy from Amazon](http://www.amazon.com/Web-Designers-Reference-Craig-Grannell/dp/1590594304)
 
 ![Three out of Five](/images/books/three_stars.gif "Three out of Five")
-<span class="rating">3</span>
 
 There is no doubt that Craig Grannell knows his stuff and there are many useful
 suggestions and pointers in the book that will help both novice and professional

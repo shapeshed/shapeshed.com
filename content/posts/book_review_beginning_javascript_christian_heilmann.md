@@ -13,7 +13,6 @@ title = "Book Review : Beginning Javascript - Christian Heilmann"
 [Buy from Amazon](http://www.amazon.com/Beginning-JavaScript-DOM-Scripting-Ajax/dp/1590596803)
 
 ![Five out of Five](/images/books/five_stars.gif "Five out of Five")
-<span class="rating">5</span>
 
 A while back I became resolved to teach myself Javascript, or at least to get
 beyond writing alert('monkey') and thinking that was enough. With good
