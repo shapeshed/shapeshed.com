@@ -3,6 +3,10 @@ date = "2009-07-30T00:00:00+01:00"
 description = "How to keep software up-to-date automatically on Ubuntu Server using Aptitude"
 tags = ["Ubuntu", "Linux"]
 title = "Auto update an Ubuntu Server with Aptitude"
+aliases = [
+    "/journal/installing-passenger-3-with-rvm-and-nginx-on-osx/",
+    "/auto_update_an_ubuntu_server_with_aptitude/"
+]
 +++
 
 ## Usual disclaimer

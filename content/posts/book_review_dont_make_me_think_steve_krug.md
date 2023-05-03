@@ -4,6 +4,10 @@ description = "Don't Make Me Think is a solid dose of common sense at a time whe
 slug = "book-review-dont-make-me-think-steve-krug"
 tags = ["Book Reviews", "Usability"]
 title = "Book Review: Don't Make Me Think - Steve Krug"
+aliases = [
+    "/journal/book_review_dont_make_me_think_steve_krug/",
+    "/book_review_dont_make_me_think_steve_krug/"
+]
 +++
 
 - Author: Steve Krug

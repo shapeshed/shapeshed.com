@@ -4,6 +4,10 @@ description = "Christian Heilmann's book is a great grounding for exploring Java
 slug = "book-review-beginning-javascript-christian-heilmann"
 tags = ["JavaScript", "DOM", "Book Reviews"]
 title = "Book Review : Beginning Javascript - Christian Heilmann"
+aliases = [
+    "/journal/book_review_beginning_javascript_christian_heilmann/",
+    "/book_review_beginning_javascript_christian_heilmann/"
+]
 +++
 
 - Author: Christian Heilmann

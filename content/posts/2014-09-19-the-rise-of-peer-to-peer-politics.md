@@ -4,10 +4,8 @@ date = "2014-09-19T09:47:32+01:00"
 original = "http://pebblecode.com/blog/the-rise-of-peer-to-peer-politics/"
 tags = []
 title = "The rise of peer-to-peer politics"
+description = "The Scottish Independence Referendum has demonstrated the rise of peer-to-peer politics and will change New Labour style spin forever."
 +++
-
-The Scottish Independence Referendum has demonstrated the rise of peer-to-peer
-politics and will change New Labour style spin forever.
 
 ### New Labour and Spin
 

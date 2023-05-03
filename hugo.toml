@@ -20,8 +20,15 @@ enableGitInfo = true
   username = "shapeshed"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "Aliases"]
   page = ["HTML"]
+
+[outputFormats.Aliases]
+  baseName = "aliases"
+  isPlainText = true
+  mediaType = "text/plain"
+  notAlternative = true
+
 
 [markup]
   [markup.highlight]

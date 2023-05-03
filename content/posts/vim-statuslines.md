@@ -6,6 +6,8 @@ tags = ["Vim", "UNIX"]
 title = "Build your own Vim statusline"
 +++
 
+![The default vim statusline][10]
+
 ## What is a statusline in Vim?
 
 The statusline in Vim is the bar along the bottom of the Vim window. By default
@@ -15,8 +17,6 @@ the default statusline including the path, permissions, line and a percentage
 representation of where you are in the file. For many people the default
 behaviour of vim is enough and you can get on with your life without having to
 configure anything.
-
-![The default vim statusline][10]
 
 ## Showing the statusline
 
