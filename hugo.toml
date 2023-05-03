@@ -13,7 +13,11 @@ enableGitInfo = true
   posts = "/:slug/"
 [params]
   author = "George Ornbo"
-  description = "UK-based technologist"
+  description = "Articles by George Ornbo, a UK-based technologist"
+  firstName = "George"
+  lastName = "Ornbo"
+  gender = "male"
+  username = "shapeshed"
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -29,7 +33,7 @@ enableGitInfo = true
     [markup.goldmark.parser]
       autoHeadingID = true
       autoHeadingIDType = 'github'
-      wrapStandAloneImageWithinParagraph = true
+      wrapStandAloneImageWithinParagraph = false
     [markup.goldmark.renderer]
       unsafe = true
 
@@ -51,6 +55,12 @@ enableGitInfo = true
     name = "Contact"
     url = "/contact/"
     weight = 3
+
+    [[menu.nav]]
+    identifier = "rss"
+    name = "RSS Feed"
+    url = "/index.xml"
+    weight = 4
 
 
 
@@ -93,4 +103,8 @@ enableGitInfo = true
   [[deployment.matchers]]
     pattern = "^.+\\.(html|xml|json|txt)$"
     cacheControl = "public, s-maxage=604800, max-age=3600" #7d,1h
+
+[[resources]]
+    name = 'css'
+    src = 'css/style.css'
 
