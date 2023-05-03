@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix xargs command tutorial with examples"
 +++
 
-![cut man page](/images/articles/xargs.png)
+![A terminal showing the xargs man page](/images/articles/xargs.png)
 
 ## What is the xargs command in UNIX?
 

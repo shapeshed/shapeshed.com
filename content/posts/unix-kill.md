@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix kill command tutorial with examples"
 +++
 
-![Terminal showing kill man page][2]
+![A terminal showing the kill man page][2]
 
 ## What is the kill command in UNIX?
 

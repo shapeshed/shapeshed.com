@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix fold command tutorial with examples"
 +++
 
-![fold man page][1]
+![A terminal showing the fold man page][1]
 
 ## What is the fold command in UNIX?
 

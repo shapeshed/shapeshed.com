@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix mv command tutorial with examples"
 +++
 
-![Terminal showing mv man page][2]
+![A terminal showing the mv man page][2]
 
 ## What is the mv command in UNIX?
 

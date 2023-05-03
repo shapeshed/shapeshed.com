@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix comm command tutorial with examples"
 +++
 
-![comm man page][1]
+![A terminal showing the comm man page][1]
 
 ## What is the comm command in UNIX?
 

@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix cut command tutorial with examples"
 +++
 
-![cut man page](/images/articles/cut.png)
+![A terminal showing the cut man page](/images/articles/cut.png)
 
 ## What is the cut command in UNIX?
 

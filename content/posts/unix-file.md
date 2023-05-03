@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix file command tutorial with examples"
 +++
 
-![Terminal showing file man page][2]
+![A terminal showing the file man page][2]
 
 ## What is the file command in UNIX?
 

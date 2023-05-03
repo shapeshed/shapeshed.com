@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix wc command tutorial with examples"
 +++
 
-![wc man page][3]
+![A terminal showing the wc man page][3]
 
 ## What is the wc command in UNIX?
 

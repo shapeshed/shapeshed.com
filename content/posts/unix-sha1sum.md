@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix sha1sum command tutorial with examples"
 +++
 
-![Terminal showing sha1sum man page][2]
+![A terminal showing the sha1sum man page][2]
 
 ## What is the sha1sum command in UNIX?
 

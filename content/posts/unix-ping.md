@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix ping command tutorial with examples"
 +++
 
-![Terminal showing ping man page][2]
+![A terminal showing the ping man page][2]
 
 ## What is the ping command in UNIX?
 

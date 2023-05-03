@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix rm command tutorial with examples"
 +++
 
-![Terminal showing rm man page][2]
+![A terminal showing the rm man page][2]
 
 ## What is the rm command?
 

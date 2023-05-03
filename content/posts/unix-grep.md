@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix grep command tutorial with examples"
 +++
 
-![grep man page][2]
+![A terminal showing the grep man page][2]
 
 ## What is the grep command in UNIX?
 

@@ -7,7 +7,7 @@ tags = ["UNIX"]
 title = "Linux and Unix find command tutorial with examples"
 +++
 
-![find man page][5]
+![A terminal showing the find man page][5]
 
 ## What is the find command in UNIX?
 

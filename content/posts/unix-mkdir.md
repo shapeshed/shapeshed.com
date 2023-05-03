@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix mkdir command tutorial with examples"
 +++
 
-![Terminal showing file man page][2]
+![A terminal showing the mkdir man page][2]
 
 ## What is the mkdir command in UNIX?
 

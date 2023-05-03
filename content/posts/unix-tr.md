@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix tr command tutorial with examples"
 +++
 
-![tr man page](/images/articles/tr.png)
+![A terminal showing the tr man page](/images/articles/tr.png)
 
 ## What is the tr command in UNIX?
 

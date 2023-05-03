@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix ln command tutorial with examples"
 +++
 
-![Terminal showing ln man page][2]
+![A terminal showing the ln man page][2]
 
 ## What is the ln command in UNIX?
 

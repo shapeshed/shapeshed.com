@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix ls command tutorial with examples"
 +++
 
-![Terminal showing ls man page][2]
+![A terminal showing the ls man page][2]
 
 ## What is the ls command?
 

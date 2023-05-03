@@ -8,7 +8,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix head command tutorial with examples"
 +++
 
-![Terminal showing head man page][6]
+![A terminal showing the head man page][6]
 
 ## What is the head command?
 

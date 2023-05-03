@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix wget command tutorial with examples"
 +++
 
-![Terminal showing wget man page][2]
+![A terminal showing the wget man page][2]
 
 ## What is the wget command?
 

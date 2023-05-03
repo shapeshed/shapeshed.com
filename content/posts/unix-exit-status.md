@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix exit code tutorial with examples"
 +++
 
-![UNIX exit code][7]
+![A terminal showing UNIX exit codes][7]
 
 ## What is an exit code in the UNIX or Linux shell?
 

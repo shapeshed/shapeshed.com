@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix more command tutorial with examples"
 +++
 
-![Terminal showing more man page][2]
+![A terminal showing the more man page][2]
 
 ## What is the more command in UNIX?
 

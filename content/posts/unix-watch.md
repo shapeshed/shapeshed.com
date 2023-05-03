@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix watch command tutorial with examples"
 +++
 
-![Terminal showing ps man page][2]
+![A terminal showing the watch man page][2]
 
 ## What is the watch command in UNIX?
 

@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix fmt command tutorial with examples"
 +++
 
-![Terminal showing fmt man page][3]
+![A terminal showing the fmt man page][3]
 
 ## What is the fmt command in UNIX?
 

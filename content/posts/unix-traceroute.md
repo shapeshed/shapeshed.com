@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix traceroute command tutorial with examples"
 +++
 
-![Terminal showing traceroute man page][2]
+![A terminal showing the traceroute man page][2]
 
 ## What is the traceroute command in UNIX?
 

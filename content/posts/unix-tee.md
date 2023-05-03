@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix tee command tutorial with examples"
 +++
 
-![Tee man page][4]
+![A terminal showing the tee man page][4]
 
 ## What is the tee command in UNIX?
 

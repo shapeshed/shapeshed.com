@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix ps command tutorial with examples"
 +++
 
-![Terminal showing ps man page][2]
+![A terminal showing the ps man page][2]
 
 ## What is the ps command in UNIX?
 

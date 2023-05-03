@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix cat command tutorial with examples"
 +++
 
-![cat man page][6]
+![A terminal showing the cat man page][6]
 
 ## What is the cat command?
 

@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix pwd command tutorial with examples"
 +++
 
-![Terminal showing pwd man page][2]
+![A terminal showing the pwd man page][2]
 
 ## What is the pwd command in UNIX?
 

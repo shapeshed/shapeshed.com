@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix fc command tutorial with examples"
 +++
 
-![Terminal showing fc man page][2]
+![A terminal showing the fc man page][2]
 
 ## What is the fc command?
 

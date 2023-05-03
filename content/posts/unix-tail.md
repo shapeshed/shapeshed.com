@@ -7,7 +7,7 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix tail command tutorial with examples"
 +++
 
-![Terminal showing tail man page][6]
+![A terminal showing the tail man page][6]
 
 ## What is the tail command?
 
