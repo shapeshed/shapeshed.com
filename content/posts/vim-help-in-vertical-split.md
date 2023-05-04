@@ -1,10 +1,12 @@
-+++ 
-date = "2023-05-02T01:00:00+00:00" 
-description = "A simple vim tip to open help files in a horizontal split window for easier reading" 
-tags = ["Vim","UNIX"] 
-draft = true 
++++
+date = "2023-05-02T01:00:00+00:00"
+description = "A simple vim tip to open help files in a horizontal split window for easier reading"
+tags = ["Vim","UNIX"]
+draft = true
 title = "Open vim help files in a vertical split"
 +++
+
+![Some title][17]
 
 ## Making :help more readable
 
@@ -72,3 +74,4 @@ vim.api.nvim_create_autocmd({ "BufWinEnter" }, {
 [14]: https://github.com/nvim-lualine/lualine.nvim
 [15]: https://github.com/nvimdev/galaxyline.nvim
 [16]: https://github.com/famiu/feline.nvim
+[17]: /images/articles/test-hero-4-3.png

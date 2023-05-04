@@ -22,8 +22,15 @@ hugo:
 gzip-static:
 	@find ./public -type f \( -name "*.html" -o -name "*.css" -o -name "*.xml" \) -exec gzip -n -k -f -9 {} \;
 
-optimize-images:
+images:
+	find ./ -type f -name '*.png' -exec sh -c 'avifenc --min 10 --max 30 $1 "${1%.png}.avif"' _ {} \;
+	find ./ -type f -name '*.jpg' -exec sh -c 'avifenc --min 10 --max 30 $1 "${1%.png}.avif"' _ {} \;
+	find ./ -type f -name '*.jpeg' -exec sh -c 'avifenc --min 10 --max 30 $1 "${1%.png}.avif"' _ {} \;
+	find ./ -type f -name '*.png' -exec sh -c 'cwebp $1 -o "${1%.jpg}.webp"' _ {} \;
+	find ./ -type f -name '*.jpg' -exec sh -c 'cwebp $1 -o "${1%.jpg}.webp"' _ {} \;
+	find ./ -type f -name '*.jpeg' -exec sh -c 'cwebp $1 -o "${1%.jpg}.webp"' _ {} \;
 	find ./static/images/articles -mtime -1 -name '*.png' | xargs optipng -o7 -strip all
+
 
 minify-html:
 	@minify -r --match=\.html public -o .
@@ -33,7 +40,7 @@ css:
 	@find ./public -name index.html | xargs sed -i "s/styles\.css/$(CSSMD5)\.css/"
 
 deploy:
-	@rsync -azz -e "ssh" --delete ./public/ finney.shapeshed.com:/srv/http/shapeshed.com
+	hugo deploy
 
 validate:
 	@html5validator --ignore --ignore-re "loading|public/examples*|public/google*|public/y_key*|public/images/articles/index.html" --root public
