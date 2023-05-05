@@ -43,4 +43,4 @@ deploy:
 	hugo deploy
 
 validate:
-	@html5validator --ignore --ignore-re "loading|public/examples*|public/google*|public/y_key*|public/images/articles/index.html" --root public
+	@html5validator --ignore --ignore-re "loading|text-decoration-thickness|text-underline-offset|public/examples*|public/images/articles/index.html" --root public
