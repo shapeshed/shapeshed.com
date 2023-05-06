@@ -11,8 +11,7 @@ title = "Configuring and working with Cloudfront Logs"
 
 Cloudfront supports logging to an Amazon S3 bucket. Create the bucket first and
 then edit the Cloudfront distribution. Under the general tab specify a Bucket
-for Logs and also a log prefix. The log prefix to is set to `cf-logs/` so it can
-be targeted with lifecycle rules in the S3 bucket.
+for Logs and also a log prefix.
 
 ![Setting up Cloudfront Logging][7]
 
@@ -60,21 +59,21 @@ More information on installing the `aws-cli` tool is available on the [AWS CLI
 User Guide][5]
 
 ```sh
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 BUCKET=$1
-CWD=$(pwd)
 
-if [[ -n $1 ]]; then
-  aws s3 sync s3://$BUCKET/cf-logs .
-  cat *.gz > combined.log.gz
-  find $CWD ! -name 'combined.log.gz' -name '*.gz' -type f -exec rm -f {} +
-  gzip -d combined.log.gz
-  sed -i '/^#/ d' combined.log
-  exit 0
+if [ "$1" ]; then
+    # Get the gzipped log files from aws
+    aws s3 sync s3://"$BUCKET" .
+    # Decompress, remove first two lines and combine
+    zcat ./*.gz | awk 'NR>2' >combined.log
+    # Cleanup by removing .gzip files
+    find "$(pwd)" ! -name 'combined.log' -name '*.gz' -type f -exec rm -f {} +
+    exit 0
 else
-  echo "Error: no bucket name provided"
-  exit 1
+    echo "Error: no bucket name provided"
+    exit 1
 fi
 ```
 
