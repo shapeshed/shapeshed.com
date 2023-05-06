@@ -234,7 +234,7 @@ out and smash it to smithereens. Wooo destruction!
 
 [1]: http://linux.die.net/man/1/rm
 [2]: /images/articles/rm.png "Linux and Unix rm command"
-[3]: https://shapeshed.com/unix-shell-aliases/
+[3]: https://shapeshed.com/unix-shell-alias/
 [4]: https://shapeshed.com/unix-find/
 [5]: /images/articles/smashed-up-hard-drive.jpg "A destroyed hard drive"
 [6]:
