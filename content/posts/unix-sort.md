@@ -48,6 +48,8 @@ Opeth
 Sepultura
 ```
 
+![A terminal showing a file being sorted alphabetically][10]
+
 ## How to sort in reverse order
 
 To sort in reverse order pass the `-r` option to `sort`. This will sort in
@@ -92,6 +94,8 @@ sort -n clothes.txt
 5. Blue tie
 11. Jeans
 ```
+
+![A terminal showing a file being sorted numerically][11]
 
 ## How to sort mixed-case text
 
@@ -182,6 +186,8 @@ Sultana Bran
 Weetabix
 ```
 
+![A terminal showing a file being sorted with duplicates removed][12]
+
 ## How to sort by month
 
 To sort by month pass the `-M` option to `sort`. This will write a sorted list
@@ -255,10 +261,10 @@ and `-t` options.
 
 ```sh
 sort -k 2 -t , cheese.csv
-2,Maroilles,1.13
-3,Stinking Bishop,1.65
 1,Brie de Meaux,1.99
+2,Maroilles,1.13
 4,Munster,1.29
+3,Stinking Bishop,1.65
 ```
 
 To sort on the most expensive cheese the numeric and reverse options can be
@@ -271,6 +277,8 @@ sort -k 3 -t , -n -r  cheese.csv
 4,Munster,1.29
 2,Maroilles,1.13
 ```
+
+![A terminal showing a csv file being sorted on different fields][13]
 
 ## Further reading
 
@@ -290,3 +298,11 @@ sort -k 3 -t , -n -r  cheese.csv
 [7]: /images/articles/sort.png "Linux and Unix sort command"
 [8]: https://www.ibidemgroup.com/edu/tutorial-sort-linux-unix/
 [9]: https://www.ibidemgroup.com/
+[10]: /images/articles/bands.svg "A terminal sorting a file alphabetically"
+[11]: /images/articles/clothes.svg "A terminal sorting a file numerically"
+[12]:
+  /images/articles/breakfast.svg
+  "A terminal sorting a file and removing duplicates"
+[13]:
+  /images/articles/cheese.svg
+  "A terminal sorting a csv file on different fields"
