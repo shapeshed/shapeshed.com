@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix touch command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the touch man page][2]
+{.hero}
 
 ## What is the touch command in UNIX?
 

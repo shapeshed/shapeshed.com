@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix uniq command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the uniq man page][5]
+{.hero}
 
 ## What is the uniq command in UNIX?
 

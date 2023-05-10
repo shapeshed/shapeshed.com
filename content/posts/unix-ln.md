@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix ln command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the ln man page][2]
+{.hero}
 
 ## What is the ln command in UNIX?
 

@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix cp command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the cp man page][2]
+{.hero}
 
 ## What is the cp command?
 

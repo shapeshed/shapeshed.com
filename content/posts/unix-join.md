@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix join command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the join man page](/images/articles/join.png)
+{.hero}
 
 ## What is the join command in UNIX?
 

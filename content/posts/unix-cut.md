@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix cut command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the cut man page](/images/articles/cut.png)
+{.hero}
 
 ## What is the cut command in UNIX?
 

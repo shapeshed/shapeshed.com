@@ -7,7 +7,9 @@ tags = ["UNIX"]
 title = "Linux and Unix find command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the find man page][5]
+{.hero}
 
 ## What is the find command in UNIX?
 

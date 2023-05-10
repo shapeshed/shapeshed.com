@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix tail command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the tail man page][6]
+{.hero}
 
 ## What is the tail command?
 

@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix cal command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![Terminal showing cal man page][2]
+{.hero}
 
 ## What is the cal command?
 

@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix wc command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the wc man page][3]
+{.hero}
 
 ## What is the wc command in UNIX?
 
