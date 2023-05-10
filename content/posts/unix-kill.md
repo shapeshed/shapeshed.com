@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix kill command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the kill man page][2]
+{.hero}
 
 ## What is the kill command in UNIX?
 

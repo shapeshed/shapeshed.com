@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix cat command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the cat man page][6]
+{.hero}
 
 ## What is the cat command?
 

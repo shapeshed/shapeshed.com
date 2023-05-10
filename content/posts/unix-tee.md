@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix tee command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the tee man page][4]
+{.hero}
 
 ## What is the tee command in UNIX?
 

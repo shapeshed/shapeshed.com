@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix df command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the df man page][2]
+{.hero}
 
 ## What is the df command in UNIX?
 

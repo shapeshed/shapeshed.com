@@ -8,7 +8,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix head command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the head man page][6]
+{.hero}
 
 ## What is the head command?
 

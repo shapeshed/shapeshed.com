@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix mv command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the mv man page][2]
+{.hero}
 
 ## What is the mv command in UNIX?
 

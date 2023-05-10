@@ -8,7 +8,9 @@ tags = ["Linux", "UNIX"]
 title = "Linux and Unix alias command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![An example of a shell alias][4]
+{.hero}
 
 ## What is a shell alias?
 

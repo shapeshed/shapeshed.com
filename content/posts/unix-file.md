@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix file command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the file man page][2]
+{.hero}
 
 ## What is the file command in UNIX?
 

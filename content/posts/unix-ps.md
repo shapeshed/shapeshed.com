@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix ps command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the ps man page][2]
+{.hero}
 
 ## What is the ps command in UNIX?
 

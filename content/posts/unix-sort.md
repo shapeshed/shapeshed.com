@@ -8,7 +8,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix sort command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the sort man page][7]
+{.hero}
 
 [Traducción a Español aquí][8] by [www.ibidemgroup.com][9]
 

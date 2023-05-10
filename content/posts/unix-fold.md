@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix fold command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the fold man page][1]
+{.hero}
 
 ## What is the fold command in UNIX?
 

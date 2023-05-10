@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix shuf command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the shuf man page][1]
+{.hero}
 
 ## What is the shuf command in UNIX?
 

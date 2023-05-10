@@ -7,7 +7,9 @@ tags = ["UNIX", "Linux"]
 title = "Linux and Unix wget command tutorial with examples"
 +++
 
+<!-- prettier-ignore -->
 ![A terminal showing the wget man page][2]
+{.hero}
 
 ## What is the wget command?
 
