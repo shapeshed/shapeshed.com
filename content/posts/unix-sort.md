@@ -60,7 +60,7 @@ Sepultura
 
 <aside>
     <p>
-        <code>sort</code> is written in C and you can read the source code for the GNU Coreutils version <a href="https://git.savannah.gnu.org/cgit/coreutils.git/tree/src/sort.c">here</a>.
+        The GNU Coreutils version of <code>sort</code> is written in C and you can <a href="https://git.savannah.gnu.org/cgit/coreutils.git/tree/src/sort.c">read the source code</a>.
     </p>
 </aside>
 
