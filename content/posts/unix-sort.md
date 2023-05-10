@@ -22,6 +22,12 @@ also remove duplicates. The sort command can also sort by items not at the
 beginning of the line, ignore case sensitivity and return whether a file is
 sorted or not.
 
+<aside>
+    <p>
+        <code>sort</code> is part of the <a href="https://www.gnu.org/software/coreutils/">The GNU Core Utilities</a>, which is open sourced under the <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License</a>.
+    </p>
+</aside>
+
 ## How to sort alphabetically
 
 The `sort` tool will sort lines alphabetically by default. Running
@@ -51,6 +57,12 @@ Sepultura
 ```
 
 ![A terminal showing a file being sorted alphabetically][10]
+
+<aside>
+    <p>
+        <code>sort</code> is written in C and you can read the source code for the GNU Coreutils version <a href="https://git.savannah.gnu.org/cgit/coreutils.git/tree/src/sort.c">here</a>.
+    </p>
+</aside>
 
 ## How to sort in reverse order
 
@@ -190,6 +202,12 @@ Weetabix
 
 ![A terminal showing a file being sorted with duplicates removed][12]
 
+<aside>
+    <p>
+        <code>sort</code> has great documentation. You can read it by typing <code>man sort</code> in the terminal.
+    </p>
+</aside>
+
 ## How to sort by month
 
 To sort by month pass the `-M` option to `sort`. This will write a sorted list
@@ -281,6 +299,12 @@ sort -k 3 -t , -n -r  cheese.csv
 ```
 
 ![A terminal showing a csv file being sorted on different fields][13]
+
+<aside>
+    <p>
+        The original version of <code>sort</code> was written by Ken Thompson. The GNU Coreutils version was written by Mike Haertel and Paul Eggert.
+    </p>
+</aside>
 
 ## Further reading
 
