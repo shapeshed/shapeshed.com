@@ -1,15 +1,12 @@
 +++
 date = "2016-09-09T00:00:00+00:00"
 description = "Tutorial on using mkdir, a UNIX and Linux command for creating directories. Examples of creating a directory, creating multiple directories, creating parent directories and setting permissions."
-image = "images/articles/mkdir.png"
+image = "images/covers/mkdir.png"
+caption = "The UNIX and Linux mkdir command"
 slug = "unix-mkdir"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix mkdir command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the mkdir man page][2]
-{.hero}
 
 ## What is the mkdir command in UNIX?
 

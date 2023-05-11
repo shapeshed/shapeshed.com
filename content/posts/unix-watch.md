@@ -1,15 +1,12 @@
 +++
 date = "2017-07-12T00:00:00+00:00"
 description = "Tutorial on using watch, a UNIX and Linux command for executing a program periodically and showing a fullscreen output. Examples of watching a file download, a network interface come up, and showing the five most CPU intensive processes."
-image = "images/articles/watch.png"
+image = "images/covers/watch.png"
+caption = "The UNIX and Linux watch command"
 slug = "unix-watch"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix watch command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the watch man page][2]
-{.hero}
 
 ## What is the watch command in UNIX?
 

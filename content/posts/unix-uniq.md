@@ -1,15 +1,12 @@
 +++
 date = "2016-07-26T00:00:00+00:00"
 description = "Tutorial on using uniq, a UNIX and Linux command for reporting or filtering repeated lines in a file. Examples of showing a count of occurrences, showing only repeated lines and ignoring characters and specific fields."
-image = "images/articles/uniq.png"
+image = "images/covers/uniq.png"
+caption = "The UNIX and Linux uniq command"
 slug = "unix-uniq"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix uniq command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the uniq man page][5]
-{.hero}
 
 ## What is the uniq command in UNIX?
 

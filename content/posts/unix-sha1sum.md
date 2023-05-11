@@ -1,15 +1,12 @@
 +++
 date = "2016-09-21T00:00:00+00:00"
 description = "Tutorial on using sha1sum, a UNIX and Linux command to compute and check a SHA-1 message digest. Examples of reading a SHA-1 message digest, writing a SHA-1 message digest to a file, and checking a SHA-1 message digest."
-image = "images/articles/sha1sum.png"
+image = "images/covers/sha1sum.png"
+caption = "The UNIX and Linux sha1sum command"
 slug = "unix-sha1sum"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix sha1sum command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the sha1sum man page][2]
-{.hero}
 
 ## What is the sha1sum command in UNIX?
 

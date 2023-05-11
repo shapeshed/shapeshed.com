@@ -1,15 +1,12 @@
 +++
 date = "2016-07-12T20:20:27+01:00"
 description = "Tutorial on using find, a UNIX and Linux command for walking a file hierarchy. Examples of finding a file by name, finding and deleting a file, finding a directory and searching by modification time and permissions."
-image = "images/articles/find.png"
+image = "images/covers/find.png"
+caption = "The UNIX and Linux find command"
 slug = "unix-find"
 tags = ["UNIX"]
 title = "Linux and Unix find command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the find man page][5]
-{.hero}
 
 ## What is the find command in UNIX?
 

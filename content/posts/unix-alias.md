@@ -1,16 +1,13 @@
 +++
 date = "2008-07-11T00:00:00+01:00"
 description = "How to create shell aliases using bash or zsh to provide shortcuts to common commands"
-image = "/images/articles/shell_alias.png"
+image = "images/covers/alias.png"
+caption = "The UNIX and Linux alias command"
 lastmod = "2016-10-08T00:00:00+01:00"
 slug = "unix-alias"
 tags = ["Linux", "UNIX"]
 title = "Linux and Unix alias command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![An example of a shell alias][4]
-{.hero}
 
 ## What is a shell alias?
 

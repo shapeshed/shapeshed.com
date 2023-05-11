@@ -1,15 +1,12 @@
 +++
 date = "2016-09-27T00:00:00+00:00"
 description = "Tutorial on using cal, a UNIX and Linux command for displaying a calendar in the console. Examples of displaying a single month, multiple months, showing week numbers, Julian dates and arbitrary dates passed as arguments."
-image = "images/articles/cal.png"
+image = "images/covers/cal.png"
+caption = "The UNIX and Linux cal command"
 slug = "unix-cal"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix cal command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![Terminal showing cal man page][2]
-{.hero}
 
 ## What is the cal command?
 

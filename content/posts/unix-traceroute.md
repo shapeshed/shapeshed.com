@@ -1,15 +1,12 @@
 +++
 date = "2016-09-13T00:00:00+00:00"
 description = "Tutorial on using traceroute, a UNIX and Linux command for showing the route packets take to a network. Examples of tracing a route, using IPv6, disabling hostname mapping and setting the number of queries per hop."
-image = "images/articles/traceroute.png"
+image = "images/covers/traceroute.png"
+caption = "The UNIX and Linux traceroute command"
 slug = "unix-traceroute"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix traceroute command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the traceroute man page][2]
-{.hero}
 
 ## What is the traceroute command in UNIX?
 

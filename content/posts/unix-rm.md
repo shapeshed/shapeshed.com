@@ -1,15 +1,12 @@
 +++
 date = "2016-10-07T01:00:00+00:00"
 description = "Tutorial on using rm, a UNIX and Linux command for removing files or directories. Examples of removing a file, removing multiple files, prompting for confirmation, removing recursively and forcing removal."
-image = "images/articles/rm.png"
+image = "images/covers/rm.png"
+caption = "The UNIX and Linux rm command"
 slug = "unix-rm"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix rm command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the rm man page][2]
-{.hero}
 
 ## What is the rm command?
 

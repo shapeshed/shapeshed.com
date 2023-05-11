@@ -1,15 +1,12 @@
 +++
 date = "2016-10-14T00:00:00+00:00"
 description = "Tutorial on using touch, a UNIX and Linux command for changing file timestamps. Examples of creating an empty file, updating access and modification time, updating just access time, updating just modification time and setting timestamps in the past."
-image = "images/articles/touch.png"
+image = "images/covers/touch.png"
+caption = "The UNIX and Linux touch command"
 slug = "unix-touch"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix touch command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the touch man page][2]
-{.hero}
 
 ## What is the touch command in UNIX?
 

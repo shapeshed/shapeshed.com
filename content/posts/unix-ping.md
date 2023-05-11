@@ -1,15 +1,12 @@
 +++
 date = "2016-08-25T00:00:00+00:00"
 description = "Tutorial on using ping, a UNIX and Linux command for sending ICMP ECHO_REQUEST packets to network hosts. Examples of checking if a remote host is up and limiting to IPv4 and IPv6 requests."
-image = "images/articles/ping.png"
+image = "images/covers/ping.png"
+caption = "The UNIX and Linux ping command"
 slug = "unix-ping"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix ping command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the ping man page][2]
-{.hero}
 
 ## What is the ping command in UNIX?
 

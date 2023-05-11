@@ -1,15 +1,12 @@
 +++
 date = "2016-09-05T00:00:00+00:00"
 description = "Tutorial on using ps, a UNIX and Linux command for reporting information on running processes. Examples of searching by user, group, executable name and killing processes."
-image = "images/articles/ps.png"
+image = "images/covers/ps.png"
+caption = "The UNIX and Linux ps command"
 slug = "unix-ps"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix ps command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the ps man page][2]
-{.hero}
 
 ## What is the ps command in UNIX?
 

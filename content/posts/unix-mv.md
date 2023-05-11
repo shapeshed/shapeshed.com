@@ -1,15 +1,12 @@
 +++
 date = "2016-10-11T01:00:00+00:00"
 description = "Tutorial on using mv, a UNIX and Linux command to move or rename files. Examples of moving a file, moving multiple files, moving a directory, prompting before overwriting and taking a backup before moving."
-image = "images/articles/mv.png"
+image = "images/covers/mv.png"
+caption = "The UNIX and Linux mv command"
 slug = "unix-mv"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix mv command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the mv man page][2]
-{.hero}
 
 ## What is the mv command in UNIX?
 

@@ -1,15 +1,12 @@
 +++
 date = "2016-08-07T00:00:00+00:00"
 description = "Tutorial on using exit codes from Linux or UNIX commands. Examples of how to get the exit code of a command, how to set the exit code and how to suppress exit codes."
-image = "images/articles/unix-exit-code.png"
+image = "images/covers/unix-exit-code.png"
+caption = "Exit codes in Unix and Linux"
 slug = "unix-exit-codes"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix exit code tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing UNIX exit codes][7]
-{.hero}
 
 ## What is an exit code in the UNIX or Linux shell?
 

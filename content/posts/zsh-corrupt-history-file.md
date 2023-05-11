@@ -2,6 +2,8 @@
 date = "2016-10-06T00:00:00+00:00"
 description = "Occasionally you may find you have a corrupt zsh history file preventing you from using CTRL+R or from using the `fc` command. Here's how to fix it."
 slug = "zsh-corrupt-history-file"
+image = "images/covers/zsh-corrupt.png"
+caption = "The dreaded zsh: corrupt history"
 tags = ["Unix", "Linux"]
 title = "How to fix a corrupt zsh history file"
 +++

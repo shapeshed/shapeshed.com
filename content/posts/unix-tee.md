@@ -1,15 +1,12 @@
 +++
 date = "2016-07-28T00:00:00+00:00"
 description = "Tutorial on using tee, a UNIX and Linux command for copying standard input to standard output and making a copy to one or more files. Examples of writing to a file, appending to a file and writing to a privileged file."
-image = "images/articles/tee.png"
+image = "images/covers/tee.png"
+caption = "The UNIX and Linux tee command"
 slug = "unix-tee"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix tee command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the tee man page][4]
-{.hero}
 
 ## What is the tee command in UNIX?
 

@@ -1,15 +1,12 @@
 +++
 date = "2010-07-23T00:00:00+01:00"
 description = "Tutorial on using tr, a UNIX and Linux command for translating or deleting characters. Examples of converting uppercase to lowercase, deleting specific characters, squeezing repeating patterns and basic finding and replacing. "
-image = "images/articles/tr.png"
+image = "images/covers/tr.png"
+caption = "The UNIX and Linux tr command"
 slug = "unix-tr"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix tr command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the tr man page](/images/articles/tr.png)
-{.hero}
 
 ## What is the tr command in UNIX?
 
