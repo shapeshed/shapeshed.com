@@ -1,15 +1,12 @@
 +++
 date = "2017-09-11T00:00:00+01:00"
 description = "Tutorial on using xargs, a UNIX and Linux command for building and executing command lines from standard input. Examples of cutting by character, byte position, cutting based on delimiter and how to modify the output delimiter."
-image = "images/articles/xargs.png"
+image = "images/covers/xargs.png"
+caption = "The UNIX and Linux xargs command"
 slug = "unix-xargs"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix xargs command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the xargs man page](/images/articles/xargs.png)
-{.hero}
 
 ## What is the xargs command in UNIX?
 

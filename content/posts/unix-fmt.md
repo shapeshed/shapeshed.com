@@ -1,15 +1,12 @@
 +++
 date = "2016-08-15T00:00:00+00:00"
 description = "Tutorial on using fmt, a UNIX and Linux command for formatting text. Examples of formatting a file, setting the column with and formatting uniform spaces."
-image = "images/articles/fmt.png"
+image = "images/covers/fmt.png"
+caption = "The UNIX and Linux fmt command"
 slug = "unix-fmt"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix fmt command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the fmt man page][3]
-{.hero}
 
 ## What is the fmt command in UNIX?
 

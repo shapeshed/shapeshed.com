@@ -1,15 +1,12 @@
 +++
 date = "2016-10-04T00:00:00+00:00"
 description = "Tutorial on using ls, a UNIX and Linux command for listing directory contents. Examples of listing a directory, showing hidden files, showing long listings, sorting on various items and showing recursive listings."
-image = "images/articles/ls.png"
+image = "images/covers/ls.png"
+caption = "The UNIX and Linux ls command"
 slug = "unix-ls"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix ls command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the ls man page][2]
-{.hero}
 
 ## What is the ls command?
 

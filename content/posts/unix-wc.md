@@ -1,15 +1,12 @@
 +++
 date = "2011-03-19T00:00:00+00:00"
 description = "Tutorial on using wc, a UNIX and Linux command for printing newline, word and byte counts for files. Examples of printing the number of lines in a file, printing the number of characters in a file and printing the number of words in a file."
-image = "images/articles/wc.png"
+image = "images/covers/wc.png"
+caption = "The UNIX and Linux wc command"
 slug = "unix-wc"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix wc command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the wc man page][3]
-{.hero}
 
 ## What is the wc command in UNIX?
 

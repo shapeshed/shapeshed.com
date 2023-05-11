@@ -1,15 +1,12 @@
 +++
 date = "2016-10-12T00:00:00+00:00"
 description = "Tutorial on using cp, a UNIX and Linux command for copying files and directories. Examples of copying a file, copying multiple files, copying a directory, taking a backup when copying and preserving file attributes when copying."
-image = "images/articles/cp.png"
+image = "images/covers/cp.png"
+caption = "The UNIX and Linux cp command"
 slug = "unix-cp"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix cp command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the cp man page][2]
-{.hero}
 
 ## What is the cp command?
 

@@ -1,15 +1,12 @@
 +++
 date = "2016-10-10T01:00:00+00:00"
 description = "Tutorial on using ln, a UNIX and Linux command to make links between files. Examples of creating a hard link, creating a symbolic link, and a broken symbolic link."
-image = "images/articles/ln.png"
+image = "images/covers/ln.png"
+caption = "The UNIX and Linux ln command"
 slug = "unix-ln"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix ln command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the ln man page][2]
-{.hero}
 
 ## What is the ln command in UNIX?
 

@@ -1,15 +1,12 @@
 +++
 date = "2016-07-19T18:16:59+01:00"
 description = "Tutorial on using cut, a UNIX and Linux command for cutting sections from each line of files. Examples of cutting by character, byte position, cutting based on delimiter and how to modify the output delimiter."
-image = "images/articles/cut.png"
+image = "images/covers/cut.png"
+caption = "The UNIX and Linux cut command"
 slug = "unix-cut"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix cut command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the cut man page](/images/articles/cut.png)
-{.hero}
 
 ## What is the cut command in UNIX?
 

@@ -1,15 +1,12 @@
 +++
 date = "2016-08-08T00:00:00+00:00"
 description = "Tutorial on using fold, a UNIX and Linux command for folding long lines for finite widths. Examples of limiting column width, limiting by bytes and wrapping on spaces."
-image = "images/articles/fold.png"
+image = "images/covers/fold.png"
+caption = "The UNIX and Linux fold command"
 slug = "unix-fold"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix fold command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the fold man page][1]
-{.hero}
 
 ## What is the fold command in UNIX?
 

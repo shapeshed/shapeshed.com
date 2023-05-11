@@ -1,16 +1,13 @@
 +++
 date = "2011-03-21T00:00:00+00:00"
 description = "Tutorial on using sort, a UNIX and Linux command for sorting lines of text files. Examples of alphabetical sorting, reverse order sorting, sorting by number and mixed case sorting."
-image = "images/articles/sort.png"
+image = "images/covers/sort.png"
+caption = "The UNIX and Linux sort command"
 lastmod = "2016-07-26T00:00:00+00:00"
 slug = "unix-sort"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix sort command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the sort man page][7]
-{.hero}
 
 [Traducción a Español aquí][8] by [www.ibidemgroup.com][9]
 

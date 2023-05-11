@@ -1,15 +1,12 @@
 +++
 date = "2016-10-17T00:00:00+00:00"
 description = "Tutorial on using kill, a UNIX and Linux command for terminating a process. Examples of killing a process, sending a SIGTERM, listing signal names and numbers, and handling 'operation not permitted' errors."
-image = "images/articles/kill.png"
+image = "images/covers/kill.png"
+caption = "The UNIX and Linux kill command"
 slug = "unix-kill"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix kill command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the kill man page][2]
-{.hero}
 
 ## What is the kill command in UNIX?
 

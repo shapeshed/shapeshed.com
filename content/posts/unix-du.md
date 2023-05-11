@@ -1,15 +1,12 @@
 +++
 date = "2016-09-26T00:00:00+00:00"
 description = "Tutorial on using du, a UNIX and Linux command for estimating file space usage. Examples of showing a disk usage summary, outputting a human readable format, showing the size of a directory and showing the ten largest files or folders on a system."
-image = "images/articles/du.png"
+image = "images/covers/du.png"
+caption = "The UNIX and Linux du command"
 slug = "unix-du"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix du command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the du man page][2]
-{.hero}
 
 ## What is the du command?
 

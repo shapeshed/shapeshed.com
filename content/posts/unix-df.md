@@ -1,15 +1,12 @@
 +++
 date = "2016-09-19T00:00:00+00:00"
 description = "Tutorial on using df, a UNIX and Linux command for reporting file system disk space usage. Examples of viewing free disk space, viewing in human readable format, showing filesystem types and including and excluding specific filesystem types."
-image = "images/articles/df.png"
+image = "images/covers/df.png"
+caption = "The UNIX and Linux df command"
 slug = "unix-df"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix df command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the df man page][2]
-{.hero}
 
 ## What is the df command in UNIX?
 

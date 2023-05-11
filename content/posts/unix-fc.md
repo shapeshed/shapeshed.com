@@ -1,15 +1,12 @@
 +++
 date = "2016-09-28T00:00:00+00:00"
 description = "Tutorial on using fc, a UNIX and Linux command for editing and re-executing commands previously entered into an interactive shell. Examples of editing and re-executing the last command, editing and executing a previous command, setting the text editor to be used, listing previous commands and executing a command without editing it."
-image = "images/articles/fc.png"
+image = "images/covers/fc.png"
+caption = "The UNIX and Linux fc command"
 slug = "unix-fc"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix fc command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the fc man page][2]
-{.hero}
 
 ## What is the fc command?
 

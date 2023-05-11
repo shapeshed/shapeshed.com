@@ -1,15 +1,12 @@
 +++
 date = "2016-09-07T00:00:00+00:00"
 description = "Tutorial on using file, a UNIX and Linux command for determining file types. Examples of a single file, multiple files, viewing mime types and compressed files."
-image = "images/articles/file.png"
+image = "images/covers/file.png"
+caption = "The UNIX and Linux file command"
 slug = "unix-file"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix file command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the file man page][2]
-{.hero}
 
 ## What is the file command in UNIX?
 

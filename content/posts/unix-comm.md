@@ -1,15 +1,12 @@
 +++
 date = "2016-08-10T00:00:00+00:00"
 description = "Tutorial on using comm, a UNIX and Linux command for comparing two sorted files line by line. Examples of showing specific comparisons and ignoring case sensitivity."
-image = "images/articles/comm.png"
+image = "images/covers/comm.png"
+caption = "The UNIX and Linux comm command"
 slug = "unix-comm"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix comm command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the comm man page][1]
-{.hero}
 
 ## What is the comm command in UNIX?
 

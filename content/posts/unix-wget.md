@@ -1,15 +1,12 @@
 +++
 date = "2016-09-16T00:00:00+00:00"
 description = "Tutorial on using wget, a Linux and UNIX command for downloading files from the Internet. Examples of downloading a single file, downloading multiple files, resuming downloads, throttling download speeds and mirroring a remote site."
-image = "images/articles/wget.png"
+image = "images/covers/wget.png"
+caption = "The UNIX and Linux wget command"
 slug = "unix-wget"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix wget command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the wget man page][2]
-{.hero}
 
 ## What is the wget command?
 

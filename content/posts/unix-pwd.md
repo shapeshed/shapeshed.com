@@ -1,15 +1,12 @@
 +++
 date = "2016-09-20T01:00:00+00:00"
 description = "Tutorial on using pwd, a UNIX and Linux command for printing the name of the current working directory. Examples of printing the current working directory, avoiding symlinks and how to get the current working directory in shell scripts."
-image = "images/articles/pwd.png"
+image = "images/covers/pwd.png"
+caption = "The UNIX and Linux pwd command"
 slug = "unix-pwd"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix pwd command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the pwd man page][2]
-{.hero}
 
 ## What is the pwd command in UNIX?
 

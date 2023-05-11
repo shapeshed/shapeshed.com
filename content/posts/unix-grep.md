@@ -1,15 +1,12 @@
 +++
 date = "2016-08-03T00:00:00+00:00"
 description = "Tutorial using grep, a UNIX and Linux command to print lines matching a pattern. Examples of finding text in a file, printing line numbers, counting the number of matches, searching recursively and ignoring case sensitivity."
-image = "images/articles/grep.png"
+image = "images/covers/grep.png"
+caption = "The UNIX and Linux grep command"
 slug = "unix-grep"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix grep command tutorial with examples"
 +++
-
-<!-- prettier-ignore -->
-![A terminal showing the grep man page][2]
-{.hero}
 
 ## What is the grep command in UNIX?
 
