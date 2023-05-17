@@ -7,7 +7,7 @@ title = "HTML5 video for all (well almost)"
 +++
 
 Can't wait? You can view the <a href="/examples/video-for-all/">example here</a>
-or <a href="http://cdn.shapeshed.com/downloads/video-for-all.zip">download</a>
+or <a href="/downloads/video-for-all.zip">download</a>
 it here. Excuse my ugly mug..
 
 ## In-browser video

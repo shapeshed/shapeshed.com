@@ -32,9 +32,9 @@ should be up and running in no time.
 Watch the video below to see it in action.
 
 <video controls>
-  <source src="http://cdn.shapeshed.com/movies/mp4/spiral_multi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
-  <source src="http://cdn.shapeshed.com/movies/ogv/spiral_multi.ogv" type='video/ogg; codecs="theora, vorbis"' />
-  To view this video you need the latest version of <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.mozilla.com/firefox/">Firefox</a> or <a href="http://www.google.com/chrome">Chrome</a>. Alterantively download the videos and watch them offline. <a href="http://cdn.shapeshed.com/movies/mp4/spiral_multi.mp4">Windows / Mac (mp4)</a>, <a href="http://cdn.shapeshed.com/movies/ogv/spiral_multi.ogv">Linux (ogv)</a>
+  <source src="/movies/mp4/spiral_multi.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+  <source src="/movies/ogv/spiral_multi.ogv" type='video/ogg; codecs="theora, vorbis"' />
+  To view this video you need the latest version of <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.mozilla.com/firefox/">Firefox</a> or <a href="http://www.google.com/chrome">Chrome</a>. Alterantively download the videos and watch them offline. <a href="/movies/mp4/spiral_multi.mp4">Windows / Mac (mp4)</a>, <a href="/movies/ogv/spiral_multi.ogv">Linux (ogv)</a>
 </video>
 
 ## Tweaking the result

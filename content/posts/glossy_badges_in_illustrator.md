@@ -66,8 +66,8 @@ the effect. This is a little complex so watch the video below if you are
 struggling. Sorry for the poor video - it is the best I can do at the moment!
 
 <video controls>
-  <source src="http://cdn.shapeshed.com/movies/mp4/opacity_mask.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
-  <source src="http://cdn.shapeshed.com/movies/ogv/opacity_mask.ogv" type='video/ogg; codecs="theora, vorbis"' />
+  <source src="/movies/mp4/opacity_mask.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+  <source src="/movies/ogv/opacity_mask.ogv" type='video/ogg; codecs="theora, vorbis"' />
   To view this video you need the latest version of <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.mozilla.com/firefox/">Firefox</a> or <a href="http://www.google.com/chrome">Chrome</a>. Alterantively download the videos and watch them offline. <a href="/movies/mp4/opacity_mask.mp4">Windows / Mac (mp4)</a>, <a href="/movies/ogv/opacity_mask.ogv">Linux (ogv)</a>
 </video>
 
@@ -79,7 +79,7 @@ That's it - a simple resizable badge in Illustrator. If you haven't got [the
 illustrator file yet you can grab it here][2].
 
 [1]: /images/articles/glossy_badge_final.png
-[2]: http://cdn.shapeshed.com/downloads/glossy_badge.ai
+[2]: /downloads/glossy_badge.ai
 [3]: /images/articles/star_tool_options.jpg
 [4]: /images/articles/scale_options.jpg
 [5]: /images/articles/glossy_button_stage_2.png

@@ -85,6 +85,6 @@ What do you think? Is this a total non-starter or is this worth persuing?
 [5]: http://www.changepeople.co.uk/
 [6]: http://www.symbolworld.org/
 [7]: /examples/inmd/
-[8]: http://cdn.shapeshed.com/downloads/inmd_0.1.zip
+[8]: /downloads/inmd_0.1.zip
 [9]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 [10]: /images/articles/inmd_alpha.jpg

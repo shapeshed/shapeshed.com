@@ -138,5 +138,5 @@ Tested ok on:
 - Mac Opera 9
 
 [1]: /examples/altering-content/
-[2]: http://cdn.shapeshed.com/downloads/altering-content.zip
+[2]: /downloads/altering-content.zip
 [3]: http://simonwillison.net/2004/May/26/addLoadEvent/

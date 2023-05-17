@@ -63,7 +63,7 @@ appearance of you object, you can modify the value of the roundness later on.
 
 Want to work through these examples? [Here's the illustrator file][1]
 
-[1]: http://cdn.shapeshed.com/downloads/curved_edges.ai
+[1]: /downloads/curved_edges.ai
 [2]: /images/articles/star.png
 [3]: /images/articles/rounded_star.png
 [4]: /images/articles/two_stars.png

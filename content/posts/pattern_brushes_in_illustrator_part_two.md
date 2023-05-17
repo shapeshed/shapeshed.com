@@ -36,9 +36,9 @@ corners. To add the shape you have drawn select it and then hold Alt as you drag
 it into the box. Watch the video below to see this in action.
 
 <video controls>
-  <source src="http://cdn.shapeshed.com/movies/mp4/border_movie.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
-  <source src="http://cdn.shapeshed.com/movies/ogv/border_movie.ogv" type='video/ogg; codecs="theora, vorbis"' />
-  To view this video you need the latest version of <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.mozilla.com/firefox/">Firefox</a> or <a href="http://www.google.com/chrome">Chrome</a>. Alterantively download the videos and watch them offline. <a href="http://cdn.shapeshed.com/movies/mp4/border_movie.mp4">Windows / Mac (mp4)</a>, <a href="http://cdn.shapeshed.com/movies/ogv/border_movie.ogv">Linux (ogv)</a>
+  <source src="/movies/mp4/border_movie.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+  <source src="/movies/ogv/border_movie.ogv" type='video/ogg; codecs="theora, vorbis"' />
+  To view this video you need the latest version of <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.mozilla.com/firefox/">Firefox</a> or <a href="http://www.google.com/chrome">Chrome</a>. Alterantively download the videos and watch them offline. <a href="/movies/mp4/border_movie.mp4">Windows / Mac (mp4)</a>, <a href="/movies/ogv/border_movie.ogv">Linux (ogv)</a>
 </video>
 
 If you drag it in and a new brush is created then you have not pressed ALT. You

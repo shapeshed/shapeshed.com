@@ -163,4 +163,4 @@ to wait...
 [2]: /examples/drop-shadows-css/
 [3]: /images/articles/drop_shadow.jpg
 [4]: /images/fitzroy.jpg
-[5]: http://cdn.shapeshed.com/downloads/drop-shadows-css.zip
+[5]: /downloads/drop-shadows-css.zip
