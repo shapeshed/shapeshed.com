@@ -114,7 +114,7 @@ Juan Manuel Lemus has kindly [translated this article][10] into Spanish. Thanks
 Juan!
 
 [1]: /examples/site-navigation-in-css-and-xhtml
-[2]: http://cdn.shapeshed.com/downloads/site_navigation_in_css_and_xhtml.zip
+[2]: /downloads/site_navigation_in_css_and_xhtml.zip
 [3]: / "Return to the Home Page"
 [4]: /
 [5]: /about-us

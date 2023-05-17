@@ -90,7 +90,7 @@ Another bonus of symbols is that the more you work the more you will build up a
 library of symbols allowing you re-use symbols on projects and save time. Maybe
 you could go and lie on the beach instead...
 
-[1]: http://cdn.shapeshed.com/downloads/symbols.ai
+[1]: /downloads/symbols.ai
 [2]: /images/articles/symbol_final.png
 [3]: /images/articles/symbols_1.png
 [4]: /images/articles/symbols_2.png

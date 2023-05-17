@@ -123,5 +123,5 @@ following:
 - Mac Opera 9
 
 [1]: /examples/creating-content/
-[2]: http://cdn.shapeshed.com/downloads/creating-content.zip
+[2]: /downloads/creating-content.zip
 [4]: http://simonwillison.net/2004/May/26/addLoadEvent/

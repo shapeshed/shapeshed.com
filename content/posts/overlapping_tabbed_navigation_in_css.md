@@ -137,5 +137,5 @@ given.
 [5]: about/index.html
 [6]: services/index.html
 [7]: contact/index.html
-[8]: http://cdn.shapeshed.com/downloads/overlapping-tabs-v1.0.zip
+[8]: /downloads/overlapping-tabs-v1.0.zip
 [9]: http://creativecommons.org/licenses/by/2.0/uk/

@@ -55,6 +55,6 @@ below:
 [3]: /images/articles/warp_and_circle.jpg
 [4]: /images/articles/twirl_tool_options.jpg
 [5]: /images/articles/multiple_twirl_shapes.jpg
-[6]: http://cdn.shapeshed.com/downloads/twirl_wallpaper/800x600.png
-[7]: http://cdn.shapeshed.com/downloads/twirl_wallpaper/1024x768.png
-[8]: http://cdn.shapeshed.com/downloads/twirl_wallpaper/1400x900.png
+[6]: /downloads/twirl_wallpaper/800x600.png
+[7]: /downloads/twirl_wallpaper/1024x768.png
+[8]: /downloads/twirl_wallpaper/1400x900.png

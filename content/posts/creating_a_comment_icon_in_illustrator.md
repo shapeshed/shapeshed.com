@@ -62,4 +62,4 @@ yourself?
 [3]: /images/articles/comment_stage_2.png
 [4]: /images/articles/comment_stage_3.png
 [5]: /images/articles/comment_stage_6.png
-[6]: http://cdn.shapeshed.com/downloads/comment_icon.ai
+[6]: /downloads/comment_icon.ai

@@ -63,7 +63,7 @@ effects in Illustrator.
 
 If you haven't yet got a copy of the illustrator file you can [get it here.][1]
 
-[1]: http://cdn.shapeshed.com/downloads/opacity_mask.ai
+[1]: /downloads/opacity_mask.ai
 [2]: /images/articles/with_mask.png
 [3]: /images/articles/base_circle.png
 [4]: /images/articles/highlight.png
