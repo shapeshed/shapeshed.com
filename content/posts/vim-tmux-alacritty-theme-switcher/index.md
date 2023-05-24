@@ -1,5 +1,5 @@
 +++
-date = "2023-05-23T00:00:00+00:00"
+date = "2023-05-24T00:00:00+00:00"
 description = "A tale of wanting nice things on Linux for Vim, Tmux and Alacritty and how it ended in a filthy shell script."
 slug = "vim-tmux-alacritty-theme-switcher"
 caption = "Toggling dark and light mode on Vim, Tmux, Allacrity and Firefox"
