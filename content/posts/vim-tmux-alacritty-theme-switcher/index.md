@@ -187,38 +187,42 @@ really don't want to be doing this. If you think you can improve this, or know a
 better way [send me a PR][11]. I'd love to delete this post.
 
 ```sh
-#!/usr/bin/env sh
-# Theme switch for firefox, tmux, alacritty and (neo)vim.
+#!/bin/sh
+# Toggle dark and light themes for firefox, tmux, alacritty,
+# and (neo)vim. Either run it from a shell or add a keybinding
+# in tmux / alacritty
 
-LIGHTTHEME=catppuccin-latte
-DARKTHEME=catppuccin-mocha
-VIMCONF=${XDG_CONFIG_HOME}/nvim/lua/config/set.lua
-ALACRITTYCONF=${XDG_CONFIG_HOME}/alacritty/alacritty.yml
-TMUXCONF=${XDG_CONFIG_HOME}/tmux/tmux.conf
+LIGHTTHEME="catppuccin-latte"
+DARKTHEME="catppuccin-mocha"
+VIMCONF="${XDG_CONFIG_HOME}/nvim/lua/config/set.lua"
+ALACRITTYCONF="${XDG_CONFIG_HOME}/alacritty/alacritty.yml"
+TMUXCONF="${XDG_CONFIG_HOME}/tmux/tmux.conf"
+CURRENT_MODE=$(gsettings get org.gnome.desktop.interface color-scheme)
 
-if [ "$1" = "light" ]; then
+# Function to switch theme in n(v)im panes inside tmux
+switch_vim_theme() {
+  theme_for_vim_panes="$1"
+  tmux list-panes -a -F '#{pane_id} #{pane_current_command}' |
+    grep vim | # this captures vim and nvim
+    cut -d ' ' -f 1 |
+    xargs -I PANE tmux send-keys -t PANE ESCAPE \
+      ":set background=${theme_for_vim_panes}" ENTER
+}
+
+# Toggle logic based on current mode
+if [ "$CURRENT_MODE" = "'prefer-dark'" ]; then
   gsettings set org.gnome.desktop.interface color-scheme 'prefer-light'
-  sed -i 's/'"$DARKTHEME"'/'"$LIGHTTHEME"'/' "$ALACRITTYCONF"
-  sed -i 's/'"$DARKTHEME"'/'"$LIGHTTHEME"'/' "$TMUXCONF"
+  sed -i "s/${DARKTHEME}/${LIGHTTHEME}/" "$ALACRITTYCONF" "$TMUXCONF"
   sed -i 's/dark/light/' "$VIMCONF"
-  tmux list-panes -a -F '#{pane_id} #{pane_current_command}' |
-    grep vim |
-    cut -d ' ' -f 1 |
-    xargs -I PANE tmux send-keys -t PANE ESCAPE ":set background=light" ENTER
-fi
-
-if [ "$1" = "dark" ]; then
+  switch_vim_theme "light"
+else
   gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-  sed -i 's/'"$LIGHTTHEME"'/'"$DARKTHEME"'/' "$ALACRITTYCONF"
-  sed -i 's/'"$LIGHTTHEME"'/'"$DARKTHEME"'/' "$TMUXCONF"
+  sed -i "s/${LIGHTTHEME}/${DARKTHEME}/" "$ALACRITTYCONF" "$TMUXCONF"
   sed -i 's/light/dark/' "$VIMCONF"
-  tmux list-panes -a -F '#{pane_id} #{pane_current_command}' |
-    grep vim |
-    cut -d ' ' -f 1 |
-    xargs -I PANE tmux send-keys -t PANE ESCAPE ":set background=dark" ENTER
+  switch_vim_theme "dark"
 fi
 
-tmux source-file $TMUXCONF
+tmux source-file "$TMUXCONF"
 ```
 
 ## Conclusion
