@@ -2,7 +2,7 @@
 date = "2016-10-03T00:00:00+00:00"
 description = "Tutorial on using tail, a UNIX and Linux command for outputting the last part of files. Examples of outputting the last ten lines of a file, limiting the number of lines, limiting the number of bytes, showing multiple files, watching a file for changes and using pipes."
 image = "images/covers/tail.png"
-caption = "The UNIX and Linux sort command"
+caption = "The UNIX and Linux tail command"
 slug = "unix-tail"
 tags = ["UNIX", "Linux"]
 title = "Linux and Unix tail command tutorial with examples"
@@ -49,7 +49,7 @@ Zzz
 
 To limit the number of bytes shown with `tail` pass the `-c` option. Instead of
 limiting by number of lines this will limit by the number of bytes passed to the
-`-c` option. In the following example the output is limited to 16 bytes.
+`-c` option. In the following example the output is limited to 24 bytes.
 
 ```sh
 tail -c 24 /usr/share/dict/words
@@ -77,9 +77,7 @@ Zyrtec's
 Zyuganov
 Zyuganov's
 Zzz
-```
 
-```sh
 ==> /usr/share/dict/french <==
 zoos
 zouave
@@ -125,7 +123,7 @@ zézayer
 To watch a file for changes with the `tail` command pass the `-f` option. This
 will show the last ten lines of a file and will update when new lines are added.
 This is commonly used to watch log files in real-time. As new lines are written
-to the log the console will update will new lines.
+to the log the console will update with new lines.
 
 ```sh
 tail -f /var/log/nginx/access.log
@@ -137,15 +135,13 @@ Newer versions of `tail` also support watching multiple files. As the file
 updates a header will show which line the update is from.
 
 ```sh
-tail -f /var/log/nginx/access.log /var/log/nginx/access.log
+tail -f /var/log/nginx/access.log /var/log/nginx/error.log
 ```
 
 ```sh
 ==> /var/log/nginx/access.log <==
 173.169.79.32 - - [03/Oct/2016:21:23:09 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 162 "-" "Safari/11601.7.7 CFNetwork/760.6.3 Darwin/15.6.0 (x86_64)"
-```
 
-```sh
 ==> /var/log/nginx/error.log <==
 2016/10/03 21:23:53 [error] 30632#30632: *1737 access forbidden by rule, client: 216.137.60.86, server: shapeshed.com, request: "GET /wp-login.php HTTP/1.1", host: "shapeshed.com"
 ```
