@@ -10,15 +10,18 @@ title = "How to fix a corrupt zsh history file"
 
 ## Corrupt ZSH history file
 
-If you use [`zsh`][1] for your shell very occasionally you may find the
-following message appearing indicating a corrupt history file.
+If you use [`zsh`][1] for your shell, very occasionally you may find the
+following message appearing indicating a corrupt history file. This may be due to the existence of [**non-printable** or **control characters**][2] that can interfere with the shell's ability to *read* and *process* the history file correctly.
+Not bad on their own, *Controls characters* or *non-printable characters*, are simply characters that don't have a visible representation on the screen and often serve special functions in how text is displayed or processed.
 
 ```sh
 zsh: corrupt history file /home/go/.zsh_history
 ```
 
 This prevents searching back through the history with `CTRL+R` and editing
-previous commands with [`fc`][2].
+previous commands with [`fc`][3].
+
+So how can we fix this ?
 
 ## How to fix it
 
@@ -35,21 +38,23 @@ rm ~/.zsh_history_bad
 
 ### What's happening?
 
-- The `zsh_history` file gets corrupted somehow and the shell is unable to read
+- The `zsh_history` file got corrupted somehow and the shell is unable to read
   it.
-- The corrupted file is moved to a new file `zsh_history_bad`.
-- The `strings` command is used to extract strings (or text) from the
-  `zsh_history_bad` file and the output is written to a new file `zsh_history`.
+- Typically, the *Zsh history* file is located at `~/.zsh_history` within the home directory (represented as `~` in Linux). To navigate to this directory, we use the cd command: `cd ~`.
+- The corrupted file, `.zsh_history` is renamed into a new file `zsh_history_bad` using the `mv` command: `mv .zsh_history .zsh_history_bad`.
+- The `strings` command is used to specifically extract printable characters from a file thus filtering out the garbage that might be causing the issue from the
+  `zsh_history_bad` file. Using the redirection operator `>`, the output of the `string` command is redirected to a new file `zsh_history` which will be created automatically as a result of the command.
 - The zsh builtin command `fc` is used to read the history from the fixed
   `zsh_history` file.
-- Finally the corrupted file `zsh_history_file` can be removed.
+- At this point, we should have a clean `zsh_history` file 
+- Finally the corrupted file `zsh_history_file` can be removed with the `rm` command.
 - All done!
 
 ## Making it a script
 
 Once this happened more than twice I made a script to save some typing. The
 following is saved in my `~/bin` folder as `zsh_history_fix` and this folder [is
-in my `$PATH`][3].
+in my `$PATH`][4].
 
 ```sh
 #!/usr/bin/env zsh
@@ -71,7 +76,7 @@ get back to work.
 zsh_history_fix
 ```
 
-If you'd like the script you can download it [from Github][4], put it somewhere
+If you'd like the script you can download it [from Github][5], put it somewhere
 in your `$PATH` and make it executable.
 
 ```sh
@@ -81,8 +86,9 @@ chmod +x zsh_history_fix
 source ~/.zshrc
 ```
 
+
 [1]: http://www.zsh.org/
-[2]: https://shapeshed.com/unix-fc/
-[3]: https://shapeshed.com/using-custom-shell-scripts-on-osx-or-linux/
-[4]:
-  https://raw.githubusercontent.com/shapeshed/dotfiles/master/bin/zsh_history_fix
+[2]: https://www.techopedia.com/definition/29785/non-printable-characters
+[3]: https://shapeshed.com/unix-fc/
+[4]: https://shapeshed.com/using-custom-shell-scripts-on-osx-or-linux/
+[5]: https://shapeshed.com/using-custom-shell-scripts-on-osx-or-linux/
